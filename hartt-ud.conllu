@@ -1,3 +1,16 @@
+# sent_id = Hartt1938:0:0:1
+# text = Asú amupiririka se mantega.
+# text_eng = I'm going to fry my butter.
+# text_por = Vou frigir minha manteiga.
+# text_source = p. 319, No. 1
+# text_orig = hasó hompyryrik se mantéga.
+# text_annotator = DMA
+1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
+2	amupiririka	mupiririka	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:15
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=16:18
+4	mantega	mantega	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=19:26
+5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=26:27
+
 # sent_id = Hartt1938:0:0:2
 # text = Asú amuí imirá jí irũ.
 # text_eng = I'm going to split the log with an axe.
@@ -12,3 +25,83 @@
 4	jí	jí	NOUN	N	Number=Sing	2	obl	_	TokenRange=15:17
 5	irũ	irũ	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=18:21
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=21:22
+
+# sent_id = Hartt1938:0:0:3
+# text = Amumarandúa-putari se kamarara-itá.
+# text_eng = I want to invite my companions.
+# text_por = Quero convidar meus companheiros.
+# text_source = p. 319, No. 3
+# text_orig = xamumuranú putar se kamarára itá.
+# text_annotator = DMA
+1-2	Amumarandúa-putari	_	_	_	_	_	_	_	TokenRange=0:18
+1	Amumarandúa	amumarandúa	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
+2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=20:22
+4	kamarara-itá	kamarara	NOUN	N	Number=Plur	1	obj	_	SpaceAfter=No|TokenRange=23:35
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=35:36
+
+# sent_id = Hartt1938:0:0:4
+# text = Remumbawa ana será ne purakisawa?
+# text_eng = Have you finished your work yet?
+# text_por = Já acabaste teu serviço?
+# text_source = p. 319, No. 4
+# text_orig = remumáu uán será nepuraukysáua?
+# text_annotator = DMA
+1	Remumbawa	mumbawa	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:9
+2	ana	ana	PART	PFV	Aspect=Perf	1	advmod	_	TokenRange=10:13
+3	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=14:18
+4	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=19:21
+5	purakisawa	purakisawa	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=22:32
+6	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=32:33
+
+# sent_id = Hartt1938:0:0:6
+# text = Rerikú será sapukaya rupiá?
+# text_eng = Do you have chicken eggs?
+# text_por = Tens ovos de galinha?
+# text_source = p. 319, No. 6
+# text_orig = rerekó será sapukáia rupiá?
+# text_annotator = DMA
+1	Rerikú	rikú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
+3	sapukaya	sapukaya	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=12:20
+4	rupiá	supiá	NOUN	N	Number=Sing|Rel=Cont	1	obj	_	SpaceAfter=No|TokenRange=21:26
+5	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
+
+# sent_id = Hartt1938:0:0:7
+# text = Intí asendú katú.
+# text_eng = I can't hear well.
+# text_por = Não ouço bem.
+# text_source = p. 319, No. 7
+# text_orig = intí xasenú katú.
+# text_annotator = DMA
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
+2	asendú	sendú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=5:11
+3	katú	katú	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=12:16
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
+
+# sent_id = Hartt1938:0:0:8
+# text = Repurú ne kiwawa ixé.
+# text_eng = Lend me your comb.
+# text_por = Empresta-me teu pente.
+# text_source = p. 319, No. 8
+# text_orig = epurú né kynáua ixéu.
+# text_annotator = DMA
+1	Repurú	purú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	TokenRange=7:9
+3	kiwawa	kiwawa	NOUN	N	Number=Sing	1	obj	_	TokenRange=10:16
+4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=17:20
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
+
+# sent_id = Hartt1938:0:0:9
+# text = Repurú ne kisé ixé.
+# text_eng = Lend me your knife.
+# text_por = Empresta-me tua faca.
+# text_source = p. 319, No. 9
+# text_orig = epurú nekysé ixé(ixéu).
+# text_annotator = DMA
+1	Repurú	purú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=7:9
+3	kisé	kisé	NOUN	N	Number=Sing	1	obj	_	TokenRange=10:14
+4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=15:18
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=18:19
+
