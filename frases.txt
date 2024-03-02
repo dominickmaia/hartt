@@ -1,7 +1,7 @@
 p. 319
 
 1 - hasó hompyryrik se mantéga.
-1 - Asú amupiririka se mantega. (Hartt, 319, adap.)
+1 - Asú amupiririka se mantega.
 1 - vou frigir minha manteiga.
 
 2 - xasó xamuí ymyrá yí irúm.
@@ -55,7 +55,7 @@ p. 320
 13 - o cachorro está ladrando para a mulher.
 
 14 - intí xasenú.
-14 -
+14 - Intí asendú.
 14 - não ouço, não ouvi.
 
 15 - xasykená okéna.
@@ -63,7 +63,7 @@ p. 320
 15 - eu fecho a janela.
 
 16 - ekoin esykená ñaá kauasú yurú.
-16 -
+16 - Rekũi resikindawa nhaã kawasú yurú.
 16 - vai tampar a boca do balde.
 
 17 - ixé intí nerasó kuáu.
@@ -71,7 +71,7 @@ p. 320
 17 - não posso te levar.
 
 18 - muyr taé uaruá?
-18 -
+18 - Muíri taá waruá?
 18 - quanto custa o espelho?
 
 19 - intí maé oerúr ixéu.
