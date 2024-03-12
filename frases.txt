@@ -125,11 +125,11 @@ p. 321
 30 - tenho bons ouvidos, ouço bem.
 
 31 - rekuáu sera tenáua máme xauasém kuáu sapukáia rupiá?
-31 -
+31 - Rekwáu será tendawa mamé awasemu kwáu sapukaya rupiá?
 31 - sabes de um lugar aonde possa achar ovos de galinha?
 
 32 - amuitá orasó uán né maitá ne suí.
-32 -
+32 - Amu-itá urasú ana ne maã-itá ne suí.
 32 - os outros já levaram tuas cousas de ti.
 
 33 - sapukáia apyáua oñeenar.
@@ -141,7 +141,7 @@ p. 321
 34 - estou ralando gengibre.
 
 35 - semoapysy.
-35 -
+35 - Se muapisí.
 35 - estou satisfeito.
 
 36 - ñaá kuñán omukuatiar kuáu kúya.
@@ -149,45 +149,45 @@ p. 321
 36 - aquela mulher sabe pintar cuias.
 
 37 - semymyra oyauáu sesuí.
-37 -
+37 - Se mimbira uyawáu se suí.
 37 - meu filho (filha) fugiu de mim (mulher que fala).
 
 38 - serayra oyauáu oiko.
-38 -
+38 - Se raíra uyawáu uikú.
 38 - meu filho está fugido.
 
 p. 322
 
 39 - intí setá xareko.
-39 -
+39 - Intí setá arikú.
 39 - não tenho bastante.
 
 40 - ixé xamonó amú osú omopók nesuí nekamutí.
-40 -
+40 - Ixé amundú amú usú umupuka ne suí ne kamutí. (Hartt, 322, adap.) - Eu mando outro ir quebrar-te o teu pote.
 40 - mando um outro ir quebrar teu pote.
 
 41 - maé yasy taé kuaé?
-41 -
+41 - Maã yasí taá kwá?
 41 - em que mês estamos?
 
 42 - kuaé ymyrá saimé ipiréra.
-42 -
+42 - Kwá mirá saimbé i pirera. (Hartt, 322, adap.) - A casca deste pau é áspera.
 42 - a casca deste pau é áspera.
 
 43 - itá isym teré.
-43 -
+43 - Itá isima reté.
 43 - a pedra é lisa.
 
 44 - yuá imembék reté.
-44 -
+44 - Iwá i membeka reté. (Hartt, 322, adap.) - A fruta é muito mole.
 44 - a fruta é muito mole.
 
 45 - maéirúm.
-45 -
+45 - Maã irũmu.
 45 - com que.
 
 46 - kuaa nerekó intí ikatú.
-46 -
+46 - Kwaá ne rikú ti i katú. (Hartt, 322, adap.) - Esta tua moda não está boa.
 46 - esta tua moda não está boa.
 
 47 - máme taé né roka?
@@ -195,11 +195,11 @@ p. 322
 47 - onde está tua casa?
 
 48 - xasó rañé apytuú.
-48 -
+48 - Asú rẽ apituú (Hartt, 322, adap.) - Deixe-me ir descansar.
 48 - deixe-me ir descansar.
 
 49 - maá sekysé? aikoré múme itá árpe.
-49 -
+49 - Mamé taá se kisé? Uikú mimi itá árupi.
 49 - onde está minha faca? lá está em cima da pedra.
 
 50 - sesé pirera rôa.
@@ -207,49 +207,49 @@ p. 322
 50 - Pestana.
 
 51 - neresapóra néana.
-51 -
+51 - 
 51 - a menina(a sombra) de teu olho.
 
 52 - karíua itá maramuñan oikó tapya itá irúm.
-52 -
+52 - Kariwa-itá umaramunha uikú tapuya-itá irumu. (Hartt, 322, adap.) - Os brancos estão fazendo guerra com os tapuias.
 52 - os brancos estão fazendo guerra com os tapuias.
 
 p. 323
 
 53 - o! serayra.
-53 -
+53 - oh! se raíra.
 53 - oh! meu filho(pai que fala).
 
 54 - intí rako yaué.
-54 -
+54 - Intí rakú yawé.
 54 - não foi assim.
 
 55 - iné taé mae kyty reiko?
-55 -
+55 - 
 55 - de que partido estão?
 
 56 - ixé yané réia kyty xaiko.
-56 -
+56 - Ixé yané riiya kití aikú. (Hartt, 323, adap.) - Estou do nosso partido (Cabano).
 56 - estou de nosso partido(Cabano).
 
 57 - ymyrá yeémui.
-57 -
+57 - Imirá yumuí.
 57 - o pau está se abrindo.
 
 58 - kuae tayna iyurú yumuí.
-58 -
+58 - Kwaá taína i yurú uyumbuí. (Hartt, 323, adap.) - Essa criança tem a boca partida.
 58 - aquela criança tem a boca partida.
 
 59 - xasapy sepó.
-59 -
+59 - Asapí se pú.
 59 - queimei minha mão.
 
 60 - ñaá apyáua oréko suy katú.
-60 -
+60 - Nhaã apigawa urikú suwí katú. (Hartt, 323, adap.) - Aquele homem tem sangue puro.
 60 - aquele homem é de sangue puro(bom).
 
 61 - yupukuáu reté kuaé tapyra kaauaira.
-61 -
+61 - Uyupukwáu reté kwaá tapiira kaawara. (Hartt, 323, adap.) - Essa anta está muito mansa.
 61 - aquela anta está muito mansa.
 
 62 - esenóin kurumí ixéu.
@@ -261,11 +261,11 @@ p. 323
 63 - a mãe beijou seu filho.
 
 64 - ixé xapytér kuae kuñántain yurú.
-64 -
+64 - Ixé apitera kwaá kunhatãi yurú. (Hartt, 323, adap.) - Eu beijei a boca dessa menina.
 64 - dei um beijo à menina.
 
 65 - apyáua opuam oikó.
-65 -
+65 - Apigawa upuãmu uikú. (Hartt, 323, adap.) - O homem está de pé.
 65 - o homem está em pé.
 
 66 - xaikó rañé seramúña itá rekó yaué.
