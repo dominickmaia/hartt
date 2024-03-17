@@ -186,3 +186,380 @@
 3	waruá	waruá	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=10:15
 4	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16
 
+# sent_id = Hartt1938:0:0:19
+# text = Intí aé ururi ixé.
+# text_eng = He didn't bring me anything.
+# text_por = Ele não trouxe nada para mim.
+# text_source = p. 320, No. 19
+# text_orig = intí maé oerúr ixéu.
+# text_annotator = DMA
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=0:4
+2	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=5:7
+3	ururi	ruri	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=8:13
+4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	3	obj	_	SpaceAfter=No|TokenRange=14:17
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=17:18
+
+# sent_id = Hartt1938:0:0:20
+# text = Mundawasú uyawáu.
+# text_eng = The thief fled.
+# text_por = O ladrão fugiu.
+# text_source = p. 320, No. 20
+# text_orig = muná uasú oyanáu.
+# text_annotator = DMA
+1	Mundawasú	mundawasú	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:9
+2	uyawáu	yawáu	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=10:16
+3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
+
+# sent_id = Hartt1938:0:0:21
+# text = Asetuna reté, i katú reté se tĩ.
+# text_eng = I smell good, my nose is very good.
+# text_por = Eu cheiro bem, meu nariz é muito bom.
+# text_source = p. 320, No. 21
+# text_orig = xasetún reté, ikatú reté setíu.
+# text_annotator = DMA
+1	Asetuna	setuna	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	SpaceAfter=No|TokenRange=8:12
+3	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=12:13
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	expl	_	TokenRange=14:15
+5	katú	katú	VERB	A2	_	1	parataxis	_	TokenRange=16:20
+6	reté	reté	ADV	ADVS	AdvType=Deg	5	advmod	_	TokenRange=21:25
+7	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=26:28
+8	tĩ	tĩ	NOUN	N	Number=Sing	5	nsubj	_	SpaceAfter=No|TokenRange=29:31
+9	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=31:32
+
+# sent_id = Hartt1938:0:0:22
+# text = Makití taá aintá usú?
+# text_eng = Where did they go?
+# text_por = Para onde eles foram?
+# text_source = p. 320, No. 22
+# text_orig = makyty tá (ou tae) entá (ou aintá) osó?
+# text_annotator = DMA
+1	Makití	makití	ADV	ADVRC	AdvType=Loc|PronType=Int	4	advmod	_	TokenRange=0:6
+2	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=7:10
+3	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TokenRange=11:16
+4	usú	sú	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=17:20
+5	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=20:21
+
+# sent_id = Hartt1938:0:0:23
+# text = Repirari aé ukena!
+# text_eng = Open that door!
+# text_por = Abre aquela porta!
+# text_source = p. 320, No. 23
+# text_orig = epirár ñaé okéna!
+# text_annotator = DMA
+1	Repirari	pirari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:8
+2	aé	aé	DET	DEMSN	Deixis=Remt|PronType=Dem	3	det	_	TokenRange=9:11
+3	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=12:17
+4	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=17:18
+
+# sent_id = Hartt1938:0:0:24
+# text = Repirari ukena!
+# text_eng = Open the door!
+# text_por = Abre a porta!
+# text_source = p. 320, No. 24
+# text_orig = epirár okéna!
+# text_annotator = DMA
+1	Repirari	pirari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:8
+2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=9:14
+3	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=14:15
+
+# sent_id = Hartt1938:0:0:25
+# text = Indé repitá iké, ixé asú rẽ.
+# text_eng = Stay here, I'll go.
+# text_por = Fique aqui, eu hei de ir.
+# text_source = p. 321, No. 25
+# text_orig = iné repytá iké, ixé xasó raén.
+# text_annotator = DMA
+1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:4
+2	repitá	pitá	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:11
+3	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	SpaceAfter=No|TokenRange=12:15
+4	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=15:16
+5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=17:20
+6	asú	sú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	2	parataxis	_	TokenRange=21:24
+7	rẽ	rẽ	PART	IMPF	_	6	advmod	_	SpaceAfter=No|TokenRange=25:27
+8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=27:28
+
+# sent_id = Hartt1938:0:0:26
+# text = Se raíra mirĩ i pawasawa ana kwá.
+# text_eng = This is my last daughter.
+# text_por = Essa é minha última filha.
+# text_source = p. 321, No. 26
+# text_orig = serayra mirí ipausáua uán kuaé.
+# text_annotator = DMA
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	5	nsubj	_	TokenRange=3:8
+3	mirĩ	mirĩ	ADJ	A	_	2	amod	_	TokenRange=9:13
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	expl	_	TokenRange=14:15
+5	pawasawa	pawasawa	NOUN	N	_	0	root	_	TokenRange=16:24
+6	ana	ana	PART	PFV	Aspect=Perf	7	advmod	_	TokenRange=25:28
+7	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	5	advmod	_	SpaceAfter=No|TokenRange=29:32
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=32:33
+
+# sent_id = Hartt1938:0:0:27
+# text = Maã upitá kwá intí kwá rerasú-kwáu ixé arasú se kupé-pe.
+# text_eng = What remains that you cannot take, I will take on my back.
+# text_por = O que fica que tu não podes levar, hei de levar nas costas.
+# text_source = p. 321, No. 27
+# text_orig = maé opytá uaé intí uaé rerasó kuáu ixé xarasó sekupépe.
+# text_annotator = DMA
+1	Maã	maã	PRON	RELF	PronType=Rel	2	obj	_	TokenRange=0:3
+2	upitá	pitá	VERB	V	Person=3|VerbForm=Fin	9	advcl	_	TokenRange=4:9
+3	kwá	kwá	PRON	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	obj	_	TokenRange=10:13
+4	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	6	advmod	_	TokenRange=14:18
+5	kwá	kwá	PRON	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	6	nsubj	_	TokenRange=19:22
+6-7	rerasú-kwáu	_	_	_	_	_	_	_	TokenRange=23:34
+6	rerasú	rasú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	_
+7	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	6	aux	_	_
+8	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	TokenRange=36:39
+9	arasú	rasú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=40:45
+10	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=46:48
+11-12	kupé-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=49:57
+11	kupé	kupé	NOUN	N	Number=Sing	9	obl	_	_
+12	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	11	case	_	_
+13	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=58:59
+
+# sent_id = Hartt1938:0:0:28
+# text = Mamé taá ne retama?
+# text_eng = Where is your land?
+# text_por = Onde é tua terra?
+# text_source = p. 321, No. 28
+# text_orig = máme taá neretama?
+# text_annotator = DMA
+1	Mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	4	advmod	_	TokenRange=0:4
+2	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=5:8
+3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=9:11
+4	retama	tetama	NOUN	N	Number=Sing|Rel=Cont	0	root	_	SpaceAfter=No|TokenRange=12:18
+5	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=18:19
+
+# sent_id = Hartt1938:0:0:29
+# text = Sakwena reté kwá putira.
+# text_eng = This flower smells good.
+# text_por = essa flor cheira bem.
+# text_source = p. 321, No. 29
+# text_orig = seakuem reté kuá potyra.
+# text_annotator = DMA
+1	Sakwena	sakwena	ADJ	A	_	0	root	_	TokenRange=0:7
+2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=8:12
+3	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	TokenRange=13:16
+4	putira	putira	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=17:23
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=23:24
+
+# sent_id = Hartt1938:0:0:30
+# text = Ixé se apisá katú arikú asendú katú.
+# text_eng = I have good ears, I hear well.
+# text_por = Tenho bons ouvidos, ouço bem.
+# text_source = p. 321, No. 30
+# text_orig = ixé seapysá katú xareko xasenú katú.
+# text_annotator = DMA
+1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=0:3
+2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
+3	apisá	apisá	NOUN	N	Number=Sing	5	obj	_	TokenRange=7:12
+4	katú	katú	ADJ	A	_	3	amod	_	TokenRange=13:17
+5	arikú	rikú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=18:23
+6	asendú	sendú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	5	parataxis	_	TokenRange=24:30
+7	katú	katú	ADV	ADVS	AdvType=Deg	6	advmod	_	SpaceAfter=No|TokenRange=31:35
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=35:36
+
+# sent_id = Hartt1938:0:0:31
+# text = Rekwáu será tendawa mamé awasemu kwáu sapukaya rupiá?
+# text_eng = Do you know of a place where I can find chicken eggs?
+# text_por = Sabes de um lugar aonde possa achar ovos de galinha?
+# text_source = p. 321, No. 31
+# text_orig = rekuáu sera tenáua máme xauasém kuáu sapukáia rupiá?
+# text_annotator = DMA
+1	Rekwáu	kwáu	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
+3	tendawa	tendawa	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	TokenRange=12:19
+4	mamé	mamé	ADV	ADVLC	AdvType=Loc|PronType=Rel	5	advmod	_	TokenRange=20:24
+5	awasemu	wasemu	VERB	V	Number=Sing|Person=1|VerbForm=Fin	3	acl:relcl	_	TokenRange=25:32
+6	kwáu	kwáu	AUX	AUXN	VerbForm=Inf	5	aux	_	TokenRange=33:37
+7	sapukaya	sapukaya	NOUN	N	Number=Sing	8	nmod:poss	_	TokenRange=38:46
+8	rupiá	supiá	NOUN	N	Number=Sing|Rel=Cont	5	obj	_	SpaceAfter=No|TokenRange=47:52
+9	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=52:53
+
+# sent_id = Hartt1938:0:0:32
+# text = Amu-itá urasú ana ne maã-itá ne suí.
+# text_eng = The others have already taken your things from you.
+# text_por = Os outros já levaram tuas cousas de ti.
+# text_source = p. 321, No. 32
+# text_orig = amuitá orasó uán né maitá ne suí.
+# text_annotator = DMA
+1	Amu-itá	amu-itá	NOUN	N	_	2	nsubj	_	TokenRange=0:7
+2	urasú	rasú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=8:13
+3	ana	ana	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=14:17
+4	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=18:20
+5	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=21:28
+6	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	obl	_	TokenRange=29:31
+7	suí	suí	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=32:35
+8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=35:36
+
+# sent_id = Hartt1938:0:0:34
+# text = Akitika aikú mangarataya.
+# text_eng = I'm grating ginger.
+# text_por = Estou ralando gengibre.
+# text_source = p. 321, No. 34
+# text_orig = xakytyg xaikó manratáia.
+# text_annotator = DMA
+1	Akitika	kitika	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	aikú	ikú	AUX	AUXFS	Number=Sing|Person=1|VerbForm=Fin	1	aux	_	TokenRange=8:12
+3	mangarataya	mangarataya	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=13:24
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=24:25
+
+# sent_id = Hartt1938:0:0:35
+# text = Se muapisí.
+# text_eng = I am satisfied.
+# text_por = Estou satisfeito.
+# text_source = p. 321, No. 35
+# text_orig = semoapysy.
+# text_annotator = DMA
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	muapisí	muapisí	VERB	A2	_	0	root	_	SpaceAfter=No|TokenRange=3:10
+3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=10:11
+
+# sent_id = Hartt1938:0:0:36
+# text = Nhaã kunhã umukwatiári-kwáu kuya.
+# text_eng = That woman knows how to paint gourds.
+# text_por = Aquela mulher sabe pintar cuias.
+# text_source = p. 321, No. 36
+# text_orig = ñaá kuñán omukuatiar kuáu kúya.
+# text_annotator = DMA
+1	Nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
+2	kunhã	kunhã	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=5:10
+3-4	umukwatiári-kwáu	_	_	_	_	_	_	_	TokenRange=11:27
+3	umukwatiári	mukwatiári	VERB	V	_	0	root	_	_
+4	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	3	aux	_	_
+5	kuya	kuya	NOUN	N	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=29:33
+6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=33:34
+
+# sent_id = Hartt1938:0:0:37
+# text = Se mimbira uyawáu se suí.
+# text_eng = My son ran away from me
+# text_por = Meu filho fugiu de mim
+# text_source = p. 321, No. 37
+# text_orig = semymyra oyauáu sesuí.
+# text_annotator = DMA
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	mimbira	mimbira	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=3:10
+3	uyawáu	yawáu	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=11:17
+4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	obl	_	TokenRange=18:20
+5	suí	suí	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=21:24
+6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=24:25
+
+# sent_id = Hartt1938:0:0:38
+# text = Se raíra uyawáu uikú.
+# text_eng = My son is on the run.
+# text_por = Meu filho está fugido.
+# text_source = p. 321, No. 38
+# text_orig = serayra oyauáu oiko.
+# text_annotator = DMA
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	3	nsubj	_	TokenRange=3:8
+3	uyawáu	yawáu	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=9:15
+4	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	3	aux	_	SpaceAfter=No|TokenRange=16:20
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=20:21
+
+# sent_id = Hartt1938:0:0:39
+# text = Intí setá arikú.
+# text_eng = I don't have enough.
+# text_por = não tenho bastante.
+# text_source = p. 322, No. 39
+# text_orig = intí setá xareko.
+# text_annotator = DMA
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=0:4
+2	setá	setá	PRON	INDQ	PronType=Ind	3	obj	_	TokenRange=5:9
+3	arikú	rikú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=10:15
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16
+
+# sent_id = Hartt1938:0:0:41
+# text = Maã yasí taá kwá?
+# text_eng = What month are we in?
+# text_por = Em que mês estamos?
+# text_source = p. 322, No. 41
+# text_orig = maé yasy taé kuaé?
+# text_annotator = DMA
+1	Maã	maã	DET	INT	PronType=Int	2	det	_	TokenRange=0:3
+2	yasí	yasí	NOUN	N	Number=Sing	0	root	_	TokenRange=4:8
+3	taá	taá	PART	CQ	PartType=Int	2	advmod	_	TokenRange=9:12
+4	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	SpaceAfter=No|TokenRange=13:16
+5	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
+
+# sent_id = Hartt1938:0:0:42
+# text = Kwá mirá saimbé i pirera.
+# text_eng = The bark of this stick is rough.
+# text_por = A casca deste pau é áspera.
+# text_source = p. 322, No. 42
+# text_orig = kuaé ymyrá saimé ipiréra.
+# text_annotator = DMA
+1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:3
+2	mirá	mirá	NOUN	N	Number=Sing	5	nmod	_	TokenRange=4:8
+3	saimbé	saimbé	ADJ	A	_	0	root	_	TokenRange=9:15
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:17
+5	pirera	pirera	NOUN	N	Number=Sing	3	nsubj	_	SpaceAfter=No|TokenRange=18:24
+6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=24:25
+
+# sent_id = Hartt1938:0:0:43
+# text = Itá isima reté.
+# text_eng = The stone is smooth.
+# text_por = A pedra é lisa.
+# text_source = p. 322, No. 43
+# text_orig = itá isym teré.
+# text_annotator = DMA
+1	Itá	itá	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:3
+2	isima	isima	ADJ	A	_	0	root	_	TokenRange=4:9
+3	reté	reté	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=10:14
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=14:15
+
+# sent_id = Hartt1938:0:0:44
+# text = Iwá i membeka reté.
+# text_eng = The fruit is very soft.
+# text_por = A fruta é muito mole.
+# text_source = p. 322, No. 44
+# text_orig = yuá imembék reté.
+# text_annotator = DMA
+1	Iwá	iwá	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=0:3
+2	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	expl	_	TokenRange=4:5
+3	membeka	membeka	ADJ	A	_	0	root	_	TokenRange=6:13
+4	reté	reté	ADV	ADVS	AdvType=Deg	3	advmod	_	SpaceAfter=No|TokenRange=14:18
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
+
+# sent_id = Hartt1938:0:0:46
+# text = Kwaá ne rikú ti i katú.
+# text_eng = This fashion of yours is not good.
+# text_por = Esta tua moda não está boa.
+# text_source = p. 322, No. 46
+# text_orig = kuaa nerekó intí ikatú.
+# text_annotator = DMA
+1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	TokenRange=0:4
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	TokenRange=5:7
+3	rikú	rikú	NOUN	N	Number=Sing	6	nsubj	_	TokenRange=8:12
+4	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	6	advmod	_	TokenRange=13:15
+5	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	expl	_	TokenRange=16:17
+6	katú	katú	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=18:22
+7	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=22:23
+
+# sent_id = Hartt1938:0:0:48
+# text = Asú rẽ apituú.
+# text_eng = Let me go and rest.
+# text_por = Deixe-me ir descansar.
+# text_source = p. 322, No. 48
+# text_orig = xasó rañé apytuú.
+# text_annotator = DMA
+1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	3	aux	_	TokenRange=0:3
+2	rẽ	rẽ	PART	IMPF	_	3	advmod	_	TokenRange=4:6
+3	apituú	pituú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=7:13
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=13:14
+
+# sent_id = Hartt1938:0:0:52
+# text = Kariwa-itá umaramunha uikú tapuya-itá irumu.
+# text_eng = The whites are making war with the Tapuias.
+# text_por = Os brancos estão fazendo guerra com os tapuias.
+# text_source = p. 322, No. 52
+# text_orig = karíua itá maramuñan oikó tapya itá irúm.
+# text_annotator = DMA
+1	Kariwa-itá	kariwa	NOUN	N	Number=Plur	2	nsubj	_	TokenRange=0:10
+2	umaramunha	maramunha	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=11:21
+3	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	2	aux	_	TokenRange=22:26
+4	tapuya-itá	tapuya	NOUN	N	Number=Plur	2	obl	_	TokenRange=27:37
+5	irumu	irumu	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=38:43
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=43:44
+
