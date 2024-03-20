@@ -203,7 +203,7 @@ p. 322
 49 - onde está minha faca? lá está em cima da pedra.
 
 50 - sesé pirera rôa.
-50 - Esá-pirera-rawa
+50 - Esá-pirera-rawa.
 50 - Pestana.
 
 51 - neresapóra néana.
@@ -253,11 +253,11 @@ p. 323
 61 - aquela anta está muito mansa.
 
 62 - esenóin kurumí ixéu.
-62 -
+62 - Resenúi kurumĩ ixé.
 62 - chama o menino para mim.
 
 63 - imáinya opyter imymyra yurú.
-63 -
+63 - I manha upitera i mimbira yurú. *
 63 - a mãe beijou seu filho.
 
 64 - ixé xapytér kuae kuñántain yurú.
@@ -269,7 +269,7 @@ p. 323
 65 - o homem está em pé.
 
 66 - xaikó rañé seramúña itá rekó yaué.
-66 -
+66 - Aikú ranhẽ se ramunha-itá rikú yaué.
 66 - vivo pelo costume de meus avós.
 
 p. 324
@@ -283,7 +283,7 @@ p. 324
 68 - não tenho bastante.
 
 69 - apyáua oxiár ximirikó táuape.
-69 -
+69 - Apigawa uxari ximirikú tawa upé. (Hartt, 324, adap.) - O homem deixou sua mulher na vila.
 69 - o homem deixou sua mulher na vila.
 
 70 - maé taé ñaé?
@@ -299,35 +299,35 @@ p. 324
 72 - tenho igual a ti.
 
 73 - kuñán mukú opeték iamaniú.
-73 -
+73 - Kunhamukú upeteka i amaniú. (Hartt, 324, adap.) - A moça bate seu algodão.
 73 - a moça está batendo seu algodão.
 
 74 - xapuká reté án,
-74 -
+74 - Apuká retana. (Hartt, 324, adap.) - Ri-me muito.
 74 - ri-me muito.
 
 75 - kuaá kurunú sesaná reté.
-75 -
+75 - Kwaá kurumĩ sesangá reté. (Hartt, 324, adap.) - Este menino chora muito.
 75 - este menino chora muito.
 
 76 - kuñán amuramé ipya aiyú imymyra itá i ú n
-76 -
+76 - Kunhã amuramé i piaíwa i membira-itá irumu. (Hartt, 324, adap.) - A mulher às vezes fica zangada com seus filhos.
 76 - a mulher às vezes fica zangada com seus filhos.
 
 77 - yané karúka.
-77 -
+77 - 
 77 - boa tarde.
 
 78 - kuaá semymyra iatyyma, ixirín osú yuír.
-78 -
+78 - Kwá se membira i atiima, i 
 78 - meu filho é preguiçoso e mentiroso também.
 
 79 - nerenyra taá moyr?
-79 -
+79 - 
 79 - quantas irmãs tem? (homem que fala).
 
 80 - itá yg ruipype oikó.
-80 -
+80 - Itá ií ripí-pe uikú. (Hartt, 324, adap.) - A pedra está no fundo da água.
 80 - a pedra está no fundo da água.
 
 p. 325
