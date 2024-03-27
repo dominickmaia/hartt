@@ -387,7 +387,7 @@ p. 325
 p. 326
 
 94 - ixé intí xauasem ramé auá omusak kuáu seraña. ixé teñé kurí xamusak.
-94 -
+94 - Ixé ti awasemu ramé awá umusaka-kwáu se ranha, ixé tẽ kurí amusaka (Hartt, 326, adap.) - Se eu não achar ninguém que possa arrancar meu dente, eu mesmo hei de arrancá-lo.
 94 - se não achar ninguém para arrancar mea dente, eu mesmo hei de tirá-lo.
 
 95 - xaxiár sekysé itapéua árpe.
@@ -395,11 +395,11 @@ p. 326
 95 - deixei minha faca sobre a pedra.
 
 96 - xapirún murumurú yú árpe opén sepy opé.
-96 -
+96 - Apirú murumurú yú árupi, upena se pí upé. (Hartt, 326, adap.) - Pisei sobre o espinho do murumuru, ele quebrou no meu pé.
 96 - pisei na espinha de murumurú que quebrou no meu pé.
 
 97 - aé intí oxiár xaikí sóka opé.
-97 -
+97 - Aé ti uxari awiké suka upé. (Hartt, 326, adap.) - Ele não me deixou entrar na casa dele.
 97 - ele não me deixou entrar na casa dele.
 
 98 - tapañúna sekotóg ikysé irúm.
@@ -419,7 +419,7 @@ p. 326
 101 - fêmea.
 
 102 - taiasú opytá kuaa mokóin ymyrá puterpe.
-102 -
+102 - Tayasú upitá kwaá mukũi mirá pitérupi. (Hartt, 326, adap.) - O porco ficou entre esses dois paus.
 102 - o porco ficou entre os dois paus.
 
 103 - emukaterún oi tenáua otikan pupé;
@@ -427,7 +427,7 @@ p. 326
 103 - arruma a farinha num lugar seco.
 
 104 - maá rerekó patauá mirí pupé?
-104 -
+104 - Maã rerikú patuá mirĩ pupé? (Hartt, 326, adap.) - O que é que tens no pequeno baú?
 104 - o que é que tens no pequeno baú?
 
 105 - resó será tupaóka pupé?
@@ -441,7 +441,7 @@ p. 326
 p. 327
 
 107 - aé ikyrymáua setá ouatá aráma kauarpu árpe.
-107 -
+107 - Aé i kirimbawa setá uwatá arama kawarú árupi. (Hartt, 327, adap.) - Ele está bastante forte para andar a cavalo.
 107 - ele está bastantemente forte para andar a cavalo.
 
 108 - euapyg apyká árpe.
@@ -449,7 +449,7 @@ p. 327
 108 - assenta-se no banco.
 
 108 - iposéi aete maé xarasó uaé seatiya árpe.
-108 -
+108 - I pusé aité maã arasú waá se atiiwa árupi. (Hartt, 327, adap.) - Isto que eu levo sobre meu ombro é pesado.
 108 - o que levo no hombro é muito pesado.
 
 109 - yauára opór mésa árpe.
@@ -469,27 +469,27 @@ p. 327
 112 - a lagôa não é funda.
 
 113 - paraná typy rete iké.
-113 -
+113 - Paraná tipí reté iké. (Hartt, 327, adap.) - O rio está muito fundo aqui.
 113 - o rio está muito fundo aqui.
 
 114 - paraná typáua rete.
-114 -
+114 - Paraná tipawa reté. (Hartt, 327, adap.) - O rio está muito seco.
 114 - o rio está sêco.
 
 115 - oyupypyg án symyyá.
-115 -
-115 -  beira (do rio) está alagada.
+115 - Uyupipika ã sembiiwa. (Hartt, 327, adap.) - A beira [do rio] alagou-se.
+115 - beira (do rio) está alagada.
 
 116 - paraná oyuir uan, oiké oiko.
-116 -
+116 - Paraná [...] uwiké uikú. (Hartt, 327, adap.) - O rio [...] está enchendo.
 116 - a maré está enchendo.
 
 117 - aikó ñúnti kurí paraná oikí.
-117 -
+117 - Aikwé nhuntu kurí paraná uwiké. (Hartt, 327, adap.) - O rio não tardará a encher.
 117 - a maré não tarda a entrar.
 
 118 - yaué, paué teñe kuaá paraná?
-118 -
+118 - 
 118 - êste rio é todo assim?
 
 119 - omonéu pá riré imaitá ygáraopé, aramé katú osó.
@@ -499,7 +499,7 @@ p. 327
 p. 328
 
 120 - paraná yumuñan oiko.
-120 -
+120 - Paraná uyumunhã uikú. (Hartt, 328, adap.) - O rio está enchendo.
 120 - o rio está enchendo.
 
 121 - kurutén mirí kurí eyuyr!
@@ -515,7 +515,7 @@ p. 328
 123 - quando ele vier, iremos.
 
 124 - rexipiak án será anyrá?
-124 -
+124 - Rexipiaka ana será andirá? (Hartt, 328, adap.) - Já viste o morcego?
 124 - já viste o morcego?
 
 125 - emaén anyrá rese!
@@ -557,7 +557,7 @@ p. 328
 p. 329
 
 134 - maá kuíté remuñaa intí sapyá reyúr?
-134 -
+134 - Maã kuité remunhã ti sapuá reyuri? (Hartt, 329, adap.) - O que é que estavas fazendo que não vieste depressa?
 134 - e que é que estavas fazendo que não vieste depressa?
 
 135 - kuñán osy kuaá kuesé sekuñada ñaé.
@@ -577,15 +577,15 @@ p. 329
 138 - logo que ele chegar, vou-me embora.
 
 139 - xayusé reté.
-139 -
+139 - Ayusé reté. (Hartt, 329, adap.) - Desejo muito [ir-me embora].
 139 - desejo muito.
 
 140 - ixé xayumutár kuaá kuñán mukú purána resé.
-140 -
+140 - Ixé ayumutari kwaá kunhamukú puranga resé. (Hartt, 329, adap.) - Eu gosto dessa moça bonita.
 140 - eu gosto muito daquela bonita moça.
 
 141 - yauára oyumutar reté oyunún tatá ruake.
-141 -
+141 - Yawara uyumutari reté uyenú tatá ruakí. (Hartt, 329, adap.) - O cachorro gosta muito de deitar-se perto do fogo.
 141 - o cachorro gosta muito de deitar-se perto do fogo.
 
 142 - intí xaputár kuaá kysé amú teñé xaputár.
@@ -609,8 +609,8 @@ p. 329
 146 - eu quero ir.
 
 147 - xasó xapagar nhaá apyáua supe.
-147 -
-147 -vou pagar aquele homem.
+147 - Asú apagari nhaã apigawa supé. (Hartt, 329, adap.) - Vou pagar àquele homem.
+147 - vou pagar aquele homem.
 
 p. 330
 
@@ -639,8 +639,8 @@ p. 330
 153 - não tenho com que comprá-la.
 
 154 - iné maarupiára reté.
-154 - 
-154 - tu és muito feliz(na caça).
+154 - Indé marupiára reté. (Hartt, 330, adap.) - Tu és muito feliz (na caça).
+154 - tu és muito feliz (na caça).
 
 155 - maá taá reuasém?
 155 -
@@ -655,7 +655,7 @@ p. 330
 157 - nada achei.
 
 158 - ixé tymaá sáua uára.
-158 - 
+158 - Ixé tumasawawara. (Hartt, 330, adap.) - Sou natural do baixo curso [do rio].
 158 - sou filho de baixo.
 
 159 - se renáua Tupiópe.
