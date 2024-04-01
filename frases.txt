@@ -207,7 +207,7 @@ p. 322
 50 - Pestana.
 
 51 - neresapóra néana.
-51 - 
+51 -
 51 - a menina (a sombra) de teu olho.
 
 52 - karíua itá maramuñan oikó tapya itá irúm.
@@ -225,7 +225,7 @@ p. 323
 54 - não foi assim.
 
 55 - iné taé mae kyty reiko?
-55 - 
+55 -
 55 - de que partido estão?
 
 56 - ixé yané réia kyty xaiko.
@@ -315,11 +315,11 @@ p. 324
 76 - a mulher às vezes fica zangada com seus filhos.
 
 77 - yané karúka.
-77 - 
+77 -
 77 - boa tarde.
 
 78 - kuaá semymyra iatyyma, ixirín osú yuír.
-78 - Kwá se membira i atiima, i 
+78 - Kwá se membira i atiima, i
 78 - meu filho é preguiçoso e mentiroso também.
 
 79 - nerenyra taá moyr?
@@ -349,7 +349,7 @@ p. 325
 84 - ele foi daqui por terra.
 
 85 - irané kuri kaué ramé, xaiko kurí Tupiaope.
-85 - 
+85 -
 85 - amanhã a estas horas hei de estar em Santárem.
 
 86 - oñán reté será kuité yg?
@@ -365,7 +365,7 @@ p. 325
 88 - não posso passear com ele porque tenho muito o que fazer.
 
 89 - paraná ipor ikó kaapuam suí, sesé pyrantan reté parané.
-89 - Paraná 
+89 - Paraná
 89 - o rio está cheio de ilhas, por isso corre muito.
 
 90 - semaitá yakym ikó.
@@ -373,7 +373,7 @@ p. 325
 90 - minha roupa está molhada.
 
 91 - intí án skyrimbá xasupir aráma mbaa iporéi reté aá.
-91 - Intí 
+91 - Intí
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
 
 92 - semymyra rypyrunáua kuaé (mulher que fala).
@@ -489,7 +489,7 @@ p. 327
 117 - a maré não tarda a entrar.
 
 118 - yaué, paué teñe kuaá paraná?
-118 - 
+118 -
 118 - êste rio é todo assim?
 
 119 - omonéu pá riré imaitá ygáraopé, aramé katú osó.
@@ -503,11 +503,11 @@ p. 328
 120 - o rio está enchendo.
 
 121 - kurutén mirí kurí eyuyr!
-121 - 
+121 -
 121 - volta cedo!
 
 122 - intí kurí xayuír.
-122 - 
+122 -
 122 - não hei de voltar.
 
 123 - oyuyr ramé aramé yasó án.
@@ -519,7 +519,7 @@ p. 328
 124 - já viste o morcego?
 
 125 - emaén anyrá rese!
-125 - 
+125 -
 125 - olha o morcego!
 
 126 - míra omaen oikó.
@@ -535,23 +535,23 @@ p. 328
 128 - nunca vi.
 
 129 - resupiak uán será apygáua?
-129 - 
+129 -
 129 - já viste o homem?
 
 130 - xaxipia (k) iepé opuám oiko.
-130 - 
+130 -
 130 - vejo um homem em pé.
 
 131 - irané eyór!
-131 - 
+131 -
 131 - vem amanhã!
 
 132 - eyúr yauára!
-132 - 
+132 -
 132 - cachorro, vem cá!
 
 133 - eyúr pixána!
-133 - 
+133 -
 133 - gato, vem cá!
 
 p. 329
@@ -589,7 +589,7 @@ p. 329
 141 - o cachorro gosta muito de deitar-se perto do fogo.
 
 142 - intí xaputár kuaá kysé amú teñé xaputár.
-142 - 
+142 -
 142 - não quero esta faca, quero a outra.
 
 143 - itá oár putár.
@@ -605,7 +605,7 @@ p. 329
 145 - tenho tudo que desejo.
 
 146 - ixé xasó uán.
-146 - 
+146 -
 146 - eu quero ir.
 
 147 - xasó xapagar nhaá apyáua supe.
@@ -627,11 +627,11 @@ p. 330
 150 - quando não tenho açúcar compro mel.
 
 151 - maá taá repyrypán apyáua suí?
-151 - 
+151 -
 151 - o que compraste do homem?
 
 152 - yasó yapyrypán iepé ygára!
-152 - 
+152 -
 152 - vamos comprar uma canoa!
 
 153 - intí xarekó mairúm xapyrypán aráma.
@@ -659,7 +659,7 @@ p. 330
 158 - sou filho de baixo.
 
 159 - se renáua Tupiópe.
-159 - 
+159 -
 159 - meu lugar é Santarém.
 
 160 - ixé Tupaió uára.
@@ -673,7 +673,7 @@ p. 330
 p. 331
 
 162 - enuñán, aramé remukayém putár ne ána?
-162 - 
+162 -
 162 - tu queres perder tua alma?
 
 163 - kuñán omukayim ikysé.
@@ -685,11 +685,11 @@ p. 331
 164 - conta-me como foi que tu perdeste aquela faca.
 
 165 - intí maá okayím ixé suí.
-165 - 
+165 -
 165 - não perdi nada.
 
 166 - maá taá okayím intí suí?
-166 - 
+166 -
 166 - o que é que perdeste?
 
 167 - tupána resé katú!
@@ -728,10 +728,10 @@ p. 331
 175 -
 175 - se eu tivessse bastante cachaça eu te a dava.
 
-p. 332 
+p. 332
 
 176 - kupiin oú paú semaitá(mbaáitá-Ereré).
-176 - 
+176 -
 176 - o cupim comeu toda a minha roupa.
 
 177 - amú yasy opé tayna oñeén katú kurí.
@@ -751,7 +751,7 @@ p. 332
 180 - pensava que tinha minha faca.
 
 181 - xamaité oikó rañé.
-181 - 
+181 -
 181 - pensava que ainda houvesse.
 
 182 - yasó yayupyrún tupána ára.
@@ -759,11 +759,11 @@ p. 332
 182 - vamos principiar a festa.
 
 183 - emoapú netamúra.
-183 - 
+183 -
 183 - toca o tambor.
 
 184 - karapaná omú teapú oikó seresápe.
-184 - 
+184 -
 184 - a carapanan(mosquito) está zumbindo nos meus ouvidos.
 
 185 - omaú uán ñaá parauá?
@@ -779,11 +779,11 @@ p. 332
 187 - estou atoa(não faço nada).
 
 188 - tupána ñún okuáu.
-188 - 
+188 -
 188 - só é Deus que sabe.
 
 189 - ixe ñún intí xapytá; xasykyyí.
-189 - 
+189 -
 189 - eu não fico sozinho; tenho medo.
 
 p. 333
@@ -817,7 +817,7 @@ p. 333
 196 - queres te casar comigo?
 
 197 - emukytan serenimú ixéu.
-197 - 
+197 -
 197 - faça um nó no fio para mim.
 
 198 - xamukurusá serytymá.
@@ -825,7 +825,7 @@ p. 333
 198 - encruzilhei minhas pernas.
 
 199 - neruá iapixain an, open-open.
-199 - 
+199 -
 199 - teu rosto está cheio de pregas.
 
 200 - ekóin ñaá apyáua piám.
@@ -871,7 +871,7 @@ p. 334
 209 - vou me vestir.
 
 210 - xasó xamanéu se kamixá.
-210 - 
+210 -
 210 - vou vestir minha camisa.
 
 211 - emuné uán neturina.
@@ -891,7 +891,7 @@ p. 334
 214 - o vento sacode muito nossa casa.
 
 215 - intí será ne ména opé(Ereré)?
-215 - 
+215 -
 215 - teu marido está em casa?
 
 216 - intí ikó iké, ikó ouim ñauá tueyae rope.
@@ -909,7 +909,7 @@ p. 335
 218 - este homem é antropófago.
 
 219 - xamomór xaikó yg ygára suí.
-219 - 
+219 -
 219 - estou esgotando a canoa.
 
 220 - xasó xaserók kuáu tayna.
@@ -921,7 +921,7 @@ p. 335
 221 - essa mulher é muito tímida.
 
 222 - ixé seyuá sasy ikó, intí xakuáu seé yupurug oikó.
-222 - 
+222 -
 222 - o meu braço dói também, não sei se está quebrado.
 
 223 - korasy oapyg án.
@@ -929,7 +929,7 @@ p. 335
 223 - o sol já se assentou.
 
 224 - kuaá apyáua míra yukasára.
-224 - 
+224 -
 224 - este homem é um assassino.
 
 225 - xarekó ramé amú xameén amú inéu.
@@ -945,15 +945,15 @@ p. 335
 227 - vamos com pressa.
 
 228 - aé osú uán itáua kyty.
-228 - 
+228 -
 228 - ele foi para a aldeia dele.
 
 229 - ekoin nekyuyra senoin orur aráma yg ixéu.
-229 - 
+229 -
 229 - vai chamar teu irmão para me trazer água.
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
-230 - 
+230 -
 230 - ele disse: vou contigo, se for possível.
 
 p. 336
@@ -963,11 +963,11 @@ p. 336
 231 - vamos brincar!
 
 232 - ixé yuyr xasó.
-232 - 
+232 -
 232 - eu também vou.
 
 233 - yiáma (liamba) semukaú.
-233 - 
+233 -
 233 - a liamba me embebedou.
 
 234 - yauára itymyra reté.
@@ -995,11 +995,11 @@ p. 336
 239 - minha filha mais velha.
 
 240 - yasó yaparaók ikatú uaé.
-240 - 
+240 -
 240 - vamos escolher o bom.
 
 241 - itamaraká oyeréu oikó.
-241 - 
+241 -
 241 - o sino está dobrando.
 
 242 - xayibué yané yára supé (Ereré).
@@ -1010,7 +1010,7 @@ p. 336
 243 -
 243 - ele já bebeu o remédio misturado com estilada.
 
-p. 337 
+p. 337
 
 244 - maá taá rerúr yanéu?
 244 -
@@ -1021,11 +1021,11 @@ p. 337
 245 - vai ter com Antônio.
 
 246 - eyór sepyrí.
-246 - 
+246 -
 246 - vem cá ter comigo.
 
 247 - maéramé reputár xayor nepyrí.
-247 -
+247 - Mairamé reputari ayuri ne piri? (Hartt, 337, adap.) -  Quando queres que eu venha ter contigo?
 247 - quando queres que eu venha ter contigo.
 
 248 - sepyasú reté.
@@ -1037,7 +1037,7 @@ p. 337
 249 - o homem é direito.
 
 250 - yuaé teñé ikatú.
-250 - 
+250 -
 250 - assim é bom.
 
 251 - aé oyauau óka suí kaá kytí.
@@ -1053,7 +1053,7 @@ p. 337
 253 - queres que eu vá contigo?
 
 254 - intí xaputár.
-254 - 
+254 -
 254 - não quero.
 
 255 - apyáua oyauyk oikó.
@@ -1061,14 +1061,14 @@ p. 337
 255 - o homem está abaixado.
 
 256 - mauaá taá ney gára rané?
-256 - 
+256 -
 256 - qual é o comprimento de teu coração?
 
 257 - mauaá taá neygára rané?
-257 - 
+257 -
 257 - qual é o comprimento de tua canoa?
 
-p. 338 
+p. 338
 
 258 - yané yaxiar opokutáua ygára opé.
 258 -
@@ -1091,23 +1091,23 @@ p. 338
 262 - enfia já o peixe.
 
 263 - ekirirí aépe!
-263 - 
+263 -
 263 - cala-te aí.
 
 264 - apygáua okuáu reté.
-264 - 
+264 -
 264 - o homem é sábio.
 
 265 - xarekó teñé.
-265 - 
+265 -
 265 - tenho alguns (sempre tenho).
 
 266 - intí xarekó maá puxí uaé.
-266 - 
+266 -
 266 - não tenho nada ruim.
 
 267 - aé orekó será mokóin kysé?
-267 - 
+267 -
 267 - tem ele duas facas?
 
 268 - intí maá xerekó.
@@ -1126,18 +1126,18 @@ p. 338
 271 -
 271 - eu duvido.
 
-p. 339 
+p. 339
 
 272 - xamuñán seygasáua tuyúka suiuára.
 272 -
 272 - eu faço minha igaçaba de tijuca(argila).
 
 273 - xarekó sekysé.
-273 - 
-273 - tenho minha faca. 
+273 -
+273 - tenho minha faca.
 
 274 - xasó xayumutimú.
-274 - 
+274 -
 274 - vou me embalar.
 
 275 - xasó xayakáu kuaá kurumi asú.
@@ -1149,11 +1149,11 @@ p. 339
 276 - manda buscar o pajé.
 
 277 - sepatráum (patrão) emonu mukáua piám.
-277 - 
+277 -
 277 - meu patrão mandou-me buscar a arma.
 
 278 - ixé xayupukuáu reté Tupaiópe.
-278 - 
+278 -
 278 - gosto muito de Santarém.
 
 279 - kuaá pytun repurasaí.
@@ -1161,7 +1161,7 @@ p. 339
 279 - tu dansaste muito esta noite.
 
 280 - xasasém xaikó, se ána osuaxár ixéu.
-280 - 
+280 -
 280 - grito e o éco me responde.
 
 281 - kuaá apyáua ixirin reté.
@@ -1169,11 +1169,11 @@ p. 339
 281 - este homem é muito mentiroso.
 
 282 - opáin maé oatár aépe.
-282 - 
+282 -
 282 - falta tudo ali.
 
 283 - tupan teapú reté ikó.
-283 - 
+283 -
 283 - o trovão é muito forte.
 
 284 - ixé xaikó se anamaitá yaué.
@@ -1181,17 +1181,17 @@ p. 339
 284 - vivo pelo costume de meus pais.
 
 285 - xasó xapokói se oí.
-285 - 
+285 -
 285 - vou torrar minha farinha.
 
 p. 340
 
-286 - ekóin eyuóg páka mundé suí, teñe emuyayáu. 
+286 - ekóin eyuóg páka mundé suí, teñe emuyayáu.
 286 -
 286 - vai tirar a paca do mundéu, não deixa Tugir.
 
 287 - tapiíra kuñán omaú oikó, omokatág iyurú kapun uaé marika suí.
-287 - 
+287 -
 287 - a vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
@@ -1203,11 +1203,11 @@ p. 340
 289 - vá apanhar aquele papagaio, quero cortar-lhe as asas.
 
 290 - yasó yamunú tarakaaiá pysy káua tuyúka páua pe, Uamá pytéra rupí.
-290 - 
+290 -
 290 - vamos mandar apanhar tracajás no tijucal no meio do Guamá.
 
 291 - xaxó xayuóg tarakaiá rupiá.
-291 - 
+291 -
 291 - vou tirar ovos de trajacá.
 
 292 - taiasú omoór oikó yuy itín irúm.
@@ -1223,7 +1223,7 @@ p. 340
 294 - o moço foi buscar o camaleão.
 
 295 - ixé xasenú maá puxí teapú.
-295 - 
+295 -
 295 - ouvi um bicho estrondar.
 
 296 - intí xasaisú kuae mira, intí sepyá póra.
@@ -1235,10 +1235,10 @@ p. 340
 297 - eu vos amo todos.
 
 298 - ixé intí neraisú.
-298 - 
+298 -
 298 - não te amo.
 
-p. 341 
+p. 341
 
 
 299 - poraké oyuka aiyú serytymá, miriñunte semokau.
@@ -1266,7 +1266,7 @@ p. 341
 304 - um bicho apareceu para mim no mato, então desapareceu, não sei para onde foi.
 
 305 - ixé karekó ay.
-305 - 
+305 -
 305 - tenho uma preguiça(animal).
 
 306 - muyr yaureté reyuká?
@@ -1274,7 +1274,7 @@ p. 341
 306 - quantas onças matou?
 
 307 - oyepé ñún.
-307 - 
+307 -
 307 - uma somente.
 
 308 - xayuká reía uirá.
@@ -1286,21 +1286,21 @@ p. 341
 309 - o rapaz está matando passarinhos no mato.
 
 310 - maeresé intí reyapí?
-310 - 
+310 -
 310 - por que não atiras?
 
 311 - mukáua reapú xaseaú.
-311 - 
+311 -
 311 - ouvi um tiro de espingarda(arma).
 
 312 - semukáua oyauy tatá.
-312 - 
+312 -
 312 - minha espingarda (arma) negou fogo.
 
 p. 342
 
 313 - ixé mosapyr y xaiyapí suasú.
-313 - 
+313 -
 313 - dei três tiros no veado.
 
 314 - intí ipóra oikó.
@@ -1308,7 +1308,7 @@ p. 342
 314 - não está carregada.
 
 315 - mukáua será ipóra oikó?
-315 - 
+315 -
 315 - a espingarda (arma) está carregada?
 
 316 - yasó yanemukáua yapurakár.
@@ -1355,18 +1355,18 @@ p. 342
 326 -
 326 - passaste mal a noite?
 
-p. 343 
+p. 343
 
 327 - iné intí rekér katú, repiralér ipó resé.
-327 - 
+327 -
 327 - tu não dormiste bem, porque parece que estavas faxinando.
 
 328 - yasó yapinaityk.
-328 - 
+328 -
 328 - vamos pescar(com anzol).
 
 329 - setá reté pirá paranáme.
-329 - 
+329 -
 329 - há muito peixe no rio.
 
 330 - seruya rantin opéu ikó.
@@ -1374,11 +1374,11 @@ p. 343
 330 - a ponta da flecha está quebrada.
 
 331 - xayumú pirá, oasertár sioya sesé.
-331 - 
+331 -
 331 - flechei um peixe e minha flecha acertou nele.
 
 332 - masekói neuirapára.
-332 - 
+332 -
 332 - aqui está teu arco.
 
 333 - ixé xapaném reté.
@@ -1398,7 +1398,7 @@ p. 343
 336 - não te esqueças de mim, tu sempre há de te lembrar de mim.
 
 337 - neresarái uán.
-337 - 
+337 -
 337 - já te esqueceste.
 
 338 - xamonóg kuaé apyáua sesápe.
@@ -1406,7 +1406,7 @@ p. 343
 338 - dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
-339 - 
+339 -
 339 - esse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
@@ -1432,11 +1432,11 @@ p. 344
 344 - o pau é muito duro, não quebra.
 
 345 - tatatína sasy reté seresápe.
-345 - 
+345 -
 345 - a fumaça dói muito aos meus olhos.
 
 346 - okér oé será tayna?
-346 - 
+346 -
 346 - ainda dorme a criança?
 
 347 - yauára okér oikó.
@@ -1448,7 +1448,7 @@ p. 344
 348 - andaste muito longe?
 
 349 - apykatú reté será ygarupáua?
-349 - 
+349 -
 349 - é muito longe o porto?
 
 350 - resó uán será ygarupápe?
@@ -1456,7 +1456,7 @@ p. 344
 350 - já foste no porto?
 
 351 - intí rañé.
-351 - 
+351 -
 351 - ainda não.
 
 352 - yasó aépe.
@@ -1478,7 +1478,7 @@ p. 345
 355 - já está de viagem?
 
 356 - muyepé akayú uán intí xasenú misa.
-356 - 
+356 -
 356 - faz um ano que não ouvi missa.
 
 357 - eumbór(ou emumór) ñaá tupé yuuype.
@@ -1510,7 +1510,7 @@ p. 345
 363 - a chuva está pingando.
 
 364 - amána okyr ramé intí xasó.
-364 - 
+364 -
 364 - se chover não vou.
 
 365 - kurí mirí amána okyr.
@@ -1526,17 +1526,17 @@ p. 345
 366a - sonhei.
 
 367 - kuñántáin opág uán.
-367 - 
+367 -
 367 - a menina já acordou.
 
-p. 346 
+p. 346
 
 368 - ikoñunte! ekóin repytuú! remaité ipó xakér xaikó.
 368 -
 368 - fica quieto! vai descansar! parece que tu pensas que estou dormindo.
 
 369 - maramé réar?
-369 - 
+369 -
 369 - quando nasceste?
 
 370 - ixé xaár Tupaiope.
@@ -1544,19 +1544,19 @@ p. 346
 370 - nasci em Santarém.
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
-371 - 
+371 -
 371 - nasci no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
-372 - 
+372 -
 372 - sou muito moço.
 
 373 - ixé kuñán mukú reté.
-373 - 
+373 -
 373 - sou muito moça.
 
 374 - muyr akayú rerekó?
-374 - 
+374 -
 374 - quantos anos tens?
 
 375 - sekumutí oyaryg án, intí án teresém.
@@ -1564,11 +1564,11 @@ p. 346
 375 - meu pote está vazio.
 
 376 - emoakú yg!
-376 - 
+376 -
 376 - aguenta a água!
 
 377 - ixé xakuáu iné remanuár seresé.
-377 - 
+377 -
 377 - eu sei que tu te lembras de mim.
 
 378 - pytúna uasú reté.
@@ -1576,7 +1576,7 @@ p. 346
 378 - a noite já está muito escura.
 
 379 - pytúna putár uán.
-379 - 
+379 -
 379 - já está para anoitecer.
 
 380 - korasy (uarasy) oapy uán.
@@ -1587,18 +1587,18 @@ p. 346
 381 -
 381 - cheguei de tarde.
 
-p. 347 
+p. 347
 
 382 - máme uarasy oikó resy ráme?
 382 -
 382 - a que horas chegou?
 
 383 - semaníya rapó tiarún oikó ikatú yayurá aráma.
-383 - 
+383 -
 383 - a mandioca já está madura e boa para se desmanchar em farinha.
 
 384 - akutí oú reté semaniók.*
-384 - 
+384 -
 384 - amanhã hei de ralar mandioca.
 
 385 - akutí oú reté semanióka.
@@ -1606,7 +1606,7 @@ p. 347
 385 - a cutia come muita mandioca.
 
 386 - saya oú maniya róa.
-386 - 
+386 -
 386 - a saúba comeu as folhas da mandioca.
 
 387 - emuapyr serenimú ixéu.
@@ -1614,11 +1614,11 @@ p. 347
 387 - emoia meu fio para mim.*
 
 388 - paraná omuteapú paranáme máeu.
-388 - 
+388 -
 388 - a mãe d'água estrondou no rio.
 
 389 - oyuir án será paraná?
-389 - 
+389 -
 389 - já vazou o rio? (maré).
 
 390 - maá taá xañeén kuesé inéu, rekuáu será?
@@ -1638,14 +1638,14 @@ p. 347
 393 - o que disse o homem?
 
 394 - yaureté oú míra.
-394 - 
+394 -
 394 - a onça come gente.
 
 395 - opororóg uán serymáua sapukáia.
 395 -
 395 - os pintos já picaram.
 
-p. 348 
+p. 348
 
 396 - xarúr kuaá ananá inéu, supé uára.
 396 -
@@ -1668,7 +1668,7 @@ p. 348
 400 - amanhã hei de fazer todo o meu serviço.
 
 401 - tapañúna kuaá karía miasúa.
-401 - 
+401 -
 401 - o negro é escravo daquele branco.
 
 402 - kuá kuñán ipuruá.
@@ -1676,15 +1676,15 @@ p. 348
 402 - esta mulher está prenha.
 
 403 - ipixún-pixun sesá.
-403 - 
+403 -
 403 - os olhos são muito pretos.
 
 404 - moyr akayú án taá orekó!
-404 - 
+404 -
 404 - quantos anos já tem ele?
 
 405 - ixé hakéri yuype(Ereré).
-405 - 
+405 -
 405 - dormi no chão.
 
 406 - ixe xakér yuype(Santarem).
@@ -1696,7 +1696,7 @@ p. 348
 407 - ele lava o prato.
 
 408 - Maria omuyasúk ñaé karía mirí.
-408 - 
+408 -
 408 - Maria lava o menino branco.
 
 409 - okayára intí oikó aápe xaikó ramé.
@@ -1722,11 +1722,11 @@ p. 349
 413 - o que é o nome disso?
 
 414 - maá taá kuaá ymyrá séra?
-414 - 
+414 -
 414 - como se chama aquela árvore?
 
 415 - iuasú reté mira osenuí kuaé ymyrá réra.
-415 - 
+415 -
 415 - o nome daquele pau é muito difícil.
 
 416 - kuekatú kurí Kurupatuguára itá.
@@ -1742,7 +1742,7 @@ p. 349
 418 - estou zinho bom.
 
 419 - mayaué taé oikó nekyuirá?
-419 - 
+419 -
 419 - como está teu irmão?
 
 420 - sykantán omuisyk páu uán se pó.
@@ -1757,14 +1757,14 @@ p. 349
 422 -
 422 - estou assim.
 
-p. 350 
+p. 350
 
 423 - mayaué taé resó?
 423 -
 423 - como vais?
 
 424 - ikatú ñúnte.
-424 - 
+424 -
 424 - bom sómente.
 
 425 - peñeén petitúa.
@@ -1772,7 +1772,7 @@ p. 350
 425 - vós estais com preguiça.
 
 426 - xasykyyí.
-426 - 
+426 -
 426 - tenho medo.
 
 427 - maá suí resykyyí?
@@ -1780,7 +1780,7 @@ p. 350
 427 - de que tens medo?
 
 428 - setyym reté ixé.
-428 - 
+428 -
 428 - estou com muita preguiça.
 
 429 - sakó reté osó ikó.
@@ -1812,7 +1812,7 @@ p. 350
 435 - estou com fome.
 
 436 - tupána resé, emeén maé xaú aráma, seyumuasy reté.
-436 - 
+436 -
 436 - por amor de Deus, dá-me alguma cousa que comer, tenho muita fome.
 
 p. 351
@@ -1838,7 +1838,7 @@ p. 351
 441 - meu nariz está tapado.
 
 442 - se akánga sasy.
-442 - 
+442 -
 442 - dóe-me a cabeça.
 
 443 - xasó raén xak sepusána.
@@ -1846,7 +1846,7 @@ p. 351
 443 - vou tomar meu remédio.
 
 444 - réu ramé ñaá narána nemaasy kurí.
-444 - 
+444 -
 444 - se tu comeres aquela laranja estarás doente.
 
 445 - maá taá ne maasy sáua?
@@ -1854,11 +1854,11 @@ p. 351
 445 - o que é tua moléstia?
 
 446 - kurumí intí yapumó kuaú.
-446 - 
+446 -
 446 - o menino não sabe mergulhar.
 
 447 - iné reapomé kuáu será?
-447 - 
+447 -
 447 - sabes mergulhar?
 
 448 - iné intí  ryuytáu kuáu.
@@ -1873,10 +1873,10 @@ p. 351
 450 -
 450 - nado na superfície da água.
 
-p. 352 
+p. 352
 
 451 - xasó ygarapé rumasá kyty.
-451 - 
+451 -
 451 - vou descer o igarapé.
 
 452 - xasó paraná ygapyra kyty.
@@ -1884,7 +1884,7 @@ p. 352
 452 - vou subir o rio.
 
 453 - yasó mené rupí.
-453 - 
+453 -
 453 - vamos de vagar!
 
 454 - xasó ygapyra kyty.
@@ -1901,7 +1901,7 @@ p. 352
 
 457 - seputumú iné, kuruten!
 457 -
-457 - ajuda-me, depressa. 
+457 - ajuda-me, depressa.
 
 458 - esykyí ñaé tupasáma.
 458 -
@@ -1928,10 +1928,10 @@ p. 352
 463 - êle está se demorando muito.
 
 464 - kuaá ymyrá intí katú.
-464 - 
+464 -
 464 - este pau não presta.
 
-p. 353 
+p. 353
 
 465 - xasó xayuká itá quáro asykuéra rupí.
 465 -
@@ -1946,7 +1946,7 @@ p. 353
 467 - a galinha poz um ovo.
 
 468 - ygára osy ramé xasó sepatráun kyty.
-468 - 
+468 -
 468 - logo que a canoa chegou fui ter com o patrão.
 
 469 - mixikói mira oapy ygantíme.
@@ -1966,7 +1966,7 @@ p. 353
 472 - remai com força.
 
 473 - peapukúi kurí yasyk aráma okaopé.
-473 - 
+473 -
 473 - remai para chegar em casa.
 
 474 - ygára yuy resé osó.
@@ -1974,11 +1974,11 @@ p. 353
 474 - a canoa encalhou.
 
 475 - xasó xakapy sekupixáua yaitya reté oikó.
-475 - 
+475 -
 475 - vou capinar minha roça, está muito serrada.
 
 476 - xayuyr putár takykuéra kyty.
-476 - 
+476 -
 476 - quero voltar por atrás.
 
 477 - yasó tenuné kyty.
@@ -1986,10 +1986,10 @@ p. 353
 477 - vamos adiante!
 
 478 - xamukayem serekúya.
-478 - 
+478 -
 478 - tenho perdido minha cúia.
 
-p. 354 
+p. 354
 
 479 - xayupeé (ou xayumusakó) xaikó.
 479 -
@@ -2004,7 +2004,7 @@ p. 354
 481 - deixa-me ir, voltarei logo.
 
 482 - xasó xampupuám tayna.
-482 - 
+482 -
 482 - eu faço levantar o menino.
 
 483 - ixé xapukuár pinóa seróka árpe.
@@ -2016,7 +2016,7 @@ p. 354
 484 - vou entijucar minha casa.
 
 485 - emukytán tupasáma.
-485 - 
+485 -
 485 - faça um nó na corda.
 
 486 - xamopopór selamik pipé oñán aráma manioka riáia.
@@ -2024,12 +2024,12 @@ p. 354
 486 - faço ferver o meu alambique para distilar minha estilada.
 
 487 - serasó nerúm.
-487 - 
+487 -
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
 488a - apyáua Piauí uára.
-488 - 
+488 -
 488 - o homem é filho de Piauí.
 
 489 - saaimú xarekó kysé, xamonok imú ñaán ymyrá.
@@ -2048,10 +2048,10 @@ p. 354
 492 -
 492 - já está idoso.
 
-p. 355 
+p. 355
 
 493 - xasapy sepy, or yg opupôr ipupé.
-493 - 
+493 -
 493 - queimei meu pé, água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
@@ -2059,7 +2059,7 @@ p. 355
 494 - êste pau é muito abundante aqui.
 
 495 - ixé intí neyaué.
-495 - 
+495 -
 495 - não sou como tu.
 
 496 - rerekó será maá purana reoéner ixéu?
@@ -2079,7 +2079,7 @@ p. 355
 499 - achei uma cuia no pôrto.
 
 500 - káua opí tayna.
-500 - 
+500 -
 500 - a caba ferrou a criança.
 
 501 - kuaá apyáua intí maé aráma.
@@ -2106,7 +2106,7 @@ p. 355
 506 -
 506 - podes trepar no assahizeiro?
 
-p. 356 
+p. 356
 
 507 - ñaá apyáua intí omuñán kuáu i arapáun yá.
 507 -
@@ -2171,7 +2171,7 @@ p. 357
 521 - êste leite de seringa já coalhou.
 
 522 - itá senypó.
-522 - 
+522 -
 522 - a pedra luze.
 
 523 - aikó ór muyepé apyáua okára pytéra rupí.
@@ -2183,7 +2183,7 @@ p. 357
 524 - nosso senhor, Deus!
 
 525 - yuy uryry oikó.
-525 - 
+525 -
 525 - a terra está tremendo.
 
 526 - óka ayúa okukúi pan.
@@ -2203,11 +2203,11 @@ p. 357
 529 - o bôto está tomando respiração.
 
 530 - hasó sayn sekamutí hapurakár.
-530 - 
+530 -
 530 - deixa-me ir encher o pote.
 
 531 - ekoin epurakár yg kamutí opé.
-531 - 
+531 -
 531 - vá encher a agua no póte.
 
 532 - emunéu sekysé senáua opé.
@@ -2222,7 +2222,7 @@ p. 357
 534 -
 534 - o banco está feito de cedro.
 
-p. 358 
+p. 358
 
 535 - ixé xamuñán kár seuaráia yaxitára suí.
 535 -
@@ -2278,7 +2278,7 @@ p. 358
 548 -
 548 - a lua está cheia.
 
-p.359 
+p.359
 
 549 - karúk ramé án osyk.
 549 -
@@ -2289,7 +2289,7 @@ p.359
 550 - já é noite.
 
 551 - yuatí mirí raén oikó uarasy.
-551 - 
+551 -
 551 - o sol ainda está um bocado alto.
 
 552 - yané pytúna.
@@ -2317,7 +2317,7 @@ p.359
 557 - quero limpar minhas mãos com água e enxugá-las numa toalha.
 
 558 - xaú rañé kafé.
-558 - 
+558 -
 558 - deixe-me primeiro beber café.
 
 559 - rerikó será se asukerí katú?
@@ -2339,7 +2339,7 @@ p. 360
 562 - pimenta é boa para tirar preguiça;
 
 563 - kurutén eú ñaá pakúa.
-563 - 
+563 -
 563 - come depressa aquela banana.
 
 564 - itauá oikó sepakúa.
@@ -2390,10 +2390,10 @@ p. 360
 575 -
 575 - o peixe está muito salgado.
 
-p. 361 
+p. 361
 
 576 - symyg reté kuaá pirá.
-576 - 
+576 -
 576 - êste peixe está muito salgado.
 
 577 - ekóin emímóin yanerimiú.
@@ -2413,7 +2413,7 @@ p. 361
 580 - minha panela cheira. *
 
 581 - intí xaputár kuaá auatii oyar, koromó tú okái. *
-581 - 
+581 -
 581 - não quero encostar aquêle arroz perto do fogo, pode se queimaar.
 
 582 - okái ramé inti. katú, ipixé.
@@ -2448,7 +2448,7 @@ p. 361
 589 -
 589 - vamos pilar arroz!
 
-p. 362 
+p. 362
 
 
 590 - yg ikatú reté.
@@ -2464,7 +2464,7 @@ p. 362
 592 - vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
-593 - 
+593 -
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
@@ -2484,7 +2484,7 @@ p. 362
 597 - o sol está alto, quero ir trabalhar.
 
 598 - pytúna uasú ramé intí yaxipiak kuáu maé.
-598 - 
+598 -
 598 - quando está escuro nada podemos ver.
 
 599 - xayuruyár neresé.
@@ -2503,7 +2503,7 @@ p. 362
 602 -
 602 - sempre me lembro de ti.
 
-p. 363 
+p. 363
 
 603 - amú irané xaikó uán kurí mairipe.
 603 -
@@ -2558,7 +2558,7 @@ p. 363
 615 - a mulher quer desatar a canoa.
 
 616 - yasó yaporakár ygárapóra.
-616 - 
+616 -
 616 - vamos carregar a canoa.
 
 617 - intí osyg ygára semaitá rirú aráma.
@@ -2617,14 +2617,14 @@ p. 363
 630 -
 630 - rasgue o saco, quero concertá-lo.
 
-p. 365 
+p. 365
 
 631 - xasó xamumáu (xamumbá) semurauky oií.
 631 -
 631 - vou acabar hoje meu serviço.
 
 632 - osy iké iepé kária suai uára oerúr pana oenér aráma.
-632 - 
+632 -
 632 - um branco chegou aqui com pano para vender.
 
 633 - xasó tenuné.
@@ -2660,7 +2660,7 @@ p. 365
 640 - não mexa com as cousas.
 
 641 - maé katú rerekó?
-641 - 
+641 -
 641 - tens alguma cousa boa?
 
 642 - peróka okái.
@@ -2722,18 +2722,18 @@ p. 366
 655 - porque falas assim?
 
 656 - xañeén irúm mokóin y.
-656 - 
+656 -
 656 - falei com êle duas vezes.
 
 657 - xañeén putár nerúm.
-657 - 
+657 -
 657 - eu quero falar contigo.
 
 658 - xayumué kár putár asuí yayamusarái aráma yapurasai aráma.
 658 -
 658 - eu quero mandar rezar para depois brincarmos e dançarmos.
 
-p. 367 
+p. 367
 
 659 - xapetyk kár án semaitá.
 659 -
@@ -2752,7 +2752,7 @@ p. 367
 662 - já bati meu algodão para falar.
 
 663 - intí áua oñéen.
-663 - 
+663 -
 663 - ninguém falou.
 
 664 - seruryu xaikó.
@@ -2769,7 +2769,7 @@ p. 367
 
 667 - iné reyuyuká putár.
 667 -
-667 - tu queres te matar. 
+667 - tu queres te matar.
 
 668 - aé oyuyuká putár.
 668 -
@@ -2791,7 +2791,7 @@ p. 367
 672 -
 672 - o morcego dorme de dia.
 
-p. 368 
+p. 368
 
 673 - yané yasaisú yané yára, tupána yané moñanára.
 673 -
@@ -2845,7 +2845,7 @@ p. 368
 685 -
 685 - é difícil de falar a língua geral.
 
-p. 369 
+p. 369
 
 686 - xeñeén será tapuya ñeéna rupí?
 686 -
@@ -2903,7 +2903,7 @@ p. 369
 699 -
 699 - de repente o vento virou.
 
-p. 370 
+p. 370
 
 700 - xamumáu putár an semurauky.
 700 -
@@ -2914,7 +2914,7 @@ p. 370
 701 - vós não sabeis remar.
 
 702 - inti resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
-702 - 
+702 -
 702 - não estou acostumado a remar e por isso fico cansado.
 
 703 - maeramé reputár tatápyña?
@@ -2938,7 +2938,7 @@ p. 370
 707 - eu te amo.
 
 708 - ixé peraisú.
-708 - 
+708 -
 708 - eu vos amo.
 
 709 - ñaá apyáua ñún teñe oyasaysú.
@@ -2961,7 +2961,7 @@ p. 370
 713 -
 713 - está sujo, porque não lavas?
 
-p. 371 
+p. 371
 
 714 - emeén emú yuyr neñeéna.
 714 -
@@ -3015,7 +3015,7 @@ p. 371
 726 -
 726 - quero festejar êste santo.
 
-p. 372 
+p. 372
 
 727 - ipixain uán neruá.
 727 -
@@ -3080,7 +3080,7 @@ p. 373
 741 - Pedro que matou João.
 
 742 - xasó xayuyuká.
-742 - 
+742 -
 742 - vou me matar.
 
 743 - yané yasó peyuká.
