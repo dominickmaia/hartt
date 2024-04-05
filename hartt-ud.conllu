@@ -84,32 +84,34 @@
 3	katú	katú	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=12:16
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
 
-# sent_id = Hartt1938:0:0:8
-# text = Repurú ne kiwawa ixé.
+# sent_id = Hart1938:0:0:8
+# text = Epurú ne kiwawa ixéu.
 # text_eng = Lend me your comb.
 # text_por = Empresta-me teu pente.
 # text_source = p. 319, No. 8
-# text_orig = epurú né kynáua ixéu.
+# text_orig = epurú né kyuáua ixéu.
 # text_annotator = DMA
 # reviewer = LFdeA
-1	Repurú	purú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
-2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	TokenRange=7:9
-3	kiwawa	kiwawa	NOUN	N	Number=Sing	1	obj	_	TokenRange=10:16
-4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=17:20
+1	Epurú	purú	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=6:8
+3	kiwawa	kiwawa	NOUN	N	Number=Sing	1	obj	_	TokenRange=9:15
+4	ixéu	ixéu	PRON	PROND	Case=dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=16:20
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
-# sent_id = Hartt1938:0:0:9
-# text = Repurú ne kisé ixé.
+# sent_id = Hart1938:0:0:9
+# text = Repurú ne kisé ixéu.
 # text_eng = Lend me your knife.
 # text_por = Empresta-me tua faca.
 # text_source = p. 319, No. 9
-# text_orig = epurú nekysé ixé(ixéu).
+# text_orig = epurú nekysé ixé (ixéu).
 # text_annotator = DMA
+# reviewer = LFdeA
+# comment = incluir variante com "ixé"? Hart1938:0:0:9-1 e Hart1938:0:0:9-2?
 1	Repurú	purú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
 2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=7:9
 3	kisé	kisé	NOUN	N	Number=Sing	1	obj	_	TokenRange=10:14
-4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=15:18
-5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=18:19
+4	ixéu	ixéu	PRON	PROND	Case=dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=15:19
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=19:20
 
 # sent_id = Hartt1938:0:0:11
 # text = Asú amuisika ne resá sikantá irũ, ti arama remaã se resé.
