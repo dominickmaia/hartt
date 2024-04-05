@@ -5,6 +5,7 @@
 # text_source = p. 319, No. 1
 # text_orig = hasó hompyryrik se mantéga.
 # text_annotator = DMA
+# reviewer = LFdeA
 1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
 2	amupiririka	mupiririka	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:15
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=16:18
@@ -33,8 +34,9 @@
 # text_source = p. 319, No. 3
 # text_orig = xamumuranú putar se kamarára itá.
 # text_annotator = DMA
+# reviewer = LFdeA
 1-2	Amumarandúa-putari	_	_	_	_	_	_	_	TokenRange=0:18
-1	Amumarandúa	amumarandúa	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
+1	Amumarandúa	mumarandúa	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=20:22
 4	kamarara-itá	kamarara	NOUN	N	Number=Plur	1	obj	_	SpaceAfter=No|TokenRange=23:35
@@ -47,6 +49,7 @@
 # text_source = p. 319, No. 4
 # text_orig = remumáu uán será nepuraukysáua?
 # text_annotator = DMA
+# reviewer = LFdeA
 1	Remumbawa	mumbawa	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:9
 2	ana	ana	PART	PFV	Aspect=Perf	1	advmod	_	TokenRange=10:13
 3	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=14:18
@@ -61,6 +64,7 @@
 # text_source = p. 319, No. 6
 # text_orig = rerekó será sapukáia rupiá?
 # text_annotator = DMA
+# reviewer = LFdeA
 1	Rerikú	rikú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
 2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
 3	sapukaya	sapukaya	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=12:20
@@ -74,6 +78,7 @@
 # text_source = p. 319, No. 7
 # text_orig = intí xasenú katú.
 # text_annotator = DMA
+# reviewer = LFdeA
 1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
 2	asendú	sendú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=5:11
 3	katú	katú	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=12:16
@@ -86,10 +91,11 @@
 # text_source = p. 319, No. 8
 # text_orig = epurú né kynáua ixéu.
 # text_annotator = DMA
+# reviewer = LFdeA
 1	Repurú	purú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
 2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	TokenRange=7:9
 3	kiwawa	kiwawa	NOUN	N	Number=Sing	1	obj	_	TokenRange=10:16
-4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=17:20
+4	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	obj	_	SpaceAfter=No|TokenRange=17:20
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
 # sent_id = Hartt1938:0:0:9
@@ -378,13 +384,14 @@
 9	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=52:53
 
 # sent_id = Hartt1938:0:0:32
-# text = Amu-itá urasú ana ne maã-itá ne suí.
+# text = Amú-itá urasú ana ne maã-itá ne suí.
 # text_eng = The others have already taken your things from you.
 # text_por = Os outros já levaram tuas cousas de ti.
 # text_source = p. 321, No. 32
 # text_orig = amuitá orasó uán né maitá ne suí.
 # text_annotator = DMA
-1	Amu-itá	amu-itá	NOUN	N	_	2	nsubj	_	TokenRange=0:7
+# reviewer = LFdeA
+1	Amú-itá	amú	PRON	IND	Number=Plur|PronType=Ind	2	nsubj	_	TokenRange=0:7
 2	urasú	rasú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=8:13
 3	ana	ana	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=14:17
 4	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=18:20
@@ -562,4 +569,3 @@
 4	tapuya-itá	tapuya	NOUN	N	Number=Plur	2	obl	_	TokenRange=27:37
 5	irumu	irumu	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=38:43
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=43:44
-

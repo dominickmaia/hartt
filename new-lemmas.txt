@@ -1,14 +1,16 @@
-imirá (s.) - pau, árvore
+# imirá (s.) - pau, árvore
+# imirá (s.) - var. mirá OK
 yãdirawa (s.) - andiroba
 yãdirowa (s.) - var. yãdirawa
 yãdí (s.) - óleo
-mantega (s.) - manteiga
-mupiririka (v.) - frigir, fritar
-mumarandúa (v.) - convidar
-kamarara (s.) - camarada
+mantega (s.) - manteiga OK
+mupiririka (v.) - frigir, fritar OK
+mumarandúa (v.) - convidar OK
+kamarara (s.) - camarada OK
 kiwawa (s.) - pente
 muisika (v.) - brear
-amu-itá (s.) - outros
+# amu-itá (s.) - outros
+# amú1 (pron. indef. (s. e adj.))  1) outro (Avila 2021)
 mangarataya (s.) - gengibre
 muapisika (v.) - satisfazer, fartar, saciar
 muapisí (v.) - var. muapisika
@@ -16,4 +18,3 @@ mukwatiári (v.) - pintar, tingir
 isima (adj.) - liso
 ikú (s.) - modo de ser, conduta, moda
 esá-pirera-rawa (s.) - pestana
-

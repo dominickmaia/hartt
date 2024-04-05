@@ -129,7 +129,7 @@ p. 321
 31 - sabes de um lugar aonde possa achar ovos de galinha?
 
 32 - amuitá orasó uán né maitá ne suí.
-32 - Amu-itá urasú ana ne maã-itá ne suí.
+32 - Amú-itá urasú ana ne maã-itá ne suí.
 32 - os outros já levaram tuas cousas de ti.
 
 33 - sapukáia apyáua oñeenar.
@@ -3166,7 +3166,7 @@ p. 374
 762 - estou amolando minha faca na pedra de amolar.
 
 763 - kipé intí saimé.
-763 - 
+763 -
 763 - a faca não está amolada.
 
 764 - kuaé kúya yuyuká.
@@ -3178,14 +3178,14 @@ p. 374
 765 - estou pintando minha cúia.
 
 766 - irusán sepysy.
-766 - 
+766 -
 766 - estou constipado.
 
 767 - sepó ipuná reté.
 767 -
 767 - minha mão está inchada.
 
-p. 375 
+p. 375
 
 768 - intí yaupaú, turusú reté oikó.
 768 -
@@ -3212,7 +3212,7 @@ p. 375
 773 - dá-me-a.
 
 774 - saá kurí remopok ñaá kamutí, ixé kurí nenupán?
-774 - 
+774 -
 774 - se tu quebrares o póte, que hei de te dar?
 
 775 - se kamutí ipó teresem oikó uaríua suí.
@@ -3228,7 +3228,7 @@ p. 375
 777 - vou guardar a caça(carne) para amanhã.
 
 778 - intí será yauá?
-778 - 
+778 -
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
@@ -3236,14 +3236,14 @@ p. 375
 779 - o póte está cheio.
 
 780 - kamutí ipóra.
-780 - 
+780 -
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
 781 -
 781 - quando quero dormir, durmo.
 
-p. 376 
+p. 376
 
 782 - kuñán mukú suryu oikó.
 782 -
@@ -3297,7 +3297,7 @@ p. 376
 794 -
 794 - a mulher está triste.
 
-p. 377 
+p. 377
 
 795 - serupuséi reté xaikó.
 795 -
@@ -3324,7 +3324,7 @@ p. 377
 800 - eu tenho reumatismo da mão, não posso pegar nada.
 
 801 - ixé serakú xaikó.
-801 - 
+801 -
 801 - estou com febre.
 
 802 - xakakaá xaikó.
@@ -3355,7 +3355,7 @@ p. 377
 808 -
 808 - deste morro podemos ver a vila.
 
-p. 378 
+p. 378
 
 809 - uirané kurí resó min kyty.
 809 -
@@ -3402,7 +3402,7 @@ p. 378
 819 - essa farinha é muito grosso.
 
 820 - kuaá mamáun tearún uán, itauá uán oikó.
-820 - 
+820 -
 820 - este mamão já está maduro, está amarelo.
 
 821 - murutín teñé sapé.
@@ -3413,7 +3413,7 @@ p. 378
 822 -
 822 - o páu é baixo.
 
-p. 379 
+p. 379
 
 823 - murumurú yú ipokú reté.
 823 -
@@ -3498,7 +3498,7 @@ p. 380
 842 - vou cortar o páu de modo a cair sobre o caminho que ninguem possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
-843 - 
+843 -
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
@@ -3530,11 +3530,11 @@ p. 380
 850 - empresta-me tua rêde.
 
 851 - aé intí opurú putár ixéu.
-851 - 
+851 -
 851 - êle não queria emprestá-la.
 
 852 - emaén mikyty (Mundurucú)!
-852 - 
+852 -
 852 - olha para ali.
 
 853 - esém okára kyty!
