@@ -239,7 +239,7 @@
 1	Asetuna	setuna	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:7
 2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	SpaceAfter=No|TokenRange=8:12
 3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=12:13
-4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	expl	_	TokenRange=14:15
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	expl	_	TokenRange=14:15
 5	katú	katú	VERB	A2	_	1	parataxis	_	TokenRange=16:20
 6	reté	reté	ADV	ADVS	AdvType=Deg	5	advmod	_	TokenRange=21:25
 7	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=26:28
