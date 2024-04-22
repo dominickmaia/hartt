@@ -202,19 +202,20 @@
 4	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
 
 # sent_id = Hartt1938:0:0:19
-# text = Intí aé ururi ixéu.
+# text = Intí maã ururi ixéu.
 # text_eng = He didn't bring me anything.
 # text_por = Ele não trouxe nada para mim.
 # text_source = p. 320, No. 19
 # text_orig = intí maé oerúr ixéu.
 # text_annotator = DMA
 # reviewer = LFdeA
-# comment = "ixéu" é a forma dativa de "ixé", ver issue a respeito
+# comment = "ixéu" é a forma dativa de "ixé", ver issue a respeito; sobre "maé", ver Avila (2021)
+# inputline = Intí maã/ind ururi ixéu.
 1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=0:4
-2	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=5:7
-3	ururi	ruri	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=8:13
-4	ixéu	ixéu	PRON	PROND	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	SpaceAfter=No|TokenRange=14:18
-5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
+2	maã	maã	PRON	IND	PronType=Ind	3	obj	_	TokenRange=5:8
+3	ururi	ruri	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=9:14
+4	ixéu	ixéu	PRON	PROND	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	SpaceAfter=No|TokenRange=15:19
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=19:20
 
 # sent_id = Hartt1938:0:0:20
 # text = Mundawasú uyawáu.
