@@ -313,6 +313,7 @@
 # text_source = p. 321, No. 26
 # text_orig = serayra mirí ipausáua uán kuaé.
 # text_annotator = DMA
+# reviewer = TODO
 1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
 2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	5	nsubj	_	TokenRange=3:8
 3	mirĩ	mirĩ	ADJ	A	_	2	amod	_	TokenRange=9:13
