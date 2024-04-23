@@ -3501,19 +3501,19 @@ p. 380
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
-844 -
+844 - ixé yumunuka kisé irũ. - eu me cortei com a faca. *
 844 - eu me cortei com a faca.
 
 845 - maá taá remuñán kuaá tupasáma irúm?
-845 -
+845 - maã taá remunhã kwá tupasama irũ? - que é que está fazendo com esta corda? *
 845 - que é que estás fazendo com aquêle laço?
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 -
+846 - wasemu yepé wirá re iãwera kaápe. - achei um pássaro morto no mato. *
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
-847 -
+847 - 
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
@@ -3521,21 +3521,21 @@ p. 380
 848 - estou escrevendo (fazendo) uma carta (papel) para mandar á minha mulher.
 
 849 - ikatú remuñán nekysáua.
-849 -
+849 - katú remunhã ne kisawa - você tem que fazer sua rede. *
 849 - tu deves fazer tua rêde.
 
 850 - epurú nekysáua ixéu.
-850 -
+850 - epurú ne kisawa ixéu. - empresta-me tua rede! *
 850 - empresta-me tua rêde.
 
 851 - aé intí opurú putár ixéu.
-851 -
+851 - aé intí upurú putari ixéu. - ele não queria emprestá-la. *
 851 - êle não queria emprestá-la.
 
 852 - emaén mikyty (Mundurucú)!
-852 -
+852 - maẽ mikití - olha para lá. *
 852 - olha para ali.
 
 853 - esém okára kyty!
-853 -
+853 - usemu ukara kití! - saia para fora! *
 853 - sáe para fóra!
