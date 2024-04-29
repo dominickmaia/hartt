@@ -1241,11 +1241,11 @@ p. 340
 p. 341
 
 299 - poraké oyuka aiyú serytymá, miriñunte semokau.
-299 -
+299 - Puraké uyukaíwa se retimã, [...]. (Hartt, 341, adap.) - O poraquê adormeceu a minha perna, [...]
 299 - poraké adormeceu minha perna, quase me embebedou.
 
 300 - xasó hasauók maréka.
-300 -
+300 - Asú asawaka mareka. (Hartt, 341, adap.) - Vou depenar a marreca.
 300 - vou depenar a marréca.
 
 301 - tapifra kaáuára ikyrymáua reté.
@@ -1257,7 +1257,7 @@ p. 341
 302 - a anta se escondeu no mato.
 
 303 - móia omokatág oikó, opeiyú yuytú yaué.
-303 -
+303 - Buya uyumukataka uikú, upeyú iwitú yawé. (Hartt, 341, adap.) - A cobra está se mexendo, assobia como o vento
 303 - a cobra está se mechendo, assobia como o vento.
 
 304 - oyepé maapuxi oyukuaú ixéu kaápe aasuí akañem, intí xakuáu maarupí osó.
@@ -1269,7 +1269,7 @@ p. 341
 305 - tenho uma preguiça(animal).
 
 306 - muyr yaureté reyuká?
-306 -
+306 - Muíri yawareté reyuká? (Hartt, 341, adap.) - Quantas onças você matou?
 306 - quantas onças matou?
 
 307 - oyepé ñún.
@@ -1281,7 +1281,7 @@ p. 341
 308 - mate muitos pássaros.
 
 309 - kurumí asú oyapí ikó uira miri itá kaá rupi.
-309 -
+309 - Kurumiwasú uyapí uikú wirá-mirĩ-itá kaá rupí. (Hartt, 341, adap.) - O rapaz está atirando em passarinhos no mato.
 309 - o rapaz está matando passarinhos no mato.
 
 310 - maeresé intí reyapí?
@@ -1289,17 +1289,17 @@ p. 341
 310 - por que não atiras?
 
 311 - mukáua reapú xaseaú.
-311 -
+311 - Mukawa reapú asendú. (Hartt, 341, adap.) - Ouvi um barulho de espingarda.
 311 - ouvi um tiro de espingarda(arma).
 
 312 - semukáua oyauy tatá.
-312 -
+312 - Se mukawa uyawí tatá. (Hartt, 341, adap.) - Minha arma negou fogo.
 312 - minha espingarda (arma) negou fogo.
 
 p. 342
 
 313 - ixé mosapyr y xaiyapí suasú.
-313 -
+313 - Ixé musapiri í ayapí suasú. (Hartt, 342, adap.) - Eu atirei três vezes no veado.
 313 - dei três tiros no veado.
 
 314 - intí ipóra oikó.
@@ -1315,11 +1315,11 @@ p. 342
 316 - vamos carregar nossas espingardas.
 
 317 - xapurakár se mukáua.
-317 -
+317 - Apurakari se mukawa. (Hartt, 342, adap.) - Carreguei minha espingarda.
 317 - carreguei minha espingarda.
 
 318 - auá taá orekó mukáua?
-318 -
+318 - Awá taá urikú mukawa? (Hartt, 342, adap.) - Quem (de vós) tem espingarda?
 318 - quem de vós tem espingarda?
 
 319 - semukáua mirí oyauy tatá.
@@ -1335,7 +1335,7 @@ p. 342
 321 - não querem que batamos timbó lá.
 
 322 - oyatítí reté pirá.
-322 -
+322 - Uyatití reté pirá. (Hartt, 342, adap.) - Matou muito peixe.
 322 - matou (arrasou) muito peixe.
 
 323 - yasó yasykyí pirá miri.
@@ -1343,15 +1343,15 @@ p. 342
 323 - vamos apanhar peixinhos.
 
 324 - yakuáu reté kuae pirá.
-324 -
+324 - Yakwáu reté kwá pirá. (Hartt, 342, adap.) - Este peixe é muito ladino.
 324 - este peixe é muito ladino.
 
 325 - xasó xapirakér.
-325 -
+325 - Asú apirakera. (Hartt, 342, adap.) - Vou fachear.
 325 - vou faxinar(faxiar).
 
 326 - resasáu aiyú kuaé pytúna?
-326 -
+326 - Resasá aíwa kwaá pituna? (Hartt, 342, adap.) - Passaste mal a noite?
 326 - passaste mal a noite?
 
 p. 343
@@ -1385,7 +1385,7 @@ p. 343
 333 - estou muito infeliz.
 
 334 - seraén xaikó.
-334 -
+334 - Se ranhẽ aikú. (Costa, 186, adap.; Hartt, 343, adap.) - Estou com pressa.
 334 - estou com pressa.
 
 335 - teñe kurí neresarái sesuí.
@@ -1405,7 +1405,7 @@ p. 343
 338 - dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
-339 -
+339 - kwá yawara mirĩ ti será ne rimbawa? (Hartt, 343, adap.) - Esse cachorrinho não é teu [animal de estimação]?
 339 - esse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
@@ -1427,7 +1427,7 @@ p. 344
 343 - a fumaça não está boa, cheira mal.
 
 344 - santán reté ymyrá, intí opén.
-344 -
+344 - Santá reté mirá, ti upena. (Hartt, 344, adap.) - O pau é muito duro, não quebra.
 344 - o pau é muito duro, não quebra.
 
 345 - tatatína sasy reté seresápe.
@@ -1435,7 +1435,7 @@ p. 344
 345 - a fumaça dói muito aos meus olhos.
 
 346 - okér oé será tayna?
-346 -
+346 - Ukiri wé será taína? (Hartt, 344, adap.) - Ainda dorme a criança?
 346 - ainda dorme a criança?
 
 347 - yauára okér oikó.
@@ -1467,7 +1467,7 @@ p. 344
 353 - vou a pé.
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
-354 -
+354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
 354 - mando minha canoa a vila para voltar depois de amanhã.
 
 p. 345
@@ -1485,7 +1485,7 @@ p. 345
 357 - estende aquela esteira no chão.
 
 358 - xasó xamupuám sekysáua setiára resé.
-358 -
+358 - Asú amupuãmu se kisawa se tiãnha resé. (Hartt, 345, adap.) - Vou suspender minha rede aos meus esteios.
 358 - vou suspender minha rede aos esteios.
 
 359 - máme taá yasó yaker?
@@ -1505,11 +1505,12 @@ p. 345
 362 - o sol ainda não entrou.
 
 363 - amána okyr oikó.
-363 -
+363 - Amana ukiri uikú. (Tastevin, 625; Hartt, 345, adap.) - A chuva está caindo.
 363 - a chuva está pingando.
 
 364 - amána okyr ramé intí xasó.
-364 -
+364 - Amana ukiri ramé, ti
+asú. (Hartt, 345, adap.) - Se chover, eu não vou.
 364 - se chover não vou.
 
 365 - kurí mirí amána okyr.
@@ -1517,7 +1518,8 @@ p. 345
 365 - há de chover logo.
 
 366 - oí pytun sekér aiyú xaikó seretáma pupe.
-366 -
+366 - Uií pituna se kiriaíwa aikú se retama pupé.
+(Hartt, 345, adap.) - Esta noite sonhei que estava na minha terra.
 366 - esta noite sonhei que estava na minha terra.
 
 366a - ixé sekér aiyú.
@@ -1535,11 +1537,11 @@ p. 346
 368 - fica quieto! vai descansar! parece que tu pensas que estou dormindo.
 
 369 - maramé réar?
-369 -
+369 - Mairamé rewari? (Hartt, 346, adap.) - Quando nasceste?
 369 - quando nasceste?
 
 370 - ixé xaár Tupaiope.
-370 -
+370 - Ixé awari Tupayú-pe. (Hartt, 346, adap.) - Eu nasci em Santarém.
 370 - nasci em Santarém.
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
@@ -1559,7 +1561,7 @@ p. 346
 374 - quantos anos tens?
 
 375 - sekumutí oyaryg án, intí án teresém.
-375 -
+375 - Se kamutí uyaruka ã, ti ã teresemu. (Hartt, 346, adap.) - Meu pote teve seu conteúdo diminuído, não está mais cheio.
 375 - meu pote está vazio.
 
 376 - emoakú yg!
@@ -1593,7 +1595,7 @@ p. 347
 382 - a que horas chegou?
 
 383 - semaníya rapó tiarún oikó ikatú yayurá aráma.
-383 -
+383 - Se maniiwa rapú tinharú uikú, i katú yayurá arama. (Hartt, 347, adap.) - A raiz da mandioca já está madura, está boa para desmancharmos [em farinha]
 383 - a mandioca já está madura e boa para se desmanchar em farinha.
 
 384 - akutí oú reté semaniók.*
@@ -1617,7 +1619,7 @@ p. 347
 388 - a mãe d'água estrondou no rio.
 
 389 - oyuir án será paraná?
-389 -
+389 - Uyuíri ã será paraná? (Hartt, 347, adap.) - Já vazou o rio?
 389 - já vazou o rio? (maré).
 
 390 - maá taá xañeén kuesé inéu, rekuáu será?
@@ -1663,15 +1665,15 @@ p. 348
 399 - eu tinjo de preto meu fio.
 
 400 - irané kurí xamuñán pá semuraiky
-400 -
+400 - Wirandé kurí amunhã pá se murakí. (Hartt, 348, adap.) - Amanhã hei de fazer todo o meu serviço.
 400 - amanhã hei de fazer todo o meu serviço.
 
 401 - tapañúna kuaá karía miasúa.
-401 -
+401 - Tapayuna kwá kariwa miasúa. (Hartt, 348, adap.) - O negro é escravo deste branco.
 401 - o negro é escravo daquele branco.
 
 402 - kuá kuñán ipuruá.
-402 -
+402 - Kwá kunhã i puruã. (Hartt, 348, adap.) - Esta mulher está grávida.
 402 - esta mulher está prenha.
 
 403 - ipixún-pixun sesá.
@@ -1725,7 +1727,7 @@ p. 349
 414 - como se chama aquela árvore?
 
 415 - iuasú reté mira osenuí kuaé ymyrá réra.
-415 -
+415 - Iwasú reté mira usenúi kwá mirá rera. (Hartt, 349, adap.) - É difícil a gente dizer o nome deste pau.
 415 - o nome daquele pau é muito difícil.
 
 416 - kuekatú kurí Kurupatuguára itá.
@@ -1733,7 +1735,7 @@ p. 349
 416 - lembranças aos habitantes de Monte-Alegre.
 
 417 - xasó rañé, ate irané, tapána putár ramé.
-417 -
+417 - Asú rẽ, até wirandé, tupana uputari ramé. (Hartt, 349, adap.) - Já me vou, até amanhã, se Deus quiser.
 417 - já vou, até amanhã, se Deus quizer.
 
 418 - sekatú mirí xaikó.
@@ -1741,7 +1743,7 @@ p. 349
 418 - estou zinho bom.
 
 419 - mayaué taé oikó nekyuirá?
-419 -
+419 - Mayé taá uikú ne kiwira? (Hartt, 349, adap.) - Como está teu irmão?
 419 - como está teu irmão?
 
 420 - sykantán omuisyk páu uán se pó.
@@ -1749,11 +1751,11 @@ p. 349
 420 - o breu já breou toda a minha mão.
 
 421 - mayaué reikó?
-421 -
+421 - ― Mayé reikú? ― Se katú nhuntu aikú. (Hartt, 349, adap.) - ― Como você está? ― Estou assim, assim.
 421 - como estás?
 
 422 - se katú ñúnte xaikó.
-422 -
+422 - Se katú nhuntu aikú. (Hartt, 349, adap.) - ― Estou assim, assim.
 422 - estou assim.
 
 p. 350
@@ -1767,7 +1769,7 @@ p. 350
 424 - bom sómente.
 
 425 - peñeén petitúa.
-425 -
+425 - Penhẽ pe pitúa. (Hartt, 350, adap.) - Vós estais com preguiça.
 425 - vós estais com preguiça.
 
 426 - xasykyyí.
@@ -1779,7 +1781,7 @@ p. 350
 427 - de que tens medo?
 
 428 - setyym reté ixé.
-428 -
+428 - Se atiima reté ixé. (Hartt, 350, adap.) - Eu estou com muita preguiça.
 428 - estou com muita preguiça.
 
 429 - sakó reté osó ikó.
@@ -1795,7 +1797,7 @@ p. 350
 431 - o que estás fazendo até esta hora da tarde.
 
 432 - xatumuñeén xaikó.
-432 -
+432 - Atumuyé aikú. (Hartt, 350, adap.) - Estou assobiando.
 432 - estou assobiando.
 
 433 - tatú opykóin ikó kapina oú aráma kupiín.
@@ -1817,7 +1819,7 @@ p. 350
 p. 351
 
 437 - neymaasy será?
-437 -
+437 - Ne yumasí será? (Hartt, 351, adap.) - Tens fome?
 437 - tens fome?
 
 438 - ixé intí seyumaasy.
@@ -1833,11 +1835,11 @@ p. 351
 440 - êle está com sêde.
 
 441 - yukeuá oikó setyn.
-441 -
+441 - Uyukindawa uikú se tĩ. (Hartt, 351, adap.) - Meu nariz está tapado.
 441 - meu nariz está tapado.
 
 442 - se akánga sasy.
-442 -
+442 - Se akanga sasí (Hartt, 351, adap.). Dói-me a cabeça.
 442 - dóe-me a cabeça.
 
 443 - xasó raén xak sepusána.
@@ -1875,7 +1877,7 @@ p. 351
 p. 352
 
 451 - xasó ygarapé rumasá kyty.
-451 -
+451 - Asú igarapé rumasá kití. (Hartt, 352, adap.) - Vou descer o igarapé.
 451 - vou descer o igarapé.
 
 452 - xasó paraná ygapyra kyty.
@@ -1883,7 +1885,7 @@ p. 352
 452 - vou subir o rio.
 
 453 - yasó mené rupí.
-453 -
+453 - Yasú mewé rupí! (Hartt, 352, adap.) - Vamos devagar!
 453 - vamos de vagar!
 
 454 - xasó ygapyra kyty.
@@ -1911,15 +1913,15 @@ p. 352
 459 - puxaí!
 
 460 - kuaá ymyrá oikó pokú muyr akaiú-póra.
-460 -
+460 - Kwaá mirá uikupukú muíri akayú pura. (Hartt, 352, adap.) - Este pau dura muitos anos completos.
 460 - êste pau dura muitos anos.
 
 461 - intí oyuyasú oikó, aramé eyasuí.
-461 -
+461 - Ti uyuyasuí uikú, aramé reyasuí. (Hartt, 352, adap.) - Não está coberto, então cobre.
 461 - não está coberto, então cobre-o.
 
 462 - kuaá kuñán yumyrum oikó, ipyá aiyú resé.
-462 -
+462 - Kwaá kunhã uyumirú uikú i piaíwa resé. (Hartt, 352, adap.) - Esta mulher está desconfiada por estar irritada.
 462 - esta mulher está desconfiada(?).
 
 463 - áre, arekó pokú reté án teñé.
@@ -1933,7 +1935,7 @@ p. 352
 p. 353
 
 465 - xasó xayuká itá quáro asykuéra rupí.
-465 -
+465 - Asú ayuká itá irundí asikwera rupí. (Hartt, 353, adap.) - Vou quebrar a pedra em quatro pedaços.
 465 - vou quebrar a pedra em quatro pedaços.
 
 466 - intí será senanan iné?
@@ -1941,7 +1943,7 @@ p. 353
 466 - tu não me enganas?
 
 467 - sapukáia omomor iepé supiá.
-467 -
+467 - Sapukaya umumburi yepé supiá. (Hartt, 353, adap.) - A galinha botou um ovo.
 467 - a galinha poz um ovo.
 
 468 - ygára osy ramé xasó sepatráun kyty.
@@ -1949,7 +1951,8 @@ p. 353
 468 - logo que a canoa chegou fui ter com o patrão.
 
 469 - mixikói mira oapy ygantíme.
-469 -
+469 - Mixukúi mira uwapika gantime. (Hartt, 353, adap.) - Lá está uma pessoa sentada na prôa [da
+canoa].
 469 - lá está alguma pessoa assentada na proa de canoa.
 
 470 - apyáua oapyl ygantin opé.
@@ -1961,7 +1964,7 @@ p. 353
 471 - tu não sabes remar.
 
 472 - peapukúi santán.
-472 -
+472 - Peyapukúi santá! (Hartt, 353, adap.) - Remai com força!
 472 - remai com força.
 
 473 - peapukúi kurí yasyk aráma okaopé.
@@ -1973,7 +1976,8 @@ p. 353
 474 - a canoa encalhou.
 
 475 - xasó xakapy sekupixáua yaitya reté oikó.
-475 -
+475 - Asú akapiri se kupixawa, yaitiwa reté uikú. (Hartt, 353, adap.) - Vou capinar minha
+roça, está muito cerrada.
 475 - vou capinar minha roça, está muito serrada.
 
 476 - xayuyr putár takykuéra kyty.
@@ -1991,7 +1995,9 @@ p. 353
 p. 354
 
 479 - xayupeé (ou xayumusakó) xaikó.
-479 -
+479 - Ayumusakú aikú. (Hartt, 354, adap.) - Estou me aquentando.
+479 - Ayupeé aikú. (Hartt, 354, adap.) - Estou me
+aquentando.
 479 - estou me aguentando.
 
 480 - ixé xapysy kuáu mirí teñe yg.
@@ -2003,15 +2009,15 @@ p. 354
 481 - deixa-me ir, voltarei logo.
 
 482 - xasó xampupuám tayna.
-482 -
+482 - Asú amupuãmu taína (Hartt, 354, adap.) - Vou fazer levantar a criança.
 482 - eu faço levantar o menino.
 
 483 - ixé xapukuár pinóa seróka árpe.
-483 -
+483 - 
 483 - quero amarrar palha na minha casa.
 
 484 - xamutuyúka vutár se róka.
-484 -
+484 - Amutuyuka-putari se ruka. (Hartt, 354, adap.) - Quero entijucar a minha casa.
 484 - vou entijucar minha casa.
 
 485 - emukytán tupasáma.
@@ -2023,12 +2029,13 @@ p. 354
 486 - faço ferver o meu alambique para distilar minha estilada.
 
 487 - serasó nerúm.
-487 -
+487 - Se rasú ne irũ. (Hartt, 354, adap.) - Leva-me contigo.
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
 488a - apyáua Piauí uára.
-488 -
+488 - Apigawa Piauíwara (Hartt, 354, adap.) - O
+homem é natural do Piauí.
 488 - o homem é filho de Piauí.
 
 489 - saaimú xarekó kysé, xamonok imú ñaán ymyrá.
@@ -2036,11 +2043,11 @@ p. 354
 489 - se eu tivesse uma faca, cortaria o pau.
 
 490 - apyáua súa iapixáin uán.
-490 -
+490 - Apigawa ruá i pixaĩ wã. (Hartt, 354, adap.) - A cara do homem já tem pregas.
 490 - a cara do homem já tem pregas.
 
 491 - tuyaé intí uán orekó iaña, yopiróg uán iakána.
-491 -
+491 - Tuyué ti wã urikú i awa, uyupiruka wã i akanga. (Hartt, 354, adap.) - O velho não tem mais cabelos, sua cabeça já está pelada.
 491 - o velho já não tem cabelos, a cabeça dêle está calva.
 
 492 - ituyaé uán.
@@ -2054,7 +2061,7 @@ p. 355
 493 - queimei meu pé, água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
-494 -
+494 - Kwaá mirá setá reté iké. (Hartt, 355, adap.) - Este pau é muito abundante aqui.
 494 - êste pau é muito abundante aqui.
 
 495 - ixé intí neyaué.
@@ -2066,11 +2073,11 @@ p. 355
 496 - tens alguma cousa bonita para me vender?
 
 497 - sarasy reté tuyaé resé.
-497 -
+497 - Se arasí reté tuyué resé. (Hartt, 355, adap.) - Tenho muita pena do velho.
 497 - tenho muita pena do velho.
 
 498 - amána teapó oikó.
-498 -
+498 - Amana tiapú uikú. (Hartt, 355, adap.) - Está trovejando (lit., a chuva está soando).
 498 - está trovejando.
 
 499 - xauasém iepé kúia ygarupápe.
@@ -2086,11 +2093,11 @@ p. 355
 501 - êste homem não vale de nada.
 
 502 - kuaá kuñán mukú intí rañé okuáu maé resé uára.
-502 -
+502 - Kwaá kunhamukú ti rẽ ukwáu maã resewara. (Hartt, 355, adap.) - Esta moça ainda não sabe de nada.
 502 - esta moça não sabe de nada.
 
 503 - kuñán mukú intí rañé múndo póra.
-503 -
+503 - Kunhamukú ti rẽ mundupura. (Hartt, 355, adap.) - A moça é inocente e virgem [lit., "a moça ainda não é do mundo"]
 503 - menina inocente e virgem.
 
 504 - xapoóg uán iyá suí.
@@ -2112,11 +2119,11 @@ p. 356
 507 - aquêle homem não sabe fazer sua hóstia.
 
 508 - uaraná oxirik reté an.
-508 -
+508 - Waraná uxirika retana. (Hartt, 356, adap.) - O guaraná está bastante torrado.
 508 - o guaraná está bastante torrado.
 
 509 - paué osó oposanun kaápe.
-509 -
+509 - Payé usú upusanú kaá-pe. (Hartt, 356, adap.) - O pajé foi curar no mato.
 509 - o pagé foi curar no mato.
 
 510 - kuaá tenáua intí imaasy orekó.
@@ -2144,7 +2151,7 @@ p. 356
 515 - mete meu chapeu na cabeça.
 
 516 - xainú sexapéa se akána árpe.
-516 -
+516 - Ainú se xapewa se akanga árupi. (Hartt, 356, adap.) - Ponho meu chapéu sobre a minha cabeça
 516 - ponho o chapeu de palha da mulher?
 
 517 - rerekó será kuñán xapéua pináua suí uára?
@@ -2156,7 +2163,7 @@ p. 356
 518 - não estou casado.
 
 519 - xasó xayumuméu pái irúm xayár aráma tupána.
-519 -
+519 - Asú ayumumbeú paí irumu ayari arama tupana. (Hartt, 356, adap.) - Vou confessar-me com o padre para receber o sacramento da eucaristia.
 519 - vou confessar ao padre para tomar o santíssimo sacramento.
 
 520 - intí xayuruyár Joáun resé.
@@ -2170,11 +2177,12 @@ p. 357
 521 - êste leite de seringa já coalhou.
 
 522 - itá senypó.
-522 -
+522 - Itá sinipuka. (Hartt, 357, adap.) - A pedra luze.
 522 - a pedra luze.
 
 523 - aikó ór muyepé apyáua okára pytéra rupí.
-523 -
+523 - Aikwé uri yepé apigawa ukara pitera rupí.
+(Hartt, 357, adap.) - Aí vem um homem pelo meio da rua.
 523 - aí vem um homem no meio da rua.
 
 524 - yané yára, tupána!
@@ -2182,11 +2190,11 @@ p. 357
 524 - nosso senhor, Deus!
 
 525 - yuy uryry oikó.
-525 -
+525 - Iwí urirí uikú. (Hartt, 357, adap.) - A terra está tremendo.
 525 - a terra está tremendo.
 
 526 - óka ayúa okukúi pan.
-526 -
+526 - Uka aíwa ukukúi pá wã. (Hartt, 357, adap.) - A casa antiga já caiu toda.
 526 - a casa antiga já caiu tôda.
 
 527 - se peyú iné!
@@ -2206,7 +2214,7 @@ p. 357
 530 - deixa-me ir encher o pote.
 
 531 - ekoin epurakár yg kamutí opé.
-531 -
+531 - Resú repurakari ií kamutí upé. (Hartt, 357, adap.) - Vá encher o pote de água.
 531 - vá encher a agua no póte.
 
 532 - emunéu sekysé senáua opé.
@@ -2214,7 +2222,7 @@ p. 357
 532 - metí minha faca na bainha.
 
 533 - emeén suaxára ixéu.
-533 -
+533 - Remeẽ suaxara ixé arama. (Hartt, 357, adap.) - Dê-me a metade.;
 533 - dá-me a metade.
 
 534 - apykáua oyumuñán akaiaka suí.
@@ -2224,7 +2232,7 @@ p. 357
 p. 358
 
 535 - ixé xamuñán kár seuaráia yaxitára suí.
-535 -
+535 - Ixé amunhã-kari se waraya yasitara suí. (Hartt, 358, adap.) - Eu mandei fazer meu balaio de jacitara.
 535 - eu mandei fazer meu balaio de jacitara.
 
 536 - xarekó mokoin apyká, muyepé itaya suiuára, amú yakaiaká sui uára.
@@ -2244,7 +2252,7 @@ p. 358
 539 - vou para a outra banda.
 
 540 - maá rupí taá nerapé?
-540 -
+540 - Marupí taá ne rapé? (Hartt, 358, adap.) - Por onde é o teu caminho?
 540 - para onde está teu caminho?
 
 541 - maé ára taé kuaé?
@@ -2268,10 +2276,10 @@ p. 358
 545 - a lua nova traz chuva.
 
 546 - yasy suuyk uán.
-546 -
+546 - Yasí sumbika wã. (Hartt, 358, adap.) - A Lua já está escura.
 546 - a lua já está escura.
 
-547 - a lua es´ta mingoando.*
+547 - a lua está mingoando.*
 
 548 - yasy suá uasú oikó.
 548 -
@@ -2312,7 +2320,8 @@ p.359
 556 - até o mesmo, boa noite.
 
 557 - xayusyú putár sepó yg irúm, xamutikan putár toáia irúm.
-557 -
+557 - Ayusí-putari se pú ií irumu, amutikanga-putari tuáya irumu. (Hartt, 359, adap.)
+– Quero limpar minhas mãos com água e enxugá-las com uma toalha.
 557 - quero limpar minhas mãos com água e enxugá-las numa toalha.
 
 558 - xaú rañé kafé.
@@ -2346,11 +2355,11 @@ p. 360
 564 - come depressa aquela banana.
 
 565 - yakyr oikó sepakúa.
-565 -
+565 - Yakira uikú se pakúa. (Hartt, 360, adap.) - Minhas bananas estão verdes.
 565 - minhas bananas estão verdes.
 
 566 - se pakóa iyúg án (Santarem).
-566 -
+566 - Se pakúa i yuka ã. (Hartt, 360, adap.) - Minhas bananas já apodreceram.
 566 - minhas pacóvas estão podres.
 
 567 - opáin maé oatár ixéu.
@@ -2370,7 +2379,7 @@ p. 360
 570 - deixe-me ir à minha casa buscar guariba para nós bebermos.
 
 571 - xamuñán uán seuariua.
-571 -
+571 - Amunhã wã se wariwa. (Hartt, 360, adap.) - Já preparei minha guariba.
 571 - já preparei minha guariba.
 
 572 - xaú putár meiú xika.
@@ -2382,11 +2391,11 @@ p. 360
 573 - que qualidade de peixe é essa?
 
 574 - santí reté kuaá pirá.
-574 -
+574 - Saintí reté kuaá pirá. (Hartt, 360, adap.) - Esse peixe é muito espinhoso.
 574 - êste peixe é muito espinhoso.
 
 575 - pirá symyg reté oikó(sembyg, Ereré).
-575 -
+575 - Pirá sembika reté uikú. (Hartt, 360, adap.) - O peixe está muito salgado.
 575 - o peixe está muito salgado.
 
 p. 361
@@ -2448,7 +2457,6 @@ p. 361
 589 - vamos pilar arroz!
 
 p. 362
-
 
 590 - yg ikatú reté.
 590 -
