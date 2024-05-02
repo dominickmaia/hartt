@@ -16,9 +16,9 @@ p. 319
 4 - Remumbawa ana será ne purakisawa? (Hartt, 319, adap.) - Já acabaste teu serviço?
 4 - já acabaste teu serviço?
 
-5 - yanerá ipurán yamosyny aráma.
-5 - Yãdirawa yãdí yambirari arama.
-5 - azeite de andiroba é bom para dar a luz.
+5 - yaneróa ipurán yamosyny aráma.
+5 - Yandirawa i purã yamusení arama.
+5 - azeite de andiroba é bom para dar luz.
 
 6 - rerekó será sapukáia rupiá?
 6 - Rerikú será sapukaya rupiá?
@@ -2013,7 +2013,7 @@ aquentando.
 482 - eu faço levantar o menino.
 
 483 - ixé xapukuár pinóa seróka árpe.
-483 - 
+483 -
 483 - quero amarrar palha na minha casa.
 
 484 - xamutuyúka vutár se róka.
@@ -3521,7 +3521,7 @@ p. 380
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
-847 - 
+847 -
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
