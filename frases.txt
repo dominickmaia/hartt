@@ -3489,7 +3489,7 @@ p. 380
 838 - sei fazer.
 
 839 - nerakykuéra kurí xasó.
-839 -
+839 - ne rakakwera kurí asú. *
 839 - hei de ir atraz de ti.
 
 840 - maá ymyrá suí resó remuñán neygára?
@@ -3521,7 +3521,7 @@ p. 380
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
-847 -
+847 - rerikú será urusakanga puranga né <vizinho> suí? * #uakiwara?
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
