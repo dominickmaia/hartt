@@ -2933,7 +2933,7 @@ p. 370
 704 - vai tirar aquela brasa para mim.
 
 705 - searasy reté intí resé xasó kuáu.
-705 -
+705 - se arasi reté ti resé asú-kwáu. (Hartt, 370, adap.) - sinto muito por não poder ir.
 705 - sinto muito que não posso ir.
 
 706 - Manú intí maé omeén ixéu, intí resé seraisú.
@@ -2945,7 +2945,7 @@ p. 370
 707 - eu te amo.
 
 708 - ixé peraisú.
-708 -
+708 - ixé pe raisú. (Hartt, 370, adap.) - eu vos amo.
 708 - eu vos amo.
 
 709 - ñaá apyáua ñún teñe oyasaysú.
@@ -2953,7 +2953,7 @@ p. 370
 709 - aquêle homem não ama senão a si mesmo.
 
 710 - xaryry irusán irúm.
-710 -
+710 - arirí aikú irusanga irumu. (Hartt, 370, adap.) - estou tremendo de frio.
 710 - tremo de frio.
 
 711 - kuaá apyáua ára yaué okaú oikó.
@@ -2961,7 +2961,7 @@ p. 370
 711 - êste homem está bêbedo todos os dias.
 
 712 - maeresé intí remuyasúk kuaé maeitá ikyá uaé?
-712 -
+712 - maã resé ti remuyasuka kwaá maãitá i kiá waá? (Hartt, 370, adap.) - Por que não lavas a roupa suja?
 712 - porque não lavas a roupa suja?
 
 713 - ikyá ikó, maeresé intí remuyasúk?
@@ -2987,7 +2987,7 @@ p. 371
 717 - vou cantar com a minha viola.
 
 718 - amú kuri okuáu, amú kurí intí okuáu putár.
-718 -
+718 - amú kurí ukwáu, amú kurí ti ukwáu-putari. (Hartt, 371, adap.) - alguns hão de saber, outros não hão de querer saber.
 718 - alguns hão de saber, outros não hão de querer saber.
 
 719 - paí ramána ykyra reté oikó intí yanaiuára.
@@ -3003,29 +3003,29 @@ p. 371
 721 - não estou brincando contigo.
 
 722 - tapañúna oporoyuka móia resé.
-722 -
+722 - tapayuna upuruyuká buya resé. (Hartt, 371, adap.) - O preto matou a cobra.
 722 - o preto matou a cobra.
 
 723 - xasó xamapó tapyira.
-723 -
+723 - asú amupú tapiira. (Hartt, 371, adap.) - Vou tocar o gado.
 723 - vou tocar o gado.
 
 724 - xarekó oyepé kyuíra sekouecé uaé.
-724 -
+724 - arikú yepé se kiwira sikwé waá.(Hartt, 371, adap.) - Tenho um irmão que está vivo.
 724 - tenho um irmão vivo.
 
 725 - ixé xapumán seamaniú.
-725 -
+725 - ixé apumana se amaniú. (Hartt, 371, adap.) - Eu estou fiando meu algodão.
 725 - estou fiando meu algodão.
 
 726 - xamueté putár kuaá tupána.
-726 -
+726 - amueté-putari kwá tupana. (Hartt, 371, adap.) - Quero festejar este santo.
 726 - quero festejar êste santo.
 
 p. 372
 
 727 - ipixain uán neruá.
-727 -
+727 - i pixaĩ wã ne ruá. (Hartt, 372, adap.) - Tua cara está cheia de pregas.
 727 - tua cara está cheia de pregas.
 
 728 - xasó uán xayumumeú.
@@ -3037,7 +3037,7 @@ p. 372
 729 - escolha dois paus.
 
 730 - pykasú ikáua reté oikó.
-730 -
+730 - pikasú i kawa reté uikú. (Hartt, 372, adap.) - A pomba está muito gorda.
 730 - a pomba está muito gorda.
 
 731 - kuñán ipuruá ikó.
@@ -3057,11 +3057,11 @@ p. 372
 734 - estou esperando o homem.
 
 735 - xasó xayuók itá póso suí.
-735 -
+735 - asú ayuuka itá pusu suí. (Hartt, 372, adap.) - Vou tirar a pedra do poço.
 735 - vou tirar a pedra do poço.
 
 736 - kurumí mirí osyririk ikó, inti raén ouatá kuáu.
-736 -
+736 - kurumĩ mirĩ usiririka uikú, ti rẽ uwatá-kwáu. (Hartt, 372, adap.) - O menino está engatinhando, ainda não sabe andar.
 736 - o menino está engatinhando, ainda não sabe andar.
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
@@ -3069,7 +3069,7 @@ p. 372
 737 - eu não acreditava que o homem viesse cêdo.
 
 738 - amaniú opororóg oikó.
-738 -
+738 - amaniú upururuka uikú. (Hartt, 372, adap.) - O algodão está abrindo.
 738 - o algodão está abrindo.
 
 739 - xapumymyk serenimú.
