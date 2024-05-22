@@ -2863,7 +2863,7 @@ p. 369
 687 - falas a língua geral?
 
 688 - koromó teé aintá oñeén seresé!
-688 -
+688 - kurumú taá aintá unheẽ se resé! (Hartt, 369, adap.) - Pode ser que eles tenham falado contra mim!
 688 - pode ser que êles falaram contra mim.
 
 689 - koromó tée aintá seakáu ygára resé.
@@ -2871,7 +2871,7 @@ p. 369
 689 - pode ser que êles me ralharam por causa da canoa.
 
 690 - suyrúm kuá apyáua, oñeén teé teé amuitá resé.
-690 -
+690 - suirũ kwá apigawa, unheẽ teé-teé amú-itá resé. (Hartt, 369, adap.) - Este homem é malicioso, ele fala mal dos outros.
 690 - êste homem é malicioso, êle fala mal dos outros.
 
 691 - teñé inti eñeén puxí ne kamarára resé, intí katú.
@@ -2879,7 +2879,7 @@ p. 369
 691 - não fala mal de teus companheiros, não é bom.
 
 692 - iné nekyrymáua pyry amuitá suí.
-692 -
+692 - indé kirimbawa piri amú-itá suí. (Hartt, 369, adap.) - Tu és mais forte que os outros.
 692 - tu és mais forte que os outros.
 
 693 - kuaá kuñán mukú orikó paiu mira ruy.
@@ -2887,11 +2887,11 @@ p. 369
 693 - esta moça é mestiça.
 
 694 - xamusatatin karapaná supé xamapú aráma uetépe reté karapaná.
-694 -
+694 - amutatatinga karapanã supé, amupú arama wetepe reté karapanã. (Hartt, 369, adap.) - Estou fazendo fumaça para os carapanãs, para enxotar carapanãs em grandes quantidades.
 694 - estou fazendo fumaça para espantar as carapanás são muitas.
 
 695 - tayna opoñí oikó.
-695 -
+695 - taína upunhẽ uikú. (Hartt, 364, adap.) - A criança está engatinhando.
 695 - a criança está engatinhando.
 
 696 - auá tamonó(taá omonó) kuñán mukú iké?
@@ -2907,7 +2907,7 @@ p. 369
 698 - quero rolar meu tauari para fumar.
 
 699 - kurutén uára yuytú oyeréu.
-699 -
+699 - kurutẽiwara iwitú uyeréu. (Hartt, 369, adap.) - De repente o vento virou.
 699 - de repente o vento virou.
 
 p. 370
