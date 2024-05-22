@@ -3079,7 +3079,7 @@ p. 372
 p. 373
 
 740 - ixé xapuruyuká an.
-740 -
+740 - ixé apuruyuká ana. (Hartt, 373, adap.) - Já matei gente.
 740 - já matei gente.
 
 741 - Pedero maé uaé oyuká Yoáun.
@@ -3087,11 +3087,11 @@ p. 373
 741 - Pedro que matou João.
 
 742 - xasó xayuyuká.
-742 -
+742 - asú ayuyuká. (Hartt, 373, adap.) - vou me matar.
 742 - vou me matar.
 
 743 - yané yasó peyuká.
-743 -
+743 - yandé yasú pe yuká. (Hartt, 373, adap.) - Nós vamos nos matar.
 743 - nós outros vos matamos.
 
 744 - tupána resé, teñe ine seyuká!
@@ -3115,7 +3115,7 @@ p. 373
 748 - nós dois queremos nos matar.
 
 749 - xasó xayutím omanó uaé.
-749 -
+749 - asú ayutima umanú waá. (Hartt, 373, adap.) - vou enterrar o que morreu.
 749 - vou enterrar o defunto.
 
 750 - ixé amanó uán xaikó.
@@ -3123,25 +3123,25 @@ p. 373
 750 - estou morto.
 
 751 - ixé menasára yma uán seremirikó omanó uá.
-751 -
+751 - ixé mendesaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
 751 - sou viuvo, minha mulher está morta.
 
 752 - omanó pán aintá, néan oyepé opytá.
-752 -
+752 - umanú pawa aintá, nẽ wã yepé upitá. (Hartt, 373, adap.) - Morreram todos eles, não restou nenhum.
 752 - morreram todos, não ficou nenhum.
 
 753 - yamuñán ramé ñaé kurumú teé yamanó.
-753 -
+753 - yamunhã ramé nhaã, kurumú taá yamanú. (Hartt, 373, adap.) - Ao fazermos isso, pode ser que morramos.
 753 - fazendo isso, pode ser que morra.
 
 p. 374
 
 754 - serimirikó omanó uán sesuí.
-754 -
+754 - se rimirikú umanú wã se suí. (Hartt, 374, adap.) - Minha mulher já morreu.
 754 - minha mulher já morreu.
 
 755 - apyáua oár yg pype, oatár iána, omanó.
-755 -
+755 - apigawa uwari ipí-pe, uwatari i anga, umanú. (Hartt, 374, adap.) - o homem caiu na água, faltou-lhe o fôlego e ele morreu.
 755 - o homem caiu na agua, faltou-lhe o folego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
@@ -3149,7 +3149,7 @@ p. 374
 756 - qual é a côr das tuas calças?
 
 757 - poité remuñán.
-757 -
+757 - puité remunhã. (Hartt, 374, adap.) - Tu falas mentiras.
 757 - tu falas mentiras.
 
 758 - iné supí reñeén.
@@ -3169,11 +3169,11 @@ p. 374
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
-762 -
+762 - amusaimbé se kisé itakí pupé. (Hartt, 374, adap.) - Amolo minha faca na pedra de amolar.
 762 - estou amolando minha faca na pedra de amolar.
 
 763 - kipé intí saimé.
-763 -
+763 - kisé ti saimbé. (Hartt, 374, adap.) - A faca não está amolada.
 763 - a faca não está amolada.
 
 764 - kuaé kúya yuyuká.
@@ -3189,7 +3189,7 @@ p. 374
 766 - estou constipado.
 
 767 - sepó ipuná reté.
-767 -
+767 - se pú i punga reté. (Hartt, 374, adap.) - Minha mão está inchada.
 767 - minha mão está inchada.
 
 p. 375
