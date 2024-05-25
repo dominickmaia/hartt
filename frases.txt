@@ -315,7 +315,7 @@ p. 324
 76 - a mulher às vezes fica zangada com seus filhos.
 
 77 - yané karúka.
-77 -
+77 - yané karuka.*
 77 - boa tarde.
 
 78 - kuaá semymyra iatyyma, ixirín osú yuír.
@@ -411,11 +411,11 @@ p. 326
 99 - de que sexo é tua criança?
 
 100 - apyáua.
-100 -
+100 - apigawa. *
 100 - macho.
 
 101 - kuñán.
-101 -
+101 - kunhã. *
 101 - fêmea.
 
 102 - taiasú opytá kuaa mokóin ymyrá puterpe.
@@ -457,7 +457,7 @@ p. 327
 109 - o cachorro pulou em cima da mesa.
 
 110 - sapukáia oueuéu ymyrá árpe.
-110 -
+110 - sapukaya... i mirá árupi. *
 110 - a galinha voou em cima do pau.
 
 111 - ypá itypy rete.
@@ -3239,11 +3239,11 @@ p. 375
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
-779 -
+779 - kamutí teresemu ã uikú. (Hartt, 375, adap.) - o pote está cheio.
 779 - o póte está cheio.
 
 780 - kamutí ipóra.
-780 -
+780 - kamutí i pura. (Hartt, 375, adap.) - o pote está cheio.
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
@@ -3253,7 +3253,7 @@ p. 375
 p. 376
 
 782 - kuñán mukú suryu oikó.
-782 -
+782 - 
 782 - a menina está alegre.
 
 783 - sekuerái uán xaikó.
@@ -3261,11 +3261,11 @@ p. 376
 783 - estou aborrecido.
 
 784 - searasy reté xaikó maeresé seremirikó imaary reté.
-784 -
+784 - se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.) 
 784 - estou muito triste, porque minha mulher está muito doente.
 
 785 - aé pyá uasú reté.
-785 -
+785 - aé piawasú reté. (Hartt, 376, adap.) - Ele é muito corajoso.
 785 - ele tem muita coragem.
 
 786 - se pyá ayú reté ixé(Mauhé).
@@ -3273,7 +3273,7 @@ p. 376
 786 - estou muito zangado.
 
 787 - xasykyyí yaureté suí.
-787 -
+787 - asikié yawareté suí. (Hartt, 376, adap.) - Eu tenho medo de onça.
 787 - tenho medo da onça.
 
 788 - seretymá imaraár reté.
@@ -3281,7 +3281,7 @@ p. 376
 788 - minhas pernas estão muito cançadas.
 
 789 - semaraár xañén reté resé.
-789 -
+789 - se maraari ayana reté resé. (Hartt, 376, adap.) - Estou cansado porque corri muito.
 789 - estou cançado de correr tanto.
 
 790 - xaputuú mirí rañé.
@@ -3289,7 +3289,7 @@ p. 376
 790 - deixa-me descançar um bocado.
 
 791 - Joakin imaasy ikó, oár kauarú ára suí, omopén iyuuá kuyr ikatú mirí uán oikó.
-791 -
+791 - Joakin i maasí uikú, uwari kawarú ara suí, umupena i yuwá, kuíri i katú mirĩ wana uikú. (Hartt, 376, adap.)
 791 - Joaquim está doente, ele caiu do cavalo e quebrou seu braço, agora está um pouco melhor.
 
 792 - intí retín?
@@ -3297,11 +3297,11 @@ p. 376
 792 - não tens vergonha?
 
 793 - apyáua intí otín.
-793 -
+793 - apigawa ti utĩ. (Hartt, 376, adap.) - O homem não tem vergonha.
 793 - o homem não tem vergonha.
 
 794 - kuñán iarasy reté (Mauhé).
-794 -
+794 - kunhã i arasí reté. (Hartt, 376, adap.) - A mulher está triste.
 794 - a mulher está triste.
 
 p. 377
@@ -3347,7 +3347,7 @@ p. 377
 804 - nossa roça é longe de casa.
 
 805 - semaraár reté xauatá.
-805 -
+805 - se maraari reté awatá. (Hartt, 376, adap.) - estou cansado de andar.
 805 - estou cançado de andar.
 
 806 - maé resé intí remenar putár serúm?
@@ -3393,7 +3393,7 @@ p. 378
 815 - a pedra pesa muito.
 
 816 - iya uasú reté kuaá ymyrá (Mauhé).
-816 - reté mirá
+816 - ... wasú reté kwá i mirá. *
 816 - este páu é muito grosso.
 
 817 - nerytymá ipoí reté.
