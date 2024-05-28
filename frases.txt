@@ -3365,7 +3365,7 @@ p. 377
 p. 378
 
 809 - uirané kurí resó min kyty.
-809 -
+809 - wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
 809 - amanhã tu has de ir para lá.
 
 810 - muratú áua open-open.
@@ -3377,7 +3377,7 @@ p. 378
 811 - os cabelos daquêle branco são direitos.
 
 812 - kuaá itá santán reté, intí xamapog kuáu.
-812 - kwá itá santá reté, intí xama puka kwáu. *
+812 - kwá itá santá reté, ti amapuka-kwáu[aé]. (Hartt, 378, adap.)
 812 - esta pedra é muito dura, não posso despedaçá-la;
 
 813 - tapañúna iakána santan kupií yaué.
@@ -3385,7 +3385,7 @@ p. 378
 813 - a cabeça do negro é dura como o cupim.
 
 814 - kuaá kurumí asú ikyrymáua osú.
-814 - kwá kurumĩ asú i kirimbawa usú. *
+814 - kwaá kurumiwasú i kirimbawasú. (Hartt, 378, adap.) - Este moço é valente.
 814 - este moço é valeroso.
 
 815 - itá iposéi reté.
@@ -3417,7 +3417,7 @@ p. 378
 821 - o rasto dêle é branco.
 
 822 - ymyrá yatúk.
-822 - mirá atuka. *
+822 - mirá i atuka. (Hartt, 378, adap.) - o pau é baixo.
 822 - o páu é baixo.
 
 p. 379
@@ -3443,7 +3443,7 @@ p. 379
 827 - hoje suei muito.
 
 828 - maeráma kuité renupán yauára?
-828 - marama kuité... yawara? *
+828 - marama kuité renupá yawara? (Hartt, 379, adap.) - Mas porque bates no cachorro?
 828 - porque bates no cachorro?
 
 829 - oyeréu yuy rupí.
@@ -3459,15 +3459,15 @@ p. 379
 831 - vejo uma moça encostada no quintal.
 
 832 - ixé xayumutár pyrí kuaá kuñán mukú resé sury reté resé.
-832 -
+832 - ixé ayumutari piri kwaá kunhamukú resé, surí reté resé. (Hartt, 379, adap.) - Eu gosto mais desta moça, por ela ser muito alegre.
 832 - gosto mais desta moça por ser muito alegre.
 
 833 - serayra menasára oikó.
-833 -
+833 - se raíra mendasara uikú. *
 833 - meu filho está casado.
 
 834 - semenasára yma yuyr.
-834 -
+834 - se mendasara #
 834 - sou viuvo(ou viuva).
 
 835 - maé taé ñaé apyáua rera kuesé yayuaintin irúm?
@@ -3481,7 +3481,7 @@ p. 380
 836 - vamos fazer uma canôa no mato, de itaúba.
 
 837 - karíua, yuruparí, omuñán marakatiu.
-837 - Kariwa, yuruparí, umunhã marakatĩ. - o branco é o diabo (yuruparí), ele faz navios. *
+837 - Kariwa yuruparí, umunhã marakatĩ. (Hartt, 380, adap.) - o branco é o diabo, ele faz navios.
 837 - o branco é o diabo, êle faz navios.
 
 838 - xamoñán kuaú.
@@ -3493,7 +3493,7 @@ p. 380
 839 - hei de ir atraz de ti.
 
 840 - maá ymyrá suí resó remuñán neygára?
-840 - maã mirá suí resú remunhã ne igara? - de que árvore vai ser feita sua canoa? *
+840 - maã mirá suí resú remunhã ne igára? (Hartt, 380, adap.) - de que árvore vai ser feita sua canoa? *
 840 - de que madeira vaes construir tua canôa?
 
 841 - ymyrá oyamuñán reté.
@@ -3501,7 +3501,7 @@ p. 380
 841 - o páu cresce muito.
 
 842 - xasó xamonóg ñaé ymyrá oar aráma pé árpe intí aráma auá osasáu kuau aerupí.
-842 -
+842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali.
 842 - vou cortar o páu de modo a cair sobre o caminho que ninguem possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
@@ -3517,7 +3517,7 @@ p. 380
 845 - que é que estás fazendo com aquêle laço?
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - wasemu yepé wirá re iãwera kaápe. - achei um pássaro morto no mato. *
+846 - awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - achei um pássaro morto no mato. 
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
@@ -3525,7 +3525,7 @@ p. 380
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
-848 -
+848 - amunhã aikú yepé papera, amundú arama se rimirikú supé. (Hartt, 380, adap.) - Estou escrevendo uma carta, para mandar a minha esposa.
 848 - estou escrevendo (fazendo) uma carta (papel) para mandar á minha mulher.
 
 849 - ikatú remuñán nekysáua.
