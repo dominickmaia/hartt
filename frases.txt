@@ -2517,11 +2517,11 @@ p. 363
 603 - depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
-604 -
+604 - ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
 604 - não tenho tempo para fazer o serviço.
 
 605 - iramé xasó intí ramé okyr.
-605 -
+605 - wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
 605 - vou amanhã se não chuver.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
@@ -2533,7 +2533,7 @@ p. 363
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
-608 -
+608 - reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
 608 - fumas? sim! fumo.
 
 609 - máme oikó pé?
@@ -2553,7 +2553,7 @@ p. 363
 612 - tu vais atrás de mim.
 
 613 - osyg serakykuéra.
-613 -
+613 - usika se rakakwera. (Hartt, 363, adap.) - Ele chegou depois de mim.
 613 - êle chegou depois de mim.
 
 614 - xaxiár seygára ygárupápe.
@@ -2561,39 +2561,41 @@ p. 363
 614 - deixei a canoa no pôrto.
 
 615 - kuñán oyuráu putár ygára.
-615 -
+615 - kunhã uyuráu-putari igara. (Hartt, 363, adap.) - A mulher quer desatar a canoa.
 615 - a mulher quer desatar a canoa.
 
 616 - yasó yaporakár ygárapóra.
-616 -
+616 - yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
 616 - vamos carregar a canoa.
+
+p. 364 
 
 617 - intí osyg ygára semaitá rirú aráma.
 617 -
 617 - a canoa não chega para a minha carga.
 
 618 - xayururéu ñaan apyáua ygára.
-618 -
+618 - ayururéu nhaã apigawa igára. (Hartt, 364, adap.) - Eu pedi a canoa daquele homem.
 618 - eu pedi a canoa daquêle homem.
 
 619 - auá taá ouatá putár ygára ayúa pupé?
-619 -
+619 - awá taá uwatá-putari igara aíwa pupé? (Hartt, 364, adap.) - Quem quer passear numa canoa velha?
 619 - quem quer passear numa canoa velha?
 
 620 - intí será ygára opók?
-620 -
+620 - ti será igara upuka? (Hartt, 364, adap.) - Não está quebrada a canoa?
 620 - não está quebrada a canoa?
 
 621 - auá supé kuaá ygára?
-621 -
+621 - awá supé kwaá igára? *
 621 - para quem é esta canoa?
 
 622 - auá taá orekó seygára?
-622 -
+622 - awá taá urikú se igára? *
 622 - quem tem minha canoa?
 
 623 - ygára iké kauarú nunára.
-623 -
+623 - igara iké kawarú nungara. (Hartt, 364, adap.) - A canoa aqui é o que faz as vezes do cavalo.
 623 - a canoa é o cavalo daqui.
 
 624 - xasó putár uán marakatin kyty.
@@ -2621,7 +2623,7 @@ p. 363
 629 - as mulheres foram passear no campo.
 
 630 - xamuí saka, xamukatirún putár.
-630 -
+630 - ambuí saka, amukaturú-putari. (Hartt, 364, adap.) - Rasguei o saco, quero consertá-lo.
 630 - rasgue o saco, quero concertá-lo.
 
 p. 365
@@ -3307,15 +3309,15 @@ p. 376
 p. 377
 
 795 - serupuséi reté xaikó.
-795 -
+795 - se ripusí reté aikú. *
 795 - tenho muito sono.
 
 796 - serupuséi xaikó.
-796 -
+796 - se ripusí aikú. (Hartt, 377, adap.) - Estou com sono.
 796 - estou com sono.
 
 797 - nerupuséi será reikó?
-797 -
+797 - ne ripusí será reikú? (Hartt, 377, adap.) - Estás com sono?
 797 - estás com sono?
 
 798 - ixé seyusár reté (Mauhé).
@@ -3327,15 +3329,15 @@ p. 377
 799 - meu corpo está cheio de coceira.
 
 800 - sepó ikuarára oikó, intí xapysig kuáu maé.
-800 -
+800 - se pú i karuára uikú, ti apisika-kwáu maã. (Hartt, 377, adap.) - Eu tenho reumatismo da mão, não posso pegar nada.
 800 - eu tenho reumatismo da mão, não posso pegar nada.
 
 801 - ixé serakú xaikó.
-801 -
+801 - ixe se rakú aikú. (Hartt, 377, adap.) - estou com febre.
 801 - estou com febre.
 
 802 - xakakaá xaikó.
-802 -
+802 - akaá-kaá aikú. (Hartt, 377, adap.) - Estou com diarreia.
 802 - tenho diarréa.
 
 803 - esém, ekóin kyty.
@@ -3351,12 +3353,12 @@ p. 377
 805 - estou cançado de andar.
 
 806 - maé resé intí remenar putár serúm?
-806 -
+806 - maã resé ti remendari-putari se irumu? (Hartt, 377, adap.) - Porque não queres te casar comigo?
 806 - porque não queres te casar comigo?
 
 807 - nepatráum osapukái neresé oikó.
 807 -
-807 -  teu patrão está te chamando.
+807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
 808 -
