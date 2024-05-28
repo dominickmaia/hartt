@@ -2687,7 +2687,7 @@ p. 365
 p. 366
 
 645 - Antonio ixirixirim(Mauhé).
-645 -
+645 - Antonio i xirixirĩ. (Hartt, 366, adap.) - Antônio é muito falso.
 645 - Antônio é muito falso.
 
 646 - taña asy.
@@ -2695,11 +2695,11 @@ p. 366
 646 - dor de dentes.
 
 647 - seráña sasy.
-647 -
+647 - se ranha sasí. (Hartt, 366, adap.) - Meu dente dói.
 647 - tenho dor de dentes.
 
 648 - sekuruká sasy reté, inté xamokón kuáu serimiú.
-648 -
+648 - se kuruká sasí reté, ti amukuna-kwáu se rimbiú. (Hartt, 366, adap.) - Dói-me muito a garganta, não consigo engolir minha comida.
 648 - dói-me a garganta, não posso engulir minha comida.
 
 649 - reú será kauín? xaú.
@@ -2707,7 +2707,7 @@ p. 366
 649 - bebes vinho (cachaça)? bebo.
 
 650 - eneén santán rupí seirúm.
-650 -
+650 - renheẽ santá rupí se irumu. (Hartt, 366, adap.) - Fala alto comigo.
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
@@ -2731,7 +2731,7 @@ p. 366
 655 - porque falas assim?
 
 656 - xañeén irúm mokóin y.
-656 -
+656 - anheẽ i irumu mukũi í. (Hartt, 366, adap.) - Falei com ele duas vezes.
 656 - falei com êle duas vezes.
 
 657 - xañeén putár nerúm.
@@ -2757,7 +2757,7 @@ p. 367
 661 - vou mandar batizar meu filho.
 
 662 - xamopeték án seamaniú xapomán aráma.
-662 -
+662 - amupeteka ana se amaniú apumana arama. (Hartt, 367, adap.) - Já bati meu algodão para fiar.
 662 - já bati meu algodão para falar.
 
 663 - intí áua oñéen.
@@ -2765,15 +2765,15 @@ p. 367
 663 - ninguém falou.
 
 664 - seruryu xaikó.
-664 -
+664 - se rurí aikú. (Hartt, 367, adap.) - Eu estou alegre.
 664 - estou alegre.
 
 665 - yané pan kurí yamanó.
-665 -
+665 - yandé panhẽ kurí yamanú. *
 665 - nós todos havemos de morrer.
 
 666 - apyáua kurí omanó.
-666 -
+666 - apigawa kurí umanú. *
 666 - o homem hã-de morrer.
 
 667 - iné reyuyuká putár.
@@ -2781,11 +2781,11 @@ p. 367
 667 - tu queres te matar.
 
 668 - aé oyuyuká putár.
-668 -
+668 - aé uyuyuká-putari. (Hartt, 367, adap.) - Ele quer se matar.
 668 - êle quer se matar.
 
 669 - apyáua oyuyuká uán ikyoé irúm.
-669 -
+669 - apigawa uyuyuká wã ... irumu. *
 669 - o homem matou-se com sua faca.
 
 670 - aintá oyuyuká putár.
@@ -2793,7 +2793,7 @@ p. 367
 670 - êles querem se matar.
 
 671 - tapañúma oyuyapé mukáua mirí irúm.
-671 -
+671 - tapayuna uyuyapí mukawa-mirĩ irumu. (Hartt, 367, adap.) - O preto atirou em si mesmo com a pistola.
 671 - o negro matou-se com pistola.
 
 672 - anirá okér ára ramé (Mundurucú).
@@ -2803,11 +2803,11 @@ p. 367
 p. 368
 
 673 - yané yasaisú yané yára, tupána yané moñanára.
-673 -
+673 - yandé yasaisú yané yara Tupana, yané munhangara. (Hartt, 368, adap.) - Nós amamos nosso senhor Deus, nosso criador.
 673 - amamos Deus nosso senhor, nosso criador.
 
 674 - xasó xamoxyrik se uí yakym resé.
-674 -
+674 - asú amuxirika se uí i yakima resé. (Hartt, 368, adap.) - Vou torrar minha farinha porque está molhada.
 674 - vou torrar minha farinha porque está molhada.
 
 675 - maéramé reputár yaneñeénga?
@@ -2815,11 +2815,11 @@ p. 368
 675 - para o que queres nossa língua?
 
 676 - ixé xambue putár sekamaráraitá.
-676 -
+676 - ixé ambué-putari se kamarara-itá. (Hartt, 368, adap.) - Eu quero ensinar meus camaradas.
 676 - quero ensinar meus camaradas.
 
 677 - rimaé intí xañeén tapuya ñeéna, sesé seresarái.
-677 -
+677 - erimbaé ti anheẽ tapuya-nheenga, sesé se resarái. (Hartt, 368, adap.) - Há muito que não falo a língua geral, por isso tenho esquecido.
 677 - há muito que não falo a língua geral, por isso tenho esquecido.
 
 678 - yuasú reté xakuáu.
@@ -2831,7 +2831,7 @@ p. 368
 679 - tu aprendes depressa.
 
 680 - intí xakuáu katú maé oñeén.
-680 -
+680 - ti akwáu katú maã unheẽ. (Hartt, 368, adap.) - não entendo bem o que ele disse.
 680 - não entendo o que êle disse.
 
 681 - intí xakuáu katú maá apyáua oñeén ixéu, ñaá.
@@ -2839,15 +2839,15 @@ p. 368
 681 - não entendo bem o que aquêle homem me diz.
 
 682 - kuaá apyáua intí iñeéna omosém katú.
-682 -
+682 - kwá apigawa ti i nheenga umusemu katú. (Hartt, 368, adap.) - Este homem é gago.
 682 - êste homem é gago.
 
 683 - Joáun omosém reté kuruten uára iñeéna, ñaé resé intí xakuáu maá oñeén.
 683 -
-683 -  João fala tão ràpidamente, que não entendo o que diz.
+683 - João fala tão ràpidamente, que não entendo o que diz.
 
 684 - ñeénga katú rupí intí iuasú mayué Mundurukú itá ñeénga rupí.
-684 -
+684 - nheenga-katú rupí ti iwasú mayé mundurucú-itá nheenga rupí. (Hartt, 368, adap.) - Em língua geral não é tão difícil como na língua dos mundurucus.
 684 - a língua geral não é tão difícil como a gíria dos Mandarucús.
 
 685 - iuasú katú yañeén ñeéna katusár rupí.
