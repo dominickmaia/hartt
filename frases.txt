@@ -323,7 +323,7 @@ p. 324
 78 - meu filho é preguiçoso e mentiroso também.
 
 79 - nerenyra taá moyr?
-79 - Muíri taá ne renira?
+79 - Ne renira taá muíri?
 79 - quantas irmãs tem? (homem que fala).
 
 80 - itá yg ruipype oikó.
@@ -2567,7 +2567,7 @@ p. 363
 616 - yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
 616 - vamos carregar a canoa.
 
-p. 364 
+p. 364
 
 617 - intí osyg ygára semaitá rirú aráma.
 617 -
@@ -3254,7 +3254,7 @@ p. 375
 p. 376
 
 782 - kuñán mukú suryu oikó.
-782 - 
+782 -
 782 - a menina está alegre.
 
 783 - sekuerái uán xaikó.
@@ -3262,7 +3262,7 @@ p. 376
 783 - estou aborrecido.
 
 784 - searasy reté xaikó maeresé seremirikó imaary reté.
-784 - se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.) 
+784 - se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.)
 784 - estou muito triste, porque minha mulher está muito doente.
 
 785 - aé pyá uasú reté.
@@ -3518,7 +3518,7 @@ p. 380
 845 - que é que estás fazendo com aquêle laço?
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - achei um pássaro morto no mato. 
+846 - awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - achei um pássaro morto no mato.
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
