@@ -289,7 +289,7 @@
 3	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=13:14
 
 # sent_id = Hartt1938:0:0:25
-# text = Indé repitá iké, ixé asú raẽ.
+# text = Iné repitá iké, ixé xasú raẽ.
 # text_eng = Stay here, I'll go.
 # text_por = Fique aqui, eu hei de ir.
 # text_source = p. 321, No. 25
@@ -297,13 +297,13 @@
 # text_annotator = DMA
 # reviewer = LFdeA
 # comment = "rẽ (var. raẽ [hist.]; raĩ [hist.]; ranhẽ [hist.]; reĩ [hist.]) (part.)" (Avila 2021)
-1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:4
+1	Iné	iné	PRON	PRON	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:4
 2	repitá	pitá	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:11
 3	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	SpaceAfter=No|TokenRange=12:15
 4	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=15:16
 5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=17:20
-6	asú	sú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	2	parataxis	_	TokenRange=21:24
-7	raẽ	raẽ	PART	IMPF	_	2	advmod	_	SpaceAfter=No|TokenRange=25:28
+6	xasú	sú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	parataxis	_	ModernForm=asú|TokenRange=21:24
+7	raẽ	raẽ	PART	IMPF	_	6	advmod	_	SpaceAfter=No|TokenRange=25:28
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
 # sent_id = Hartt1938:0:0:26
