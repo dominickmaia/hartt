@@ -436,7 +436,7 @@ p. 326
 105 - vais entrar na igreja?
 
 106 - xayasúk putár neygarupá pupé.
-106 - 1. Ayaçuka-putari ne igarupawa pupé.
+106 - 1. Ayasuka-putari ne igarupawa pupé.
 106 - eu quero me banhar no teu porto.
 
 p. 327
@@ -2517,11 +2517,11 @@ p. 363
 603 - depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
-604 - ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
+604 - Ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
 604 - não tenho tempo para fazer o serviço.
 
 605 - iramé xasó intí ramé okyr.
-605 - wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
+605 - Wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
 605 - vou amanhã se não chuver.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
@@ -2533,7 +2533,7 @@ p. 363
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
-608 - reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
+608 - Reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
 608 - fumas? sim! fumo.
 
 609 - máme oikó pé?
@@ -2553,7 +2553,7 @@ p. 363
 612 - tu vais atrás de mim.
 
 613 - osyg serakykuéra.
-613 - usika se rakakwera. (Hartt, 363, adap.) - Ele chegou depois de mim.
+613 - Usika se rakakwera. (Hartt, 363, adap.) - Ele chegou depois de mim.
 613 - êle chegou depois de mim.
 
 614 - xaxiár seygára ygárupápe.
@@ -2561,107 +2561,107 @@ p. 363
 614 - deixei a canoa no pôrto.
 
 615 - kuñán oyuráu putár ygára.
-615 - kunhã uyuráu-putari igara. (Hartt, 363, adap.) - A mulher quer desatar a canoa.
+615 - Kunhã uyuráu-putari igara. (Hartt, 363, adap.) - A mulher quer desatar a canoa.
 615 - a mulher quer desatar a canoa.
 
 616 - yasó yaporakár ygárapóra.
-616 - yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
+616 - Yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
 616 - vamos carregar a canoa.
 
-p. 364
+p. 364 
 
 617 - intí osyg ygára semaitá rirú aráma.
-617 -
+617 - Ti usika igara se maãitá rirú arama. *
 617 - a canoa não chega para a minha carga.
 
 618 - xayururéu ñaan apyáua ygára.
-618 - ayururéu nhaã apigawa igára. (Hartt, 364, adap.) - Eu pedi a canoa daquele homem.
+618 - Ayururéu nhaã apigawa igára. (Hartt, 364, adap.) - Eu pedi a canoa daquele homem.
 618 - eu pedi a canoa daquêle homem.
 
 619 - auá taá ouatá putár ygára ayúa pupé?
-619 - awá taá uwatá-putari igara aíwa pupé? (Hartt, 364, adap.) - Quem quer passear numa canoa velha?
+619 - Awá taá uwatá-putari igara aíwa pupé? (Hartt, 364, adap.) - Quem quer passear numa canoa velha?
 619 - quem quer passear numa canoa velha?
 
 620 - intí será ygára opók?
-620 - ti será igara upuka? (Hartt, 364, adap.) - Não está quebrada a canoa?
+620 - Ti será igara upuka? (Hartt, 364, adap.) - Não está quebrada a canoa?
 620 - não está quebrada a canoa?
 
 621 - auá supé kuaá ygára?
-621 - awá supé kwaá igára? *
+621 - Awá supé kwaá igára? *
 621 - para quem é esta canoa?
 
 622 - auá taá orekó seygára?
-622 - awá taá urikú se igára? *
+622 - Awá taá urikú se igára? *
 622 - quem tem minha canoa?
 
 623 - ygára iké kauarú nunára.
-623 - igara iké kawarú nungara. (Hartt, 364, adap.) - A canoa aqui é o que faz as vezes do cavalo.
+623 - Igara iké kawarú nungara. (Hartt, 364, adap.) - A canoa aqui é o que faz as vezes do cavalo.
 623 - a canoa é o cavalo daqui.
 
 624 - xasó putár uán marakatin kyty.
-624 -
+624 - Asú putari wã marakatĩ kití. *
 624 - quero ir a bordo no navio.
 
 625 - paraná ur pan será?
-625 -
+625 - Paraná panhẽ será? *
 625 - o rio já enche?
 
 626 - semaniya intí sapó.
-626 -
+626 - Se maniáka ti rapú. *
 626 - minha mandióca não tem raiz.
 
 627 - kuaá estilada sasy reté, umixír se kuruká.
-627 -
+627 - Kwaá ... sasí reté, ... se kuruká. *
 627 - esta estiíada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
-628 -
+628 - Asú wã kupixawa asuí wã ayuíri. *
 628 - já fui na roça e voltei.
 
 629 - kuñán itá osó ouatá kaapíua rupé.
-629 -
+629 - Kunhã itá usú uwatá kapiítiwa rupí. *
 629 - as mulheres foram passear no campo.
 
 630 - xamuí saka, xamukatirún putár.
-630 - ambuí saka, amukaturú-putari. (Hartt, 364, adap.) - Rasguei o saco, quero consertá-lo.
+630 - Ambuí saka, amukaturú-putari. (Hartt, 364, adap.) - Rasguei o saco, quero consertá-lo.
 630 - rasgue o saco, quero concertá-lo.
 
 p. 365
 
 631 - xasó xamumáu (xamumbá) semurauky oií.
-631 -
+631 - Asú amumbawa se murakí uií. (Hartt, 365, adap.) - Vou acabar meu serviço hoje.
 631 - vou acabar hoje meu serviço.
 
 632 - osy iké iepé kária suai uára oerúr pana oenér aráma.
-632 -
+632 - Usika iké yepé kariwa suaiwara ururi pana uvenderi arama. (Hartt, 365, adap.) - Chegou aqui um branco europeu trazendo pano para vender.
 632 - um branco chegou aqui com pano para vender.
 
 633 - xasó tenuné.
-633 -
+633 - Asú tenundé. *
 633 - vou adiante.
 
 634 - osyk serenuné.
-634 -
+634 - Usika se renundé. *
 634 - êle chegou antes de mim.
 
 635 - xasó rañé amú óka opé.
-635 -
+635 - Asú ranhẽ amú uka upé. *
 635 - deixa-me ir a uma outra casa.
 
 636 - xasó xayumutym semaníya.
-636 -
+636 - Asú yayutima se maniiwa. *
 636 - vou plantar minha maniva.
 
 637 - intí será remuméu semú resé uára.
-637 -
+637 - Ti será ... resé ... resewara. *
 637 - não pódes me dar noticia do meu irmão.
 
 638 - se kamarára itá oyatimán intá oikó ymyra ruaké.
-638 -
+638 - Se kamarara-itá uyatimana aintá uikú mirá ruakí. (Hartt, 365, adap.) - Meus camaradas estão dispostos em torno do pau.
 638 - meus camaradas deitaram-se ao lado do páu.
 
 639 - mosapyr xasó táuape.
-639 -
+639 - Musapiri asú tawa upé. *
 639 - fui três vezes na vila.
 
 640 - teñé ipokokpokok kuaá marita resé.
@@ -2669,19 +2669,19 @@ p. 365
 640 - não mexa com as cousas.
 
 641 - maé katú rerekó?
-641 -
+641 - Maã katú rerikú? *
 641 - tens alguma cousa boa?
 
 642 - peróka okái.
-642 -
+642 - Upé ruka ukái. *
 642 - vossa casa queimou-se.
 
 643 - emuí mosapyr y, remeén oaráma ixéu.
-643 -
+643 - Remunuka musapiri i, ... arama ixéu. * # o único que encontrei de cortar no imperativo que encontrei fora "Remunuka"
 643 - corta três vezes para me dar.
 
 644 - maé ókaópe reikú?
-644 -
+644 - Maã uka upé reikú? *
 644 - em qual casa estás?
 
 p. 366
@@ -3521,11 +3521,11 @@ p. 380
 845 - que é que estás fazendo com aquêle laço?
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - achei um pássaro morto no mato.
+846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
-847 - rerikú será urusakanga puranga né <vizinho> suí? * #uakiwara?
+847 - Rerikú será urusakanga puranga ne <vizinho> suí? * #uakiwara?
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
@@ -3533,7 +3533,7 @@ p. 380
 848 - estou escrevendo (fazendo) uma carta (papel) para mandar á minha mulher.
 
 849 - ikatú remuñán nekysáua.
-849 - katú remunhã ne kisawa - você tem que fazer sua rede. *
+849 - I katú remunhã ne kisawa.
 849 - tu deves fazer tua rêde.
 
 850 - epurú nekysáua ixéu.
