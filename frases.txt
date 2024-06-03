@@ -403,7 +403,7 @@ p. 326
 97 - ele não me deixou entrar na casa dele.
 
 98 - tapañúna sekotóg ikysé irúm.
-98 -
+98 - Tapayuna se ukutuka i kisé irũ.
 98 - o negro me cortou com sua faca.
 
 99 - maé taé nemymyra?
@@ -411,11 +411,11 @@ p. 326
 99 - de que sexo é tua criança?
 
 100 - apyáua.
-100 - apigawa. *
+100 - Apigawa.
 100 - macho.
 
 101 - kuñán.
-101 - kunhã. *
+101 - Kunhã.
 101 - fêmea.
 
 102 - taiasú opytá kuaa mokóin ymyrá puterpe.
@@ -423,7 +423,7 @@ p. 326
 102 - o porco ficou entre os dois paus.
 
 103 - emukaterún oi tenáua otikan pupé;
-103 -
+103 - 1. Remukaturú uí tenawa utikã pupé.
 103 - arruma a farinha num lugar seco.
 
 104 - maá rerekó patauá mirí pupé?
@@ -431,11 +431,11 @@ p. 326
 104 - o que é que tens no pequeno baú?
 
 105 - resó será tupaóka pupé?
-105 -
+105 - Resú será tupauku pupé?
 105 - vais entrar na igreja?
 
 106 - xayasúk putár neygarupá pupé.
-106 -
+106 - 1. Ayaçuka-putari ne igarupawa pupé.
 106 - eu quero me banhar no teu porto.
 
 p. 327
@@ -445,7 +445,7 @@ p. 327
 107 - ele está bastantemente forte para andar a cavalo.
 
 108 - euapyg apyká árpe.
-108 -
+108 - 1. Rewapika apikawa árupi.
 108 - assenta-se no banco.
 
 108 - iposéi aete maé xarasó uaé seatiya árpe.
@@ -453,19 +453,19 @@ p. 327
 108 - o que levo no hombro é muito pesado.
 
 109 - yauára opór mésa árpe.
-109 -
+109 - Yawara upuri meza árupi. (Hartt, 327, modif.) - O cachorro pulou em cima da mesa.
 109 - o cachorro pulou em cima da mesa.
 
 110 - sapukáia oueuéu ymyrá árpe.
-110 - sapukaya... i mirá árupi. *
+110 - Sapukaya uwewé i mirá árupi.
 110 - a galinha voou em cima do pau.
 
 111 - ypá itypy rete.
-111 -
+111 - 1. Ipawa i tipí reté.
 111 - a lagôa é funda.
 
 112 - ypá iutí typy.
-112 -
+112 - 1. Ipawa intí tipí.
 112 - a lagôa não é funda.
 
 113 - paraná typy rete iké.
