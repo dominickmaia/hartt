@@ -136,7 +136,8 @@ p. 321
 33 - Sapukaya apigawa unheengari. (Hartt, 321, adap.) - O galo canta.
 33 - o galo canta.
 
-34 - xakytyg xaikó manratáia.
+34 - xakytyg xaikó manaratáia.
+34 - Xakitika xaikú mangarataya.
 34 - Akitika aikú mangarataya. (Hartt, 321, adap.) - Estou ralando gengibre.
 34 - estou ralando gengibre.
 
@@ -159,7 +160,7 @@ p. 321
 p. 322
 
 39 - intí setá xareko.
-39 - Intí setá arikú.
+39 - Intí setá xarikú.
 39 - não tenho bastante.
 
 40 - ixé xamonó amú osú omopók nesuí nekamutí.
@@ -2810,7 +2811,7 @@ p. 368
 674 - vou torrar minha farinha porque está molhada.
 
 675 - maéramé reputár yaneñeénga?
-675 - 
+675 -
 675 - para o que queres nossa língua?
 
 676 - ixé xambue putár sekamaráraitá.
