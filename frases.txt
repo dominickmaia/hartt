@@ -435,7 +435,7 @@ p. 326
 105 - vais entrar na igreja?
 
 106 - xayasúk putár neygarupá pupé.
-106 - 1. Ayaçuka-putari ne igarupawa pupé.
+106 - 1. Ayasuka-putari ne igarupawa pupé.
 106 - eu quero me banhar no teu porto.
 
 p. 327
@@ -3520,11 +3520,11 @@ p. 380
 845 - que é que estás fazendo com aquêle laço?
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - achei um pássaro morto no mato.
+846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né <vizinho> suí?
-847 - rerikú será urusakanga puranga né <vizinho> suí? * #uakiwara?
+847 - Rerikú será urusakanga puranga ne <vizinho> suí? * #uakiwara?
 847 - tens o bonito paneiro do teu viznho?
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
@@ -3532,7 +3532,7 @@ p. 380
 848 - estou escrevendo (fazendo) uma carta (papel) para mandar á minha mulher.
 
 849 - ikatú remuñán nekysáua.
-849 - katú remunhã ne kisawa - você tem que fazer sua rede. *
+849 - I katú remunhã ne kisawa.
 849 - tu deves fazer tua rêde.
 
 850 - epurú nekysáua ixéu.
