@@ -2694,15 +2694,15 @@ p. 366
 645 - Antônio é muito falso.
 
 646 - taña asy.
-646 -
+646 - Tanha así. *
 646 - dor de dentes.
 
 647 - seráña sasy.
-647 - se ranha sasí. (Hartt, 366, adap.) - Meu dente dói.
+647 - Se ranha sasí. (Hartt, 366, adap.) - Meu dente dói.
 647 - tenho dor de dentes.
 
 648 - sekuruká sasy reté, inté xamokón kuáu serimiú.
-648 - se kuruká sasí reté, ti amukuna-kwáu se rimbiú. (Hartt, 366, adap.) - Dói-me muito a garganta, não consigo engolir minha comida.
+648 - Se kuruká sasí reté, ti amukuna-kwáu se rimbiú. (Hartt, 366, adap.) - Dói-me muito a garganta, não consigo engolir minha comida.
 648 - dói-me a garganta, não posso engulir minha comida.
 
 649 - reú será kauín? xaú.
@@ -2710,19 +2710,19 @@ p. 366
 649 - bebes vinho (cachaça)? bebo.
 
 650 - eneén santán rupí seirúm.
-650 - renheẽ santá rupí se irumu. (Hartt, 366, adap.) - Fala alto comigo.
+650 - Renheẽ santá rupí se irumu. (Hartt, 366, adap.) - Fala alto comigo.
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
-651 -
+651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ" 
 651 - vamos falar com o homem.
 
 652 - kuaá apyáua oñeén tayna yaué.
-652 -
+652 - Kwaá apigawa unheẽ taína yawé. *
 652 - êste homem fala como uma criança.
 
 653 - tayna oñeén uán, ayú ayú kuyr.
-653 -
+653 - Taína unheẽ wã, ... ... kuíri. *
 653 - a criança já fala, agora mal mal.
 
 654 - maá kuité reñéen?
