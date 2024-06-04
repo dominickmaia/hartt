@@ -367,8 +367,8 @@ p. 325
 88 - Ti awatá-kwáu i irũ maãresé arikú setá reté maã amunhã arama. (Hartt, 325, adap.) - Não posso passear com ele porque tenho muitas coisas para fazer.
 88 - não posso passear com ele porque tenho muito o que fazer.
 
-89 - paraná ipor ikó kaapuam suí, sesé pyrantan reté parané.
-89 - Paraná
+89 - paraná ipor ikó kaapuam suí, sesé pyrantan reté paraná.
+89 - Paraná i pura uikú kapuãmu suí, sesé pirantá reté paraná.
 89 - o rio está cheio de ilhas, por isso corre muito.
 
 90 - semaitá yakym ikó.
@@ -376,7 +376,7 @@ p. 325
 90 - minha roupa está molhada.
 
 91 - intí án skyrimbá xasupir aráma mbaa iporéi reté aá.
-91 - Intí
+91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
 
 92 - semymyra rypyrunáua kuaé (mulher que fala).
@@ -492,7 +492,7 @@ p. 327
 117 - a maré não tarda a entrar.
 
 118 - yaué, paué teñe kuaá paraná?
-118 -
+118 - Yawé, panhẽ tenhẽ kwaá paraná?
 118 - êste rio é todo assim?
 
 119 - omonéu pá riré imaitá ygáraopé, aramé katú osó.
