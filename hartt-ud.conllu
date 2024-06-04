@@ -606,3 +606,23 @@
 4	tapuya-itá	tapuya	NOUN	N	Number=Plur	2	obl	_	TokenRange=27:37
 5	irumu	irumu	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=38:43
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=43:44
+
+# sent_id = Hartt1938:0:0:847
+# text = Rerikú será urusakã purã ne "vizinho" suí?
+# text_eng = Do you have your neighbor's beautiful pannier?
+# text_por = Tens o bonito paneiro do teu vizinho?
+# text_source = p. 380, No. 847
+# text_orig = rerekó será urusakána purána né «vizinho» suí?
+# text_orig_transcriber = ALMN
+# text_por_transcriber = ALMN
+# text_annotator = LFdeA
+1	Rerikú	rikú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
+3	urusakã	urusakã	NOUN	N	Number=Sing	1	obj	_	TokenRange=12:19
+4	purã	purã	ADJ	A	_	3	amod	_	TokenRange=20:24
+5	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	TokenRange=25:27
+6	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=27:28
+7	vizinho	vizinho	NOUN	N	Number=Sing	3	nmod	_	OrigLang=por|SpaceAfter=No|TokenRange=29:36
+8	"	"	PUNCT	PUNCT	_	7	punct	_	TokenRange=36:37
+9	suí	suí	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=38:41
+10	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=41:42

@@ -2568,7 +2568,7 @@ p. 363
 616 - Yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
 616 - vamos carregar a canoa.
 
-p. 364 
+p. 364
 
 617 - intí osyg ygára semaitá rirú aráma.
 617 - Ti usika igara se maãitá rirú arama. *
@@ -3505,8 +3505,8 @@ p. 380
 841 - o páu cresce muito.
 
 842 - xasó xamonóg ñaé ymyrá oar aráma pé árpe intí aráma auá osasáu kuau aerupí.
-842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali.
-842 - vou cortar o páu de modo a cair sobre o caminho que ninguem possa passar.
+842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali. # [Leonel: Não há razão para minusculizar a letra inicial das sentenças de Avila (2021), cuja reproduçãodeve ser aboslutamente fiel ao original de Avila (2021).]
+842 - vou cortar o pau de modo a cair sobre o caminho que ninguém possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
 843 -
@@ -3517,20 +3517,21 @@ p. 380
 844 - eu me cortei com a faca.
 
 845 - maá taá remuñán kuaá tupasáma irúm?
-845 - maã taá remunhã kwá tupasama irũ? - que é que está fazendo com esta corda? *
-845 - que é que estás fazendo com aquêle laço?
+845 - maã taá remunhã kwá tupasama irũ? # - que é que está fazendo com esta corda? * [Leonel: Se se trata de uma tradução alternativa válida, pode ser acrescentada nos metadadados da sentença anotada por meio do atributo text_por_alt ou um outro, dependendo de como esse atributo está sendo usado agora no treebank.]
+845 - que é que estás fazendo com aquele laço? # este é um exemplo de comentário (depois de #)
 
 846 - xauasém iepé uirá reanuéra kaápe.
 846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
 846 - achei um passaro morto no mato.
 
-847 - rerekó será urusakána purána né <vizinho> suí?
-847 - Rerikú será urusakanga puranga ne <vizinho> suí? * #uakiwara?
-847 - tens o bonito paneiro do teu viznho?
+847 - rerekó será urusakána purána né «vizinho» suí? # urusakanga [hist.] (var. rusakã [hist.]; urasukanga [hist.]; urusakã [hist.]) (s.)  URUÇACANGA, cesto cilíndrico feito de cipó trançado, carregado às costas e suspenso por alça em torno da cabeça (Avila 2021)
+847 - Rerikú será urusakã purã ne "vizinho" suí? # * uakiwara? [Leonel: Não entendi isso esse "* #uakiwara?". Pode explicar em issue do repositório principal?]
+847 - NA # corresponding example in Avila (2021) not available
+847 - tens o bonito paneiro do teu vizinho? # este é um exemplo de comentário (depois de #)
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
 848 - Amunhã aikú yepé papera, amundú arama se rimirikú supé. (Hartt, 380, adap.) - Estou escrevendo uma carta, para mandar a minha esposa.
-848 - estou escrevendo (fazendo) uma carta (papel) para mandar á minha mulher.
+848 - estou escrevendo (fazendo) uma carta (papel) para mandar à minha mulher.
 
 849 - ikatú remuñán nekysáua.
 849 - I katú remunhã ne kisawa.
