@@ -9,6 +9,7 @@ p. 319
 2 - vou rachar o pau com machado.
 
 3 - xamumuranú putar se kamarára itá.
+3 - Xamumarandúa-putari se kamarara-itá.
 3 - Amumarandúa-putari se kamarara-itá. (Hartt, 319, adap.) -  Quero convidar meus companheiros.
 3 - vou convidar meus companheiros (ou camaradas).
 
@@ -146,6 +147,7 @@ p. 321
 35 - estou satisfeito.
 
 36 - ñaá kuñán omukuatiar kuáu kúya.
+36 - Nhaã kunhã umukwatiári-kwáu kuya. # repetimos nheengatu de Avila quando coincidimos na adaptação
 36 - Nhaã kunhã umukwatiári-kwáu kuya. (Hartt, 321, adap.) - Aquela mulher sabe pintar cuias.
 36 - aquela mulher sabe pintar cuias.
 
@@ -3481,11 +3483,12 @@ p. 379
 p. 380
 
 836 - yasó yamuñán ygára, kaápe, itaya suí.
-836 - yasú yamunhã igara, kaá-pe , itaíwa suí. *
-836 - vamos fazer uma canôa no mato, de itaúba.
+836 - Yasú yamunhã igara, kaá-pe, itaíwa suí. # * [Leonel: Por que asterisco? Adaptação está correta.]
+836 - vamos fazer uma canoa no mato, de itaúba.
 
 837 - karíua, yuruparí, omuñán marakatiu.
-837 - Kariwa yuruparí, umunhã marakatĩ. (Hartt, 380, adap.) - o branco é o diabo, ele faz navios.
+837 - TODO
+837 - Kariwa yuruparí, umunhã marakatĩ. (Hartt, 380, adap.) - O branco é o diabo, ele faz navios.
 837 - o branco é o diabo, êle faz navios.
 
 838 - xamoñán kuaú.
@@ -3505,7 +3508,7 @@ p. 380
 841 - o páu cresce muito.
 
 842 - xasó xamonóg ñaé ymyrá oar aráma pé árpe intí aráma auá osasáu kuau aerupí.
-842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali. # [Leonel: Não há razão para minusculizar a letra inicial das sentenças de Avila (2021), cuja reproduçãodeve ser aboslutamente fiel ao original de Avila (2021).]
+842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali. # [Leonel: Não há razão para minusculizar a letra inicial das sentenças de Avila (2021), cuja reprodução deve ser aboslutamente fiel ao original de Avila (2021).]
 842 - vou cortar o pau de modo a cair sobre o caminho que ninguém possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
@@ -3513,7 +3516,8 @@ p. 380
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
-844 - ixé yumunuka kisé irũ. - eu me cortei com a faca. *
+844 - Ixé xayumunuka kisé irũ. # - eu me cortei com a faca. * [Leonel: Não entendi esse comentário.]
+844 -
 844 - eu me cortei com a faca.
 
 845 - maá taá remuñán kuaá tupasáma irúm?
@@ -3521,7 +3525,7 @@ p. 380
 845 - que é que estás fazendo com aquele laço? # este é um exemplo de comentário (depois de #)
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
+846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato. # [Leonel: por que o número 1?]
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né «vizinho» suí? # urusakanga [hist.] (var. rusakã [hist.]; urasukanga [hist.]; urusakã [hist.]) (s.)  URUÇACANGA, cesto cilíndrico feito de cipó trançado, carregado às costas e suspenso por alça em torno da cabeça (Avila 2021)
@@ -3535,7 +3539,8 @@ p. 380
 
 849 - ikatú remuñán nekysáua.
 849 - I katú remunhã ne kisawa.
-849 - tu deves fazer tua rêde.
+849 - NA
+849 - tu deves fazer tua rede.
 
 850 - epurú nekysáua ixéu.
 850 - Epurú ne kisawa ixéu. - Empresta-me tua rede!
