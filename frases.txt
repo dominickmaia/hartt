@@ -499,7 +499,7 @@ p. 327
 118 - êste rio é todo assim?
 
 119 - omonéu pá riré imaitá ygáraopé, aramé katú osó.
-119 -
+119 - Umunéu pá riré i maã-itá igara upé, aramé katú usú. - Depois de embarcar suas coisas na canoa, ele saiu.
 119 - depois de embarcar sua bagagem na canôa ele saiu.
 
 p. 328
@@ -509,55 +509,56 @@ p. 328
 120 - o rio está enchendo.
 
 121 - kurutén mirí kurí eyuyr!
-121 -
+121 - Kurutẽi mirĩ kurí eyuíri!
 121 - volta cedo!
 
 122 - intí kurí xayuír.
-122 -
+122 - Intí kurí xayuíri.
 122 - não hei de voltar.
 
 123 - oyuyr ramé aramé yasó án.
-123 -
+123 - Uyuíri ramé aramé yasú ã.
 123 - quando êle vier, iremos.
 
 124 - rexipiak án será anyrá?
 124 - Rexipiaka ana será andirá? (Hartt, 328, adap.) - Já viste o morcego?
+124 - Rexipiaka ana será anirá? # forma adaptada para anotar e incluir no treebank
 124 - já viste o morcego?
 
 125 - emaén anyrá rese!
-125 -
+125 - Emaẽ anirá resé!
 125 - olha o morcego!
 
 126 - míra omaen oikó.
-126 -
+126 - Mira umaẽ uikú.
 126 - estão olhando.
 
 127 - xaxipiák ñaá kuñán kuesé xasoaintin uaá.
-127 -
+127 - Xaxipiaka nhaã kunhã kwesé xasuantí waá.
 127 - eu vejo a mulher que eu encontrei óntem.
 
 128 - intí rañe xaxipiak.
-128 -
+128 - Intí raẽ xaxipiaka. - Até hoje não vi.
 128 - nunca vi.
 
 129 - resupiak uán será apygáua?
-129 -
+129 - Rexipiaka wã será apigawa?
 129 - já viste o homem?
 
 130 - xaxipia (k) iepé opuám oiko.
-130 -
+130 - Xaxipiaka yepé upuãmu uikú.
 130 - vejo um homem em pé.
 
 131 - irané eyór!
-131 -
+131 - Wirané eyuri!
 131 - vem amanhã!
 
 132 - eyúr yauára!
-132 -
+132 - Eyuri, yawara!
 132 - cachorro, vem cá!
 
 133 - eyúr pixána!
-133 -
+133 - Eyuri, pixana!
 133 - gato, vem cá!
 
 p. 329
@@ -567,19 +568,19 @@ p. 329
 134 - e que é que estavas fazendo que não vieste depressa?
 
 135 - kuñán osy kuaá kuesé sekuñada ñaé.
-135 -
+135 - Kunhã usú kwaá kwesé se kunhara nhaã.
 135 - a mulher que chegou óntem é minha cunhada.
 
 136 - kuyr teñé úr oaráma.
-136 -
+136 -  Kuíri tenhẽ uyuri arama.
 136 - êle há de vir já.
 
 137 - xayor kurutén uára aráma.
-137 -
+137 - Xayuri kurutẽiwara arama.
 137 - vim para um instante.
 
 138 - osyk ramé kurí, xasó uán.
-138 -
+138 - Usika ramé kurí, xasu wã.
 138 - logo que êle chegar, vou-me embora.
 
 139 - xayusé reté.
@@ -588,6 +589,7 @@ p. 329
 
 140 - ixé xayumutár kuaá kuñán mukú purána resé.
 140 - Ixé ayumutari kwaá kunhamukú puranga resé. (Hartt, 329, adap.) - Eu gosto dessa moça bonita.
+140 - Ixé xayumutari kwaá kunhamukú puranga resé.  # forma adaptada para anotar e incluir no treebank
 140 - eu gosto muito daquela bonita moça.
 
 141 - yauára oyumutar reté oyunún tatá ruake.
@@ -595,27 +597,28 @@ p. 329
 141 - o cachorro gosta muito de deitar-se perto do fogo.
 
 142 - intí xaputár kuaá kysé amú teñé xaputár.
-142 -
+142 - Intí xaputari kwaá kisé amú tenhẽ xaputari.
 142 - não quero esta faca, quero a outra.
 
 143 - itá oár putár.
-143 -
+143 - Itá uwari-putari.
 143 - a pedra está para cair.
 
 144 - tupána putár rame.
-144 -
+144 - Tupana uputari ramé. - Se Deus quiser.
 144 - se Deus quizer.
 
 145 - xareko pau uán maé xaputár uaé.
-145 -
+145 - Xariku pawa wã maã xaputari waá.
 145 - tenho tudo que desejo.
 
 146 - ixé xasó uán.
-146 -
+146 - Ixé xasú wã.
 146 - eu quero ir.
 
 147 - xasó xapagar nhaá apyáua supe.
 147 - Asú apagari nhaã apigawa supé. (Hartt, 329, adap.) - Vou pagar àquele homem.
+147 - Xasú apagari nhaã apigawa supé. # forma adaptada para anotar e incluir no treebank
 147 - vou pagar aquêle homem.
 
 p. 330
