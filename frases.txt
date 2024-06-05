@@ -376,8 +376,10 @@ p. 325
 90 - Se maãitá yakima uikú.
 90 - minha roupa está molhada.
 
-91 - intí án skyrimbá xasupir aráma mbaa iporéi reté aá.
-91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
+91 - intí án sekyrimbá xasupir aráma mbaa iporéi reté aá (Ereré).
+#91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
+91 - Intí ã se kirimbá xasupiri arama maã i pusé reté waá.
+91 - NA
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
 
 92 - semymyra rypyrunáua kuaé (mulher que fala).
@@ -453,8 +455,9 @@ p. 327
 108 - assenta-se no banco.
 
 108 - iposéi aete maé xarasó uaé seatiya árpe.
+108 - I pusé aité maã xarasú waá se atiiwa árupi.
 108 - I pusé aité maã arasú waá se atiiwa árupi. (Hartt, 327, adap.) - Isto que eu levo sobre meu ombro é pesado.
-108 - o que levo no hombro é muito pesado.
+108 - o que levo no ombro é muito pesado.
 
 109 - yauára opór mésa árpe.
 109 - Yawara upuri meza árupi. (Hartt, 327, modif.) - O cachorro pulou em cima da mesa.
@@ -2615,7 +2618,7 @@ p. 364
 
 627 - kuaá estilada sasy reté, umixír se kuruká.
 627 - Kwaá ... sasí reté, ... se kuruká. *
-627 - esta estiíada é muito forte, queimou minha garganta.
+627 - esta estilada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
 628 - Asú wã kupixawa asuí wã ayuíri. *
@@ -2714,7 +2717,7 @@ p. 366
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
-651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ" 
+651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ"
 651 - vamos falar com o homem.
 
 652 - kuaá apyáua oñeén tayna yaué.
