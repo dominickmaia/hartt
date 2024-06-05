@@ -392,7 +392,7 @@ p. 325
 
 p. 326
 
-94 - ixé intí xauasem ramé auá omusak kuáu seraña. ixé teñé kurí xamusak.
+94 - ixé intí xauasem ramé auá omusak kuáu seraña, ixé teñé kurí xamusak.
 94 - Ixé ti awasemu ramé awá umusaka-kwáu se ranha, ixé tẽ kurí amusaka (Hartt, 326, adap.) - Se eu não achar ninguém que possa arrancar meu dente, eu mesmo hei de arrancá-lo.
 94 - se não achar ninguém para arrancar mea dente, eu mesmo hei de tirá-lo.
 
@@ -428,7 +428,7 @@ p. 326
 102 - Tayasú upitá kwaá mukũi mirá pitérupi. (Hartt, 326, adap.) - O porco ficou entre esses dois paus.
 102 - o porco ficou entre os dois paus.
 
-103 - emukaterún oi tenáua otikan pupé;
+103 - emukaterún oí tenáua otikan pupé.
 103 - 1. Remukaturú uí tenawa utikã pupé.
 103 - arruma a farinha num lugar seco.
 
@@ -446,7 +446,7 @@ p. 326
 
 p. 327
 
-107 - aé ikyrymáua setá ouatá aráma kauarpu árpe.
+107 - aé ikyrymáua setá ouatá aráma kauarú árpe.
 107 - Aé i kirimbawa setá uwatá arama kawarú árupi. (Hartt, 327, adap.) - Ele está bastante forte para andar a cavalo.
 107 - ele está bastantemente forte para andar a cavalo.
 
@@ -454,8 +454,7 @@ p. 327
 108 - 1. Rewapika apikawa árupi.
 108 - assenta-se no banco.
 
-108 - iposéi aete maé xarasó uaé seatiya árpe.
-108 - I pusé aité maã xarasú waá se atiiwa árupi.
+108 - iposéi aete maé xarasó uaé seatiyua árpe.
 108 - I pusé aité maã arasú waá se atiiwa árupi. (Hartt, 327, adap.) - Isto que eu levo sobre meu ombro é pesado.
 108 - o que levo no ombro é muito pesado.
 
@@ -519,7 +518,7 @@ p. 328
 
 123 - oyuyr ramé aramé yasó án.
 123 -
-123 - quando ele vier, iremos.
+123 - quando êle vier, iremos.
 
 124 - rexipiak án será anyrá?
 124 - Rexipiaka ana será andirá? (Hartt, 328, adap.) - Já viste o morcego?
@@ -535,7 +534,7 @@ p. 328
 
 127 - xaxipiák ñaá kuñán kuesé xasoaintin uaá.
 127 -
-127 - eu vejo a mulher que eu encontrei ontem.
+127 - eu vejo a mulher que eu encontrei óntem.
 
 128 - intí rañe xaxipiak.
 128 -
@@ -563,17 +562,17 @@ p. 328
 
 p. 329
 
-134 - maá kuíté remuñaa intí sapyá reyúr?
+134 - maá kuíté remuñan intí sapyá reyúr?
 134 - Maã kuité remunhã ti sapuá reyuri? (Hartt, 329, adap.) - O que é que estavas fazendo que não vieste depressa?
 134 - e que é que estavas fazendo que não vieste depressa?
 
 135 - kuñán osy kuaá kuesé sekuñada ñaé.
 135 -
-135 - a mulher que chegou ontem é minha cunhada.
+135 - a mulher que chegou óntem é minha cunhada.
 
 136 - kuyr teñé úr oaráma.
 136 -
-136 - ele há de vir já.
+136 - êle há de vir já.
 
 137 - xayor kurutén uára aráma.
 137 -
@@ -581,7 +580,7 @@ p. 329
 
 138 - osyk ramé kurí, xasó uán.
 138 -
-138 - logo que ele chegar, vou-me embora.
+138 - logo que êle chegar, vou-me embora.
 
 139 - xayusé reté.
 139 - Ayusé reté. (Hartt, 329, adap.) - Desejo muito [ir-me embora].
@@ -605,7 +604,7 @@ p. 329
 
 144 - tupána putár rame.
 144 -
-144 - se Deus quiser.
+144 - se Deus quizer.
 
 145 - xareko pau uán maé xaputár uaé.
 145 -
@@ -617,32 +616,32 @@ p. 329
 
 147 - xasó xapagar nhaá apyáua supe.
 147 - Asú apagari nhaã apigawa supé. (Hartt, 329, adap.) - Vou pagar àquele homem.
-147 - vou pagar aquele homem.
+147 - vou pagar aquêle homem.
 
 p. 330
 
 148 - kuaá apyáua orekó reté diñéro.
-148 -
-148 - este homem tem muito dinheiro.
+148 - Kwaá apigawa urikú reté dinheru. *
+148 - êste homem tem muito dinheiro.
 
 149 - opan orekó putár diñéro.
-149 -
+149 - Panhẽ urikú putari dinheru. *
 149 - todos querem dinheiro.
 
 150 - intí ramé xarekó asukirí xapyrypán íra.
-150 -
-150 - quando não tenho açúcar compro mel.
+150 - Ti ramé arikú asukirí apiripana ira. *
+150 - quando não tenho açucar compro mel.
 
 151 - maá taá repyrypán apyáua suí?
-151 -
+151 - Maã taá repiripana apigawa suí? *
 151 - o que compraste do homem?
 
 152 - yasó yapyrypán iepé ygára!
-152 -
+152 - Yasú apiripana yepé igara! * # não encontrei a conjugação de piripana na 1ª pessoa do plural, coloquei a 1ª pessoa do singular.
 152 - vamos comprar uma canoa!
 
 153 - intí xarekó mairúm xapyrypán aráma.
-153 -
+153 - Ti arikú maã irumu apiripana arama. *
 153 - não tenho com que comprá-la.
 
 154 - iné maarupiára reté.
@@ -650,15 +649,15 @@ p. 330
 154 - tu és muito feliz (na caça).
 
 155 - maá taá reuasém?
-155 -
+155 - Maã taá rewasemu? *
 155 - o que achaste?
 
 156 - intí, paá, aúna ouasem.
-156 -
+156 - Ti, paá, aúna uwasemu. *
 156 - parece que não o acharam.
 
 157 - intí maá xauasém.
-157 -
+157 - Ti maã awasemu. *
 157 - nada achei.
 
 158 - ixé tymaá sáua uára.
@@ -666,15 +665,15 @@ p. 330
 158 - sou filho de baixo.
 
 159 - se renáua Tupiópe.
-159 -
+159 - Se rendawa Tupiópe. *
 159 - meu lugar é Santarém.
 
 160 - ixé Tupaió uára.
-160 -
+160 - Ixé Tupaiówara. *
 160 - sou morador de Santarém.
 
 161 - mairamé taé? teñé yaué!
-161 -
+161 - Mairamé taá? Tenhẽ yawé! *
 161 - porque? não faça assim!
 
 p. 331
