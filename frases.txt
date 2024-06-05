@@ -1477,6 +1477,7 @@ p. 344
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
+354 - Xamundú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - mando minha canoa a vila para voltar depois de amanhã.
 
 p. 345
@@ -1675,6 +1676,7 @@ p. 348
 
 400 - irané kurí xamuñán pá semuraiky
 400 - Wirandé kurí amunhã pá se murakí. (Hartt, 348, adap.) - Amanhã hei de fazer todo o meu serviço.
+400 - Wirané kurí xamunhã pá se murakí. # forma adaptada para anotar e incluir no treebank
 400 - amanhã hei de fazer todo o meu serviço.
 
 401 - tapañúna kuaá karía miasúa.
@@ -1745,6 +1747,7 @@ p. 349
 
 417 - xasó rañé, ate irané, tapána putár ramé.
 417 - Asú rẽ, até wirandé, tupana uputari ramé. (Hartt, 349, adap.) - Já me vou, até amanhã, se Deus quiser.
+417 - Xasú ranhẽ, até wirané, tupana uputari ramé. # forma adaptada para anotar e incluir no treebank
 417 - já vou, até amanhã, se Deus quizer.
 
 418 - sekatú mirí xaikó.
@@ -2530,6 +2533,7 @@ p. 363
 
 605 - iramé xasó intí ramé okyr.
 605 - Wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
+605 - Wirané xasú, intí ramé ukiri. # forma adaptada para anotar e incluir no treebank
 605 - vou amanhã se não chuver.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
@@ -3378,6 +3382,7 @@ p. 378
 
 809 - uirané kurí resó min kyty.
 809 - wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
+809 - Wirané kurí resú mikití. # forma adaptada para anotar e incluir no treebank
 809 - amanhã tu has de ir para lá.
 
 810 - muratú áua open-open.
