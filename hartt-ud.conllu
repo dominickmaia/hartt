@@ -307,21 +307,23 @@
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
 # sent_id = Hartt1938:0:0:26
-# text = Se raíra mirĩ i pawasawa ana kwá.
+# text = Se raíra mirĩ i pausawa wã kwaá.
 # text_eng = This is my last daughter.
 # text_por = Essa é minha última filha.
+# text_por_alt = Minha filha pequena, essa é a última.
+# text_por_alt_translator = LFdeA
 # text_source = p. 321, No. 26
 # text_orig = serayra mirí ipausáua uán kuaé.
 # text_annotator = DMA
-# reviewer = TODO
+# reviewer = LFdeA
 1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
-2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	5	nsubj	_	TokenRange=3:8
+2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	5	dislocated	_	TokenRange=3:8
 3	mirĩ	mirĩ	ADJ	A	_	2	amod	_	TokenRange=9:13
-4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	expl	_	TokenRange=14:15
-5	pawasawa	pawasawa	NOUN	N	_	0	root	_	TokenRange=16:24
-6	ana	ana	PART	PFV	Aspect=Perf	7	advmod	_	TokenRange=25:28
-7	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	5	advmod	_	SpaceAfter=No|TokenRange=29:32
-8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=32:33
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	expl	_	TokenRange=14:15
+5	pausawa	pausawa	NOUN	N	Number=Sing	0	root	_	TokenRange=16:23
+6	wã	wã	PART	PFV	Aspect=Perf	5	advmod	_	TokenRange=24:26
+7	kwaá	kwaá	PRON	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	5	nsubj	_	SpaceAfter=No|TokenRange=27:31
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=31:32
 
 # sent_id = Hartt1938:0:0:27
 # text = Maã upitá kwá intí kwá rerasú-kwáu ixé arasú se kupé-pe.
