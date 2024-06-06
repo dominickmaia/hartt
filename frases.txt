@@ -630,43 +630,44 @@ p. 329
 p. 330
 
 148 - kuaá apyáua orekó reté diñéro.
-148 - Kwaá apigawa urikú reté dinheru. *
+148 - Kwaá apigawa urikú reté dinheru.
 148 - êste homem tem muito dinheiro.
 
 149 - opan orekó putár diñéro.
-149 - Panhẽ urikú putari dinheru. *
+149 - Upaĩ urikú-putari dinheru.
 149 - todos querem dinheiro.
 
 150 - intí ramé xarekó asukirí xapyrypán íra.
-150 - Ti ramé arikú asukirí apiripana ira. *
+150 - Intí ramé xarikú asukirí xapiripana ira.
 150 - quando não tenho açucar compro mel.
 
 151 - maá taá repyrypán apyáua suí?
-151 - Maã taá repiripana apigawa suí? *
+151 - Maã taá repiripana apigawa suí?
 151 - o que compraste do homem?
 
 152 - yasó yapyrypán iepé ygára!
-152 - Yasú apiripana yepé igara! * # não encontrei a conjugação de piripana na 1ª pessoa do plural, coloquei a 1ª pessoa do singular.
+152 - Yasú yapiripana yepé igara!
 152 - vamos comprar uma canoa!
 
 153 - intí xarekó mairúm xapyrypán aráma.
-153 - Ti arikú maã irumu apiripana arama. *
+153 - Intí xarikú maã irũ xapiripana arama.
 153 - não tenho com que comprá-la.
 
 154 - iné maarupiára reté.
+154 - Iné marupiára reté. # forma adaptada para anotar e incluir no treebank
 154 - Indé marupiára reté. (Hartt, 330, adap.) - Tu és muito feliz (na caça).
 154 - tu és muito feliz (na caça).
 
 155 - maá taá reuasém?
-155 - Maã taá rewasemu? *
+155 - Maã taá rewasemu?
 155 - o que achaste?
 
 156 - intí, paá, aúna ouasem.
-156 - Ti, paá, aúna uwasemu. *
+156 - Intí, paá, aúna uwasemu.
 156 - parece que não o acharam.
 
 157 - intí maá xauasém.
-157 - Ti maã awasemu. *
+157 - Intí maã xawasemu.
 157 - nada achei.
 
 158 - ixé tymaá sáua uára.
@@ -674,15 +675,15 @@ p. 330
 158 - sou filho de baixo.
 
 159 - se renáua Tupiópe.
-159 - Se rendawa Tupiópe. *
+159 - Se renawa Tupayú.
 159 - meu lugar é Santarém.
 
 160 - ixé Tupaió uára.
-160 - Ixé Tupaiówara. *
+160 - Ixé Tupayúwara.
 160 - sou morador de Santarém.
 
 161 - mairamé taé? teñé yaué!
-161 - Mairamé taá? Tenhẽ yawé! *
+161 - Mairamé taá? Tenhẽ yawé!
 161 - porque? não faça assim!
 
 p. 331
