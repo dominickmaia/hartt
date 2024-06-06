@@ -3,7 +3,8 @@
 # text_eng = I'm going to fry my butter.
 # text_por = Vou frigir minha manteiga.
 # text_source = p. 319, No. 1
-# text_orig = hasó hompyryrik se mantéga.
+# text_orig = hasó hompyryrik se mantéga (Ereré).
+# place = Ereré
 # text_annotator = DMA
 # reviewer = LFdeA
 1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
@@ -11,6 +12,20 @@
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=16:18
 4	mantega	mantega	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=19:26
 5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=26:27
+
+# sent_id = Hart1938:0:0:1
+# text = Xasú xamupiririka se mantega.
+# text_eng = I'm going to fry my butter.
+# text_por = Vou frigir minha manteiga.
+# text_source = p. 319, No. 1a
+# text_orig = xasó xamopyryryk se mantéga (Santarém).
+# place = Santarém
+# text_annotator = LFdeA
+1	Xasú	sú	AUX	AUXFR	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
+2	xamupiririka	mupiririka	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=amupiririka|TokenRange=5:17
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=18:20
+4	mantega	mantega	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=21:28
+5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
 # sent_id = Hartt1938:0:0:2
 # text = Asú amuí imirá jí irũ.
@@ -505,16 +520,16 @@
 5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=20:21
 
 # sent_id = Hartt1938:0:0:39
-# text = Intí setá arikú.
+# text = Intí setá xarikú.
 # text_eng = I don't have enough.
-# text_por = não tenho bastante.
+# text_por = Não tenho bastante.
 # text_source = p. 322, No. 39
 # text_orig = intí setá xareko.
 # text_annotator = DMA
-# reviewer = TODO
+# reviewer = LFdeA
 1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=0:4
 2	setá	setá	PRON	INDQ	PronType=Ind	3	obj	_	TokenRange=5:9
-3	arikú	rikú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=10:15
+3	xarikú	rikú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=arikú|SpaceAfter=No|TokenRange=10:16
 4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16
 
 # sent_id = Hartt1938:0:0:41

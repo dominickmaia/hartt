@@ -1,7 +1,13 @@
 p. 319
 
-1 - hasó hompyryrik se mantéga.
+1 - hasó hompyryrik se mantéga (Ereré).
 1 - Asú amupiririka se mantega.
+1 - NA
+1 - vou frigir minha manteiga.
+
+1 a - xasó xamopyryryk se mantéga (Santarém).
+1 a - Xasú xamupiririka se mantega.
+1 - NA
 1 - vou frigir minha manteiga.
 
 2 - xasó xamuí ymyrá yí irúm.
