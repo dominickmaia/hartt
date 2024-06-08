@@ -1,7 +1,13 @@
 p. 319
 
-1 - hasó hompyryrik se mantéga.
+1 - hasó hompyryrik se mantéga (Ereré).
 1 - Asú amupiririka se mantega.
+1 - NA
+1 - vou frigir minha manteiga.
+
+1 a - xasó xamopyryryk se mantéga (Santarém).
+1 a - Xasú xamupiririka se mantega.
+1 - NA
 1 - vou frigir minha manteiga.
 
 2 - xasó xamuí ymyrá yí irúm.
@@ -106,7 +112,7 @@ p. 321
 25 - fique aqui, eu hei de ir.
 
 26 - serayra mirí ipausáua uán kuaé.
-26 - Se raíra mirĩ i pawasawa ana kwá.
+26 - Se raíra mirĩ i pausawa wã kwaá.
 26 - essa é minha última filha.
 
 27 - maé opytá uaé intí uaé rerasó kuáu ixé xarasó sekupépe.
@@ -177,7 +183,7 @@ p. 322
 42 - Kwá mirá saimbé i pirera. (Hartt, 322, adap.) - A casca deste pau é áspera.
 42 - a casca deste pau é áspera.
 
-43 - itá isym teré.
+43 - itá isym reté.
 43 - Itá isima reté.
 43 - a pedra é lisa.
 
@@ -376,8 +382,10 @@ p. 325
 90 - Se maãitá yakima uikú.
 90 - minha roupa está molhada.
 
-91 - intí án skyrimbá xasupir aráma mbaa iporéi reté aá.
-91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
+91 - intí án sekyrimbá xasupir aráma mbaa iporéi reté aá (Ereré).
+#91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
+91 - Intí ã se kirimbá xasupiri arama maã i pusé reté waá.
+91 - NA
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
 
 92 - semymyra rypyrunáua kuaé (mulher que fala).
@@ -454,7 +462,7 @@ p. 327
 
 108 - iposéi aete maé xarasó uaé seatiyua árpe.
 108 - I pusé aité maã arasú waá se atiiwa árupi. (Hartt, 327, adap.) - Isto que eu levo sobre meu ombro é pesado.
-108 - o que levo no hombro é muito pesado.
+108 - o que levo no ombro é muito pesado.
 
 109 - yauára opór mésa árpe.
 109 - Yawara upuri meza árupi. (Hartt, 327, modif.) - O cachorro pulou em cima da mesa.
@@ -497,7 +505,7 @@ p. 327
 118 - êste rio é todo assim?
 
 119 - omonéu pá riré imaitá ygáraopé, aramé katú osó.
-119 -
+119 - Umunéu pá riré i maã-itá igara upé, aramé katú usú. - Depois de embarcar suas coisas na canoa, ele saiu.
 119 - depois de embarcar sua bagagem na canôa ele saiu.
 
 p. 328
@@ -507,55 +515,56 @@ p. 328
 120 - o rio está enchendo.
 
 121 - kurutén mirí kurí eyuyr!
-121 -
+121 - Kurutẽi mirĩ kurí eyuíri!
 121 - volta cedo!
 
 122 - intí kurí xayuír.
-122 -
+122 - Intí kurí xayuíri.
 122 - não hei de voltar.
 
 123 - oyuyr ramé aramé yasó án.
-123 -
+123 - Uyuíri ramé aramé yasú ã.
 123 - quando êle vier, iremos.
 
 124 - rexipiak án será anyrá?
 124 - Rexipiaka ana será andirá? (Hartt, 328, adap.) - Já viste o morcego?
+124 - Rexipiaka ana será anirá? # forma adaptada para anotar e incluir no treebank
 124 - já viste o morcego?
 
 125 - emaén anyrá rese!
-125 -
+125 - Emaẽ anirá resé!
 125 - olha o morcego!
 
 126 - míra omaen oikó.
-126 -
+126 - Mira umaẽ uikú.
 126 - estão olhando.
 
 127 - xaxipiák ñaá kuñán kuesé xasoaintin uaá.
-127 -
+127 - Xaxipiaka nhaã kunhã kwesé xasuantí waá.
 127 - eu vejo a mulher que eu encontrei óntem.
 
 128 - intí rañe xaxipiak.
-128 -
+128 - Intí raẽ xaxipiaka. - Até hoje não vi.
 128 - nunca vi.
 
 129 - resupiak uán será apygáua?
-129 -
+129 - Rexipiaka wã será apigawa?
 129 - já viste o homem?
 
 130 - xaxipia (k) iepé opuám oiko.
-130 -
+130 - Xaxipiaka yepé upuãmu uikú.
 130 - vejo um homem em pé.
 
 131 - irané eyór!
-131 -
+131 - Wirané eyuri!
 131 - vem amanhã!
 
 132 - eyúr yauára!
-132 -
+132 - Eyuri, yawara!
 132 - cachorro, vem cá!
 
 133 - eyúr pixána!
-133 -
+133 - Eyuri, pixana!
 133 - gato, vem cá!
 
 p. 329
@@ -565,19 +574,19 @@ p. 329
 134 - e que é que estavas fazendo que não vieste depressa?
 
 135 - kuñán osy kuaá kuesé sekuñada ñaé.
-135 -
+135 - Kunhã usú kwaá kwesé se kunhara nhaã.
 135 - a mulher que chegou óntem é minha cunhada.
 
 136 - kuyr teñé úr oaráma.
-136 -
+136 -  Kuíri tenhẽ uyuri arama.
 136 - êle há de vir já.
 
 137 - xayor kurutén uára aráma.
-137 -
+137 - Xayuri kurutẽiwara arama.
 137 - vim para um instante.
 
 138 - osyk ramé kurí, xasó uán.
-138 -
+138 - Usika ramé kurí, xasu wã.
 138 - logo que êle chegar, vou-me embora.
 
 139 - xayusé reté.
@@ -586,6 +595,7 @@ p. 329
 
 140 - ixé xayumutár kuaá kuñán mukú purána resé.
 140 - Ixé ayumutari kwaá kunhamukú puranga resé. (Hartt, 329, adap.) - Eu gosto dessa moça bonita.
+140 - Ixé xayumutari kwaá kunhamukú puranga resé.  # forma adaptada para anotar e incluir no treebank
 140 - eu gosto muito daquela bonita moça.
 
 141 - yauára oyumutar reté oyunún tatá ruake.
@@ -593,69 +603,71 @@ p. 329
 141 - o cachorro gosta muito de deitar-se perto do fogo.
 
 142 - intí xaputár kuaá kysé amú teñé xaputár.
-142 -
+142 - Intí xaputari kwaá kisé amú tenhẽ xaputari.
 142 - não quero esta faca, quero a outra.
 
 143 - itá oár putár.
-143 -
+143 - Itá uwari-putari.
 143 - a pedra está para cair.
 
 144 - tupána putár rame.
-144 -
+144 - Tupana uputari ramé. - Se Deus quiser.
 144 - se Deus quizer.
 
 145 - xareko pau uán maé xaputár uaé.
-145 -
+145 - Xariku pawa wã maã xaputari waá.
 145 - tenho tudo que desejo.
 
 146 - ixé xasó uán.
-146 -
+146 - Ixé xasú wã.
 146 - eu quero ir.
 
 147 - xasó xapagar nhaá apyáua supe.
 147 - Asú apagari nhaã apigawa supé. (Hartt, 329, adap.) - Vou pagar àquele homem.
+147 - Xasú apagari nhaã apigawa supé. # forma adaptada para anotar e incluir no treebank
 147 - vou pagar aquêle homem.
 
 p. 330
 
 148 - kuaá apyáua orekó reté diñéro.
-148 - Kwaá apigawa urikú reté dinheru. *
+148 - Kwaá apigawa urikú reté dinheru.
 148 - êste homem tem muito dinheiro.
 
 149 - opan orekó putár diñéro.
-149 - Panhẽ urikú putari dinheru. *
+149 - Upaĩ urikú-putari dinheru.
 149 - todos querem dinheiro.
 
 150 - intí ramé xarekó asukirí xapyrypán íra.
-150 - Ti ramé arikú asukirí apiripana ira. *
+150 - Intí ramé xarikú asukirí xapiripana ira.
 150 - quando não tenho açucar compro mel.
 
 151 - maá taá repyrypán apyáua suí?
-151 - Maã taá repiripana apigawa suí? *
+151 - Maã taá repiripana apigawa suí?
 151 - o que compraste do homem?
 
 152 - yasó yapyrypán iepé ygára!
-152 - Yasú apiripana yepé igara! * # não encontrei a conjugação de piripana na 1ª pessoa do plural, coloquei a 1ª pessoa do singular.
+152 - Yasú yapiripana yepé igara!
 152 - vamos comprar uma canoa!
 
 153 - intí xarekó mairúm xapyrypán aráma.
-153 - Ti arikú maã irumu apiripana arama. *
+153 - Intí xarikú maã irũ xapiripana arama.
 153 - não tenho com que comprá-la.
 
 154 - iné maarupiára reté.
+154 - Iné marupiára reté. # forma adaptada para anotar e incluir no treebank
 154 - Indé marupiára reté. (Hartt, 330, adap.) - Tu és muito feliz (na caça).
 154 - tu és muito feliz (na caça).
 
 155 - maá taá reuasém?
-155 - Maã taá rewasemu? *
+155 - Maã taá rewasemu?
 155 - o que achaste?
 
 156 - intí, paá, aúna ouasem.
-156 - Ti, paá, aúna uwasemu. *
+156 - Intí, paá, aúna uwasemu.
 156 - parece que não o acharam.
 
 157 - intí maá xauasém.
-157 - Ti maã awasemu. *
+157 - Intí maã xawasemu.
 157 - nada achei.
 
 158 - ixé tymaá sáua uára.
@@ -663,15 +675,15 @@ p. 330
 158 - sou filho de baixo.
 
 159 - se renáua Tupiópe.
-159 - Se rendawa Tupiópe. *
+159 - Se renawa Tupayú.
 159 - meu lugar é Santarém.
 
 160 - ixé Tupaió uára.
-160 - Ixé Tupaiówara. *
+160 - Ixé Tupayúwara.
 160 - sou morador de Santarém.
 
 161 - mairamé taé? teñé yaué!
-161 - Mairamé taá? Tenhẽ yawé! *
+161 - Mairamé taá? Tenhẽ yawé!
 161 - porque? não faça assim!
 
 p. 331
@@ -1471,6 +1483,7 @@ p. 344
 353 - vou a pé.
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
+354 - Xamunú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
 354 - mando minha canoa a vila para voltar depois de amanhã.
 
@@ -1669,6 +1682,7 @@ p. 348
 399 - eu tinjo de preto meu fio.
 
 400 - irané kurí xamuñán pá semuraiky
+400 - Wirané kurí xamunhã pá se murakí. # forma adaptada para anotar e incluir no treebank
 400 - Wirandé kurí amunhã pá se murakí. (Hartt, 348, adap.) - Amanhã hei de fazer todo o meu serviço.
 400 - amanhã hei de fazer todo o meu serviço.
 
@@ -1739,6 +1753,7 @@ p. 349
 416 - lembranças aos habitantes de Monte-Alegre.
 
 417 - xasó rañé, ate irané, tapána putár ramé.
+417 - Xasú ranhẽ, até wirané, tupana putari ramé. # forma adaptada para anotar e incluir no treebank [Leonel: veja no treebank como anotar formas sem prefixo pessoal, procure por Style=]
 417 - Asú rẽ, até wirandé, tupana uputari ramé. (Hartt, 349, adap.) - Já me vou, até amanhã, se Deus quiser.
 417 - já vou, até amanhã, se Deus quizer.
 
@@ -2523,9 +2538,10 @@ p. 363
 604 - Ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
 604 - não tenho tempo para fazer o serviço.
 
-605 - iramé xasó intí ramé okyr.
+605 - irané xasó intí ramé okyr.
+605 - Wirané xasú, intí ramé ukiri. # forma adaptada para anotar e incluir no treebank
 605 - Wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
-605 - vou amanhã se não chuver.
+605 - vou amanhã se não chover.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
 606 -
@@ -2615,7 +2631,7 @@ p. 364
 
 627 - kuaá estilada sasy reté, umixír se kuruká.
 627 - Kwaá ... sasí reté, ... se kuruká. *
-627 - esta estiíada é muito forte, queimou minha garganta.
+627 - esta estilada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
 628 - Asú wã kupixawa asuí wã ayuíri. *
@@ -2714,7 +2730,7 @@ p. 366
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
-651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ" 
+651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ"
 651 - vamos falar com o homem.
 
 652 - kuaá apyáua oñeén tayna yaué.
@@ -3371,9 +3387,10 @@ p. 377
 
 p. 378
 
-809 - uirané kurí resó min kyty.
+809 - uirané kurí resó mín kyty.
+809 - Wirané kurí resú mikití. # forma adaptada para anotar e incluir no treebank
 809 - wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
-809 - amanhã tu has de ir para lá.
+809 - amanhã tu hás de ir para lá.
 
 810 - muratú áua open-open.
 810 -
