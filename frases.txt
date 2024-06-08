@@ -1765,11 +1765,11 @@ p. 349
 p. 350
 
 423 - mayaué taé resó?
-423 -
+423 - Mayé taá resú? *
 423 - como vais?
 
 424 - ikatú ñúnte.
-424 -
+424 - I katú nhuntu. *
 424 - bom sómente.
 
 425 - peñeén petitúa.
@@ -3058,7 +3058,7 @@ p. 372
 733 - a galinhaa já pôs três ovos.
 
 734 - ixé xasarún apyáua xaikó.
-734 -
+734 - ixé ... apigawa aikú. *
 734 - estou esperando o homem.
 
 735 - xasó xayuók itá póso suí.
@@ -3089,7 +3089,7 @@ p. 373
 740 - já matei gente.
 
 741 - Pedero maé uaé oyuká Yoáun.
-741 -
+741 - Pedero maã waá uyuká Yoáun. *
 741 - Pedro que matou João.
 
 742 - xasó xayuyuká.
@@ -3102,23 +3102,23 @@ p. 373
 743 - nós outros vos matamos.
 
 744 - tupána resé, teñe ine seyuká!
-744 -
+744 - Tupana resé, tenhẽ ... se yuká! *
 744 - por Deus, não me mate.
 
 745 - intí xaputár reyuká seména.
-745 -
+745 - ti ... reyuká ... *
 745 - não quero que tu mates meu marido.
 
 746 - ikatú yayuká kuaá yauára.
-746 -
+746 - I katú yuká kwaá yawara. *
 746 - é bom de matar este cachorro.
 
 747 - peñé oyuyuká putár(pe?).
-747 -
+747 - ... uyuyuká putari. *
 747 - quereis vos matar.
 
 748 - yané mokóin yayuyuká putár.
-748 -
+748 - yandé mukũi i ayuyuká putari. *
 748 - nós dois queremos nos matar.
 
 749 - xasó xayutím omanó uaé.
@@ -3126,7 +3126,7 @@ p. 373
 749 - vou enterrar o defunto.
 
 750 - ixé amanó uán xaikó.
-750 -
+750 - ixé amanú wã aikú. *
 750 - estou morto.
 
 751 - ixé menasára yma uán seremirikó omanó uá.
@@ -3152,7 +3152,7 @@ p. 374
 755 - o homem caiu na agua, faltou-lhe o folego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
-756 -
+756 - ... taá neturina ...? *
 756 - qual é a côr das tuas calças?
 
 757 - poité remuñán.
@@ -3164,15 +3164,15 @@ p. 374
 758 - tu falas a verdade.
 
 759 - aé intí supí oñeén.
-759 -
+759 - aé ti ... unheẽ. *
 759 - ele não fala a verdade.
 
 760 - apyáua oñeén:seremirikó omanó uán.
-760 -
+760 - apigawa unheẽ: se rimirikú umanú wã. *
 760 - o homem disse: minha mulher já morreu.
 
 761 - ekóin emosaimé nekysé.
-761 -
+761 - ... ... saimbé ne kisé. *
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
@@ -3184,11 +3184,11 @@ p. 374
 763 - a faca não está amolada.
 
 764 - kuaé kúya yuyuká.
-764 -
+764 - kwá kuya uyuká. *
 764 - essa cúia está quebrada.
 
 765 - xakutiár xaikó serekúya.
-765 -
+765 - ... aikú ...
 765 - estou pintando minha cúia.
 
 766 - irusán sepysy.
@@ -3202,11 +3202,11 @@ p. 374
 p. 375
 
 768 - intí yaupaú, turusú reté oikó.
-768 -
+768 - ti ..., ... reté uikú. *
 768 - não acabamos, é muito.
 
-769 -  peupaú será kuaá auatiú.
-769 -
+769 - peupaú será kuaá auatiú.
+769 - ... será kwaá ... *
 769 - já acabaste o arroz.
 
 770 - semuká kuí opan.
@@ -3238,11 +3238,11 @@ p. 375
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
-777 -
+777 - asú ... 
 777 - vou guardar a caça(carne) para amanhã.
 
 778 - intí será yauá?
-778 -
+778 - ti será ...? *
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
@@ -3254,7 +3254,7 @@ p. 375
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
-781 -
+781 - ... putari ramé, ... *
 781 - quando quero dormir, durmo.
 
 p. 376
@@ -3366,7 +3366,7 @@ p. 377
 807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
-808 -
+808 - kwaá ... suí, ... ... tawa resé. *
 808 - deste morro podemos ver a vila.
 
 p. 378
@@ -3385,7 +3385,7 @@ p. 378
 
 812 - kuaá itá santán reté, intí xamapog kuáu.
 812 - kwá itá santá reté, ti amapuka-kwáu[aé]. (Hartt, 378, adap.)
-812 - esta pedra é muito dura, não posso despedaçá-la;
+812 - esta pedra é muito dura, não posso despedaçá-la.
 
 813 - tapañúna iakána santan kupií yaué.
 813 - tapayuna i akanga santá kupií yawé. *
@@ -3430,31 +3430,31 @@ p. 378
 p. 379
 
 823 - murumurú yú ipokú reté.
-823 - murumurú yú i pukú reté. (Hartt, 379, adap.) - o espinho do murumurú é muito comprido.
+823 - Murumurú yú i pukú reté. (Hartt, 379, adap.) - o espinho do murumurú é muito comprido.
 823 - o espinho do murumurú é muito comprido.
 
 824 - yasó yaxipiak auá iána ipokú.
-824 - i pukú.
+824 - Yasú ... ... ... i pukú.
 824 - vamos a ver quem tem o folego mais comprido.
 
 825 - ymyrá ipokú reté.
-825 - mirá-pukú reté. *
+825 - Mirá-pukú reté. *
 825 - o páu é alto (comprido).
 
 826 - kaué ymyrá ipokú.
-826 - kwá mirá i pukú. *
+826 - Kwá mirá i pukú. *
 826 - este páu é comprido.
 
 827 - oií seryái reté.
-827 - uií se riái reté. *
+827 - Uií se riái reté. *
 827 - hoje suei muito.
 
 828 - maeráma kuité renupán yauára?
-828 - marama kuité renupá yawara? (Hartt, 379, adap.) - Mas porque bates no cachorro?
+828 - Marama kuité renupá yawara? (Hartt, 379, adap.) - Mas porque bates no cachorro?
 828 - porque bates no cachorro?
 
 829 - oyeréu yuy rupí.
-829 - uyeréu iwí rupí. *
+829 - Uyeréu iwí rupí. *
 829 - rolou no chão.
 
 830 - ayuéte nepáia senupán xasó teñé nerúm.
@@ -3466,15 +3466,15 @@ p. 379
 831 - vejo uma moça encostada no quintal.
 
 832 - ixé xayumutár pyrí kuaá kuñán mukú resé sury reté resé.
-832 - ixé ayumutari piri kwaá kunhamukú resé, surí reté resé. (Hartt, 379, adap.) - Eu gosto mais desta moça, por ela ser muito alegre.
+832 - Ixé ayumutari piri kwaá kunhamukú resé, surí reté resé. (Hartt, 379, adap.) - Eu gosto mais desta moça, por ela ser muito alegre.
 832 - gosto mais desta moça por ser muito alegre.
 
 833 - serayra menasára oikó.
-833 - se raíra mendasara uikú. *
+833 - Se raíra mendasara uikú. *
 833 - meu filho está casado.
 
 834 - semenasára yma yuyr.
-834 - se mendasara #
+834 - Se mendasara #
 834 - sou viuvo(ou viuva).
 
 835 - maé taé ñaé apyáua rera kuesé yayuaintin irúm?
@@ -3484,7 +3484,7 @@ p. 379
 p. 380
 
 836 - yasó yamuñán ygára, kaápe, itaya suí.
-836 - Yasú yamunhã igara, kaá-pe, itaíwa suí. # * [Leonel: Por que asterisco? Adaptação está correta.]
+836 - Yasú yamunhã igara, kaá-pe, itaíwa suí.
 836 - vamos fazer uma canoa no mato, de itaúba.
 
 837 - karíua, yuruparí, omuñán marakatiu.
@@ -3517,7 +3517,7 @@ p. 380
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
-844 - Ixé xayumunuka kisé irũ. # - eu me cortei com a faca. * [Leonel: Não entendi esse comentário.]
+844 - Ixé xayumunuka kisé irũ. - eu me cortei com a faca. * 
 844 -
 844 - eu me cortei com a faca.
 
