@@ -382,8 +382,8 @@ p. 325
 90 - Se maãitá yakima uikú.
 90 - minha roupa está molhada.
 
+# 91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - intí án sekyrimbá xasupir aráma mbaa iporéi reté aá (Ereré).
-#91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - Intí ã se kirimbá xasupiri arama maã i pusé reté waá.
 91 - NA
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
