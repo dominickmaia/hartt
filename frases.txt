@@ -2051,9 +2051,13 @@ p. 354
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
-488a - apyáua Piauí uára.
-488 - Apigawa Piauíwara (Hartt, 354, adap.) - O
-homem é natural do Piauí.
+488 - TODO
+488 - NA
+488 - o homem é filho de Piauí.
+
+488 a - apyáua Piauí uára.
+488 a - TODO
+488 - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
 488 - o homem é filho de Piauí.
 
 489 - saaimú xarekó kysé, xamonok imú ñaán ymyrá.
