@@ -578,7 +578,7 @@ p. 329
 135 - a mulher que chegou óntem é minha cunhada.
 
 136 - kuyr teñé úr oaráma.
-136 -  Kuíri tenhẽ uyuri arama.
+136 - Kuíri tenhẽ uyuri arama.
 136 - êle há de vir já.
 
 137 - xayor kurutén uára aráma.
@@ -895,7 +895,7 @@ p. 334
 211 - veste já tua calça.
 
 212 - tenupá raén semaitá otikán.
-212 -
+212 - Tenupá 
 212 - deixa minha roupa enxugar.
 
 213 - semaaitá intí osy kuáu saka opé.
@@ -953,7 +953,7 @@ p. 335
 225 - se tivesse, dava.
 
 226 - intí resé xarikó intí xameén inéu.
-226 -
+226 - Inti resé arikú inti ameẽ indéu. *
 226 - como não tenho não te dou.
 
 227 - yasó kurutén.
@@ -1165,7 +1165,7 @@ p. 339
 276 - manda buscar o pajé.
 
 277 - sepatráum (patrão) emonu mukáua piám.
-277 -
+277 - Se patrãu...
 277 - meu patrão mandou-me buscar a arma.
 
 278 - ixé xayupukuáu reté Tupaiópe.
@@ -2220,7 +2220,7 @@ p. 357
 527 - abana-me.
 
 528 - xamumáu xaikó.
-528 -
+528 - Amumbawa aikú. *
 528 - estou acabando.
 
 529 - pirayauára osekyi yuytú ikó.
@@ -2768,7 +2768,7 @@ p. 367
 659 - já mandei lavar minha roupa.
 
 660 - ikatú ipó yasó yaseróg kár, koromó teé omanó kurutén uára serayma.
-660 -
+660 - I katú 
 660 - é bom de mandar batizar (a criança), pode morrer de repente sem nome.
 
 661 - xasó xaserúk kár semymyra.
@@ -2934,11 +2934,11 @@ p. 369
 p. 370
 
 700 - xamumáu putár an semurauky.
-700 -
+700 - Amumbawa putari ... ... *
 700 - tenho quasi acabado meu trabalho.
 
 701 - peñé intí peapukúi kuáu.
-701 -
+701 - ... inti ... kwáu. *
 701 - vós não sabeis remar.
 
 702 - inti resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
@@ -2950,7 +2950,7 @@ p. 370
 703 - para que queres a brasa?
 
 704 - ekóin tatápyña ixéu.
-704 -
+704 - ekũi...
 704 - vai tirar aquela brasa para mim.
 
 705 - searasy reté intí resé xasó kuáu.
@@ -3046,11 +3046,11 @@ p. 371
 p. 372
 
 727 - ipixain uán neruá.
-727 - i pixaĩ wã ne ruá. (Hartt, 372, adap.) - Tua cara está cheia de pregas.
+727 - I pixaĩ wã ne ruá. (Hartt, 372, adap.) - Tua cara está cheia de pregas.
 727 - tua cara está cheia de pregas.
 
 728 - xasó uán xayumumeú.
-728 - asú wã ayumumbeú. (Hartt, 372, adap.) - fui confessar-me.
+728 - Asú wã ayumumbeú. (Hartt, 372, adap.) - fui confessar-me.
 728 - fui confessar.
 
 729 - eparauák an mokóin ymyra (Mauhé).
@@ -3058,11 +3058,11 @@ p. 372
 729 - escolha dois paus.
 
 730 - pykasú ikáua reté oikó.
-730 - pikasú i kawa reté uikú. (Hartt, 372, adap.) - A pomba está muito gorda.
+730 - Pikasú i kawa reté uikú. (Hartt, 372, adap.) - A pomba está muito gorda.
 730 - a pomba está muito gorda.
 
 731 - kuñán ipuruá ikó.
-731 -
+731 - Kunhã
 731 - a mulher está prenha.
 
 732 - xaé xarakó ramé auá xamonó serekuyára aráma intí xasó.
@@ -3070,19 +3070,19 @@ p. 372
 732 - se tivesse quem mandar no meu lugar não ia.
 
 733 - sapukáia omonór an mosapyr supiá.
-733 -
+733 - Apukaya
 733 - a galinhaa já pôs três ovos.
 
 734 - ixé xasarún apyáua xaikó.
-734 - ixé ... apigawa aikú. *
+734 - Ixé ... apigawa aikú. *
 734 - estou esperando o homem.
 
 735 - xasó xayuók itá póso suí.
-735 - asú ayuuka itá pusu suí. (Hartt, 372, adap.) - Vou tirar a pedra do poço.
+735 - Asú ayuuka itá pusu suí. (Hartt, 372, adap.) - Vou tirar a pedra do poço.
 735 - vou tirar a pedra do poço.
 
 736 - kurumí mirí osyririk ikó, inti raén ouatá kuáu.
-736 - kurumĩ mirĩ usiririka uikú, ti rẽ uwatá-kwáu. (Hartt, 372, adap.) - O menino está engatinhando, ainda não sabe andar.
+736 - Kurumĩ mirĩ usiririka uikú, ti rẽ uwatá-kwáu. (Hartt, 372, adap.) - O menino está engatinhando, ainda não sabe andar.
 736 - o menino está engatinhando, ainda não sabe andar.
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
@@ -3090,11 +3090,11 @@ p. 372
 737 - eu não acreditava que o homem viesse cêdo.
 
 738 - amaniú opororóg oikó.
-738 - amaniú upururuka uikú. (Hartt, 372, adap.) - O algodão está abrindo.
+738 - Amaniú upururuka uikú. (Hartt, 372, adap.) - O algodão está abrindo.
 738 - o algodão está abrindo.
 
 739 - xapumymyk serenimú.
-739 - apumbika se rinimbú. (Hartt, 377, adap.) - Eu torço meu fio.
+739 - Apumbika se rinimbú. (Hartt, 377, adap.) - Eu torço meu fio.
 739 - estou torcendo meu fio.
 
 p. 373
@@ -3109,7 +3109,7 @@ p. 373
 741 - Pedro que matou João.
 
 742 - xasó xayuyuká.
-742 - asú ayuyuká. (Hartt, 373, adap.) - vou me matar.
+742 - Asú ayuyuká. (Hartt, 373, adap.) - vou me matar.
 742 - vou me matar.
 
 743 - yané yasó peyuká.
@@ -3122,7 +3122,7 @@ p. 373
 744 - por Deus, não me mate.
 
 745 - intí xaputár reyuká seména.
-745 - ti ... reyuká ... *
+745 - Inti ... reyuká ... *
 745 - não quero que tu mates meu marido.
 
 746 - ikatú yayuká kuaá yauára.
@@ -3134,37 +3134,37 @@ p. 373
 747 - quereis vos matar.
 
 748 - yané mokóin yayuyuká putár.
-748 - yandé mukũi i ayuyuká putari. *
+748 - Yandé mukũi i ayuyuká putari. *
 748 - nós dois queremos nos matar.
 
 749 - xasó xayutím omanó uaé.
-749 - asú ayutima umanú waá. (Hartt, 373, adap.) - vou enterrar o que morreu.
+749 - Asú ayutima umanú waá. (Hartt, 373, adap.) - vou enterrar o que morreu.
 749 - vou enterrar o defunto.
 
 750 - ixé amanó uán xaikó.
-750 - ixé amanú wã aikú. *
+750 - Ixé amanú wã aikú. *
 750 - estou morto.
 
 751 - ixé menasára yma uán seremirikó omanó uá.
-751 - ixé mendesaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
+751 - Ixé mendesaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
 751 - sou viuvo, minha mulher está morta.
 
 752 - omanó pán aintá, néan oyepé opytá.
-752 - umanú pawa aintá, nẽ wã yepé upitá. (Hartt, 373, adap.) - Morreram todos eles, não restou nenhum.
+752 - Umanú pawa aintá, nẽ wã yepé upitá. (Hartt, 373, adap.) - Morreram todos eles, não restou nenhum.
 752 - morreram todos, não ficou nenhum.
 
 753 - yamuñán ramé ñaé kurumú teé yamanó.
-753 - yamunhã ramé nhaã, kurumú taá yamanú. (Hartt, 373, adap.) - Ao fazermos isso, pode ser que morramos.
+753 - Yamunhã ramé nhaã, kurumú taá yamanú. (Hartt, 373, adap.) - Ao fazermos isso, pode ser que morramos.
 753 - fazendo isso, pode ser que morra.
 
 p. 374
 
 754 - serimirikó omanó uán sesuí.
-754 - se rimirikú umanú wã se suí. (Hartt, 374, adap.) - Minha mulher já morreu.
+754 - Se rimirikú umanú wã se suí. (Hartt, 374, adap.) - Minha mulher já morreu.
 754 - minha mulher já morreu.
 
 755 - apyáua oár yg pype, oatár iána, omanó.
-755 - apigawa uwari ipí-pe, uwatari i anga, umanú. (Hartt, 374, adap.) - o homem caiu na água, faltou-lhe o fôlego e ele morreu.
+755 - Apigawa uwari ipí-pe, uwatari i anga, umanú. (Hartt, 374, adap.) - o homem caiu na água, faltou-lhe o fôlego e ele morreu.
 755 - o homem caiu na agua, faltou-lhe o folego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
@@ -3188,7 +3188,7 @@ p. 374
 760 - o homem disse: minha mulher já morreu.
 
 761 - ekóin emosaimé nekysé.
-761 - ... ... saimbé ne kisé. *
+761 - ekũi ... saimbé ne kisé. *
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
@@ -3218,55 +3218,55 @@ p. 374
 p. 375
 
 768 - intí yaupaú, turusú reté oikó.
-768 - ti ..., ... reté uikú. *
+768 - Inti yaupawa, turusú reté uikú. *
 768 - não acabamos, é muito.
 
 769 - peupaú será kuaá auatiú.
-769 - ... será kwaá ... *
+769 - Pe upawa será kwaá awatií. *
 769 - já acabaste o arroz.
 
 770 - semuká kuí opan.
-770 -
+770 - Se mukawakuí ...
 770 - minha polvora já se acabou.
 
 771 - xaú pan uán.
-771 -
+771 - Aú panhẽ wã. *
 771 - já comi tudo.
 
 772 - auá pesuí, uára taá orekó serekúya?
-772 -
+772 - Awá pe suí-wara taá urikú se rekuya? *
 772 - quem de vós tem minha cúia?
 
 773 - pemeén ixéu.
-773 -
+773 - Pe meẽ ixéu. *
 773 - dá-me-a.
 
 774 - saá kurí remopok ñaá kamutí, ixé kurí nenupán?
-774 -
+774 - Saã kurí remupuka nhaã kamutí, ixé kurí ne nupá?
 774 - se tu quebrares o póte, que hei de te dar?
 
 775 - se kamutí ipó teresem oikó uaríua suí.
-775 -
+775 - Se kamutí ... teresemu uikú wariwa suí. *
 775 - meu póte está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
-776 -
+776 - Se amaniú yupururuka ã ... i katú ã mira yupuú arama. *
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
-777 - asú ... 
+777 - Asú ... suú wirané ara supé wara. *
 777 - vou guardar a caça(carne) para amanhã.
 
 778 - intí será yauá?
-778 - ti será ...? *
+778 - Inti será ...? *
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
-779 - kamutí teresemu ã uikú. (Hartt, 375, adap.) - o pote está cheio.
+779 - Kamutí teresemu ã uikú. (Hartt, 375, adap.) - o pote está cheio.
 779 - o póte está cheio.
 
 780 - kamutí ipóra.
-780 - kamutí i pura. (Hartt, 375, adap.) - o pote está cheio.
+780 - Kamutí i pura. (Hartt, 375, adap.) - o pote está cheio.
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
@@ -3316,7 +3316,7 @@ p. 376
 791 - Joaquim está doente, ele caiu do cavalo e quebrou seu braço, agora está um pouco melhor.
 
 792 - intí retín?
-792 -
+792 - Inti ...? *
 792 - não tens vergonha?
 
 793 - apyáua intí otín.
@@ -3362,7 +3362,7 @@ p. 377
 802 - tenho diarréa.
 
 803 - esém, ekóin kyty.
-803 -
+803 - Resemu, ekũi kití. *
 803 - sae, vae-te embora! (ao cachorro).
 
 804 - yané kupixáua apykatú óka suí.
@@ -3378,11 +3378,11 @@ p. 377
 806 - porque não queres te casar comigo?
 
 807 - nepatráum osapukái neresé oikó.
-807 -
+807 - Ne patrãu usapukaya ne resé uikú. *
 807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
-808 - Kwaá ... suí, ... ... tawa resé. *
+808 - Kwaá yu... suí, yamaã ... tawa resé. *
 808 - deste morro podemos ver a vila.
 
 p. 378
@@ -3451,7 +3451,7 @@ p. 379
 823 - o espinho do murumurú é muito comprido.
 
 824 - yasó yaxipiak auá iána ipokú.
-824 - Yasú ... ... ... i pukú.
+824 - Yasú ya... ... ... i pukú.
 824 - vamos a ver quem tem o folego mais comprido.
 
 825 - ymyrá ipokú reté.
@@ -3475,7 +3475,7 @@ p. 379
 829 - rolou no chão.
 
 830 - ayuéte nepáia senupán xasó teñé nerúm.
-830 -
+830 - ... ... se nupá asú tenhẽ ...
 830 - ainda que teu pae me bata vou contigo.
 
 831 - xaxipiak iepé kuñán mukú oyar kinára resé.
