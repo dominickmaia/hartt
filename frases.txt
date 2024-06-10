@@ -1752,10 +1752,10 @@ p. 349
 416 -
 416 - lembranças aos habitantes de Monte-Alegre.
 
-417 - xasó rañé, ate irané, tapána putár ramé.
+417 - xasó rañé, ate irané, tupána putár ramé.
 417 - Xasú ranhẽ, até wirané, tupana putari ramé. # forma adaptada para anotar e incluir no treebank [Leonel: veja no treebank como anotar formas sem prefixo pessoal, procure por Style=]
 417 - Asú rẽ, até wirandé, tupana uputari ramé. (Hartt, 349, adap.) - Já me vou, até amanhã, se Deus quiser.
-417 - já vou, até amanhã, se Deus quizer.
+417 - já vou, até amanhã, se Deus quiser.
 
 418 - sekatú mirí xaikó.
 418 -
