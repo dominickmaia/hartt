@@ -2419,93 +2419,93 @@ p. 360
 p. 361
 
 576 - symyg reté kuaá pirá.
-576 -
+576 - sembika reté kwaá pirá. *
 576 - êste peixe está muito salgado.
 
 577 - ekóin emímóin yanerimiú.
-577 -
+577 - ekũi mumemúi yané rimbiú. *
 577 - vai cozinhar nossa comida.
 
 578 - xamixir xaikó serimiú.
-578 -
+578 - Amixiri aikú se rimbiú. (Hartt, 361, adap.) - Estou assando minha comida.
 578 - estou assando minha comida.
 
 579 - xamukaén xaikó tatú.
-579 -
+579 - Amukaẽ aikú tatú. (Hartt, 361, adap.) - Estou moqueando o tatú.
 579 - estou muqueando o tatú.
 
 580 - sepanéra seakuén.
-580 -
+580 - Se panera se ...
 580 - minha panela cheira. *
 
-581 - intí xaputár kuaá auatii oyar, koromó tú okái. *
-581 -
+581 - intí xaputár kuaá auatií oyar, koromó tú okái. *
+581 - Inti ... kwaá awatií ..., ... ... ...
 581 - não quero encostar aquêle arroz perto do fogo, pode se queimaar.
 
 582 - okái ramé inti. katú, ipixé.
-582 -
+582 - ... ... inti. katú, i pixé. *
 582 - quando está queimado não está bom. tem mau cheiro.
 
 583 - ikatú uán oikó ñaá neremimúña?
-583 -
+583 - I katú wã uikú nhaã ne remimunha? (Hartt, 361, adap.) - Já está bom o seu cozido?
 583 - já está boa tua cozida?
 
 584 - yg opopór oikó.
-584 -
+584 - Ií upupuri uikú. *
 584 - a água está fervendo.
 
 585 - sepanéra opopór putár oikó teapú uán.
-585 -
+585 - Se panera upupuri-putari uikú, tiapú wã. (Hartt, 361, adap.) - Minha panela está quase fervendo, já está zoando.
 585 - minha panela quer ferver, está fazendo bulha.
 
 586 - kuaá rimiú intí osy yaú aráma.
-586 -
+586 - Kwaá rimbiú inti usika ... arama. *
 586 - esta comida não chega para nós.
 
 587 - yasó yamimúin soó rukuéra osy aráma yanéu.
-587 -
+587 - Yasú yamemúi suú ... usika arama ... *
 587 - vamos cozinhar carne de caça bastante para nós.
 
 588 - xasó xamaú, seyumasy xaikó.
-588 -
+588 - Asú ... ... aikú. *
 588 - vou comer, estou com fome.
 
-589 - yasó yasosók auatií! *
-589 -
+589 - yasó yasosók auatií! 
+589 - Yasú yasusuka awatií. (Hartt, 361, adap.) - Vamos pilar arroz!
 589 - vamos pilar arroz!
 
 p. 362
 
 590 - yg ikatú reté.
-590 -
+590 - Ií i katú reté. *
 590 - a água está muito boa.
 
 591 - xamuyasúk putár seruá.
-591 -
+591 - Amuyasuka-putari se ruá. (Hartt, 362, adap.) - Quero lavar meu rosto.
 591 - quero lavar meu rosto.
 
 592 - yasó yayasúk.
-592 -
+592 - Yasú yayasuka. *
 592 - vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
-593 -
+593 - Kurasí sakú reté ... ... ... ... arama. *
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
-594 -
+594 - Aikú wã kurasí ...
 594 - o sol vem saindo.
 
 595 - uarasy sakó reté.
-595 -
+595 - Kurasí sakú reté. *
 595 - o sol está muito quente.
 
 596 - uarasy oseny uán.
-596 -
+596 - Kurasí sendí wã. (Hartt, 362, adap.) - O sol está clareando.
 596 - o sol está clareando.
 
 597 - korasy oaté án hasó putár hapuraky.
-597 -
+597 - Kurasí iwaté ã, asú-putari apurakí. (Hartt, 362, adap.) - O sol já está alto, quero ir trabalhar.
 597 - o sol está alto, quero ir trabalhar.
 
 598 - pytúna uasú ramé intí yaxipiak kuáu maé.
@@ -2513,7 +2513,7 @@ p. 362
 598 - quando está escuro nada podemos ver.
 
 599 - xayuruyár neresé.
-599 -
+599 - Ayuruyari ne resé. (Hartt, 362, adap.) - Tenho confiança em ti.
 599 - tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
@@ -2521,11 +2521,11 @@ p. 362
 600 - não acredito nisso.
 
 601 - intí semanuár.
-601 -
+601 - Ti se manduári. (Hartt, 362, adap.) - Não me lembro.
 601 - não me lembro.
 
 602 - semanuár teñé neresé.
-602 -
+602 - Se manduári tẽ ne resé. (Hartt, 363, adap.) - Sempre me lembro de ti.
 602 - sempre me lembro de ti.
 
 p. 363
@@ -3172,7 +3172,7 @@ p. 374
 756 - qual é a côr das tuas calças?
 
 757 - poité remuñán.
-757 - puité remunhã. (Hartt, 374, adap.) - Tu falas mentiras.
+757 - Puité remunhã. (Hartt, 374, adap.) - Tu falas mentiras.
 757 - tu falas mentiras.
 
 758 - iné supí reñeén.
@@ -3180,27 +3180,27 @@ p. 374
 758 - tu falas a verdade.
 
 759 - aé intí supí oñeén.
-759 - aé ti ... unheẽ. *
+759 - Aé ti ... unheẽ. *
 759 - ele não fala a verdade.
 
 760 - apyáua oñeén:seremirikó omanó uán.
-760 - apigawa unheẽ: se rimirikú umanú wã. *
+760 - Apigawa unheẽ: se rimirikú umanú wã. *
 760 - o homem disse: minha mulher já morreu.
 
 761 - ekóin emosaimé nekysé.
-761 - ekũi ... saimbé ne kisé. *
+761 - Ekũi ... saimbé ne kisé. *
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
-762 - amusaimbé se kisé itakí pupé. (Hartt, 374, adap.) - Amolo minha faca na pedra de amolar.
+762 - Amusaimbé se kisé itakí pupé. (Hartt, 374, adap.) - Amolo minha faca na pedra de amolar.
 762 - estou amolando minha faca na pedra de amolar.
 
 763 - kipé intí saimé.
-763 - kisé ti saimbé. (Hartt, 374, adap.) - A faca não está amolada.
+763 - Kisé ti saimbé. (Hartt, 374, adap.) - A faca não está amolada.
 763 - a faca não está amolada.
 
 764 - kuaé kúya yuyuká.
-764 - kwá kuya uyuká. *
+764 - Kwá kuya uyuká. *
 764 - essa cúia está quebrada.
 
 765 - xakutiár xaikó serekúya.
@@ -3212,7 +3212,7 @@ p. 374
 766 - estou constipado.
 
 767 - sepó ipuná reté.
-767 - se pú i punga reté. (Hartt, 374, adap.) - Minha mão está inchada.
+767 - Se pú i punga reté. (Hartt, 374, adap.) - Minha mão está inchada.
 767 - minha mão está inchada.
 
 p. 375
@@ -3389,7 +3389,7 @@ p. 378
 
 809 - uirané kurí resó mín kyty.
 809 - Wirané kurí resú mikití. # forma adaptada para anotar e incluir no treebank
-809 - wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
+809 - Wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
 809 - amanhã tu hás de ir para lá.
 
 810 - muratú áua open-open.
@@ -3401,19 +3401,19 @@ p. 378
 811 - os cabelos daquêle branco são direitos.
 
 812 - kuaá itá santán reté, intí xamapog kuáu.
-812 - kwá itá santá reté, ti amapuka-kwáu[aé]. (Hartt, 378, adap.)
+812 - Kwá itá santá reté, ti amapuka-kwáu[aé]. (Hartt, 378, adap.)
 812 - esta pedra é muito dura, não posso despedaçá-la.
 
 813 - tapañúna iakána santan kupií yaué.
-813 - tapayuna i akanga santá kupií yawé. *
+813 - Tapayuna i akanga santá kupií yawé. *
 813 - a cabeça do negro é dura como o cupim.
 
 814 - kuaá kurumí asú ikyrymáua osú.
-814 - kwaá kurumiwasú i kirimbawasú. (Hartt, 378, adap.) - Este moço é valente.
+814 - Kwaá kurumiwasú i kirimbawasú. (Hartt, 378, adap.) - Este moço é valente.
 814 - este moço é valeroso.
 
 815 - itá iposéi reté.
-815 - itá i pusé reté. *
+815 - Itá i pusé reté. *
 815 - a pedra pesa muito.
 
 816 - iya uasú reté kuaá ymyrá (Mauhé).
@@ -3421,27 +3421,27 @@ p. 378
 816 - este páu é muito grosso.
 
 817 - nerytymá ipoí reté.
-817 - ne retimã puí reté. *
+817 - Ne retimã puí reté. *
 817 - tuas pernas são muito finas.
 
 818 - erúr sekyuáua poí.
-818 - rurí sikí kiwawa-puí.*
+818 - Rurí sikí kiwawa-puí.*
 818 - traz meu pente fino.
 
 819 - sesá uasú reté kuaá uí(Mauhé).
-819 - sesáwasú reté kwá uí.*
+819 - Sesáwasú reté kwá uí.*
 819 - essa farinha é muito grosso.
 
 820 - kuaá mamáun tearún uán, itauá uán oikó.
-820 - kwá mamãu tinharú wã, i tawã wã uikú. (Hartt, 378, adap.) - Este mamão já está maduro, está amarelo.
+820 - Kwá mamãu tinharú wã, i tawã wã uikú. (Hartt, 378, adap.) - Este mamão já está maduro, está amarelo.
 820 - este mamão já está maduro, está amarelo.
 
 821 - murutín teñé sapé.
-821 - murutĩ tenhẽ sapé. *
+821 - Murutĩ tenhẽ sapé. *
 821 - o rasto dêle é branco.
 
 822 - ymyrá yatúk.
-822 - mirá i atuka. (Hartt, 378, adap.) - o pau é baixo.
+822 - Mirá i atuka. (Hartt, 378, adap.) - o pau é baixo.
 822 - o páu é baixo.
 
 p. 379
