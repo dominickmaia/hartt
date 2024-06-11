@@ -382,8 +382,8 @@ p. 325
 90 - Se maãitá yakima uikú.
 90 - minha roupa está molhada.
 
+# 91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - intí án sekyrimbá xasupir aráma mbaa iporéi reté aá (Ereré).
-#91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - Intí ã se kirimbá xasupiri arama maã i pusé reté waá.
 91 - NA
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
@@ -1752,10 +1752,10 @@ p. 349
 416 -
 416 - lembranças aos habitantes de Monte-Alegre.
 
-417 - xasó rañé, ate irané, tapána putár ramé.
+417 - xasó rañé, ate irané, tupána putár ramé.
 417 - Xasú ranhẽ, até wirané, tupana putari ramé. # forma adaptada para anotar e incluir no treebank [Leonel: veja no treebank como anotar formas sem prefixo pessoal, procure por Style=]
 417 - Asú rẽ, até wirandé, tupana uputari ramé. (Hartt, 349, adap.) - Já me vou, até amanhã, se Deus quiser.
-417 - já vou, até amanhã, se Deus quizer.
+417 - já vou, até amanhã, se Deus quiser.
 
 418 - sekatú mirí xaikó.
 418 -
@@ -2051,9 +2051,13 @@ p. 354
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
-488a - apyáua Piauí uára.
-488 - Apigawa Piauíwara (Hartt, 354, adap.) - O
-homem é natural do Piauí.
+488 - TODO
+488 - NA
+488 - o homem é filho de Piauí.
+
+488 a - apyáua Piauí uára.
+488 a - TODO
+488 - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
 488 - o homem é filho de Piauí.
 
 489 - saaimú xarekó kysé, xamonok imú ñaán ymyrá.
