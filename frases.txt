@@ -1069,7 +1069,7 @@ p. 337
 253 - queres que eu vá contigo?
 
 254 - intí xaputár.
-254 -
+254 - Inti xaputari. *
 254 - não quero.
 
 255 - apyáua oyauyk oikó.
@@ -2439,15 +2439,15 @@ p. 361
 579 - estou muqueando o tatú.
 
 580 - sepanéra seakuén.
-580 - Se panera se ...
-580 - minha panela cheira. *
+580 - Se panera sakwena. *
+580 - minha panela cheira. 
 
-581 - intí xaputár kuaá auatií oyar, koromó tú okái. *
-581 - Inti ... kwaá awatií ..., ... ... ...
+581 - intí xaputár kuaá auatií oyar, koromó tú okái. 
+581 - Inti xaputari kwaá awatií uií ara, kurumú ... ukái. *
 581 - não quero encostar aquêle arroz perto do fogo, pode se queimaar.
 
 582 - okái ramé inti. katú, ipixé.
-582 - ... ... inti. katú, i pixé. *
+582 - Ukái ramé inti. Katú, i pixé. *
 582 - quando está queimado não está bom. tem mau cheiro.
 
 583 - ikatú uán oikó ñaá neremimúña?
@@ -2463,15 +2463,15 @@ p. 361
 585 - minha panela quer ferver, está fazendo bulha.
 
 586 - kuaá rimiú intí osy yaú aráma.
-586 - Kwaá rimbiú inti usika ... arama. *
+586 - Kwaá rimbiú inti usika yaú arama. *
 586 - esta comida não chega para nós.
 
 587 - yasó yamimúin soó rukuéra osy aráma yanéu.
-587 - Yasú yamemúi suú ... usika arama ... *
+587 - Yasú yamemúi suú rikwera usika arama yané. *
 587 - vamos cozinhar carne de caça bastante para nós.
 
 588 - xasó xamaú, seyumasy xaikó.
-588 - Asú ... ... aikú. *
+588 - Asú umbaú, se yumasí aikú. *
 588 - vou comer, estou com fome.
 
 589 - yasó yasosók auatií! 
@@ -2497,7 +2497,7 @@ p. 362
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
-594 - Aikú wã kurasí ...
+594 - Aikú wã kurasí usemu. *
 594 - o sol vem saindo.
 
 595 - uarasy sakó reté.
@@ -2521,7 +2521,7 @@ p. 362
 599 - tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
-600 -
+600 - Ixé inti ... ... . 
 600 - não acredito nisso.
 
 601 - intí semanuár.
@@ -2535,7 +2535,7 @@ p. 362
 p. 363
 
 603 - amú irané xaikó uán kurí mairipe.
-603 -
+603 - ... ... aikú wã kurí ... .
 603 - depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
@@ -2552,7 +2552,7 @@ p. 363
 606 - minha mãe me mandou no pôrto para voltar.
 
 607 - kuaá óka rimaán oikó.
-607 -
+607 - Kwaá uka 
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
@@ -2564,15 +2564,15 @@ p. 363
 609 - onde é o caminho?
 
 610 - máa kyty resó?
-610 -
+610 - ... kití resú? &
 610 - para onde vás?
 
 611 - oké rupí xasó.
-611 -
+611 - ... rupí asú. *
 611 - vou por aqui.
 
 612 - iné resó serakykuéra rupí.
-612 -
+612 - Indé resú se rakakwera rupí. *
 612 - tu vais atrás de mim.
 
 613 - osyg serakykuéra.
@@ -2580,7 +2580,7 @@ p. 363
 613 - êle chegou depois de mim.
 
 614 - xaxiár seygára ygárupápe.
-614 -
+614 - Axari se igara ... .
 614 - deixei a canoa no pôrto.
 
 615 - kuñán oyuráu putár ygára.
@@ -3126,7 +3126,7 @@ p. 373
 744 - por Deus, não me mate.
 
 745 - intí xaputár reyuká seména.
-745 - Inti ... reyuká ... *
+745 - Inti xaputari reyuká ... *
 745 - não quero que tu mates meu marido.
 
 746 - ikatú yayuká kuaá yauára.
