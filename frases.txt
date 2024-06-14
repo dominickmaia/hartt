@@ -172,6 +172,7 @@ p. 322
 39 - não tenho bastante.
 
 40 - ixé xamonó amú osú omopók nesuí nekamutí.
+40 - Ixé xamunú amú usú umupuka ne suí ne kamutí.
 40 - Ixé amundú amú usú umupuka ne suí ne kamutí. (Hartt, 322, adap.) - Eu mando outro ir quebrar-te o teu pote.
 40 - mando um outro ir quebrar teu pote.
 
@@ -895,7 +896,7 @@ p. 334
 211 - veste já tua calça.
 
 212 - tenupá raén semaitá otikán.
-212 - Tenupá 
+212 - Tenupá
 212 - deixa minha roupa enxugar.
 
 213 - semaaitá intí osy kuáu saka opé.
@@ -2440,9 +2441,9 @@ p. 361
 
 580 - sepanéra seakuén.
 580 - Se panera sakwena. *
-580 - minha panela cheira. 
+580 - minha panela cheira.
 
-581 - intí xaputár kuaá auatií oyar, koromó tú okái. 
+581 - intí xaputár kuaá auatií oyar, koromó tú okái.
 581 - Inti xaputari kwaá awatií uií ara, kurumú ... ukái. *
 581 - não quero encostar aquêle arroz perto do fogo, pode se queimaar.
 
@@ -2474,7 +2475,7 @@ p. 361
 588 - Asú umbaú, se yumasí aikú. *
 588 - vou comer, estou com fome.
 
-589 - yasó yasosók auatií! 
+589 - yasó yasosók auatií!
 589 - Yasú yasusuka awatií. (Hartt, 361, adap.) - Vamos pilar arroz!
 589 - vamos pilar arroz!
 
@@ -2521,7 +2522,7 @@ p. 362
 599 - tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
-600 - Ixé inti ... ... . 
+600 - Ixé inti ... ... .
 600 - não acredito nisso.
 
 601 - intí semanuár.
@@ -2552,7 +2553,7 @@ p. 363
 606 - minha mãe me mandou no pôrto para voltar.
 
 607 - kuaá óka rimaán oikó.
-607 - Kwaá uka ... uikú. *
+607 - Kwaá uka... uikú. *
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
@@ -3538,7 +3539,7 @@ p. 380
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
-844 - Ixé xayumunuka kisé irũ. - eu me cortei com a faca. * 
+844 - Ixé xayumunuka kisé irũ. - eu me cortei com a faca. *
 844 -
 844 - eu me cortei com a faca.
 
