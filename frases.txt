@@ -1793,11 +1793,11 @@ p. 350
 425 - vós estais com preguiça.
 
 426 - xasykyyí.
-426 -
+426 - Asikié. *
 426 - tenho medo.
 
 427 - maá suí resykyyí?
-427 -
+427 - Maã suí resikié? *
 427 - de que tens medo?
 
 428 - setyym reté ixé.
@@ -1805,15 +1805,15 @@ p. 350
 428 - estou com muita preguiça.
 
 429 - sakó reté osó ikó.
-429 -
+429 - Sakú reté usú uikú. *
 429 - vai ficando mais quente.
 
 430 - pixána opysy putar uauirú.
-430 -
+430 - Pixana upisika putari wawirú. *
 430 - o gato quer apanhar o rato.
 
 431 - maá pyry remuñán reikó kuaé karúg ate kuyr?
-431 -
+431 - Maã piri remunhã reikú kwaá ... até kuíri? *
 431 - o que estás fazendo até esta hora da tarde.
 
 432 - xatumuñeén xaikó.
@@ -1821,19 +1821,19 @@ p. 350
 432 - estou assobiando.
 
 433 - tatú opykóin ikó kapina oú aráma kupiín.
-433 -
+433 - Tatú upikũi uikú kampina uú arama kupĩ. *
 433 - o tatú está cavando no campo para comer cupim.
 
 434 - xasipy aráma kupiín.
-434 -
+434 - ... arama kupĩ. *
 434 - para queimar cupim.
 
 435 - seyumaasy xaikó.
-435 -
+435 - Se yumasí aikú. *
 435 - estou com fome.
 
 436 - tupána resé, emeén maé xaú aráma, seyumuasy reté.
-436 -
+436 - Tupana resé, remeẽ maã aú arama, se yumasí reté. *
 436 - por amor de Deus, dá-me alguma cousa que comer, tenho muita fome.
 
 p. 351
@@ -2701,7 +2701,7 @@ p. 365
 642 - vossa casa queimou-se.
 
 643 - emuí mosapyr y, remeén oaráma ixéu.
-643 - Remunuka musapiri i, ... arama ixéu. * # o único que encontrei de cortar no imperativo que encontrei fora "Remunuka"
+643 - Remunuka musapiri i, remeẽ arama ixéu. * # o único que encontrei de cortar no imperativo que encontrei fora "Remunuka"
 643 - corta três vezes para me dar.
 
 644 - maé ókaópe reikú?
@@ -3255,7 +3255,7 @@ p. 375
 775 - meu póte está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
-776 - Se amaniú yupururuka ã ... i katú ã mira yupuú arama. *
+776 - Se amaniú yupururuka ã uikú i katú ã mira yupuú arama. *
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
@@ -3515,23 +3515,23 @@ p. 380
 837 - o branco é o diabo, êle faz navios.
 
 838 - xamoñán kuaú.
-838 - amunhã kwáu. - sei fazer. *
+838 - Amunhã kwáu. - sei fazer. *
 838 - sei fazer.
 
 839 - nerakykuéra kurí xasó.
-839 - ne rakakwera kurí asú. *
+839 - Ne rakakwera kurí asú. *
 839 - hei de ir atraz de ti.
 
 840 - maá ymyrá suí resó remuñán neygára?
-840 - maã mirá suí resú remunhã ne igára? (Hartt, 380, adap.) - de que árvore vai ser feita sua canoa? *
+840 - Maã mirá suí resú remunhã ne igára? (Hartt, 380, adap.) - de que árvore vai ser feita sua canoa? *
 840 - de que madeira vaes construir tua canôa?
 
 841 - ymyrá oyamuñán reté.
-841 - mirá uyumunhã reté - a árvore cresce bastante. *
+841 - Mirá uyumunhã reté - a árvore cresce bastante. *
 841 - o páu cresce muito.
 
 842 - xasó xamonóg ñaé ymyrá oar aráma pé árpe intí aráma auá osasáu kuau aerupí.
-842 - asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali. # [Leonel: Não há razão para minusculizar a letra inicial das sentenças de Avila (2021), cuja reprodução deve ser aboslutamente fiel ao original de Avila (2021).]
+842 - Asú amunuka nhaã mirá uwari pé árupi, ti arama awá usasá-kwáu árupi. (Hartt, 380, adap.) - vou cortar aquela árvore para ela cair sobre o caminho, para que ninguém possa passar por ali. # [Leonel: Não há razão para minusculizar a letra inicial das sentenças de Avila (2021), cuja reprodução deve ser aboslutamente fiel ao original de Avila (2021).]
 842 - vou cortar o pau de modo a cair sobre o caminho que ninguém possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
@@ -3544,7 +3544,7 @@ p. 380
 844 - eu me cortei com a faca.
 
 845 - maá taá remuñán kuaá tupasáma irúm?
-845 - maã taá remunhã kwá tupasama irũ? # - que é que está fazendo com esta corda? * [Leonel: Se se trata de uma tradução alternativa válida, pode ser acrescentada nos metadadados da sentença anotada por meio do atributo text_por_alt ou um outro, dependendo de como esse atributo está sendo usado agora no treebank.]
+845 - Maã taá remunhã kwá tupasama irũ? # - que é que está fazendo com esta corda? * [Leonel: Se se trata de uma tradução alternativa válida, pode ser acrescentada nos metadadados da sentença anotada por meio do atributo text_por_alt ou um outro, dependendo de como esse atributo está sendo usado agora no treebank.]
 845 - que é que estás fazendo com aquele laço? # este é um exemplo de comentário (depois de #)
 
 846 - xauasém iepé uirá reanuéra kaápe.
