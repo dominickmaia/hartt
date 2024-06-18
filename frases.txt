@@ -875,7 +875,7 @@ p. 334
 206 - Asú ayakapika se awa. (Hartt, 334, adap.) - Vou pentear meus cabelos.
 206 - vou pentear meus cabelos.
 
-207 - saipa kapy ranhé seáua.
+207 - saiá kapy ranhé seáua.
 207 -
 207 - deixa-me pentear meus cabelos.
 
@@ -891,7 +891,7 @@ p. 334
 210 -
 210 - vou vestir minha camisa.
 
-211 - emuné uán neturina.
+211 - emuné uán neturína.
 211 - Remundéu wã ne turina. (Hartt, 334, adap.) - Veste já a tua calça.
 211 - veste já tua calça.
 
@@ -911,7 +911,7 @@ p. 334
 215 -
 215 - teu marido está em casa?
 
-216 - intí ikó iké, ikó ouim ñauá tueyae rope.
+216 - intí ikó iké, ikó ouim ñaá tueyae rope.
 216 -
 216 - não está aí, está em casa daquele velho.
 
@@ -921,9 +921,9 @@ p. 335
 217 -
 217 - vamos com pressa para o sol não nos queimar.
 
-218 - kua apuáua míra ousára.
+218 - kua apyáua míra ousára.
 218 - Kwá apigawa mira-usara. (Hartt, 335, adap.) - Este homem é antropófago.
-218 - este homem é antropófago.
+218 - êste homem é antropófago.
 
 219 - xamomór xaikó yg ygára suí.
 219 - Amumburi aikú ií igara suí. (Hartt, 335, adap.) - Estou retirando água da canoa.
@@ -937,7 +937,7 @@ p. 335
 221 -
 221 - essa mulher é muito tímida.
 
-222 - ixé seyuá sasy ikó, intí xakuáu seé yupurug oikó.
+222 - ixé seyuá sasy ikó, intí xakuáu seé yupurug oikó
 222 - Ixé se yuwá sasí uikú, ti akwáu sa uyupuruka uikú. (Hartt, 335, adap.) - Meu braço está doendo, não sei se está desconjuntado.
 222 - o meu braço dói também, não sei se está quebrado.
 
@@ -947,7 +947,7 @@ p. 335
 
 224 - kuaá apyáua míra yukasára.
 224 - Kwá apigawa mira yukasara. (Hartt, 335, adap.) - Este homem é um assassino.
-224 - este homem é um assassino.
+224 - êste homem é um assassino.
 
 225 - xarekó ramé amú xameén amú inéu.
 225 - Arikú ramé amú, ameẽ amú indéu. (Hartt, 335, adap.) - Se eu tivesse, eu te daria.
@@ -971,7 +971,7 @@ p. 335
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
 230 -
-230 - ele disse: vou contigo, se for possível.
+230 - êle disse: vou contigo, se for possível.
 
 p. 336
 
@@ -981,7 +981,7 @@ p. 336
 
 232 - ixé yuyr xasó.
 232 -
-232 - eu também vou.
+232 - eu tambêm vou.
 
 233 - yiáma (liamba) semukaú.
 233 -
@@ -1025,7 +1025,7 @@ p. 336
 
 243 - aé oú uán ipusána omoanán muiyú kauín irúm (Santarem).
 243 - Aé uú wã i pusanga, umuyesiári meyú kawĩ irumu (Hartt, 336, adap.) - Ele já bebeu o remédio, misturou com destilada de beiju.
-243 - ele já bebeu o remédio misturado com estilada.
+243 - êle já bebeu o remédio misturado com estilada.
 
 p. 337
 
@@ -1843,7 +1843,7 @@ p. 351
 437 - tens fome?
 
 438 - ixé intí seyumaasy.
-438 -
+438 - Ixé inti se yumasí. *
 438 - não tenho fome.
 
 439 - seyuisé é.
@@ -1871,7 +1871,7 @@ p. 351
 444 - se tu comeres aquela laranja estarás doente.
 
 445 - maá taá ne maasy sáua?
-445 -
+445 - Maã taá ne maasisawa? (Hartt, 351, adap.) - O que é a tua moléstia?
 445 - o que é tua moléstia?
 
 446 - kurumí intí yapumó kuaú.
@@ -1882,16 +1882,16 @@ p. 351
 447 -
 447 - sabes mergulhar?
 
-448 - iné intí  ryuytáu kuáu.
+448 - iné intí ryuytáu kuáu.
 448 -
 448 - tu não sabes nadar.
 
 449 - ixé xauytáu kuáu.
-449 -
+449 - Ixé awitá-kwáu. *
 449 - sei nadar.
 
 450 - xauytáu yg ára rupí.
-450 -
+450 - Awitá ií ... ... . *
 450 - nado na superfície da água.
 
 p. 352
