@@ -888,7 +888,7 @@ p. 334
 209 - vou me vestir.
 
 210 - xasó xamanéu se kamixá.
-210 -
+210 - Asú yumunéu se kamixá. *
 210 - vou vestir minha camisa.
 
 211 - emuné uán neturína.
@@ -896,7 +896,7 @@ p. 334
 211 - veste já tua calça.
 
 212 - tenupá raén semaitá otikán.
-212 - Tenupá
+212 - Tenupá rẽ se maãitá utikanga. *
 212 - deixa minha roupa enxugar.
 
 213 - semaaitá intí osy kuáu saka opé.
@@ -1847,7 +1847,7 @@ p. 351
 438 - não tenho fome.
 
 439 - seyuisé é.
-439 -
+439 - Se yusé ... *
 439 - estou com sede.
 
 440 - aé yguisé oikó.
@@ -1863,7 +1863,7 @@ p. 351
 442 - dóe-me a cabeça.
 
 443 - xasó raén xak sepusána.
-443 -
+443 - Asú rẽ ... se pusanga. *
 443 - vou tomar meu remédio.
 
 444 - réu ramé ñaá narána nemaasy kurí.
@@ -1875,7 +1875,7 @@ p. 351
 445 - o que é tua moléstia?
 
 446 - kurumí intí yapumó kuaú.
-446 -
+446 - Kurumĩ inti yapumi kwáu. *
 446 - o menino não sabe mergulhar.
 
 447 - iné reapomé kuáu será?
@@ -1901,7 +1901,7 @@ p. 352
 451 - vou descer o igarapé.
 
 452 - xasó paraná ygapyra kyty.
-452 -
+452 - Asú paraná igapira kití. *
 452 - vou subir o rio.
 
 453 - yasó mené rupí.
@@ -1909,7 +1909,7 @@ p. 352
 453 - vamos de vagar!
 
 454 - xasó ygapyra kyty.
-454 -
+454 - Asú igapira kití. *
 454 - vou para cima!
 
 455 - ixé xauytán kuáu yg uyra rupí.
@@ -1949,7 +1949,7 @@ p. 352
 463 - êle está se demorando muito.
 
 464 - kuaá ymyrá intí katú.
-464 -
+464 - Kwaá i mirá inti katú. *
 464 - este pau não presta.
 
 p. 353
