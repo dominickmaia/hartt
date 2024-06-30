@@ -1077,11 +1077,11 @@ p. 337
 255 - Apigawa uyawika uikú. (Hartt, 337, adap.) - O homem está abaixado.
 255 - o homem está abaixado.
 
-256 - mauaá taá ney gára rané?
+256 - mauaá taá neygára raná?
 256 -
 256 - qual é o comprimento de teu coração?
 
-257 - mauaá taá neygára rané?
+257 - mauaá taá neygára raná?
 257 - Mawaá taá ne igara rangá? (Hartt, 337, adap.) - Qual é o comprimento da tua canoa?
 257 - qual é o comprimento de tua canoa?
 
@@ -1120,6 +1120,7 @@ p. 338
 265 - tenho alguns (sempre tenho).
 
 266 - intí xarekó maá puxí uaé.
+266a - intí xarekó maá puxí aá(Monte Alegre)
 266 -
 266 - não tenho nada ruim.
 
@@ -1159,7 +1160,7 @@ p. 339
 
 275 - xasó xayakáu kuaá kurumi asú.
 275 - Asú ayakáu nhaã kurumiwasú. (Hartt, 339, adap.) - Vou ralhar com aquele moço.
-275 - vou ralhar aquele moço.
+275 - vou ralhar aquêle moço.
 
 276 - emonó payé piám.
 276 - Remundú [aé] payé piamu. (Hartt, 339, adap.) - Manda[-o] em busca do pajé.
@@ -1187,7 +1188,7 @@ p. 339
 
 282 - opáin maé oatár aépe.
 282 - Panhẽ maã uwatari ape. (Hartt, 339, adap.) - Falta tudo ali.
-282 - falta tudo ali.
+282 - falta tudo alí.
 
 283 - tupan teapú reté ikó.
 283 - Tupã tiapú reté uikú. (Hartt, 339, adap.) - O trovão está soando muito forte.
@@ -1959,7 +1960,7 @@ p. 353
 465 - vou quebrar a pedra em quatro pedaços.
 
 466 - intí será senanan iné?
-466 -
+466 - Inti será ... indé? *
 466 - tu não me enganas?
 
 467 - sapukáia omomor iepé supiá.
@@ -1967,7 +1968,7 @@ p. 353
 467 - a galinha poz um ovo.
 
 468 - ygára osy ramé xasó sepatráun kyty.
-468 -
+468 - Igara usika ramé asú se patrãu kití. *
 468 - logo que a canoa chegou fui ter com o patrão.
 
 469 - mixikói mira oapy ygantíme.
@@ -1975,12 +1976,12 @@ p. 353
 canoa].
 469 - lá está alguma pessoa assentada na proa de canoa.
 
-470 - apyáua oapyl ygantin opé.
-470 -
+470 - apyáua oapyk ygantin opé.
+470 - Apigawa
 470 - o homem está assentado na proa da canoa.
 
 471 - iné intí reapukúi kuáu.
-471 -
+471 - Indé inti reyapukúi kwáu. *
 471 - tu não sabes remar.
 
 472 - peapukúi santán.
@@ -1988,11 +1989,11 @@ canoa].
 472 - remai com força.
 
 473 - peapukúi kurí yasyk aráma okaopé.
-473 -
+473 - Peyapukúi kurí ... arama uka upé. *
 473 - remai para chegar em casa.
 
 474 - ygára yuy resé osó.
-474 -
+474 - Igara iwí resé usú. *
 474 - a canoa encalhou.
 
 475 - xasó xakapy sekupixáua yaitya reté oikó.
@@ -2001,15 +2002,15 @@ roça, está muito cerrada.
 475 - vou capinar minha roça, está muito serrada.
 
 476 - xayuyr putár takykuéra kyty.
-476 -
+476 - Ayuíri putari takakwera kití. *
 476 - quero voltar por atrás.
 
 477 - yasó tenuné kyty.
-477 -
+477 - Yasú tenundé kití. *
 477 - vamos adiante!
 
 478 - xamukayem serekúya.
-478 -
+478 - Amukanhemu se rekuya. *
 478 - tenho perdido minha cúia.
 
 p. 354
@@ -2024,7 +2025,7 @@ p. 354
 480 - sempre sei usar o machado.
 
 481 - xasó raén, kurí mirí xayuyr.
-481 -
+481 - Asú rẽ, kurí mirĩ ayuíri. *
 481 - deixa-me ir, voltarei logo.
 
 482 - xasó xampupuám tayna.
@@ -2801,7 +2802,7 @@ p. 367
 666 - o homem hã-de morrer.
 
 667 - iné reyuyuká putár.
-667 -  
+667 - Indé
 667 - tu queres te matar.
 
 668 - aé oyuyuká putár.
@@ -2851,7 +2852,7 @@ p. 368
 678 - custa-me muito aprender.
 
 679 - iné kuruten reté rekuáu.
-679 -  
+679 - Indé
 679 - tu aprendes depressa.
 
 680 - intí xakuáu katú maé oñeén.
