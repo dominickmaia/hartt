@@ -2537,7 +2537,7 @@ p. 362
 p. 363
 
 603 - amú irané xaikó uán kurí mairipe.
-603 - ... ... aikú wã kurí ... .
+603 - Amú-wirané aikú wã kurí mairí-pe . *
 603 - depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
@@ -2550,11 +2550,11 @@ p. 363
 605 - vou amanhã se não chover.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
-606 -  
+606 - Se manha se mundú i garapá-pe ayuíri arama. *
 606 - minha mãe me mandou no pôrto para voltar.
 
 607 - kuaá óka rimaán oikó.
-607 - Kwaá uka... uikú. *
+607 - Kwaá uka rimaã uikú. * # Rimaã é variação de Erimbaé
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
@@ -2566,11 +2566,11 @@ p. 363
 609 - onde é o caminho?
 
 610 - máa kyty resó?
-610 - ... kití resú? *
+610 - Makití resú? *
 610 - para onde vás?
 
 611 - oké rupí xasó.
-611 - ... rupí asú. *
+611 - Ukena rupí asú. *
 611 - vou por aqui.
 
 612 - iné resó serakykuéra rupí.
