@@ -1321,7 +1321,7 @@ p. 342
 313 - dei três tiros no veado.
 
 314 - intí ipóra oikó.
-314 -
+314 - Inti i pura uikú. *
 314 - não está carregada.
 
 315 - mukáua será ipóra oikó?
@@ -2163,7 +2163,7 @@ p. 356
 512 - oh! meu pai.
 
 513 - yasó yapysy yané pyá.
-513 -
+513 -  
 513 - vamos pegar nossos estomagos.
 
 514 - xasó xayupír yuytíra árpe. *
@@ -3174,7 +3174,7 @@ p. 374
 755 - o homem caiu na agua, faltou-lhe o folego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
-756 - ... taá neturina ...? *
+756 - Mayawé taá ne turina i pinimasawa? *
 756 - qual é a côr das tuas calças?
 
 757 - poité remuñán.
@@ -3182,11 +3182,11 @@ p. 374
 757 - tu falas mentiras.
 
 758 - iné supí reñeén.
-758 -  
+758 - Indé supí renheẽ. *
 758 - tu falas a verdade.
 
 759 - aé intí supí oñeén.
-759 - Aé ti ... unheẽ. *
+759 - Aé inti supí unheẽ. *
 759 - ele não fala a verdade.
 
 760 - apyáua oñeén:seremirikó omanó uán.
@@ -3194,7 +3194,7 @@ p. 374
 760 - o homem disse: minha mulher já morreu.
 
 761 - ekóin emosaimé nekysé.
-761 - Ekũi ... saimbé ne kisé. *
+761 - Ekũi musaimé saimbé ne kisé. *
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
@@ -3210,11 +3210,11 @@ p. 374
 764 - essa cúia está quebrada.
 
 765 - xakutiár xaikó serekúya.
-765 - ... aikú ...
+765 - Akwatiári aikú se rekuya. *
 765 - estou pintando minha cúia.
 
 766 - irusán sepysy.
-766 -  
+766 - Irusanga se pisika. *
 766 - estou constipado.
 
 767 - sepó ipuná reté.
@@ -3232,7 +3232,7 @@ p. 375
 769 - já acabaste o arroz.
 
 770 - semuká kuí opan.
-770 - Se mukawakuí ...
+770 - Se mukawakuí upawa. *
 770 - minha polvora já se acabou.
 
 771 - xaú pan uán.
@@ -3252,7 +3252,7 @@ p. 375
 774 - se tu quebrares o póte, que hei de te dar?
 
 775 - se kamutí ipó teresem oikó uaríua suí.
-775 - Se kamutí ... teresemu uikú wariwa suí. *
+775 - Se kamutí i pura teresemu uikú wariwa suí. *
 775 - meu póte está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
@@ -3260,11 +3260,11 @@ p. 375
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
-777 - Asú ... suú wirané ara supé wara. *
+777 - Asú ainugantú suú wirané ara supé wara. *
 777 - vou guardar a caça(carne) para amanhã.
 
 778 - intí será yauá?
-778 - Inti será ...? *
+778 - Inti será yawá? *
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
@@ -3388,7 +3388,7 @@ p. 377
 807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
-808 - Kwaá yu... suí, yamaã ... tawa resé. *
+808 - Kwaá iwitira suí, yamaã ... tawa resé. *
 808 - deste morro podemos ver a vila.
 
 p. 378
@@ -3457,7 +3457,7 @@ p. 379
 823 - o espinho do murumurú é muito comprido.
 
 824 - yasó yaxipiak auá iána ipokú.
-824 - Yasú yaxipiaka ... ... i pukú.
+824 - Yasú yaxipiaka awá i anga i pukú. *
 824 - vamos a ver quem tem o folego mais comprido.
 
 825 - ymyrá ipokú reté.
@@ -3497,11 +3497,11 @@ p. 379
 833 - meu filho está casado.
 
 834 - semenasára yma yuyr.
-834 - Se mendasara ... ... 
+834 - Se mendesaraíma yuíri. *
 834 - sou viuvo(ou viuva).
 
 835 - maé taé ñaé apyáua rera kuesé yayuaintin irúm?
-835 -  
+835 - Maã taá nhaã apigawa rera kwesé ayuyuantí irumu? *
 835 - qual é o nome do homem que encontrámos hontem?
 
 p. 380
@@ -3536,7 +3536,7 @@ p. 380
 842 - vou cortar o pau de modo a cair sobre o caminho que ninguém possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
-843 -  
+843 - Emú i pitera rupí remeẽ arama ixéu. *
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
