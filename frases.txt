@@ -11,7 +11,7 @@ p. 319
 1 - vou frigir minha manteiga.
 
 2 - xasó xamuí ymyrá yí irúm.
-2 - Asú amuí imirá jí irũ.
+2 - Xasú xamuí imirá jí irũ.
 2 - vou rachar o pau com machado.
 
 3 - xamumuranú putar se kamarára itá.
@@ -32,24 +32,25 @@ p. 319
 6 - tens ovos de galinha?
 
 7 - intí xasenú katú.
-7 - Intí asendú katú.
+7 - Intí xasendú katú.
 7 - não ouço bem.
 
 8 - epurú né kyuáua ixéu.
-8 - Repurú ne kiwawa ixéu.
+8 - Epurú ne kiwawa ixéu.
 8 - empresta-me teu pente.
 
 9 - epurú nekysé ixé (ixéu).
-9 - 1. Repurú ne kisé ixé. 2. Repurú ne kisé ixéu.
+9 - 1. Epurú ne kisé ixé. 2. Epurú ne kisé ixéu.
 9 - empresta-me tua faca.
 
 10 - teñé intí semukuerái iné.
-10 - Tẽ intí se mukweré indé.
+10 - Tenhẽ intí se mukweré iné.
 10 - não me incomoda.
 
 p. 320
 
 11 - xasó xamuisyk neresá sykantan irúm intí aráma remaen seresé.
+11 - Xasú xamuisika ne resá sikantá irũ,intí aráma remaẽ se resé.
 11 - Asú amuisika ne resá sikantá irũ, ti arama remaã se resé. (Hartt, 320, adap.) - Vou brear teus olhos com "sicantá", para que tu não olhes para mim.
 11 - vou brear teus olhos para que tu não possas olhar para mim.
 
@@ -62,26 +63,29 @@ p. 320
 13 - o cachorro está ladrando para a mulher.
 
 14 - intí xasenú.
-14 - Intí asendú.
+14 - Intí xasenú.
 14 - não ouço, não ouvi.
 
 15 - xasykená okéna.
+15 - Xasikindá ukena. 
 15 - Asikindá ukena. (Hartt, 320, adap.) - Eu fecho a janela.
 15 - eu fecho a janela.
 
 16 - ekoin esykená ñaá kauasú yurú.
-16 - Rekũi resikindawa nhaã kawasú yurú.
+16 - Ekũi esikináu nhaã kawasú yurú.
 16 - vai tampar a boca do balde.
 
 17 - ixé intí nerasó kuáu.
+17 - Ixé intí ne rasú-kwáu.
 17 - Ixé ti ne rasú-kwáu. (Hartt, 320, adap.) - Eu não posso te levar.
 17 - não posso te levar.
 
 18 - muyr taé uaruá?
-18 - Muíri taá waruá?
+18 - Muíri taé waruá?
 18 - quanto custa o espelho?
 
 19 - intí maé oerúr ixéu.
+19 - Intí maã ururi ixéu. 
 19 - Ti maã ururi ixéu. (Hartt, 320, modif.) - Ele não trouxe nada para mim.
 19 - ele não trouxe nada para mim.
 
@@ -90,6 +94,7 @@ p. 320
 20 - o ladrão grande fugiu.
 
 21 - xasetún reté, ikatú reté setíu.
+21 - Xasetuna reté, i katú reté se tĩ.
 21 - Asetuna reté, i katú reté se tĩ. (Hartt, 320, adap.) - Eu cheiro bem, meu nariz é muito bom.
 21 - eu cheiro bem, meu nariz é muito bom.
 
@@ -98,17 +103,17 @@ p. 320
 22 - para onde foram?
 
 23 - epirár ñaé okéna!
-23 - Repirari aé ukena!
+23 - Epirari nhaã ukena!
 23 - abre aquela porta!
 
 24 - epirár okéna!
-24 - Repirari ukena!
+24 - Epirari ukena!
 24 - abre a porta!
 
 p. 321
 
 25 - iné repytá iké, ixé xasó raén.
-25 - Indé repitá iké, ixé asú rẽ.
+25 - Iné repitá iké, ixé xasú ranhẽ.
 25 - fique aqui, eu hei de ir.
 
 26 - serayra mirí ipausáua uán kuaé.
@@ -116,7 +121,7 @@ p. 321
 26 - essa é minha última filha.
 
 27 - maé opytá uaé intí uaé rerasó kuáu ixé xarasó sekupépe.
-27 - Maã upitá kwá intí kwá rerasú-kwáu ixé arasú se kupé-pe.
+27 - Maã upitá kwá intí kwá rerasú-kwáu ixé xarasú se kupé-pe.
 27 - o que fica que tu não podes levar, hei de levar nas costas.
 
 28 - máme taá neretama?
@@ -128,15 +133,15 @@ p. 321
 29 - essa flor cheira bem.
 
 30 - ixé seapysá katú xareko xasenú katú.
-30 - Ixé se apisá katú arikú asendú katú.
+30 - Ixé se apisá katú xarikú xasendú katú.
 30 - tenho bons ouvidos, ouço bem.
 
 31 - rekuáu sera tenáua máme xauasém kuáu sapukáia rupiá?
-31 - Rekwáu será tendawa mamé awasemu kwáu sapukaya rupiá?
+31 - Rekwáu será tendawa mamé xawasemu kwáu sapukaya rupiá?
 31 - sabes de um lugar aonde possa achar ovos de galinha?
 
 32 - amuitá orasó uán né maitá ne suí.
-32 - Amú-itá urasú ana ne maã-itá ne suí.
+32 - Amú-itá urasú wã ne maã-itá ne suí.
 32 - os outros já levaram tuas cousas de ti.
 
 33 - sapukáia apyáua oñeenar.
@@ -181,6 +186,7 @@ p. 322
 41 - em que mês estamos?
 
 42 - kuaé ymyrá saimé ipiréra.
+42 - Kwá imirá saimé i pirera.
 42 - Kwá mirá saimbé i pirera. (Hartt, 322, adap.) - A casca deste pau é áspera.
 42 - a casca deste pau é áspera.
 
@@ -197,6 +203,7 @@ p. 322
 45 - com que.
 
 46 - kuaa nerekó intí ikatú.
+46 - Kwaá ne rikú intí i katú.
 46 - Kwaá ne rikú ti i katú. (Hartt, 322, adap.) - Esta tua moda não está boa.
 46 - esta tua moda não está boa.
 
@@ -205,11 +212,12 @@ p. 322
 47 - onde está tua casa?
 
 48 - xasó rañé apytuú.
+48 - Xasú ranhẽ apituú.
 48 - Asú rẽ apituú (Hartt, 322, adap.) - Deixe-me ir descansar.
 48 - deixe-me ir descansar.
 
 49 - maá sekysé? aikoré múme itá árpe.
-49 - Mamé taá se kisé? Uikú mimi itá árupi.
+49 - Maã se kisé? Uikú mimi itá árupi. *
 49 - onde está minha faca? lá está em cima da pedra.
 
 50 - sesé pirera rôa.
@@ -252,7 +260,7 @@ p. 323
 58 - aquela criança tem a boca partida.
 
 59 - xasapy sepó.
-59 - Asapí se pú.
+59 - Xasapí se pú.
 59 - queimei minha mão.
 
 60 - ñaá apyáua oréko suy katú.
@@ -264,11 +272,11 @@ p. 323
 61 - aquela anta está muito mansa.
 
 62 - esenóin kurumí ixéu.
-62 - Resenúi kurumĩ ixé.
+62 - Esenúi kurumĩ ixéu.
 62 - chama o menino para mim.
 
 63 - imáinya opyter imymyra yurú.
-63 - I manha upitera i mimbira yurú. *
+63 - I manha upitera i mimbira yurú.
 63 - a mãe beijou seu filho.
 
 64 - ixé xapytér kuae kuñántain yurú.
@@ -280,17 +288,17 @@ p. 323
 65 - o homem está em pé.
 
 66 - xaikó rañé seramúña itá rekó yaué.
-66 - Aikú ranhẽ se ramunha-itá rikú yaué.
+66 - Xaikú ranhẽ se ramunha-itá rikú yaué.
 66 - vivo pelo costume de meus avós.
 
 p. 324
 
 67 - ekoin eyuóg bensáun nepaiañáua suí.
-67 - Rekũi reyuuka bensãu ne payangawa suí.
+67 - Ekũi eyuuka bensãu ne payangawa suí.
 67 - vai tirar(tomar) a bênção ao teu padrinho.
 
 68 - intí setá xareko.
-68 - Intí setá arikú.
+68 - Intí setá xarikú.
 68 - não tenho bastante.
 
 69 - apyáua oxiár ximirikó táuape.
@@ -306,14 +314,15 @@ p. 324
 71 - está bom?
 
 72 - xarekó neyaué tenhe.
-72 - Arikú ne yawé tẽ.
+72 - Xarikú ne yawé tenhẽ.
 72 - tenho igual a ti.
 
 73 - kuñán mukú opeték iamaniú.
 73 - Kunhamukú upeteka i amaniú. (Hartt, 324, adap.) - A moça bate seu algodão.
 73 - a moça está batendo seu algodão.
 
-74 - xapuká reté án,
+74 - xapuká reté án.
+74 - Xapuká retana.
 74 - Apuká retana. (Hartt, 324, adap.) - Ri-me muito.
 74 - ri-me muito.
 
