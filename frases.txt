@@ -1258,25 +1258,25 @@ p. 340
 
 p. 341
 
-299 - poraké oyuka aiyú serytymá, miriñunte semokau.
+299 - poraké oyuka aiyú serytymá, miriñunte semokaú.
 299 - Puraké uyukaíwa se retimã, [...]. (Hartt, 341, adap.) - O poraquê adormeceu a minha perna, [...]
-299 - poraké adormeceu minha perna, quase me embebedou.
+299 - poraké adormeceu minha perna, quasi me embebedou.
 
 300 - xasó hasauók maréka.
 300 - Asú asawaka mareka. (Hartt, 341, adap.) - Vou depenar a marreca.
 300 - vou depenar a marréca.
 
-301 - tapifra kaáuára ikyrymáua reté.
+301 - tapiíra kaáuára ikyrymáua reté.
 301 -
 301 - a anta é muito forte.
 
-302 - tapifra kaáuára oyuyunún kaápe.
+302 - tapiíra kaáuára oyuyunún kaápe.
 302 -
 302 - a anta se escondeu no mato.
 
 303 - móia omokatág oikó, opeiyú yuytú yaué.
 303 - Buya uyumukataka uikú, upeyú iwitú yawé. (Hartt, 341, adap.) - A cobra está se mexendo, assobia como o vento
-303 - a cobra está se mechendo, assobia como o vento.
+303 - a cóbra está se mechendo, assobia como o vento.
 
 304 - oyepé maapuxi oyukuaú ixéu kaápe aasuí akañem, intí xakuáu maarupí osó.
 304 -
@@ -1292,7 +1292,7 @@ p. 341
 
 307 - oyepé ñún.
 307 -
-307 - uma somente.
+307 - uma sómente.
 
 308 - xayuká reía uirá.
 308 -
@@ -1318,7 +1318,7 @@ p. 342
 
 313 - ixé mosapyr y xaiyapí suasú.
 313 - Ixé musapiri í ayapí suasú. (Hartt, 342, adap.) - Eu atirei três vezes no veado.
-313 - dei três tiros no veado.
+313 - dei tres tiros no veado.
 
 314 - intí ipóra oikó.
 314 - Inti i pura uikú. *
@@ -1354,7 +1354,7 @@ p. 342
 
 322 - oyatítí reté pirá.
 322 - Uyatití reté pirá. (Hartt, 342, adap.) - Matou muito peixe.
-322 - matou (arrasou) muito peixe.
+322 - matou (arrazou) muito peixe.
 
 323 - yasó yasykyí pirá miri.
 323 -
@@ -1412,7 +1412,7 @@ p. 343
 
 336 - intí neresarái sesuí, remanuár teñe seresé.
 336 -
-336 - não te esqueças de mim, tu sempre há de te lembrar de mim.
+336 - não te esqueças de mim, tu sempre has de te lembrar de mim.
 
 337 - neresarái uán.
 337 -
@@ -1424,7 +1424,7 @@ p. 343
 
 339 - kuaé yauára mirí intí será nerimáua?
 339 - kwá yawara mirĩ ti será ne rimbawa? (Hartt, 343, adap.) - Esse cachorrinho não é teu [animal de estimação]?
-339 - esse cachorrinho, não é teu?
+339 - êsse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
 340 -
@@ -1442,11 +1442,11 @@ p. 344
 
 343 - tatatína intí katú ikó, ipixé asú ikó.
 343 -
-343 - a fumaça não está boa, cheira mal.
+343 - a fumaça não está bôa, cheira mal.
 
 344 - santán reté ymyrá, intí opén.
 344 - Santá reté mirá, ti upena. (Hartt, 344, adap.) - O pau é muito duro, não quebra.
-344 - o pau é muito duro, não quebra.
+344 - o pau é muito duro, não québra.
 
 345 - tatatína sasy reté seresápe.
 345 -
@@ -1466,11 +1466,11 @@ p. 344
 
 349 - apykatú reté será ygarupáua?
 349 -
-349 - é muito longe o porto?
+349 - é muito longe o pôrto?
 
 350 - resó uán será ygarupápe?
 350 -
-350 - já foste no porto?
+350 - já foste no pôrto?
 
 351 - intí rañé.
 351 - Inti ranhẽ. *
@@ -1487,7 +1487,7 @@ p. 344
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
 354 - Xamunú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
-354 - mando minha canoa a vila para voltar depois de amanhã.
+354 - mando minha canôa á vila para voltar depois de amánhã.
 
 p. 345
 
