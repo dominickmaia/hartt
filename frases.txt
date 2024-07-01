@@ -1814,7 +1814,7 @@ p. 350
 430 - o gato quer apanhar o rato.
 
 431 - maá pyry remuñán reikó kuaé karúg ate kuyr?
-431 - Maã piri remunhã reikú kwaá ... até kuíri? *
+431 - Maã piri remunhã reikú kwaá karuka até kuíri? *
 431 - o que estás fazendo até esta hora da tarde.
 
 432 - xatumuñeén xaikó.
@@ -1826,7 +1826,7 @@ p. 350
 433 - o tatú está cavando no campo para comer cupim.
 
 434 - xasipy aráma kupiín.
-434 - ... arama kupĩ. *
+434 - Asapí arama kupĩ. *
 434 - para queimar cupim.
 
 435 - seyumaasy xaikó.
@@ -1848,11 +1848,11 @@ p. 351
 438 - não tenho fome.
 
 439 - seyuisé é.
-439 - Se yusé ... *
+439 - Se yusé é. * # ALMN: Na verdade "isí" é a palavra que aparece em Ávila para "estar com sede", portanto adaptaria para "se i isí"
 439 - estou com sede.
 
 440 - aé yguisé oikó.
-440 -
+440 - Aé i isí uikú. *
 440 - êle está com sêde.
 
 441 - yukeuá oikó setyn.
@@ -1864,7 +1864,7 @@ p. 351
 442 - dóe-me a cabeça.
 
 443 - xasó raén xak sepusána.
-443 - Asú rẽ ... se pusanga. *
+443 - Asú rẽ xa se pusanga. *
 443 - vou tomar meu remédio.
 
 444 - réu ramé ñaá narána nemaasy kurí.
@@ -1888,11 +1888,11 @@ p. 351
 448 - tu não sabes nadar.
 
 449 - ixé xauytáu kuáu.
-449 - Ixé awitá-kwáu. *
+449 - Ixé Awitá-kwáu. *
 449 - sei nadar.
 
 450 - xauytáu yg ára rupí.
-450 - Awitá ií ... ... . *
+450 - Awitá ií ara rupí. *
 450 - nado na superfície da água.
 
 p. 352
