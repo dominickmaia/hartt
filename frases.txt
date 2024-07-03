@@ -2318,7 +2318,7 @@ p. 358
 548 -
 548 - a lua está cheia.
 
-p.359
+p. 359
 
 549 - karúk ramé án osyk.
 549 -
@@ -2376,11 +2376,11 @@ p.359
 p. 360
 
 562 - kyyña ikatú reté oyiók aráma yatyymsá.
-562 - Kiinha i katú reté ... arama i atiimasawa. *
+562 - Kiinha i katú reté ayuuka arama i atiimasawa. *
 562 - pimenta é boa para tirar preguiça.
 
 563 - kurutén eú ñaá pakúa.
-563 - Kurutẽi ... nhaã pakúa.
+563 - Kurutẽi reú nhaã pakúa.
 563 - come depressa aquela banana.
 
 564 - itauá oikó sepakúa.
@@ -2454,8 +2454,8 @@ p. 361
 580 - minha panela cheira.
 
 581 - intí xaputár kuaá auatií oyar, koromó tú okái.
-581 - Inti xaputari kwaá awatií uií ara, kurumú ... ukái. *
-581 - não quero encostar aquêle arroz perto do fogo, pode se queimaar.
+581 - Inti xaputari kwaá awatií uií ara, kurumú taá ukái. *
+581 - não quero encostar aquêle arroz perto do fogo, pode se queimar.
 
 582 - okái ramé inti. katú, ipixé.
 582 - Ukái ramé inti. Katú, i pixé. *
@@ -2504,7 +2504,7 @@ p. 362
 592 - vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
-593 - Kurasí sakú reté ... ... ... ... arama. *
+593 - Kurasí sakú reté xasakú irusanga xapituú mirĩ arama. *
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
@@ -2532,10 +2532,11 @@ p. 362
 599 - tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
-600 - Ixé inti ... ... .
+600 - Ixé inti aruyari sesé. *
 600 - não acredito nisso.
 
 601 - intí semanuár.
+601 - Inti se manduári. *
 601 - Ti se manduári. (Hartt, 362, adap.) - Não me lembro.
 601 - não me lembro.
 
@@ -2687,7 +2688,7 @@ p. 365
 636 - vou plantar minha maniva.
 
 637 - intí será remuméu semú resé uára.
-637 - Ti será ... resé ... resewara. *
+637 - Inti será remumbeú semu resewara. *
 637 - não pódes me dar noticia do meu irmão.
 
 638 - se kamarára itá oyatimán intá oikó ymyra ruaké.
@@ -2699,7 +2700,7 @@ p. 365
 639 - fui três vezes na vila.
 
 640 - teñé ipokokpokok kuaá marita resé.
-640 -  
+640 - Tenhẽ i pukuka-pukuka kwaá maãitá resé. *
 640 - não mexa com as cousas.
 
 641 - maé katú rerekó?
@@ -2737,7 +2738,7 @@ p. 366
 648 - dói-me a garganta, não posso engulir minha comida.
 
 649 - reú será kauín? xaú.
-649 -  
+649 - Reú será kawĩ? Aú. *
 649 - bebes vinho (cachaça)? bebo.
 
 650 - eneén santán rupí seirúm.
@@ -2745,7 +2746,7 @@ p. 366
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
-651 - Yasú yanheẽ apigawa irumu. * #ya é prefixo usado para "nós", não encontrei "yanheẽ" no dicionário, apenas em primeira pessoa "anheẽ"
+651 - Yasú yanheẽ apigawa irumu. *
 651 - vamos falar com o homem.
 
 652 - kuaá apyáua oñeén tayna yaué.
@@ -2757,23 +2758,23 @@ p. 366
 653 - a criança já fala, agora mal mal.
 
 654 - maá kuité reñéen?
-654 - Maã 
+654 - Maã kuité renheẽ? *
 654 - o que disseste?
 
 655 - maeresé taé kuité reñeén yaué?
-655 -  
+655 - Maã resé taá kuité renheẽ yawé? *
 655 - porque falas assim?
 
 656 - xañeén irúm mokóin y.
-656 - anheẽ i irumu mukũi í. (Hartt, 366, adap.) - Falei com ele duas vezes.
+656 - Xanheẽ i irumu mukũi í. (Hartt, 366, adap.) - Falei com ele duas vezes.
 656 - falei com êle duas vezes.
 
 657 - xañeén putár nerúm.
-657 - ... putari ne irũ. *
+657 - Xanheẽ putari ne irũ. *
 657 - eu quero falar contigo.
 
 658 - xayumué kár putár asuí yayamusarái aráma yapurasai aráma.
-658 -  
+658 - Xayumué kari putari yayumusarái arama yapurasí arama. *
 658 - eu quero mandar rezar para depois brincarmos e dançarmos.
 
 p. 367
@@ -2783,7 +2784,7 @@ p. 367
 659 - já mandei lavar minha roupa.
 
 660 - ikatú ipó yasó yaseróg kár, koromó teé omanó kurutén uára serayma.
-660 -  I katú 
+660 - I katú 
 660 - é bom de mandar batizar (a criança), pode morrer de repente sem nome.
 
 661 - xasó xaserúk kár semymyra.
