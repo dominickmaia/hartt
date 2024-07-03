@@ -2774,29 +2774,29 @@ p. 366
 657 - eu quero falar contigo.
 
 658 - xayumué kár putár asuí yayamusarái aráma yapurasai aráma.
-658 - Xayumué kari putari yayumusarái arama yapurasí arama. *
+658 - Xayumbué kari putari yayumusarái arama yapurasí arama. *
 658 - eu quero mandar rezar para depois brincarmos e dançarmos.
 
 p. 367
 
 659 - xapetyk kár án semaitá.
-659 -  
+659 - Xapeteka kari ã se maãitá. *
 659 - já mandei lavar minha roupa.
 
 660 - ikatú ipó yasó yaseróg kár, koromó teé omanó kurutén uára serayma.
-660 - I katú 
+660 - I katú i pura yasú yaseruka kari, kurumú taá umanú kurutẽiwara se eraíma. *
 660 - é bom de mandar batizar (a criança), pode morrer de repente sem nome.
 
 661 - xasó xaserúk kár semymyra.
-661 -  
+661 - Asú xaseruka kari se mimbira. *
 661 - vou mandar batizar meu filho.
 
 662 - xamopeték án seamaniú xapomán aráma.
-662 - amupeteka ana se amaniú apumana arama. (Hartt, 367, adap.) - Já bati meu algodão para fiar.
+662 - Amupeteka ana se amaniú apumana arama. (Hartt, 367, adap.) - Já bati meu algodão para fiar.
 662 - já bati meu algodão para falar.
 
 663 - intí áua oñéen.
-663 -  
+663 - Inti awa unheẽ. *
 663 - ninguém falou.
 
 664 - seruryu xaikó.
@@ -2812,7 +2812,7 @@ p. 367
 666 - o homem hã-de morrer.
 
 667 - iné reyuyuká putár.
-667 - Indé
+667 - Indé reyuyuká-putari. *
 667 - tu queres te matar.
 
 668 - aé oyuyuká putár.
@@ -2820,11 +2820,11 @@ p. 367
 668 - êle quer se matar.
 
 669 - apyáua oyuyuká uán ikyoé irúm.
-669 - Apigawa uyuyuká wã ... irumu. *
+669 - Apigawa uyuyuká wã i kisé irumu. *
 669 - o homem matou-se com sua faca.
 
 670 - aintá oyuyuká putár.
-670 -  
+670 - Aintá uyuyuká-putari. *
 670 - êles querem se matar.
 
 671 - tapañúma oyuyapé mukáua mirí irúm.
@@ -2832,7 +2832,7 @@ p. 367
 671 - o negro matou-se com pistola.
 
 672 - anirá okér ára ramé (Mundurucú).
-672 -  
+672 - Anirá ukiri ara ramé. *
 672 - o morcego dorme de dia.
 
 p. 368
@@ -3070,7 +3070,7 @@ p. 372
 728 - fui confessar.
 
 729 - eparauák an mokóin ymyra (Mauhé).
-729 -  
+729 - Parawaka ã mukũi i mirá. *
 729 - escolha dois paus.
 
 730 - pykasú ikáua reté oikó.
@@ -3078,19 +3078,19 @@ p. 372
 730 - a pomba está muito gorda.
 
 731 - kuñán ipuruá ikó.
-731 - Kunhã
+731 - Kunhã i puruã uikú. *
 731 - a mulher está prenha.
 
 732 - xaé xarakó ramé auá xamonó serekuyára aráma intí xasó.
-732 -  
+732 - ... xarikú ramé awa xamunú se rikuyara arama inti asú. *
 732 - se tivesse quem mandar no meu lugar não ia.
 
 733 - sapukáia omonór an mosapyr supiá.
-733 - Apukaya
-733 - a galinhaa já pôs três ovos.
+733 - Sapukaya umumburi ã musapiri supiá. *
+733 - a galinha já pôs três ovos.
 
 734 - ixé xasarún apyáua xaikó.
-734 - Ixé ... apigawa aikú. *
+734 - Ixé xasarú apigawa aikú. *
 734 - estou esperando o homem.
 
 735 - xasó xayuók itá póso suí.
@@ -3102,7 +3102,7 @@ p. 372
 736 - o menino está engatinhando, ainda não sabe andar.
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
-737 -  
+737 - Ixé inti xamuruyari apigawa kurutẽiwara. *
 737 - eu não acreditava que o homem viesse cêdo.
 
 738 - amaniú opororóg oikó.
