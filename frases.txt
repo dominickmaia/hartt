@@ -843,7 +843,7 @@ p. 333
 196 - queres te casar comigo?
 
 197 - emukytan serenimú ixéu.
-197 -
+197 - Mukitanga se rinimbú ixéu. *
 197 - faça um nó no fio para mim.
 
 198 - xamukurusá serytymá.
@@ -1514,7 +1514,7 @@ p. 345
 
 358 - xasó xamupuám sekysáua setiára resé.
 358 - Asú amupuãmu se kisawa se tiãnha resé. (Hartt, 345, adap.) - Vou suspender minha rede aos meus esteios.
-358 - vou suspender minha rede aos esteios.
+358 - vou suspender minha rêde aos esteios.
 
 359 - máme taá yasó yaker?
 359 -
@@ -1539,13 +1539,13 @@ p. 345
 364 - amána okyr ramé intí xasó.
 364 - Amana ukiri ramé, ti
 asú. (Hartt, 345, adap.) - Se chover, eu não vou.
-364 - se chover não vou.
+364 - se chuver não vou.
 
 365 - kurí mirí amána okyr.
 365 -
-365 - há de chover logo.
+365 - ha de chuver logo.
 
-366 - oí pytun sekér aiyú xaikó seretáma pupe.
+366 - oií pytun sekér aiyú xaikó seretáma pupe.
 366 - Uií pituna se kiriaíwa aikú se retama pupé.
 (Hartt, 345, adap.) - Esta noite sonhei que estava na minha terra.
 366 - esta noite sonhei que estava na minha terra.
@@ -1574,7 +1574,7 @@ p. 346
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
 371 -
-371 - nasci no domingo da Páscoa.
+371 - nascí no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
 372 -
@@ -1590,11 +1590,11 @@ p. 346
 
 375 - sekumutí oyaryg án, intí án teresém.
 375 - Se kamutí uyaruka ã, ti ã teresemu. (Hartt, 346, adap.) - Meu pote teve seu conteúdo diminuído, não está mais cheio.
-375 - meu pote está vazio.
+375 - meu pote está vasio.
 
 376 - emoakú yg!
 376 -
-376 - aguenta a água!
+376 - aguenta a agua!
 
 377 - ixé xakuáu iné remanuár seresé.
 377 -
@@ -1624,9 +1624,9 @@ p. 347
 
 383 - semaníya rapó tiarún oikó ikatú yayurá aráma.
 383 - Se maniiwa rapú tinharú uikú, i katú yayurá arama. (Hartt, 347, adap.) - A raiz da mandioca já está madura, está boa para desmancharmos [em farinha]
-383 - a mandioca já está madura e boa para se desmanchar em farinha.
+383 - a mandioca já está madura e boa para se desmanchár em farinha.
 
-384 - akutí oú reté semaniók.*
+384 - akutí oú reté semaniók.
 384 -
 384 - amanhã hei de ralar mandioca.
 
@@ -1640,7 +1640,7 @@ p. 347
 
 387 - emuapyr serenimú ixéu.
 387 -
-387 - emoia meu fio para mim.*
+387 - enrola meu fio para mim.*
 
 388 - paraná omuteapú paranáme máeu.
 388 -
@@ -1648,7 +1648,7 @@ p. 347
 
 389 - oyuir án será paraná?
 389 - Uyuíri ã será paraná? (Hartt, 347, adap.) - Já vazou o rio?
-389 - já vazou o rio? (maré).
+389 - já vasou o rio? (maré).
 
 390 - maá taá xañeén kuesé inéu, rekuáu será?
 390 -
@@ -1711,7 +1711,7 @@ p. 348
 
 404 - moyr akayú án taá orekó!
 404 -
-404 - quantos anos já tem ele?
+404 - quantos anos já tem êle?
 
 405 - ixé hakéri yuype(Ereré).
 405 -
@@ -1723,7 +1723,7 @@ p. 348
 
 407 - aé omuyasúk paratú.
 407 -
-407 - ele lava o prato.
+407 - êle lava o prato.
 
 408 - Maria omuyasúk ñaé karía mirí.
 408 -
@@ -1731,7 +1731,7 @@ p. 348
 
 409 - okayára intí oikó aápe xaikó ramé.
 409 -
-409 - o dono da casa não estava lá quando eu estava em casa dele.
+409 - o dono da casa não estava lá quando eu estava em casa dêle.
 
 p. 349
 
@@ -2030,7 +2030,7 @@ p. 354
 479 - estou me aguentando.
 
 480 - ixé xapysy kuáu mirí teñe yg.
-480 -
+480 - Ixé apisika kwáu mirĩ tenhẽ ií. *
 480 - sempre sei usar o machado.
 
 481 - xasó raén, kurí mirí xayuyr.
@@ -2042,7 +2042,7 @@ p. 354
 482 - eu faço levantar o menino.
 
 483 - ixé xapukuár pinóa seróka árpe.
-483 -
+483 - Ixé xapukwari pinawa se ruka árupi. *
 483 - quero amarrar palha na minha casa.
 
 484 - xamutuyúka vutár se róka.
@@ -2050,11 +2050,11 @@ p. 354
 484 - vou entijucar minha casa.
 
 485 - emukytán tupasáma.
-485 -
+485 - Mukitanga tupasama. *
 485 - faça um nó na corda.
 
 486 - xamopopór selamik pipé oñán aráma manioka riáia.
-486 -
+486 - Amupupuri se lamiki pupé, uyana arama maniáka riáya. (Hartt, 354, modif) - Eu fervo em meu alambique, para correr a destilação da mandioca.
 486 - faço ferver o meu alambique para distilar minha estilada.
 
 487 - serasó nerúm.
@@ -2062,17 +2062,17 @@ p. 354
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
-488 - TODO
-488 - NA
-488 - o homem é filho de Piauí.
-
-488 a - apyáua Piauí uára.
-488 a - TODO
+488 - Apigawa Piauí suí.*
 488 - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
 488 - o homem é filho de Piauí.
 
+488 a - apyáua Piauí uára.
+488 a - Apigawa Piauíwara. *
+488 a - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
+488 a - o homem é filho de Piauí.
+
 489 - saaimú xarekó kysé, xamonok imú ñaán ymyrá.
-489 -
+489 - saimú xarikú kisé, xamunuka imú nhaã i mirá. *
 489 - se eu tivesse uma faca, cortaria o pau.
 
 490 - apyáua súa iapixáin uán.
@@ -2084,7 +2084,7 @@ p. 354
 491 - o velho já não tem cabelos, a cabeça dêle está calva.
 
 492 - ituyaé uán.
-492 -
+492 - I tuyué wã. *
 492 - já está idoso.
 
 p. 355
