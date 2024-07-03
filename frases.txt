@@ -1969,7 +1969,7 @@ p. 353
 465 - vou quebrar a pedra em quatro pedaços.
 
 466 - intí será senanan iné?
-466 - Inti será ... indé? *
+466 - Inti será se ganani indé? *
 466 - tu não me enganas?
 
 467 - sapukáia omomor iepé supiá.
@@ -2949,11 +2949,11 @@ p. 369
 p. 370
 
 700 - xamumáu putár an semurauky.
-700 - Amumbawa putari ... ... *
+700 - Xamumbawa putari ã se murakí. *
 700 - tenho quasi acabado meu trabalho.
 
 701 - peñé intí peapukúi kuáu.
-701 - ... inti ... kwáu. *
+701 - Penhẽ inti peyapukúi kwáu. *
 701 - vós não sabeis remar.
 
 702 - inti resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
@@ -2965,7 +2965,7 @@ p. 370
 703 - para que queres a brasa?
 
 704 - ekóin tatápyña ixéu.
-704 - Ekũi...
+704 - Ekũi ... ixéu. *
 704 - vai tirar aquela brasa para mim.
 
 705 - searasy reté intí resé xasó kuáu.
@@ -3133,11 +3133,11 @@ p. 373
 743 - nós outros vos matamos.
 
 744 - tupána resé, teñe ine seyuká!
-744 - Tupana resé, tenhẽ ... se yuká! *
+744 - Tupana resé, tenhẽ indé se yuká! *
 744 - por Deus, não me mate.
 
 745 - intí xaputár reyuká seména.
-745 - Inti xaputari reyuká ... *
+745 - Inti xaputari reyuká se mena. *
 745 - não quero que tu mates meu marido.
 
 746 - ikatú yayuká kuaá yauára.
@@ -3145,7 +3145,7 @@ p. 373
 746 - é bom de matar este cachorro.
 
 747 - peñé oyuyuká putár(pe?).
-747 - ... uyuyuká putari. *
+747 - Penhẽ uyuyuká putari. *
 747 - quereis vos matar.
 
 748 - yané mokóin yayuyuká putár.
@@ -3408,7 +3408,7 @@ p. 378
 809 - amanhã tu hás de ir para lá.
 
 810 - muratú áua open-open.
-810 - Muratú awa ... *
+810 - Muratú awa upena-upena. *
 810 - os cabelos do mulato são anélados.
 
 811 - satamyk ñaé karía áua.
