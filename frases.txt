@@ -2062,7 +2062,7 @@ p. 354
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
-488 - Apigawa Piauí suí.*
+488 - Apigawa uri Piauí suí.*
 488 - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
 488 - o homem é filho de Piauí.
 
@@ -2638,7 +2638,7 @@ p. 364
 624 - quero ir a bordo no navio.
 
 625 - paraná ur pan será?
-625 - Paraná panhẽ será? *
+625 - Paraná uri panhẽ será? *
 625 - o rio já enche?
 
 626 - semaniya intí sapó.
@@ -2646,7 +2646,7 @@ p. 364
 626 - minha mandióca não tem raiz.
 
 627 - kuaá estilada sasy reté, umixír se kuruká.
-627 - Kwaá ... sasí reté, ... se kuruká. *
+627 - Kwaá estilada sasí reté, umixiri se kuruká. *
 627 - esta estilada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
@@ -3008,19 +3008,19 @@ p. 370
 p. 371
 
 714 - emeén emú yuyr neñeéna.
-714 -  
+714 - Remeẽ emú yuíri nheengara.
 714 - repita o que disse.
 
 715 - epurunitá meuerupí.
-715 -  
-715 - conversa de vagar.
+715 - Epurungitá mewé rupí. *
+715 - conversa devagar.
 
 716 - repurunitá kurutén.
-716 -  
+716 - Repurungitá kurutẽi. *
 716 - tu falas depressa (ligeiro).
 
 717 - xasó xaneénar se <viola> irúm.
-717 -  
+717 - Xasú xanheengari se <viola> irumu. *
 717 - vou cantar com a minha viola.
 
 718 - amú kuri okuáu, amú kurí intí okuáu putár.
@@ -3082,7 +3082,7 @@ p. 372
 731 - a mulher está prenha.
 
 732 - xaé xarakó ramé auá xamonó serekuyára aráma intí xasó.
-732 - ... xarikú ramé awa xamunú se rikuyara arama inti asú. *
+732 - Aé xarikú ramé awa xamunú se rikuyara arama inti asú. *
 732 - se tivesse quem mandar no meu lugar não ia.
 
 733 - sapukáia omonór an mosapyr supiá.
@@ -3102,7 +3102,7 @@ p. 372
 736 - o menino está engatinhando, ainda não sabe andar.
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
-737 - Ixé inti xamuruyari apigawa kurutẽiwara. *
+737 - Ixé inti xamuruyari apigawa uri kurutẽiwara. *
 737 - eu não acreditava que o homem viesse cêdo.
 
 738 - amaniú opororóg oikó.
@@ -3398,7 +3398,7 @@ p. 377
 807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
-808 - Kwaá iwitira suí, yamaã ... tawa resé. *
+808 - Kwaá iwitira suí, yamaã kwáu tawa resé. *
 808 - deste morro podemos ver a vila.
 
 p. 378
@@ -3433,7 +3433,7 @@ p. 378
 815 - a pedra pesa muito.
 
 816 - iya uasú reté kuaá ymyrá (Mauhé).
-816 - ... wasú reté kwá i mirá. *
+816 - Iyá wasú reté kwá i mirá. *
 816 - este páu é muito grosso.
 
 817 - nerytymá ipoí reté.
