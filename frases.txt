@@ -1877,7 +1877,7 @@ p. 351
 443 - vou tomar meu remédio.
 
 444 - réu ramé ñaá narána nemaasy kurí.
-444 -
+444 - Reú ramé nhaã naranha ne maasi kurí. *
 444 - se tu comeres aquela laranja estarás doente.
 
 445 - maá taá ne maasy sáua?
@@ -1889,11 +1889,11 @@ p. 351
 446 - o menino não sabe mergulhar.
 
 447 - iné reapomé kuáu será?
-447 -
+447 - Indé reyapumi-kwáu será? *
 447 - sabes mergulhar?
 
 448 - iné intí ryuytáu kuáu.
-448 -
+448 - Indé inti rewitá-kwáu. *
 448 - tu não sabes nadar.
 
 449 - ixé xauytáu kuáu.
@@ -1986,7 +1986,7 @@ canoa].
 469 - lá está alguma pessoa assentada na proa de canoa.
 
 470 - apyáua oapyk ygantin opé.
-470 - Apigawa
+470 - Apigawa uwapika igantí upé. *
 470 - o homem está assentado na proa da canoa.
 
 471 - iné intí reapukúi kuáu.
@@ -1998,7 +1998,7 @@ canoa].
 472 - remai com força.
 
 473 - peapukúi kurí yasyk aráma okaopé.
-473 - Peyapukúi kurí ... arama uka upé. *
+473 - Peyapukúi kurí yasika arama uka upé. *
 473 - remai para chegar em casa.
 
 474 - ygára yuy resé osó.
@@ -2645,8 +2645,8 @@ p. 364
 626 - Se maniáka ti rapú. *
 626 - minha mandióca não tem raiz.
 
-627 - kuaá estilada sasy reté, umixír se kuruká.
-627 - Kwaá estilada sasí reté, umixiri se kuruká. *
+627 - kuaá "estilada" sasy reté, umixír se kuruká.
+627 - Kwaá "estilada" sasí reté, umixiri se kuruká. *
 627 - esta estilada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
