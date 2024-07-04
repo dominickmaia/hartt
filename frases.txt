@@ -2846,7 +2846,7 @@ p. 368
 674 - vou torrar minha farinha porque está molhada.
 
 675 - maéramé reputár yaneñeénga?
-675 -  
+675 - Mairamé reputari yané nheenga? *
 675 - para o que queres nossa língua?
 
 676 - ixé xambue putár sekamaráraitá.
@@ -2858,11 +2858,11 @@ p. 368
 677 - há muito que não falo a língua geral, por isso tenho esquecido.
 
 678 - yuasú reté xakuáu.
-678 -  
+678 - Iwasú reté xakwáu. *
 678 - custa-me muito aprender.
 
 679 - iné kuruten reté rekuáu.
-679 - Indé
+679 - Indé kurutẽi reté rekwáu. *
 679 - tu aprendes depressa.
 
 680 - intí xakuáu katú maé oñeén.
@@ -2870,7 +2870,7 @@ p. 368
 680 - não entendo o que êle disse.
 
 681 - intí xakuáu katú maá apyáua oñeén ixéu, ñaá.
-681 -  
+681 - Inti xakwáu katú maã apigawa unheẽ ixéu, nhaã. *
 681 - não entendo bem o que aquêle homem me diz.
 
 682 - kuaá apyáua intí iñeéna omosém katú.
@@ -2878,7 +2878,7 @@ p. 368
 682 - êste homem é gago.
 
 683 - Joáun omosém reté kuruten uára iñeéna, ñaé resé intí xakuáu maá oñeén.
-683 -  
+683 - Joáun umusemu reté kurutẽiwara i nheenga, nhaã resé inti xakwáu maã unheẽ. *
 683 - João fala tão ràpidamente, que não entendo o que diz.
 
 684 - ñeénga katú rupí intí iuasú mayué Mundurukú itá ñeénga rupí.
@@ -2886,7 +2886,7 @@ p. 368
 684 - a língua geral não é tão difícil como a gíria dos Mandarucús.
 
 685 - iuasú katú yañeén ñeéna katusár rupí.
-685 -  
+685 - Iwasú katú yanheẽ nheenga-katúsara rupí. *
 685 - é difícil de falar a língua geral.
 
 p. 369
@@ -2962,11 +2962,11 @@ p. 370
 702 - não estou acostumado a remar e por isso fico cansado.
 
 703 - maeramé reputár tatápyña?
-703 -  
+703 - Mairamé reputari tatapunha? *
 703 - para que queres a brasa?
 
 704 - ekóin tatápyña ixéu.
-704 - Ekũi ... ixéu. *
+704 - Ekũi tatapunha ixéu. *
 704 - vai tirar aquela brasa para mim.
 
 705 - searasy reté intí resé xasó kuáu.
@@ -2974,11 +2974,11 @@ p. 370
 705 - sinto muito que não posso ir.
 
 706 - Manú intí maé omeén ixéu, intí resé seraisú.
-706 -  
+706 - Manú inti maã umeẽ ixéu, inti resé se raisú. *
 706 - Manuel não me deu nada, porque não me quer bem.
 
 707 - ixé neraisú.
-707 -
+707 - Ixé ne raisú. *
 707 - eu te amo.
 
 708 - ixé peraisú.
@@ -2986,7 +2986,7 @@ p. 370
 708 - eu vos amo.
 
 709 - ñaá apyáua ñún teñe oyasaysú.
-709 -  
+709 - Nhaã apigawa nhũ tenhẽ uyasaisú. *
 709 - aquêle homem não ama senão a si mesmo.
 
 710 - xaryry irusán irúm.
@@ -3002,7 +3002,7 @@ p. 370
 712 - porque não lavas a roupa suja?
 
 713 - ikyá ikó, maeresé intí remuyasúk?
-713 -  
+713 - I kiá ikú , maã resé inti remuyasuka? *
 713 - está sujo, porque não lavas?
 
 p. 371
@@ -3266,7 +3266,7 @@ p. 375
 775 - meu póte está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
-776 - Se amaniú yupururuka ã uikú i katú ã mira yupuú arama. *
+776 - Se amaniú yupururuka ã ikú i katú ã mira yupuú arama. *
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
