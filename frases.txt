@@ -2892,11 +2892,11 @@ p. 368
 p. 369
 
 686 - xeñeén será tapuya ñeéna rupí?
-686 -  
+686 - ...nheẽ será tapuya-nheenga rupí? *
 686 - falas a língua geral?
 
 687 - reñeén será tapya ñeéna?
-687 -  
+687 - Renheẽ será tapuya-nheenga? *
 687 - falas a língua geral?
 
 688 - koromó teé aintá oñeén seresé!
@@ -2904,7 +2904,7 @@ p. 369
 688 - pode ser que êles falaram contra mim.
 
 689 - koromó tée aintá seakáu ygára resé.
-689 -  
+689 - Kurumú taá aintá se yakáu igara resé. *
 689 - pode ser que êles me ralharam por causa da canoa.
 
 690 - suyrúm kuá apyáua, oñeén teé teé amuitá resé.
@@ -2912,7 +2912,7 @@ p. 369
 690 - êste homem é malicioso, êle fala mal dos outros.
 
 691 - teñé inti eñeén puxí ne kamarára resé, intí katú.
-691 -  
+691 - Tenhẽ inti renheẽ puxí ne kamarara resé, inti katú. *
 691 - não fala mal de teus companheiros, não é bom.
 
 692 - iné nekyrymáua pyry amuitá suí.
@@ -2920,7 +2920,7 @@ p. 369
 692 - tu és mais forte que os outros.
 
 693 - kuaá kuñán mukú orikó paiu mira ruy.
-693 -  
+693 - Kwaá kunhamukú urikú ... mira ... . *
 693 - esta moça é mestiça.
 
 694 - xamusatatin karapaná supé xamapú aráma uetépe reté karapaná.
@@ -2932,15 +2932,15 @@ p. 369
 695 - a criança está engatinhando.
 
 696 - auá tamonó(taá omonó) kuñán mukú iké?
-696 -  
+696 - Awa 
 696 - quem mandou a moça aqui?
 
 697 - kaápiín jakym oikó.
-697 -  
+697 - Kapiĩ yakima uikú. *
 697 - o capim está molhado.
 
 698 - xamuarpakuár putár se tauarí xaú aráma.
-698 -  
+698 - xa... putari se tawarí aú arama.
 698 - quero rolar meu tauari para fumar.
 
 699 - kurutén uára yuytú oyeréu.
