@@ -2259,7 +2259,7 @@ p. 357
 533 - dá-me a metade.
 
 534 - apykáua oyumuñán akaiaka suí.
-534 -
+534 - Apikawa uyumunhã akayaká suí. *
 534 - o banco está feito de cedro.
 
 p. 358
@@ -2269,19 +2269,19 @@ p. 358
 535 - eu mandei fazer meu balaio de jacitara.
 
 536 - xarekó mokoin apyká, muyepé itaya suiuára, amú yakaiaká sui uára.
-536 -
+536 - Arikú mukũi apikawa, yepé itaíwa suiwara, amú yakayaká suiwara. *
 536 - tenho dois bancos, um de itaúba, outro de cedro.
 
 537 - kuyéra ymyrá suiuára.
-537 -
+537 - Kuyera imirá suiwara. *
 537 - colher de páu.
 
 538 - emukameén ixéu pé.
-538 -
+538 - Remukameẽ ixéu pé. *
 538 - mostra-me o caminho.
 
 539 - xasó suaináua kyty.
-539 -
+539 - Asú suainawa kití. *
 539 - vou para a outra banda.
 
 540 - maá rupí taá nerapé?
@@ -2289,23 +2289,23 @@ p. 358
 540 - para onde está teu caminho?
 
 541 - maé ára taé kuaé?
-541 -
+541 - Maã ara taá kwaá? *
 541 - que dia é hoje?
 
 542 - mytuú.
-542 -
+542 - Mituú. 
 542 - domingo.
 
 543 - seróka ikó ygapyra kyty uaiasy okaimáua kyty.
-543 -
-543 - minha casa está para cima para onde  assenta o sol.
+543 - Se ruka ikú igapira kití warasí ... kití. *
+543 - minha casa está para cima para onde assenta o sol.
 
 544 - seróka oikó marupí uarasy osém.
-544 -
+544 - Se ruka uikú marupí warasí usemu. *
 544 - minha casa está onde o sol nasce.
 
 545 - yasy pysasú oerúr amána.
-545 -
+545 - Yasí-pisasú ururi amana. *
 545 - a lua nova traz chuva.
 
 546 - yasy suuyk uán.
@@ -2315,7 +2315,7 @@ p. 358
 547 - a lua está mingoando.*
 
 548 - yasy suá uasú oikó.
-548 -
+548 - Yasí-suawasú uikú. *
 548 - a lua está cheia.
 
 p. 359
@@ -2329,7 +2329,7 @@ p. 359
 550 - já é noite.
 
 551 - yuatí mirí raén oikó uarasy.
-551 - Iwaté mirĩ rẽ uikú kurasí. *
+551 - Iwaté mirĩ rẽ uikú warasí. *
 551 - o sol ainda está um bocado alto.
 
 552 - yané pytúna.
@@ -2512,11 +2512,11 @@ p. 362
 594 - o sol vem saindo.
 
 595 - uarasy sakó reté.
-595 - Kurasí sakú reté. *
+595 - Warasí sakú reté. *
 595 - o sol está muito quente.
 
 596 - uarasy oseny uán.
-596 - Kurasí sendí wã. (Hartt, 362, adap.) - O sol está clareando.
+596 - Warasí sendí wã. (Hartt, 362, adap.) - O sol está clareando.
 596 - o sol está clareando.
 
 597 - korasy oaté án hasó putár hapuraky.
