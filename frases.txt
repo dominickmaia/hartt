@@ -2321,19 +2321,19 @@ p. 358
 p. 359
 
 549 - karúk ramé án osyk.
-549 -
+549 - Karuka ramé ã usika. *
 549 - êle chegou de tarde.
 
 550 - putún uasú án kuyr.
-550 -
+550 - Putunawasú ã kuíri. *
 550 - já é noite.
 
 551 - yuatí mirí raén oikó uarasy.
-551 -
+551 - Iwaté mirĩ rẽ uikú kurasí. *
 551 - o sol ainda está um bocado alto.
 
 552 - yané pytúna.
-552 - Yané 
+552 - Yané pituna. *
 552 - boa noite.
 
 553 - adéu okayára!
@@ -2341,15 +2341,15 @@ p. 359
 553 - oh! da casa!
 
 554 - mayaué taé oikó nemíraitá?
-554 -
+554 - Mayawé taá uikú ne mirá-itá? *
 554 - como está tua família?
 
 555 - ikatú ñúnte ikó, intí auá imasy.
-555 -
+555 - I katú nhuntu ikú, inti awa i maasí. *
 555 - assim, assim, ninguém está doente.
 
 556 - indaué, yané pytúna.
-556 -
+556 - Indawé, yané pituna. *
 556 - até o mesmo, boa noite.
 
 557 - xayusyú putár sepó yg irúm, xamutikan putár toáia irúm.
@@ -2362,11 +2362,11 @@ p. 359
 558 - deixe-me primeiro beber café.
 
 559 - rerikó será se asukerí katú?
-559 - Rerikú 
+559 - Rerikú será se asukirí katú? *
 559 - tens o meu bom açucar?
 
 560 - aé riré apyrypan yukyra omukaén putár ipirá.
-560 -
+560 - Aé riré apiripana yukira umukaẽ putari i pirá. *
 560 - depois de comprar sal êle quer muquear seu peixe.
 
 561 - kyyña tái reté.
