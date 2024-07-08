@@ -2148,7 +2148,7 @@ p. 355
 p. 356
 
 507 - ñaá apyáua intí omuñán kuáu i arapáun yá.
-507 -
+507 - Nhaã apigawa inti umunhã kwáu i ... ya. *
 507 - aquêle homem não sabe fazer sua hóstia.
 
 508 - uaraná oxirik reté an.
@@ -2160,27 +2160,27 @@ p. 356
 509 - o pagé foi curar no mato.
 
 510 - kuaá tenáua intí imaasy orekó.
-510 -
+510 - Kwaá tenawa inti i maasí urikú. *
 510 - êste lugar é sadio.
 
 511 - kuyr katú ig irusán oikó.
-511 -
+511 - Kuíri katú ií irusanga uikú. *
 511 - a água está ficando fria.
 
 512 - ó se páia!
-512 -
+512 - oh se paya! *
 512 - oh! meu pai.
 
 513 - yasó yapysy yané pyá.
-513 -  
+513 - Yasú yapisika yané piá. *
 513 - vamos pegar nossos estomagos.
 
 514 - xasó xayupír yuytíra árpe. *
-514 -
+514 - Asú xayupiri iwitira árupi. *
 514 - vou trepar na serra.
 
 515 - hombó sexapéa seakána aápe (Ereré).
-515 -
+515 - ... se xapewa se akanga árupi. *
 515 - mete meu chapeu na cabeça.
 
 516 - xainú sexapéa se akána árpe.
@@ -2188,11 +2188,11 @@ p. 356
 516 - ponho o chapeu de palha da mulher?
 
 517 - rerekó será kuñán xapéua pináua suí uára?
-517 -
+517 - Rerikú será kunhã xapewa pinawa suiwara? *
 517 - tens o chapeu de palha da mulher?
 
 518 - ixé intí menasára.
-518 -
+518 - Ixé inti mendasara. *
 518 - não estou casado.
 
 519 - xasó xayumuméu pái irúm xayár aráma tupána.
@@ -2200,13 +2200,13 @@ p. 356
 519 - vou confessar ao padre para tomar o santíssimo sacramento.
 
 520 - intí xayuruyár Joáun resé.
-520 -
+520 - Inti xayuruyari João resé. *
 520 - não creio em João.
 
 p. 357
 
 521 - kuaá xerína kamyg yaiyún án.
-521 -
+521 - Kwaá 
 521 - êste leite de seringa já coalhou.
 
 522 - itá senypó.
@@ -2219,7 +2219,7 @@ p. 357
 523 - aí vem um homem no meio da rua.
 
 524 - yané yára, tupána!
-524 -
+524 - Yané yara, Tupana! *
 524 - nosso senhor, Deus!
 
 525 - yuy uryry oikó.
@@ -2231,7 +2231,7 @@ p. 357
 526 - a casa antiga já caiu tôda.
 
 527 - se peyú iné!
-527 -
+527 - Se peyú indé! *
 527 - abana-me.
 
 528 - xamumáu xaikó.
@@ -2239,11 +2239,11 @@ p. 357
 528 - estou acabando.
 
 529 - pirayauára osekyi yuytú ikó.
-529 -
+529 - Pirayawara ... iwitú ikú. *
 529 - o bôto está tomando respiração.
 
 530 - hasó sayn sekamutí hapurakár.
-530 -
+530 - Asú ... se kamutí apurakari. *
 530 - deixa-me ir encher o pote.
 
 531 - ekoin epurakár yg kamutí opé.
@@ -2251,7 +2251,7 @@ p. 357
 531 - vá encher a agua no póte.
 
 532 - emunéu sekysé senáua opé.
-532 -
+532 - Emundéu se kisé enawa upé. *
 532 - metí minha faca na bainha.
 
 533 - emeén suaxára ixéu.
