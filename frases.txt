@@ -1897,7 +1897,7 @@ p. 351
 448 - tu não sabes nadar.
 
 449 - ixé xauytáu kuáu.
-449 - Ixé Awitá-kwáu. *
+449 - Ixé xawitá-kwáu. *
 449 - sei nadar.
 
 450 - xauytáu yg ára rupí.
@@ -1923,7 +1923,7 @@ p. 352
 454 - vou para cima!
 
 455 - ixé xauytán kuáu yg uyra rupí.
-455 - Ixé xawitá kwáu ií ... rupí. *
+455 - Ixé xawitá kwáu ií wira rupí. *
 455 - sei nadar debaixo da água.
 
 456 - yg kyá reté.
@@ -2090,7 +2090,7 @@ p. 354
 p. 355
 
 493 - xasapy sepy, or yg opupôr ipupé.
-493 - Xasapí se pí, ... ií ... ... . *
+493 - Xasapí se pí, uwari ií upupuri ipí-pe. *
 493 - queimei meu pé, água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
@@ -2102,7 +2102,7 @@ p. 355
 495 - não sou como tu.
 
 496 - rerekó será maá purana reoéner ixéu?
-496 - Rerikú será maã ... ... ixéu? *
+496 - Rerikú será maã puranga revenderi ixéu? *
 496 - tens alguma cousa bonita para me vender?
 
 497 - sarasy reté tuyaé resé.
@@ -2180,7 +2180,7 @@ p. 356
 514 - vou trepar na serra.
 
 515 - hombó sexapéa seakána aápe (Ereré).
-515 - ... se xapewa se akanga árupi. *
+515 - Umburi se xapewa se akanga árupi. *
 515 - mete meu chapeu na cabeça.
 
 516 - xainú sexapéa se akána árpe.
@@ -2239,7 +2239,7 @@ p. 357
 528 - estou acabando.
 
 529 - pirayauára osekyi yuytú ikó.
-529 - Pirayawara ... iwitú ikú. *
+529 - Pirayawara usikí iwitú ikú. *
 529 - o bôto está tomando respiração.
 
 530 - hasó sayn sekamutí hapurakár.
@@ -2297,7 +2297,7 @@ p. 358
 542 - domingo.
 
 543 - seróka ikó ygapyra kyty uaiasy okaimáua kyty.
-543 - Se ruka ikú igapira kití warasí ... kití. *
+543 - Se ruka ikú igapira kití warasí ... kití. * #ukayarí
 543 - minha casa está para cima para onde assenta o sol.
 
 544 - seróka oikó marupí uarasy osém.
@@ -2892,7 +2892,7 @@ p. 368
 p. 369
 
 686 - xeñeén será tapuya ñeéna rupí?
-686 - ...nheẽ será tapuya-nheenga rupí? *
+686 - Renheẽ será tapuya-nheenga rupí? *
 686 - falas a língua geral?
 
 687 - reñeén será tapya ñeéna?
