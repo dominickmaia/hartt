@@ -2148,7 +2148,7 @@ p. 355
 p. 356
 
 507 - ñaá apyáua intí omuñán kuáu i arapáun yá.
-507 - Nhaã apigawa inti umunhã kwáu i ... ya. *
+507 - Nhaã apigawa inti umunhã kwáu i arapáun ya. *
 507 - aquêle homem não sabe fazer sua hóstia.
 
 508 - uaraná oxirik reté an.
@@ -2206,7 +2206,7 @@ p. 356
 p. 357
 
 521 - kuaá xerína kamyg yaiyún án.
-521 - Kwaá 
+521 - Kwaá siringa kambí ... ã. *
 521 - êste leite de seringa já coalhou.
 
 522 - itá senypó.
@@ -2243,7 +2243,7 @@ p. 357
 529 - o bôto está tomando respiração.
 
 530 - hasó sayn sekamutí hapurakár.
-530 - Asú ... se kamutí apurakari. *
+530 - Asú sanhẽ se kamutí apurakari. *
 530 - deixa-me ir encher o pote.
 
 531 - ekoin epurakár yg kamutí opé.
@@ -2297,7 +2297,7 @@ p. 358
 542 - domingo.
 
 543 - seróka ikó ygapyra kyty uaiasy okaimáua kyty.
-543 - Se ruka ikú igapira kití warasí ... kití. * #ukayarí
+543 - Se ruka ikú igapira kití warasí uka i mawa kití. * #ukayarí
 543 - minha casa está para cima para onde assenta o sol.
 
 544 - seróka oikó marupí uarasy osém.
@@ -2920,7 +2920,7 @@ p. 369
 692 - tu és mais forte que os outros.
 
 693 - kuaá kuñán mukú orikó paiu mira ruy.
-693 - Kwaá kunhamukú urikú ... mira ... . *
+693 - Kwaá kunhamukú urikú paĩ mira ruy . *
 693 - esta moça é mestiça.
 
 694 - xamusatatin karapaná supé xamapú aráma uetépe reté karapaná.
@@ -2932,7 +2932,7 @@ p. 369
 695 - a criança está engatinhando.
 
 696 - auá tamonó(taá omonó) kuñán mukú iké?
-696 - Awa 
+696 - Awa ta umundú kunhamukú iké? *
 696 - quem mandou a moça aqui?
 
 697 - kaápiín jakym oikó.
@@ -2940,7 +2940,7 @@ p. 369
 697 - o capim está molhado.
 
 698 - xamuarpakuár putár se tauarí xaú aráma.
-698 - xa... putari se tawarí aú arama.
+698 - xamuapiri putari se tawarí aú arama. *
 698 - quero rolar meu tauari para fumar.
 
 699 - kurutén uára yuytú oyeréu.
