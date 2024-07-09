@@ -1923,23 +1923,23 @@ p. 352
 454 - vou para cima!
 
 455 - ixé xauytán kuáu yg uyra rupí.
-455 -
+455 - Ixé xawitá kwáu ií ... rupí. *
 455 - sei nadar debaixo da água.
 
 456 - yg kyá reté.
-456 -
+456 - Ií kiá reté. *
 456 - a água está muito suja.
 
 457 - seputumú iné, kuruten!
-457 -
+457 - Se pitimú indé, kurutẽi! *
 457 - ajuda-me, depressa.
 
 458 - esykyí ñaé tupasáma.
-458 -
+458 - Esikí nhaã tupasama. *
 458 - puxa a corda.
 
 459 - pesykyí!
-459 -
+459 - pesikí! *
 459 - puxaí!
 
 460 - kuaá ymyrá oikó pokú muyr akaiú-póra.
@@ -1955,7 +1955,7 @@ p. 352
 462 - esta mulher está desconfiada(?).
 
 463 - áre, arekó pokú reté án teñé.
-463 -
+463 - Aé, arikú pukú reté ã tenhẽ. *
 463 - êle está se demorando muito.
 
 464 - kuaá ymyrá intí katú.
@@ -2090,7 +2090,7 @@ p. 354
 p. 355
 
 493 - xasapy sepy, or yg opupôr ipupé.
-493 -
+493 - Xasapí se pí, ... ií ... ... . *
 493 - queimei meu pé, água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
@@ -2098,11 +2098,11 @@ p. 355
 494 - êste pau é muito abundante aqui.
 
 495 - ixé intí neyaué.
-495 -
+495 - Ixé inti ne yawé. *
 495 - não sou como tu.
 
 496 - rerekó será maá purana reoéner ixéu?
-496 -
+496 - Rerikú será maã ... ... ixéu? *
 496 - tens alguma cousa bonita para me vender?
 
 497 - sarasy reté tuyaé resé.
@@ -2114,15 +2114,15 @@ p. 355
 498 - está trovejando.
 
 499 - xauasém iepé kúia ygarupápe.
-499 -
+499 - Xawasemu yepé kuya i garapá-pe. *
 499 - achei uma cuia no pôrto.
 
 500 - káua opí tayna.
-500 -
+500 - Kawa upií taína. *
 500 - a caba ferrou a criança.
 
 501 - kuaá apyáua intí maé aráma.
-501 -
+501 - Kwaá apigawa inti maã arama. *
 501 - êste homem não vale de nada.
 
 502 - kuaá kuñán mukú intí rañé okuáu maé resé uára.
@@ -2134,15 +2134,15 @@ p. 355
 503 - menina inocente e virgem.
 
 504 - xapoóg uán iyá suí.
-504 -
+504 - xapuú wã iyá suí. *
 504 - já o apanhei da arvore.
 
 505 - ixé xakuáu auá orekó.
-505 -
+505 - Ixé xakwáu awa urikú. *
 505 - eu sei quem o tem.
 
 506 - reyupir kuáu uasai yá rupí?
-506 -
+506 - reyupiri kwáu wasaí ya rupí? *
 506 - podes trepar no assahizeiro?
 
 p. 356
