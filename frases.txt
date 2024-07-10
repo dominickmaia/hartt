@@ -1561,7 +1561,7 @@ asú. (Hartt, 345, adap.) - Se chover, eu não vou.
 p. 346
 
 368 - ikoñunte! ekóin repytuú! remaité ipó xakér xaikó.
-368 -
+368 -  
 368 - fica quieto! vai descansar! parece que tu pensas que estou dormindo.
 
 369 - maramé réar?
@@ -1573,19 +1573,19 @@ p. 346
 370 - nasci em Santarém.
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
-371 -
+371 -  
 371 - nascí no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
-372 -
+372 - Ixé kurumĩ asú reté. *
 372 - sou muito moço.
 
 373 - ixé kuñán mukú reté.
-373 -
+373 - Ixé kunhamukú reté. *
 373 - sou muito moça.
 
 374 - muyr akayú rerekó?
-374 -
+374 - Muíri akayú rerikú? *
 374 - quantos anos tens?
 
 375 - sekumutí oyaryg án, intí án teresém.
@@ -1593,27 +1593,27 @@ p. 346
 375 - meu pote está vasio.
 
 376 - emoakú yg!
-376 -
+376 - ... ií! *
 376 - aguenta a agua!
 
 377 - ixé xakuáu iné remanuár seresé.
-377 -
+377 - Ixé xakwáu indé remanduári se resé. *
 377 - eu sei que tu te lembras de mim.
 
 378 - pytúna uasú reté.
-378 -
+378 - Pituna wasú reté. *
 378 - a noite já está muito escura.
 
 379 - pytúna putár uán.
-379 -
+379 - Pituna putari wã. *
 379 - já está para anoitecer.
 
 380 - korasy (uarasy) oapy uán.
-380 -
+380 - Kurasí (warasí) uwapika wã. *
 380 - o sol já se assentou.
 
 381 - xasy karúk ramé.
-381 -
+381 - ... karuka ramé. *
 381 - cheguei de tarde.
 
 p. 347
@@ -1627,15 +1627,15 @@ p. 347
 383 - a mandioca já está madura e boa para se desmanchár em farinha.
 
 384 - akutí oú reté semaniók.
-384 -
+384 - Akutí uú reté se maniáka. *
 384 - amanhã hei de ralar mandioca.
 
 385 - akutí oú reté semanióka.
-385 -
+385 - Akutí uú reté se maniáka. *
 385 - a cutia come muita mandioca.
 
 386 - saya oú maniya róa.
-386 -
+386 -  
 386 - a saúba comeu as folhas da mandioca.
 
 387 - emuapyr serenimú ixéu.
@@ -1659,7 +1659,7 @@ p. 347
 391 - até logo!
 
 392 - muyr taá nekyuíra?
-392 - Muyr taá ne kiwira? *
+392 - Muíri taá ne kiwira? *
 392 - quantos irmãos tem?
 
 393 - maá taá apyáua oñeén?
@@ -1710,7 +1710,7 @@ p. 348
 403 - os olhos são muito pretos.
 
 404 - moyr akayú án taá orekó!
-404 - Muyr akaiú ã taá urikú!
+404 - Muíri akaiú ã taá urikú!
 404 - quantos anos já tem êle?
 
 405 - ixé hakéri yuype(Ereré).
