@@ -1619,7 +1619,7 @@ p. 346
 p. 347
 
 382 - máme uarasy oikó resy ráme?
-382 -
+382 - Mamé warasí uikú ... ... ? *
 382 - a que horas chegou?
 
 383 - semaníya rapó tiarún oikó ikatú yayurá aráma.
@@ -1639,11 +1639,11 @@ p. 347
 386 - a saúba comeu as folhas da mandioca.
 
 387 - emuapyr serenimú ixéu.
-387 -
-387 - enrola meu fio para mim.*
+387 - Muapiri se rinimbú ixéu. *
+387 - enrola meu fio para mim.
 
 388 - paraná omuteapú paranáme máeu.
-388 -
+388 - Paraná ... ... ... . *
 388 - a mãe d'água estrondou no rio.
 
 389 - oyuir án será paraná?
@@ -1651,45 +1651,45 @@ p. 347
 389 - já vasou o rio? (maré).
 
 390 - maá taá xañeén kuesé inéu, rekuáu será?
-390 -
+390 - Maã taá xanheẽ kwesé indéu, rekwáu será? *
 390 - o que é que te disse ontem, sabes?
 
 391 - até kurí!
-391 -
-391 - até logo!*
+391 - Até kurí! *
+391 - até logo!
 
 392 - muyr taá nekyuíra?
-392 -
+392 - Muyr taá ne kiwira? *
 392 - quantos irmãos tem?
 
 393 - maá taá apyáua oñeén?
-393 -
+393 - Maã taá apigawa unheẽ? *
 393 - o que disse o homem?
 
 394 - yaureté oú míra.
-394 -
+394 - Yawareté uú mira. *
 394 - a onça come gente.
 
 395 - opororóg uán serymáua sapukáia.
-395 -
+395 - Upururuka wã se rimbawa sapukaya. *
 395 - os pintos já picaram.
 
 p. 348
 
 396 - xarúr kuaá ananá inéu, supé uára.
-396 -
+396 - Xaruri kwaá ananá indéu, supé wara.
 396 - trouxe este ananás especialmente para ti.
 
 397 - Yoáun ipyá ayú reté.
-397 - Yoáun i piaíwa reté. *
+397 - João i piaíwa reté. *
 397 - João está zangado.
 
 398 - Yoáun ipyaí reté (Ereré).
-398 - Yoáun i piaíwa reté. *
+398 - João i piaíwa reté. *
 398 - João está zangado.
 
 399 - xamopixún se inimú.
-399 -
+399 - xamupixuna se rinimbú. *
 399 - eu tinjo de preto meu fio.
 
 400 - irané kurí xamuñán pá semuraiky
@@ -1706,53 +1706,53 @@ p. 348
 402 - esta mulher está prenha.
 
 403 - ipixún-pixun sesá.
-403 -
+403 - I pixuna-pixuna sesá. *
 403 - os olhos são muito pretos.
 
 404 - moyr akayú án taá orekó!
-404 -
+404 - Muyr akaiú ã taá urikú!
 404 - quantos anos já tem êle?
 
 405 - ixé hakéri yuype(Ereré).
-405 -
+405 - Ixé akiri iwí-pe. *
 405 - dormi no chão.
 
 406 - ixe xakér yuype(Santarem).
-406 -
+406 - Ixé xakiri iwí-pe. *
 406 - dormi no chão.
 
 407 - aé omuyasúk paratú.
-407 -
+407 - Aé umuyasuka paratú. *
 407 - êle lava o prato.
 
 408 - Maria omuyasúk ñaé karía mirí.
-408 -
+408 - Maria umuyasuka nhaã kariwa mirĩ. *
 408 - Maria lava o menino branco.
 
 409 - okayára intí oikó aápe xaikó ramé.
-409 -
+409 - Uka yara inti uikú árupi aikú ramé. *
 409 - o dono da casa não estava lá quando eu estava em casa dêle.
 
 p. 349
 
 410 - apyáua osy iké renuné osó sóka opé oñeén aráma ximirikó supé.
-410 -
+410 - Apigawa usika iké renundé usú suka upé unheẽ arama ximirikú supé. *
 410 - antes de chegar aqui o homem foi na casa dele para falar com sua mulher(dele).
 
 411 - yasó án.
-411 -
+411 - Yasú ã. *
 411 - vamos embora.
 
 412 - xampoapár xaikó kuaé ymyrá.
-412 -
+412 - Xamuapara aikú kwaá i mirá. *
 412 - estou vergando este pau.
 
 413 - maé taé kuaé réra?
-413 -
+413 - Maã taá kwaá rera? *
 413 - o que é o nome disso?
 
 414 - maá taá kuaá ymyrá séra?
-414 -
+414 - Maã taá kwaá i mirá será? *
 414 - como se chama aquela árvore?
 
 415 - iuasú reté mira osenuí kuaé ymyrá réra.
@@ -1760,7 +1760,7 @@ p. 349
 415 - o nome daquele pau é muito difícil.
 
 416 - kuekatú kurí Kurupatuguára itá.
-416 -
+416 - Kwekatú kurí Kurupatuguára itá. *
 416 - lembranças aos habitantes de Monte-Alegre.
 
 417 - xasó rañé, ate irané, tupána putár ramé.
@@ -1769,7 +1769,7 @@ p. 349
 417 - já vou, até amanhã, se Deus quiser.
 
 418 - sekatú mirí xaikó.
-418 -
+418 - Se katú mirĩ aikú. *
 418 - estou zinho bom.
 
 419 - mayaué taé oikó nekyuirá?
@@ -1777,15 +1777,15 @@ p. 349
 419 - como está teu irmão?
 
 420 - sykantán omuisyk páu uán se pó.
-420 -
+420 - Sikantá umuisika pan ã se pú. *
 420 - o breu já breou toda a minha mão.
 
 421 - mayaué reikó?
-421 - ― Mayé reikú? ― Se katú nhuntu aikú. (Hartt, 349, adap.) - ― Como você está? ― Estou assim, assim.
+421 - Mayé reikú? Se katú nhuntu aikú. (Hartt, 349, adap.) - Como você está? Estou assim, assim.
 421 - como estás?
 
 422 - se katú ñúnte xaikó.
-422 - Se katú nhuntu aikú. (Hartt, 349, adap.) - ― Estou assim, assim.
+422 - Se katú nhuntu aikú. (Hartt, 349, adap.) - Estou assim, assim.
 422 - estou assim.
 
 p. 350
@@ -2878,7 +2878,7 @@ p. 368
 682 - êste homem é gago.
 
 683 - Joáun omosém reté kuruten uára iñeéna, ñaé resé intí xakuáu maá oñeén.
-683 - Joáun umusemu reté kurutẽiwara i nheenga, nhaã resé inti xakwáu maã unheẽ. *
+683 - João umusemu reté kurutẽiwara i nheenga, nhaã resé inti xakwáu maã unheẽ. *
 683 - João fala tão ràpidamente, que não entendo o que diz.
 
 684 - ñeénga katú rupí intí iuasú mayué Mundurukú itá ñeénga rupí.
@@ -2974,7 +2974,7 @@ p. 370
 705 - sinto muito que não posso ir.
 
 706 - Manú intí maé omeén ixéu, intí resé seraisú.
-706 - Manú inti maã umeẽ ixéu, inti resé se raisú. *
+706 - Manuel inti maã umeẽ ixéu, inti resé se raisú. *
 706 - Manuel não me deu nada, porque não me quer bem.
 
 707 - ixé neraisú.
@@ -3286,7 +3286,7 @@ p. 375
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
-781 - Akiri putari ramé, akiri. *
+781 - Xakiri putari ramé, xakiri. *
 781 - quando quero dormir, durmo.
 
 p. 376
