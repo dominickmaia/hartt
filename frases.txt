@@ -1222,7 +1222,7 @@ p. 340
 287 - a vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
-288 -
+288 - Ekũi 
 288 - vai levar minha caça a ele.
 
 289 - ekóin epysyk ñaá parauá, xamonóg putár sepepó.
@@ -1276,11 +1276,11 @@ p. 341
 300 - vou depenar a marréca.
 
 301 - tapiíra kaáuára ikyrymáua reté.
-301 -
+301 - Tapiira-kaawara i kirimbawa reté. *
 301 - a anta é muito forte.
 
 302 - tapiíra kaáuára oyuyunún kaápe.
-302 -
+302 - Tapiira-kaawara uyuyumimi kaá-pe. *
 302 - a anta se escondeu no mato.
 
 303 - móia omokatág oikó, opeiyú yuytú yaué.
@@ -1288,11 +1288,11 @@ p. 341
 303 - a cóbra está se mechendo, assobia como o vento.
 
 304 - oyepé maapuxi oyukuaú ixéu kaápe aasuí akañem, intí xakuáu maarupí osó.
-304 -
+304 - Yepé maã-puxí uyukwáu ixéu kaá-pe aasuí akanhemu, inti xakwáu marupí usú. 
 304 - um bicho apareceu para mim no mato, então desapareceu, não sei para onde foi.
 
 305 - ixé karekó ay.
-305 -
+305 - Ixé ... aí. *
 305 - tenho uma preguiça(animal).
 
 306 - muyr yaureté reyuká?
@@ -1300,11 +1300,11 @@ p. 341
 306 - quantas onças matou?
 
 307 - oyepé ñún.
-307 -
+307 - Yepé nhũ. *
 307 - uma sómente.
 
 308 - xayuká reía uirá.
-308 -
+308 - Xayuká riiya wirá. *
 308 - mate muitos pássaros.
 
 309 - kurumí asú oyapí ikó uira miri itá kaá rupi.
@@ -1312,7 +1312,7 @@ p. 341
 309 - o rapaz está matando passarinhos no mato.
 
 310 - maeresé intí reyapí?
-310 -
+310 - Maã resé inti reyapí? *
 310 - por que não atiras?
 
 311 - mukáua reapú xaseaú.
