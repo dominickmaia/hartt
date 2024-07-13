@@ -1334,11 +1334,11 @@ p. 342
 314 - não está carregada.
 
 315 - mukáua será ipóra oikó?
-315 -
+315 - Mukawa será i pura uikú? *
 315 - a espingarda (arma) está carregada?
 
 316 - yasó yanemukáua yapurakár.
-316 -
+316 - Yasú yané mukawa yapurakari. *
 316 - vamos carregar nossas espingardas.
 
 317 - xapurakár se mukáua.
@@ -1350,15 +1350,15 @@ p. 342
 318 - quem de vós tem espingarda?
 
 319 - semukáua mirí oyauy tatá.
-319 -
+319 - Se mukawa mirĩ uyawí tatá. *
 319 - minha pistola negou fogo.
 
 320 - rerikó será karíua mukáua?
-320 -
+320 - Rerikú será kariwa mukawa? *
 320 - tens a espingarda do branco?
 
 321 - intí reté oputar aúna yatukar timbó (timó) aépe.
-321 -
+321 - Inti reté uputari aúna ... ... ape. *
 321 - não querem que batamos timbó lá.
 
 322 - oyatítí reté pirá.
@@ -1366,7 +1366,7 @@ p. 342
 322 - matou (arrazou) muito peixe.
 
 323 - yasó yasykyí pirá miri.
-323 -
+323 - Yasú yasikí pirá mirĩ. *
 323 - vamos apanhar peixinhos.
 
 324 - yakuáu reté kuae pirá.
