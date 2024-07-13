@@ -1466,19 +1466,19 @@ p. 344
 346 - ainda dorme a criança?
 
 347 - yauára okér oikó.
-347 -
+347 - Yawara ukiri uikú. *
 347 - o cachorro está dormindo.
 
 348 - apykatú reté será reuatá?
-348 -
+348 - Apekatú reté será rewatá? *
 348 - andaste muito longe?
 
 349 - apykatú reté será ygarupáua?
-349 -
+349 - Apekatú reté será i garapá-pe? *
 349 - é muito longe o pôrto?
 
 350 - resó uán será ygarupápe?
-350 -
+350 - Resú wã será i garapá-pe? *
 350 - já foste no pôrto?
 
 351 - intí rañé.
@@ -1486,11 +1486,11 @@ p. 344
 351 - ainda não.
 
 352 - yasó aépe.
-352 -
+352 - Yasú ape. *
 352 - vamos lá.
 
 353 - xasó sepy irúm.
-353 -
+353 - Asú se pí irumu. *
 353 - vou a pé.
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
