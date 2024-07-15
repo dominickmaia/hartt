@@ -407,7 +407,7 @@
 5	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=20:21
 
 # sent_id = Hartt1938:0:0:23
-# text = Epirari nhaã ukena
+# text = Epirari nhaã ukena!
 # text_eng = Open that door!
 # text_por = Abre aquela porta!
 # text_source = p. 320, No. 23
@@ -532,8 +532,8 @@
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
 3	apisá	apisá	NOUN	N	Number=Sing	5	obj	_	TokenRange=7:12
 4	katú	katú	ADJ	A	_	3	amod	_	TokenRange=13:17
-5	xarikú	rikú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=arikú|TokenRange=18:24
-6	xasenú	senú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	parataxis	_	ModernForm=asenú|TokenRange=25:31
+5	arikú	rikú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=arikú|TokenRange=18:24
+6	asenú	senú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	parataxis	_	ModernForm=asenú|TokenRange=25:31
 7	katú	katú	ADV	ADVS	AdvType=Deg	6	advmod	_	SpaceAfter=No|TokenRange=32:36
 8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=36:37
 
@@ -850,3 +850,4 @@
 8	"	"	PUNCT	PUNCT	_	7	punct	_	TokenRange=36:37
 9	suí	suí	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=38:41
 10	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=41:42
+
