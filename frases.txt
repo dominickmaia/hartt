@@ -1150,7 +1150,7 @@ p. 338
 270 - tens sal?
 
 271 - intí xaruyar reté.
-271 -
+271 - Inti xaruyari reté. *
 271 - eu duvido.
 
 p. 339
@@ -1160,11 +1160,11 @@ p. 339
 272 - eu faço minha igaçaba de tijuca (argila).
 
 273 - xarekó sekysé.
-273 -
+273 - Xarikú se kisé. *
 273 - tenho minha faca.
 
 274 - xasó xayumutimú.
-274 -
+274 - Asú ayumutimú. *
 274 - vou me embalar.
 
 275 - xasó xayakáu kuaá kurumi asú.
@@ -1176,7 +1176,7 @@ p. 339
 276 - manda buscar o pajé.
 
 277 - sepatráum (patrão) emonu mukáua piám.
-277 - Se patrãu...
+277 - Se patrãu remunú mukawa piamu. *
 277 - meu patrão mandou-me buscar a arma.
 
 278 - ixé xayupukuáu reté Tupaiópe.
@@ -1184,7 +1184,7 @@ p. 339
 278 - gosto muito de Santarém.
 
 279 - kuaá pytun repurasaí.
-279 -
+279 - Kwaá pituna repurasaí. *
 279 - tu dansaste muito esta noite.
 
 280 - xasasém xaikó, se ána osuaxár ixéu.
@@ -1234,11 +1234,11 @@ p. 340
 290 - vamos mandar apanhar tracajás no tijucal no meio do Guamá.
 
 291 - xaxó xayuóg tarakaiá rupiá.
-291 -
+291 - ... ayuuka tarakayá rupiá. *
 291 - vou tirar ovos de trajacá.
 
 292 - taiasú omoór oikó yuy itín irúm.
-292 -
+292 - Tayasú ... uikú iwí ... irumu. *
 292 - o porco cava no chão com o nariz.
 
 293 - móia oyuká ramé tapuñúna aramé kurí ixé xayuká.
