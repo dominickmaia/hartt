@@ -1384,31 +1384,31 @@ p. 342
 p. 343
 
 327 - iné intí rekér katú, repiralér ipó resé.
-327 -
+327 - Indé inti ... katú, ... i pura resé. *
 327 - tu não dormiste bem, porque parece que estavas faxinando.
 
 328 - yasó yapinaityk.
-328 -
+328 - Yasú apinaitika. *
 328 - vamos pescar(com anzol).
 
 329 - setá reté pirá paranáme.
-329 -
+329 - Setá reté pirá 
 329 - há muito peixe no rio.
 
 330 - seruya rantin opéu ikó.
-330 -
+330 - Se ruiwantí ... uikú. *
 330 - a ponta da flecha está quebrada.
 
 331 - xayumú pirá, oasertár sioya sesé.
-331 -
+331 - ... pirá, 
 331 - flechei um peixe e minha flecha acertou nele.
 
 332 - masekói neuirapára.
-332 -
+332 - Maxukúi ne wirapara. *
 332 - aqui está teu arco.
 
 333 - ixé xapaném reté.
-333 -
+333 - Ixé xapanema reté. *
 333 - estou muito infeliz.
 
 334 - seraén xaikó.
@@ -1416,19 +1416,19 @@ p. 343
 334 - estou com pressa.
 
 335 - teñe kurí neresarái sesuí.
-335 -
+335 - Tenhẽ kurí ne resarái se suí. *
 335 - não te esqueças de mim!
 
 336 - intí neresarái sesuí, remanuár teñe seresé.
-336 -
+336 - Inti ne resarái se suí, remanduári tenhẽ se resé. *
 336 - não te esqueças de mim, tu sempre has de te lembrar de mim.
 
 337 - neresarái uán.
-337 -
+337 - Ne resarái wã. *
 337 - já te esqueceste.
 
 338 - xamonóg kuaé apyáua sesápe.
-338 -
+338 - Amunuka kwá apigawa sesá . *
 338 - dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
@@ -1436,21 +1436,21 @@ p. 343
 339 - êsse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
-340 -
+340 - Inti xakwáu awa rimbawa. *
 340 - não sei de quem é.
 
 p. 344
 
 341 - seygantínya okaó reté oikó.
-341 -
+341 - Se igantiwa ukaú reté uikú. *
 341 - meu proeiro está muito bebido.
 
 342 - emué mirí(Ereré).
-342 -
+342 - Muwéu mirĩ. *
 342 - apaga um bocado.
 
 343 - tatatína intí katú ikó, ipixé asú ikó.
-343 -
+343 - Tatatinga inti katú ikú, i pixé asú ikú. *
 343 - a fumaça não está bôa, cheira mal.
 
 344 - santán reté ymyrá, intí opén.
@@ -1458,7 +1458,7 @@ p. 344
 344 - o pau é muito duro, não québra.
 
 345 - tatatína sasy reté seresápe.
-345 -
+345 - Tatatinga sasí reté se resá-pe. *
 345 - a fumaça dói muito aos meus olhos.
 
 346 - okér oé será tayna?
@@ -1501,15 +1501,15 @@ p. 344
 p. 345
 
 355 - resó putár uán será?
-355 -
+355 - Resú putari wã será? *
 355 - já está de viagem?
 
 356 - muyepé akayú uán intí xasenú misa.
-356 -
+356 - Yepé akayú wã inti xasenú misa. *
 356 - faz um ano que não ouvi missa.
 
 357 - eumbór(ou emumór) ñaá tupé yuuype.
-357 -
+357 - ... nhaã tupé ... . *
 357 - estende aquela esteira no chão.
 
 358 - xasó xamupuám sekysáua setiára resé.
@@ -1517,19 +1517,19 @@ p. 345
 358 - vou suspender minha rêde aos esteios.
 
 359 - máme taá yasó yaker?
-359 -
+359 - Mamé taá yasú yakiri? *
 359 - para onde iremos dormir?
 
 360 - amána osasaú uán.
-360 -
+360 - Amana usasá wã. *
 360 - a chuva já passou.
 
 361 - yuytú rusán purán.
-361 -
+361 - Iwitú rusanga purã. *
 361 - o vento é fresco e agradável.
 
 362 - korasy (uarasy) intí rañé oiké.
-362 -
+362 - Kurasí inti ranhẽ uwiké. *
 362 - o sol ainda não entrou.
 
 363 - amána okyr oikó.
@@ -1537,12 +1537,11 @@ p. 345
 363 - a chuva está pingando.
 
 364 - amána okyr ramé intí xasó.
-364 - Amana ukiri ramé, ti
-asú. (Hartt, 345, adap.) - Se chover, eu não vou.
+364 - Amana ukiri ramé, ti asú. (Hartt, 345, adap.) - Se chover, eu não vou.
 364 - se chuver não vou.
 
 365 - kurí mirí amána okyr.
-365 -
+365 - Kurí mirĩ amana ukiri. *
 365 - ha de chuver logo.
 
 366 - oií pytun sekér aiyú xaikó seretáma pupe.
@@ -1551,17 +1550,17 @@ asú. (Hartt, 345, adap.) - Se chover, eu não vou.
 366 - esta noite sonhei que estava na minha terra.
 
 366a - ixé sekér aiyú.
-366a -
+366a - Ixé se kiriaíwa. *
 366a - sonhei.
 
 367 - kuñántáin opág uán.
-367 -
+367 - kunhatãi ... wã. *
 367 - a menina já acordou.
 
 p. 346
 
 368 - ikoñunte! ekóin repytuú! remaité ipó xakér xaikó.
-368 -  
+368 - Ikuntu! Ekũi repituú! Remaité i pura xakiri aikú. *
 368 - fica quieto! vai descansar! parece que tu pensas que estou dormindo.
 
 369 - maramé réar?
@@ -1573,7 +1572,7 @@ p. 346
 370 - nasci em Santarém.
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
-371 -  
+371 - Awari se ... marika suí mituú wasú ara upé. *
 371 - nascí no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
@@ -1635,7 +1634,7 @@ p. 347
 385 - a cutia come muita mandioca.
 
 386 - saya oú maniya róa.
-386 -  
+386 - usaíwa uú maniáka ... . *
 386 - a saúba comeu as folhas da mandioca.
 
 387 - emuapyr serenimú ixéu.
@@ -1643,7 +1642,7 @@ p. 347
 387 - enrola meu fio para mim.
 
 388 - paraná omuteapú paranáme máeu.
-388 - Paraná ... ... ... . *
+388 - Paraná umutiapú paraname ... . *
 388 - a mãe d'água estrondou no rio.
 
 389 - oyuir án será paraná?
