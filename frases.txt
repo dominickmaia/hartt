@@ -1218,15 +1218,15 @@ p. 340
 286 - vai tirar a paca do mundéu, não deixa Tugir.
 
 287 - tapiíra kuñán omaú oikó, omokatág iyurú kapun uaé marika suí.
-287 -
+287 - Tapiira kunhã ... uikú, ... i yurú ... waá marika suí. *
 287 - a vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
-288 - Ekũi 
+288 - Ekũi ... semiára ixupé. *
 288 - vai levar minha caça a ele.
 
 289 - ekóin epysyk ñaá parauá, xamonóg putár sepepó.
-289 -
+289 - Ekũi repisika nhaã parawá, amunuka putari se pepú. *
 289 - vá apanhar aquele papagaio, quero cortar-lhe as asas.
 
 290 - yasó yamunú tarakaaiá pysy káua tuyúka páua pe, Uamá pytéra rupí.
@@ -1242,27 +1242,27 @@ p. 340
 292 - o porco cava no chão com o nariz.
 
 293 - móia oyuká ramé tapuñúna aramé kurí ixé xayuká.
-293 -
+293 - Buya uyuká ramé ... aramé kurí ixé ayuká. *
 293 - se a cobra matar o preto, hei de matá-la.
 
-294 - kuruní asú osó synymy piám.
-294 -
+294 - kurumí asú osó synymy piám.
+294 - Kurumĩ asú usú sinimú piamu. *
 294 - o moço foi buscar o camaleão.
 
 295 - ixé xasenú maá puxí teapú.
-295 -
+295 - Ixé xasenú maã-puxí tiapú. *
 295 - ouvi um bicho estrondar.
 
 296 - intí xasaisú kuae mira, intí sepyá póra.
-296 -
+296 - Inti xasaisú kwá mira, inti ... pura. *
 296 - não amo essa pessoa, não é do meu coração.
 
 297 - ixé peraisú páu.
-297 -
+297 - Ixé pe raisú pan. *
 297 - eu vos amo todos.
 
 298 - ixé intí neraisú.
-298 -
+298 - Ixé inti ne raisú. *
 298 - não te amo.
 
 p. 341
@@ -1358,7 +1358,7 @@ p. 342
 320 - tens a espingarda do branco?
 
 321 - intí reté oputar aúna yatukar timbó (timó) aépe.
-321 - Inti reté uputari aúna ... ... ape. *
+321 - Inti reté uputari aúna yatuká timbó ape. *
 321 - não querem que batamos timbó lá.
 
 322 - oyatítí reté pirá.
@@ -1384,7 +1384,7 @@ p. 342
 p. 343
 
 327 - iné intí rekér katú, repiralér ipó resé.
-327 - Indé inti ... katú, ... i pura resé. *
+327 - Indé inti rekiri katú, ... i pura resé. *
 327 - tu não dormiste bem, porque parece que estavas faxinando.
 
 328 - yasó yapinaityk.
