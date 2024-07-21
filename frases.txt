@@ -1117,32 +1117,32 @@ p. 338
 262 - enfia já o peixe.
 
 263 - ekirirí aépe!
-263 -
+263 - ... ape! *
 263 - cala-te aí.
 
 264 - apygáua okuáu reté.
-264 -
+264 - Apigawa ukwáu reté. *
 264 - o homem é sábio.
 
 265 - xarekó teñé.
-265 -
+265 - Xarikú tenhẽ. *
 265 - tenho alguns (sempre tenho).
 
 266 - intí xarekó maá puxí uaé.
 266a - intí xarekó maá puxí aá(Monte Alegre)
-266 -
+266 - Inti xarikú maã-puxí waá. *
 266 - não tenho nada ruim.
 
 267 - aé orekó será mokóin kysé?
-267 -
+267 - Aé urikú será mukũi kisé? *
 267 - tem ele duas facas?
 
 268 - intí maá xerekó.
-268 -
+268 - Inti maã xarikú. *
 268 - não tenho nada.
 
 269 - xarekó nepytyma katú.
-269 -
+269 - Xarikú ne pitima katú. *
 269 - tenho teu bom fumo.
 
 270 - rerekó será yukyra?
@@ -1388,19 +1388,19 @@ p. 343
 327 - tu não dormiste bem, porque parece que estavas faxinando.
 
 328 - yasó yapinaityk.
-328 - Yasú apinaitika. *
+328 - Yasú yapinaitika. *
 328 - vamos pescar(com anzol).
 
 329 - setá reté pirá paranáme.
-329 - Setá reté pirá 
+329 - Setá reté pirá paraname. *
 329 - há muito peixe no rio.
 
 330 - seruya rantin opéu ikó.
-330 - Se ruiwantí ... uikú. *
+330 - Se ruiwantí upewa uikú. *
 330 - a ponta da flecha está quebrada.
 
 331 - xayumú pirá, oasertár sioya sesé.
-331 - ... pirá, 
+331 - ayumú pirá, ... suíwa sesé. *
 331 - flechei um peixe e minha flecha acertou nele.
 
 332 - masekói neuirapára.
@@ -1428,7 +1428,7 @@ p. 343
 337 - já te esqueceste.
 
 338 - xamonóg kuaé apyáua sesápe.
-338 - Amunuka kwá apigawa sesá . *
+338 - Amunuka kwá apigawa sesá. *
 338 - dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
@@ -1509,7 +1509,7 @@ p. 345
 356 - faz um ano que não ouvi missa.
 
 357 - eumbór(ou emumór) ñaá tupé yuuype.
-357 - ... nhaã tupé ... . *
+357 - remumuri nhaã tupé ... . *
 357 - estende aquela esteira no chão.
 
 358 - xasó xamupuám sekysáua setiára resé.
@@ -1572,7 +1572,7 @@ p. 346
 370 - nasci em Santarém.
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
-371 - Awari se ... marika suí mituú wasú ara upé. *
+371 - Awari se ... marika suí mituuwasú ara upé. *
 371 - nascí no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
@@ -1592,7 +1592,7 @@ p. 346
 375 - meu pote está vasio.
 
 376 - emoakú yg!
-376 - ... ií! *
+376 - Remuakú ií! *
 376 - aguenta a agua!
 
 377 - ixé xakuáu iné remanuár seresé.
@@ -1612,7 +1612,7 @@ p. 346
 380 - o sol já se assentou.
 
 381 - xasy karúk ramé.
-381 - ... karuka ramé. *
+381 - Así karuka ramé. *
 381 - cheguei de tarde.
 
 p. 347
