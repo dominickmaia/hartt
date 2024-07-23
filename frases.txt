@@ -815,7 +815,7 @@ p. 332
 p. 333
 
 190 - aé oxiár kuñán mukú soka ope, ae ñún.
-190 -
+190 - Aé uxari kunhamukú ... ... , ... nhũ. *
 190 - êle deixou a mola sosinha na casa.
 
 191 - aé seriyár ixé ñún.
@@ -823,11 +823,11 @@ p. 333
 191 - êle me deixou sozinho.
 
 192 - ixé ñúnte kuri xasó kaápe.
-192 -
+192 - Ixé nhuntu kurí asú kaá-pe. *
 192 - hei de ir sozinho no mato.
 
 193 - ixé ñún uán xaikó.
-193 -
+193 - Ixé nhũ wã aikú. *
 193 - estou sozinho.
 
 194 - maeresé kuite, intí remenár putár surúm?
@@ -835,7 +835,7 @@ p. 333
 194 - por que não queres te casar comigo?
 
 195 - iné intí sepyé suí.
-195 -
+195 - Indé inti ... suí. *
 195 - porque tu não és de meu coração.
 
 196 - remenár putár será serúm?
@@ -851,25 +851,25 @@ p. 333
 198 - encruzilhei minhas pernas.
 
 199 - neruá iapixain an, open-open.
-199 -
+199 - Ne ruá i apixaĩ ã, upena-upena. *
 199 - teu rosto está cheio de pregas.
 
 200 - ekóin ñaá apyáua piám.
-200 -
+200 - Ekũi nhaã apigawa piamu. *
 200 - vai buscar aquele homem.
 
 201 - xamuñán xaikó sesaka seuí rurú aráma.
-201 -
+201 - xamunhã aikú se saka ... ... ... . *
 201 - estou fazendo um saco para minha farinha.
 
 202 - intí maá xamuñán kuáu.
-202 -
+202 - Inti maã xamunhã kwáu. *
 202 - não posso fazer nada.
 
 p. 334
 
 203 - maá taá remuñán iramé?
-203 -
+203 - Maã taá remunhã ...? *
 203 - o que é que vais fazer amanhã?
 
 204 - tupána yanémuñán yamaén aráma sesé.
@@ -885,7 +885,7 @@ p. 334
 206 - vou pentear meus cabelos.
 
 207 - saiá kapy ranhé seáua.
-207 -
+207 - ... kapika ranhẽ se áwa. *
 207 - deixa-me pentear meus cabelos.
 
 208 - aé oyuóg putár isapatú.
@@ -909,7 +909,7 @@ p. 334
 212 - deixa minha roupa enxugar.
 
 213 - semaaitá intí osy kuáu saka opé.
-213 -
+213 - Se maãitá inti usika kwáu saka upé. *
 213 - minhas cousas (roupa) não cabem no saco.
 
 214 - yuytú omakaták reté yané róka.
@@ -917,17 +917,17 @@ p. 334
 214 - o vento sacode muito nossa casa.
 
 215 - intí será ne ména opé(Ereré)?
-215 -
+215 - Inti será ne mena upé? *
 215 - teu marido está em casa?
 
 216 - intí ikó iké, ikó ouim ñaá tueyae rope.
-216 -
+216 - Inti uikú ..., uikú ... nhaã ... ... . *
 216 - não está aí, está em casa daquele velho.
 
 p. 335
 
 217 - yasó kurutén, intí aráma uarasy yané rapy aráma.
-217 -
+217 - Yasú kurutẽi, inti arama  warasí yané ... arama. *
 217 - vamos com pressa para o sol não nos queimar.
 
 218 - kua apyáua míra ousára.
@@ -939,7 +939,7 @@ p. 335
 219 - estou esgotando a canoa.
 
 220 - xasó xaserók kuáu tayna.
-220 -
+220 - Asú aseruka kwáu taína. *
 220 - vou batizar a criança.
 
 221 - osykyyí reté kuaá kuñán.
