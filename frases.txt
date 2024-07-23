@@ -951,7 +951,7 @@ p. 335
 222 - o meu braço dói também, não sei se está quebrado.
 
 223 - korasy oapyg án.
-223 -
+223 - Kurasí wapika ã. *
 223 - o sol já se assentou.
 
 224 - kuaá apyáua míra yukasára.
@@ -975,33 +975,33 @@ p. 335
 228 - ele foi para a aldeia dele.
 
 229 - ekoin nekyuyra senoin orur aráma yg ixéu.
-229 -
+229 - Ekũi ... ... ... ... ií ixéu. *
 229 - vai chamar teu irmão para me trazer água.
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
-230 -
+230 - Unheẽ: asú ne irũ, ... kwaú ramé. *
 230 - êle disse: vou contigo, se for possível.
 
 p. 336
 
 231 - yasó yaymusarai!
-231 -
+231 - Yasú ya...! *
 231 - vamos brincar!
 
 232 - ixé yuyr xasó.
-232 -
+232 - Ixé yuíri asú. *
 232 - eu tambêm vou.
 
 233 - yiáma (liamba) semukaú.
-233 -
+233 - ... se mukaú. *
 233 - a liamba me embebedou.
 
 234 - yauára itymyra reté.
-234 -
+234 - Yawara i tumbira reté. *
 234 - o cachorro tem pulgas.
 
 235 - gigante turusú pyr apyáua suí.
-235 -
+235 - Gigante turusú piri apigawa suí. *
 235 - o gigante é maior que um homem.
 
 236 - se akayém xamaan ramé sesé.
@@ -1009,19 +1009,19 @@ p. 336
 236 - fiquei assustado quando o vi.
 
 237 - seyauára sauosú.
-237 -
+237 - Se yawara ... . *
 237 - meu cachorro é felpudo.
 
 238 - sepaia senupan tupasáma uasú irúm.
-238 -
+238 - Se paya se nupá tupasama wasú irumu. *
 238 - meu pai me bateu com chicote.
 
 239 - semymyra naimin pyri amuitá suí yupurunáua.
-239 -
+239 - Se membira ... piri amú-itá suí ... . *
 239 - minha filha mais velha.
 
 240 - yasó yaparaók ikatú uaé.
-240 -
+240 - Yasú yaparawaka i katú waá. *
 240 - vamos escolher o bom.
 
 241 - itamaraká oyeréu oikó.
@@ -1043,11 +1043,11 @@ p. 337
 244 - o que é que trouxe para nós?
 
 245 - ekoin Antonio pyrí.
-245 -
+245 - Ekũi Antônio piri. *
 245 - vai ter com Antônio.
 
 246 - eyór sepyrí.
-246 -
+246 - Eyuri se piri. *
 246 - vem cá ter comigo.
 
 247 - maéramé reputár xayor nepyrí.
@@ -1059,15 +1059,15 @@ p. 337
 248 - é muito caro.
 
 249 - apyáua satamyg oikó.
-249 -
+249 - Apigawa satamika uikú. *
 249 - o homem é direito.
 
 250 - yuaé teñé ikatú.
-250 -
+250 - ... tenhẽ i katú. *
 250 - assim é bom.
 
 251 - aé oyauau óka suí kaá kytí.
-251 -
+251 - Aé uyawawa uka suí kaá kití. *
 251 - ele fugiu de casa para o mato.
 
 252 - intí xayusé supiá iúka.
@@ -1075,7 +1075,7 @@ p. 337
 252 - não quero comer ovos podres.
 
 253 - reputár será xasó nerúm?
-253 -
+253 - Reputari será asú ne irũ?*
 253 - queres que eu vá contigo?
 
 254 - intí xaputár.
@@ -1087,7 +1087,7 @@ p. 337
 255 - o homem está abaixado.
 
 256 - mauaá taá neygára raná?
-256 -
+256 - Mawaá taá ne igara rangá? *
 256 - qual é o comprimento de teu coração?
 
 257 - mauaá taá neygára raná?
@@ -1105,7 +1105,7 @@ p. 338
 259 - o sino está chorando porque alguém morreu.
 
 260 - xapyrypan timiú.
-260 -
+260 - Xapiripana timiú. *
 260 - comprei a comida.
 
 261 - xasosok xaikó uaraná.
@@ -1113,11 +1113,11 @@ p. 338
 261 - estou socando (pilando) guaraná.
 
 262 - emoxám an pirá.
-262 -
+262 - Remuxama ã pirá. *
 262 - enfia já o peixe.
 
 263 - ekirirí aépe!
-263 - ... ape! *
+263 - Rekirirí ape! *
 263 - cala-te aí.
 
 264 - apygáua okuáu reté.
