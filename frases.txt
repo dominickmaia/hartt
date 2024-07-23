@@ -711,19 +711,19 @@ p. 331
 164 - conta-me como foi que tu perdeste aquela faca.
 
 165 - intí maá okayím ixé suí.
-165 -
+165 - Inti maã ukanhemu ixé suí. *
 165 - não perdí nada.
 
 166 - maá taá okayím intí suí?
-166 -
+166 - Maã taá ukanhemu inti suí? *
 166 - o que é que perdeste?
 
 167 - tupána resé katú!
-167 -
+167 - Tupana resé katú!
 167 - por Deus!
 
 168 - intí xakuán.
-168 -
+168 - Inti xakwáu.
 168 - não sei.
 
 169 - yauára ikyrymáua uaé opurusuú.
@@ -757,7 +757,7 @@ p. 331
 p. 332
 
 176 - kupiin oú paú semaitá(mbaáitá-Ereré).
-176 -
+176 - Kupĩ uú ... se maãitá. *
 176 - o cupim comeu tôda a minha roupa.
 
 177 - amú yasy opé tayna oñeén katú kurí.
@@ -765,7 +765,7 @@ p. 332
 177 - num outro mês a criança há de falar bem.
 
 178 - kuyr tayna omanó kuán maresé séra uán.
-178 -
+178 - Kuíri taína umanú kwáu ... ... wã. *
 178 - agora a criança pode morrer porque já tem nome.
 
 179 - oserúk an kuaé nemymyra.
