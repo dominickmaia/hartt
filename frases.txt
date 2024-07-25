@@ -699,7 +699,7 @@ p. 330
 p. 331
 
 162 - enuñán, aramé remukayém putár ne ána?
-162 -
+162 - ..., aramé remukanhemu putari ne anga? *
 162 - tu queres perder tua alma?
 
 163 - kuñán omukayím ikysé.
@@ -707,7 +707,7 @@ p. 331
 163 - a mulher perdeu sua faca.
 
 164 - emumeú ixéu mayaué remukaém ñaá kisé.
-164 -
+164 - Emuméu ixéu mayé remukanhemu nhaã kisé. *
 164 - conta-me como foi que tu perdeste aquela faca.
 
 165 - intí maá okayím ixé suí.
@@ -739,25 +739,25 @@ p. 331
 171 - êle come gente.
 
 172 - maé irúm omaú karíuaitá?
-172 -
+172 - Maã irumu umbaú kariwa-itá?
 172 - com que comem os brancos?
 
 173 - karíuaitá omaú irú pó yaué uaé.
-173 -
+173 - Kariwa-itá umbaú irũ ... yawé waá. *
 173 - comem com uma cousa que parece mão de gente(garfo).
 
 174 - aé osykyí ymyrá kaá suí.
-174 -
+174 - Aé usikí i mirá kaá suí. *
 174 - êle puxou o pau do mato.
 
 175 - saimú xarekó setá kauin aramé imú xaméen inéu.
-175 -
+175 - Saimú arikú setá kawĩ aramé imú ... indéu. *
 175 - se eu tivessse bastante cachaça eu te a dava.
 
 p. 332
 
 176 - kupiin oú paú semaitá(mbaáitá-Ereré).
-176 - Kupĩ uú ... se maãitá. *
+176 - Kupĩ uú pawa se maãitá. *
 176 - o cupim comeu tôda a minha roupa.
 
 177 - amú yasy opé tayna oñeén katú kurí.
@@ -765,27 +765,27 @@ p. 332
 177 - num outro mês a criança há de falar bem.
 
 178 - kuyr tayna omanó kuán maresé séra uán.
-178 - Kuíri taína umanú kwáu ... ... wã. *
+178 - Kuíri taína umanú kwáu maã resé será wã. *
 178 - agora a criança pode morrer porque já tem nome.
 
 179 - oserúk an kuaé nemymyra.
-179 -
+179 - Museruka ã kwaá ne mimbira. *
 179 - seu filho já está batizado.
 
 180 - xamaité orekó sekysé.
-180 -
+180 - Amaité urikú se kisé. *
 180 - pensava que tinha minha faca.
 
 181 - xamaité oikó rañé.
-181 - ... uikú ranhẽ. *
+181 - Amaité uikú ranhẽ. *
 181 - pensava que ainda houvesse.
 
 182 - yasó yayupyrún tupána ára.
-182 -
+182 - Yasú yayupirú tupana ara. *
 182 - vamos principiar a festa.
 
 183 - emoapú netamúra.
-183 -
+183 - ... ne tambura. *
 183 - toca o tambôr.
 
 184 - karapaná omú teapú oikó seresápe.
@@ -793,11 +793,11 @@ p. 332
 184 - a carapanan(mosquito) está zumbindo nos meus ouvidos.
 
 185 - omaú uán ñaá parauá?
-185 -
+185 - Umbaú wã nhaã parawá? *
 185 - o papagaio já comeu?
 
 186 - reikó teénte.
-186 -
+186 - Reikú tenhuntu. *
 186 - tu estás atôa.
 
 187 - xaikó teénte.
@@ -815,8 +815,8 @@ p. 332
 p. 333
 
 190 - aé oxiár kuñán mukú soka ope, ae ñún.
-190 - Aé uxari kunhamukú ... ... , ... nhũ. *
-190 - êle deixou a mola sosinha na casa.
+190 - Aé uxari kunhamukú suka upé, aé nhũ. *
+190 - ele deixou a mola sozinha na casa.
 
 191 - aé seriyár ixé ñún.
 191 - Aé uxari ixé nhũ. (Hartt, 333, adap.) - Ele me deixou sozinho.
@@ -831,7 +831,7 @@ p. 333
 193 - estou sozinho.
 
 194 - maeresé kuite, intí remenár putár surúm?
-194 -
+194 - Maã resé kuité, inti remendari putari ... ? * 
 194 - por que não queres te casar comigo?
 
 195 - iné intí sepyé suí.
@@ -921,7 +921,7 @@ p. 334
 215 - teu marido está em casa?
 
 216 - intí ikó iké, ikó ouim ñaá tueyae rope.
-216 - Inti uikú ..., uikú ... nhaã ... ... . *
+216 - Inti uikú iké, uikú ... nhaã ... ... . *
 216 - não está aí, está em casa daquele velho.
 
 p. 335
@@ -975,7 +975,7 @@ p. 335
 228 - ele foi para a aldeia dele.
 
 229 - ekoin nekyuyra senoin orur aráma yg ixéu.
-229 - Ekũi ... ... ... ... ií ixéu. *
+229 - Ekũi ne kiwira senuí ... arama ií ixéu. *
 229 - vai chamar teu irmão para me trazer água.
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
@@ -985,7 +985,7 @@ p. 335
 p. 336
 
 231 - yasó yaymusarai!
-231 - Yasú ya...! *
+231 - Yasú yayumusarái! *
 231 - vamos brincar!
 
 232 - ixé yuyr xasó.
@@ -993,7 +993,7 @@ p. 336
 232 - eu tambêm vou.
 
 233 - yiáma (liamba) semukaú.
-233 - ... se mukaú. *
+233 - Yiãma se mukaú. *
 233 - a liamba me embebedou.
 
 234 - yauára itymyra reté.
@@ -1009,7 +1009,7 @@ p. 336
 236 - fiquei assustado quando o vi.
 
 237 - seyauára sauosú.
-237 - Se yawara ... . *
+237 - Se yawara sawisú. *
 237 - meu cachorro é felpudo.
 
 238 - sepaia senupan tupasáma uasú irúm.
@@ -1218,7 +1218,7 @@ p. 340
 286 - vai tirar a paca do mundéu, não deixa Tugir.
 
 287 - tapiíra kuñán omaú oikó, omokatág iyurú kapun uaé marika suí.
-287 - Tapiira kunhã ... uikú, ... i yurú ... waá marika suí. *
+287 - Tapiira kunhã umbaú uikú, ... i yurú ... waá marika suí. *
 287 - a vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
