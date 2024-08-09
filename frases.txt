@@ -893,7 +893,7 @@ p. 334
 206 - vou pentear meus cabelos.
 
 207 - saiá kapy ranhé seáua.
-207 - ... kapika ranhẽ se áwa. *
+207 - Axari kapika ranhẽ se áwa. *
 207 - deixa-me pentear meus cabelos.
 
 208 - aé oyuóg putár isapatú.
@@ -931,7 +931,7 @@ p. 334
 215 - teu marido está em casa?
 
 216 - intí ikó iké, ikó ouim ñaá tueyae rope.
-216 - Intí uikú iké, uikú ... nhaã ... ... . *
+216 - Intí uikú iké, uikú ... nhaã tuyué upé. *
 216 - não está aí, está em casa daquele velho.
 
 p. 335
@@ -992,7 +992,7 @@ p. 335
 229 - vai chamar teu irmão para me trazer água.
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
-230 - Unheẽ: xasú ne irũ, ... kwaú ramé. *
+230 - Unheẽ: xasú ne irũ, xasí kwaú ramé. *
 230 - êle disse: vou contigo, se for possível.
 
 p. 336
@@ -1031,7 +1031,7 @@ p. 336
 238 - meu pai me bateu com chicote.
 
 239 - semymyra naimin pyri amuitá suí yupurunáua.
-239 - Se mimbira ... piri amú-itá suí ... . *
+239 - Se mimbira waimĩ piri amú-itá suí ... . *
 239 - minha filha mais velha.
 
 240 - yasó yaparaók ikatú uaé.
@@ -1081,7 +1081,7 @@ p. 337
 249 - o homem é direito.
 
 250 - yuaé teñé ikatú.
-250 - ... tenhẽ i katú. *
+250 - Yawé tenhẽ i katú. *
 250 - assim é bom.
 
 251 - aé oyauau óka suí kaá kytí.
@@ -1251,7 +1251,7 @@ p. 340
 287 - a vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
-288 - Ekũi ... semiára ixupé. *
+288 - Ekũi resupiri semiára ixupé. *
 288 - vai levar minha caça a ele.
 
 289 - ekóin epysyk ñaá parauá, xamonóg putár sepepó.
