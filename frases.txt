@@ -1683,7 +1683,7 @@ p. 347
 387 - enrola meu fio para mim.
 
 388 - paraná omuteapú paranáme máeu.
-388 - Paraná umutiapú paraname ... . *
+388 - Paraná umutiapú paraname manha. *
 388 - a mãe d'água estrondou no rio.
 
 389 - oyuir án será paraná?
@@ -2249,7 +2249,7 @@ p. 356
 p. 357
 
 521 - kuaá xerína kamyg yaiyún án.
-521 - Kwaá siringa kambí ... ã. *
+521 - Kwaá siringa kambí ya... ã. *
 521 - êste leite de seringa já coalhou.
 
 522 - itá senypó.
