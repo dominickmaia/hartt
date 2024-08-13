@@ -589,7 +589,7 @@ p. 329
 135 - a mulher que chegou óntem é minha cunhada.
 
 136 - kuyr teñé úr oaráma.
-136 - Kuíri tenhẽ uyuri arama.
+136 - Kuíri tenhẽ uri arama.
 136 - êle há de vir já.
 
 137 - xayor kurutén uára aráma.
@@ -2095,18 +2095,20 @@ p. 354
 482 - eu faço levantar o menino.
 
 483 - ixé xapukuár pinóa seróka árpe.
-483 - Ixé xapukwari pinawa se ruka árupi. *
+483 - Ixé xapukwari pinawa se ruka árupi.
 483 - quero amarrar palha na minha casa.
 
 484 - xamutuyúka vutár se róka.
+484 - Xamutuyuka-putari se ruka. # forma adaptada para anotar e incluir no treebank
 484 - Amutuyuka-putari se ruka. (Hartt, 354, adap.) - Quero entijucar a minha casa.
 484 - vou entijucar minha casa.
 
 485 - emukytán tupasáma.
-485 - Mukitanga tupasama. *
+485 - Emukitanga tupasama.
 485 - faça um nó na corda.
 
 486 - xamopopór selamik pipé oñán aráma manioka riáia.
+486 - Xamupupuri se lamiki pupé, uyana arama maniáka riáya. # forma adaptada para anotar e incluir no treebank
 486 - Amupupuri se lamiki pupé, uyana arama maniáka riáya. (Hartt, 354, modif) - Eu fervo em meu alambique, para correr a destilação da mandioca.
 486 - faço ferver o meu alambique para distilar minha estilada.
 
@@ -2115,12 +2117,10 @@ p. 354
 487 - leva-me contigo.
 
 488 - apyáua ur Piauí suí.
-488 - Apigawa uri Piauí suí.*
-488 - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
+488 - Apigawa uri Piauí suí.
 488 - o homem é filho de Piauí.
 
 488 a - apyáua Piauí uára.
-488 a - Apigawa Piauíwara. *
 488 a - Apigawa Piauíwara (Hartt, 354, adap.) - O homem é natural do Piauí.
 488 a - o homem é filho de Piauí.
 
@@ -2137,25 +2137,26 @@ p. 354
 491 - o velho já não tem cabelos, a cabeça dêle está calva.
 
 492 - ituyaé uán.
-492 - I tuyué wã. *
+492 - I tuyué wã.
 492 - já está idoso.
 
 p. 355
 
 493 - xasapy sepy, or yg opupôr ipupé.
-493 - Xasapí se pí, uwari ií upupuri ipí-pe. *
+493 - 
 493 - queimei meu pé, água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
+494 - Kwaá imirá setá reté iké. # forma adaptada para anotar e incluir no treebank
 494 - Kwaá mirá setá reté iké. (Hartt, 355, adap.) - Este pau é muito abundante aqui.
 494 - êste pau é muito abundante aqui.
 
 495 - ixé intí neyaué.
-495 - Ixé inti ne yawé. *
+495 - Ixé intí ne yawé.
 495 - não sou como tu.
 
 496 - rerekó será maá purana reoéner ixéu?
-496 - Rerikú será maã puranga revenderi ixéu? *
+496 - Rerikú será maã puranga revenderi ixéu?
 496 - tens alguma cousa bonita para me vender?
 
 497 - sarasy reté tuyaé resé.
@@ -2167,41 +2168,43 @@ p. 355
 498 - está trovejando.
 
 499 - xauasém iepé kúia ygarupápe.
-499 - Xawasemu yepé kuya i garapá-pe. *
+499 - Xawasemu yepé kuya igarupawa.
 499 - achei uma cuia no pôrto.
 
 500 - káua opí tayna.
-500 - Kawa upií taína. *
+500 - Kawa upií taína. (Hartt, 335, adap.) - A caba ferrou a criança.
 500 - a caba ferrou a criança.
 
 501 - kuaá apyáua intí maé aráma.
-501 - Kwaá apigawa inti maã arama. *
+501 - Kwaá apigawa intí maã arama.
 501 - êste homem não vale de nada.
 
 502 - kuaá kuñán mukú intí rañé okuáu maé resé uára.
+502 - Kwaá kunhamukú intí ranhẽ ukwáu maã resewara. # forma adaptada para anotar e incluir no treebank
 502 - Kwaá kunhamukú ti rẽ ukwáu maã resewara. (Hartt, 355, adap.) - Esta moça ainda não sabe de nada.
 502 - esta moça não sabe de nada.
 
 503 - kuñán mukú intí rañé múndo póra.
+503 - Kunhamukú intí ranhẽ mundupura. # forma adaptada para anotar e incluir no treebank
 503 - Kunhamukú ti rẽ mundupura. (Hartt, 355, adap.) - A moça é inocente e virgem [lit., "a moça ainda não é do mundo"]
 503 - menina inocente e virgem.
 
 504 - xapoóg uán iyá suí.
-504 - xapuú wã iyá suí. *
+504 - Xapuú wã iyá suí.
 504 - já o apanhei da arvore.
 
 505 - ixé xakuáu auá orekó.
-505 - Ixé xakwáu awa urikú. *
+505 - Ixé xakwáu awa urikú.
 505 - eu sei quem o tem.
 
 506 - reyupir kuáu uasai yá rupí?
-506 - reyupiri kwáu wasaí ya rupí? *
+506 - Reyupiri kwáu wasaí ya rupí?
 506 - podes trepar no assahizeiro?
 
 p. 356
 
 507 - ñaá apyáua intí omuñán kuáu i arapáun yá.
-507 - Nhaã apigawa inti umunhã kwáu i arapáun ya. *
+507 - Nhaã apigawa intí umunhã kwáu i arapáun ya. *
 507 - aquêle homem não sabe fazer sua hóstia.
 
 508 - uaraná oxirik reté an.
@@ -2213,27 +2216,28 @@ p. 356
 509 - o pagé foi curar no mato.
 
 510 - kuaá tenáua intí imaasy orekó.
-510 - Kwaá tenawa inti i maasí urikú. *
+510 - Kwaá tenawa intí i maasí urikú.
 510 - êste lugar é sadio.
 
 511 - kuyr katú ig irusán oikó.
-511 - Kuíri katú ií irusanga uikú. *
+511 - Kuíri katú ií irusã uikú.
 511 - a água está ficando fria.
 
 512 - ó se páia!
-512 - oh se paya! *
+512 - Oh se paya!
 512 - oh! meu pai.
 
 513 - yasó yapysy yané pyá.
-513 - Yasú yapisika yané piá. *
+513 - Yasú yapisika yané piá.
 513 - vamos pegar nossos estomagos.
 
-514 - xasó xayupír yuytíra árpe. *
-514 - Asú xayupiri iwitira árupi. *
+514 - xasó xayupír yuytíra árpe.
+514 - Xasú xayupiri iwitera árupi.
 514 - vou trepar na serra.
 
 515 - hombó sexapéa seakána aápe (Ereré).
-515 - Umburi se xapewa se akanga aápe. *
+515 - Amumuri se xapewa se akanga árupi. # forma adaptada para anotar e incluir no treebank
+515 - Amumburi se xapewa se akanga árupi. (Hartt, 356, adap.) - Ponho meu chapéu sobre a cabeça.
 515 - mete meu chapeu na cabeça.
 
 516 - xainú sexapéa se akána árpe.
@@ -2557,7 +2561,7 @@ p. 362
 592 - vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
-593 - Kurasí sakú reté xasakú irusanga xapituú mirĩ arama. *
+593 - Kurasí sakú reté xasakú irusã xapituú mirĩ arama. *
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
@@ -3043,6 +3047,7 @@ p. 370
 709 - aquêle homem não ama senão a si mesmo.
 
 710 - xaryry irusán irúm.
+710 - Xarirí irusã irũ. #
 710 - Arirí aikú irusanga irumu. (Hartt, 370, adap.) - estou tremendo de frio.
 710 - tremo de frio.
 
@@ -3278,7 +3283,7 @@ p. 374
 765 - estou pintando minha cúia.
 
 766 - irusán sepysy.
-766 - Irusanga se pisika. *
+766 - Irusã se pisika. *
 766 - estou constipado.
 
 767 - sepó ipuná reté.
