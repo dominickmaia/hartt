@@ -1834,11 +1834,11 @@ p. 349
 p. 350
 
 423 - mayaué taé resó?
-423 - Mayé taá resú? *
+423 - Mayé taá resú?
 423 - como vais?
 
 424 - ikatú ñúnte.
-424 - I katú nhunte. *
+424 - I katú nhunte.
 424 - bom sómente.
 
 425 - peñeén petitúa.
@@ -1846,11 +1846,11 @@ p. 350
 425 - vós estais com preguiça.
 
 426 - xasykyyí.
-426 - Asikié. *
+426 - Xasikié.
 426 - tenho medo.
 
 427 - maá suí resykyyí?
-427 - Maã suí resikié? *
+427 - Maã suí resikié?
 427 - de que tens medo?
 
 428 - setyym reté ixé.
@@ -1858,35 +1858,37 @@ p. 350
 428 - estou com muita preguiça.
 
 429 - sakó reté osó ikó.
-429 - Sakú reté usú uikú. *
+429 - Sakú reté usú uikú.
 429 - vai ficando mais quente.
 
 430 - pixána opysy putar uauirú.
-430 - Pixana upisika putari wawirú. *
+430 - Pixana upisika putari wawirú.
 430 - o gato quer apanhar o rato.
 
 431 - maá pyry remuñán reikó kuaé karúg ate kuyr?
-431 - Maã piri remunhã reikú kwaá karuka até kuíri? *
+431 - Maã piri remunhã reikú kwaá karuka até kuíri?
 431 - o que estás fazendo até esta hora da tarde.
 
 432 - xatumuñeén xaikó.
+432 - Xatumunheẽ xaikú. # forma adaptada para anotar e incluir no treebank
 432 - Atumuyé aikú. (Hartt, 350, adap.) - Estou assobiando.
 432 - estou assobiando.
 
 433 - tatú opykóin ikó kapina oú aráma kupiín.
-433 - Tatú upikũi uikú kampina uú arama kupĩ. *
+433 - Tatú upikũi uikú kampina uú arama kupĩ.
 433 - o tatú está cavando no campo para comer cupim.
 
 434 - xasipy aráma kupiín.
-434 - Asapí arama kupĩ. *
+434 - Xasapí arama kupĩ.
 434 - para queimar cupim.
 
 435 - seyumaasy xaikó.
-435 - Se yumasí aikú. *
+435 - Se yumasí xaikú.
 435 - estou com fome.
 
 436 - tupána resé, emeén maé xaú aráma, seyumuasy reté.
-436 - Tupana resé, remeẽ maã aú arama, se yumasí reté. *
+436 - Tupana resé, emeẽ maã xaú arama, se yumasí reté. # forma adaptada para anotar e incluir no treebank
+436 - Tupana resé, remeẽ maã aú arama, se yumasí reté. (Hartt, 320, adap.) - Por deus, dá-me algo para comer, estou com muita fome.
 436 - por amor de Deus, dá-me alguma cousa que comer, tenho muita fome.
 
 p. 351
@@ -1896,15 +1898,15 @@ p. 351
 437 - tens fome?
 
 438 - ixé intí seyumaasy.
-438 - Ixé inti se yumasí. *
+438 - Ixé intí se yumasí.
 438 - não tenho fome.
 
 439 - seyuisé é.
-439 - Se yusé é. * # ALMN: Na verdade "isí" é a palavra que aparece em Ávila para "estar com sede", portanto adaptaria para "se i isí"
+439 - Se yusé.
 439 - estou com sede.
 
 440 - aé yguisé oikó.
-440 - Aé i isí uikú. *
+440 - Aé i yusé uikú.
 440 - êle está com sêde.
 
 441 - yukeuá oikó setyn.
@@ -1912,15 +1914,15 @@ p. 351
 441 - meu nariz está tapado.
 
 442 - se akánga sasy.
-442 - Se akanga sasí (Hartt, 351, adap.). Dói-me a cabeça.
+442 - Se akanga sasí. (Hartt, 351, adap.). Dói-me a cabeça.
 442 - dóe-me a cabeça.
 
 443 - xasó raén xak sepusána.
-443 - Asú rẽ xa se pusanga. *
+443 - Xasú ranhẽ - se pusanga. *
 443 - vou tomar meu remédio.
 
 444 - réu ramé ñaá narána nemaasy kurí.
-444 - Reú ramé nhaã naranha ne maasi kurí. *
+444 - Reú ramé nhaã naranha ne maasi kurí.
 444 - se tu comeres aquela laranja estarás doente.
 
 445 - maá taá ne maasy sáua?
@@ -1928,33 +1930,34 @@ p. 351
 445 - o que é tua moléstia?
 
 446 - kurumí intí yapumó kuaú.
-446 - Kurumĩ inti yapumi kwáu. *
+446 - Kurumĩ intí yapumi kwáu.
 446 - o menino não sabe mergulhar.
 
 447 - iné reapomé kuáu será?
-447 - Indé reyapumi-kwáu será? *
+447 - Iné reyapumi-kwáu será?
 447 - sabes mergulhar?
 
 448 - iné intí ryuytáu kuáu.
-448 - Indé inti rewitá-kwáu. *
+448 - Iné intí rewitá-kwáu.
 448 - tu não sabes nadar.
 
 449 - ixé xauytáu kuáu.
-449 - Ixé xawitá-kwáu. *
+449 - Ixé xawitá-kwáu.
 449 - sei nadar.
 
 450 - xauytáu yg ára rupí.
-450 - Awitá ií ara rupí. *
+450 - Xawitá ií ara rupí.
 450 - nado na superfície da água.
 
 p. 352
 
 451 - xasó ygarapé rumasá kyty.
+451 - Xasú igarapé rumasá kití. # forma adaptada para anotar e incluir no treebank
 451 - Asú igarapé rumasá kití. (Hartt, 352, adap.) - Vou descer o igarapé.
 451 - vou descer o igarapé.
 
 452 - xasó paraná ygapyra kyty.
-452 - Asú paraná igapira kití. *
+452 - Xasú paraná igapira kití.
 452 - vou subir o rio.
 
 453 - yasó mené rupí.
@@ -1962,27 +1965,27 @@ p. 352
 453 - vamos de vagar!
 
 454 - xasó ygapyra kyty.
-454 - Asú igapira kití. *
+454 - Xasú igapira kití.
 454 - vou para cima!
 
 455 - ixé xauytán kuáu yg uyra rupí.
-455 - Ixé xawitá kwáu ií wira rupí. *
+455 - Ixé xawitá kwáu ií wira rupí.
 455 - sei nadar debaixo da água.
 
 456 - yg kyá reté.
-456 - Ií kiá reté. *
+456 - Ií kiá reté.
 456 - a água está muito suja.
 
 457 - seputumú iné, kuruten!
-457 - Se pitimú indé, kurutẽi! *
+457 - Se pitimú iné, kurutẽi!
 457 - ajuda-me, depressa.
 
 458 - esykyí ñaé tupasáma.
-458 - Esikí nhaã tupasama. *
+458 - Esikí nhaã tupasama.
 458 - puxa a corda.
 
 459 - pesykyí!
-459 - pesikí! *
+459 - pesikí!
 459 - puxaí!
 
 460 - kuaá ymyrá oikó pokú muyr akaiú-póra.
@@ -1990,6 +1993,7 @@ p. 352
 460 - êste pau dura muitos anos.
 
 461 - intí oyuyasú oikó, aramé eyasuí.
+461 - Intí uyuyasuí uikú, aramé eyasuí. # forma adaptada para anotar e incluir no treebank
 461 - Ti uyuyasuí uikú, aramé reyasuí. (Hartt, 352, adap.) - Não está coberto, então cobre.
 461 - não está coberto, então cobre-o.
 
@@ -1998,29 +2002,31 @@ p. 352
 462 - esta mulher está desconfiada(?).
 
 463 - áre, arekó pokú reté án teñé.
-463 - Aé, arikú pukú reté ã tenhẽ. *
+463 - Aé, arikú pukú reté ã tenhẽ.
 463 - êle está se demorando muito.
 
 464 - kuaá ymyrá intí katú.
-464 - Kwaá i mirá inti katú. *
+464 - Kwaá imirá intí katú.
 464 - este pau não presta.
 
 p. 353
 
 465 - xasó xayuká itá quáro asykuéra rupí.
+465 - Xasú xayuká itá irundí asikwera rupí. # forma adaptada para anotar e incluir no treebank
 465 - Asú ayuká itá irundí asikwera rupí. (Hartt, 353, adap.) - Vou quebrar a pedra em quatro pedaços.
 465 - vou quebrar a pedra em quatro pedaços.
 
 466 - intí será senanan iné?
-466 - Inti será se ganani indé? *
+466 - Intí será se ganani iné?
 466 - tu não me enganas?
 
 467 - sapukáia omomor iepé supiá.
+467 - Sapukaya umumuri yepé supiá.
 467 - Sapukaya umumburi yepé supiá. (Hartt, 353, adap.) - A galinha botou um ovo.
 467 - a galinha poz um ovo.
 
 468 - ygára osy ramé xasó sepatráun kyty.
-468 - Igara usika ramé asú se patrãu kití. *
+468 - Igara usika ramé xasú se patrãu kití.
 468 - logo que a canoa chegou fui ter com o patrão.
 
 469 - mixikói mira oapy ygantíme.
@@ -2029,11 +2035,11 @@ canoa].
 469 - lá está alguma pessoa assentada na proa de canoa.
 
 470 - apyáua oapyk ygantin opé.
-470 - Apigawa uwapika igantí upé. *
+470 - Apigawa uwapika igantí upé.
 470 - o homem está assentado na proa da canoa.
 
 471 - iné intí reapukúi kuáu.
-471 - Indé inti reyapukúi kwáu. *
+471 - Iné intí reyapukúi kwáu.
 471 - tu não sabes remar.
 
 472 - peapukúi santán.
@@ -2041,46 +2047,50 @@ canoa].
 472 - remai com força.
 
 473 - peapukúi kurí yasyk aráma okaopé.
-473 - Peyapukúi kurí yasika arama uka upé. *
+473 - Peyapukúi kurí yasika arama uka upé.
 473 - remai para chegar em casa.
 
 474 - ygára yuy resé osó.
-474 - Igara iwí resé usú. *
+474 - Igara iwí resé usú.
 474 - a canoa encalhou.
 
 475 - xasó xakapy sekupixáua yaitya reté oikó.
+475 - Xasú xakapiri se kupixawa, yaitiwa reté uikú. # forma adaptada para anotar e incluir no treebank
 475 - Asú akapiri se kupixawa, yaitiwa reté uikú. (Hartt, 353, adap.) - Vou capinar minha
 roça, está muito cerrada.
 475 - vou capinar minha roça, está muito serrada.
 
 476 - xayuyr putár takykuéra kyty.
-476 - Ayuíri putari takakwera kití. *
+476 - Xayuíri putari takakwera kití.
 476 - quero voltar por atrás.
 
 477 - yasó tenuné kyty.
-477 - Yasú tenundé kití. *
+477 - Yasú tenuné kití.
 477 - vamos adiante!
 
 478 - xamukayem serekúya.
-478 - Amukanhemu se rekuya. *
+478 - Xamukanhemu se rekuya.
 478 - tenho perdido minha cúia.
 
 p. 354
 
 479 - xayupeé (ou xayumusakó) xaikó.
-479 - Ayumusakú aikú. (Hartt, 354, adap.) - Estou me aquentando.
+479 - Xayupeé xaikú. # forma adaptada para anotar e incluir no treebank
 479 - Ayupeé aikú. (Hartt, 354, adap.) - Estou me aquentando.
+479 - Xayumusakú xaikú. # forma adaptada para anotar e incluir no treebank
+479 - Ayumusakú aikú. (Hartt, 354, adap.) - Estou me aquentando.
 479 - estou me aguentando.
 
 480 - ixé xapysy kuáu mirí teñe yg.
-480 - Ixé apisika kwáu mirĩ tenhẽ ií. *
+480 - Ixé xapisika kwáu mirĩ tenhẽ ií.
 480 - sempre sei usar o machado.
 
 481 - xasó raén, kurí mirí xayuyr.
-481 - Asú rẽ, kurí mirĩ ayuíri. *
+481 - Xasú ranhẽ, kurí mirĩ xayuíri.
 481 - deixa-me ir, voltarei logo.
 
 482 - xasó xampupuám tayna.
+482 - Xasú xamupuãmu taína. # forma adaptada para anotar e incluir no treebank
 482 - Asú amupuãmu taína (Hartt, 354, adap.) - Vou fazer levantar a criança.
 482 - eu faço levantar o menino.
 
