@@ -248,6 +248,7 @@ p. 323
 55 - de que partido estão?
 
 56 - ixé yané réia kyty xaiko.
+56 - Ixé yané riiya kití xaikú.
 56 - Ixé yané riiya kití aikú. (Hartt, 323, adap.) - Estou do nosso partido (Cabano).
 56 - estou de nosso partido(Cabano).
 
@@ -280,6 +281,7 @@ p. 323
 63 - a mãe beijou seu filho.
 
 64 - ixé xapytér kuae kuñántain yurú.
+64 - Ixé xapitera kwaá kunhatãi yurú.
 64 - Ixé apitera kwaá kunhatãi yurú. (Hartt, 323, adap.) - Eu beijei a boca dessa menina.
 64 - dei um beijo à menina.
 
@@ -331,15 +333,16 @@ p. 324
 75 - este menino chora muito.
 
 76 - kuñán amuramé ipya aiyú imymyra itá i ú n
+76 - Kunhã amuramé i piaíwa i membira-itá irũ.
 76 - Kunhã amuramé i piaíwa i membira-itá irumu. (Hartt, 324, adap.) - A mulher às vezes fica zangada com seus filhos.
 76 - a mulher às vezes fica zangada com seus filhos.
 
 77 - yané karúka.
-77 - yané karuka.*
+77 - Yané karuka.
 77 - boa tarde.
 
 78 - kuaá semymyra iatyyma, ixirín osú yuír.
-78 - Kwá se membira i atiima, i
+78 - Kwá se membira i atiima, i xirĩ usú yuiri.
 78 - meu filho é preguiçoso e mentiroso também.
 
 79 - nerenyra taá moyr?
@@ -357,7 +360,7 @@ p. 325
 81 - o rio corre muito.
 
 82 - maá opytá uaé intí osó kuáu ygára opé, xarasó sekupépe.
-82 - Maã upitá waá intí usú kwáu igara upé, arasú se kupé-pe.
+82 - Maã upitá waá intí usú kwáu igara upé, xarasú se kupé-pe.
 82 - o que fica e não pode ir na canoa, hei de levar nas costas.
 
 83 - paraná tatatín inte oikó.
@@ -365,6 +368,7 @@ p. 325
 83 - o rio está fumaçando.
 
 84 - aé osó iké suí, yuy rupí.
+84 - Aé usú iké suí, iwí rupí.
 84 - Aé usú kwá suí iwí rupí. (Hartt, 325, adap.) - Ele foi daqui por terra.
 84 - ele foi daqui por terra.
 
@@ -381,6 +385,7 @@ p. 325
 87 - corre, por isso a canoa não passa depressa.
 
 88 - intí xauatá kuáu irúm maaresé xarekó setá reté maá xamuñán oaráma.
+88 - Intí xawatá-kwáu irũ maãresé xarikú setá reté maã xamunhã arama. 
 88 - Ti awatá-kwáu i irũ maãresé arikú setá reté maã amunhã arama. (Hartt, 325, adap.) - Não posso passear com ele porque tenho muitas coisas para fazer.
 88 - não posso passear com ele porque tenho muito o que fazer.
 
@@ -392,35 +397,39 @@ p. 325
 90 - Se maãitá yakima uikú.
 90 - minha roupa está molhada.
 
-# 91 - 1. Intí buã se kirimbawa xasupiri arama umbaá i pusé reté maá. 2. Intí buã se kirimbawa asupiri arama umbaá i pusé reté maá. - Não tenho força o bastante para levantar uma coisa muito pesada.
 91 - intí án sekyrimbá xasupir aráma mbaa iporéi reté aá (Ereré).
 91 - Intí ã se kirimbá xasupiri arama maã i pusé reté waá.
 91 - NA
 91 - não tenho bastante força para aguentar uma coisa muito pesada.
 
 92 - semymyra rypyrunáua kuaé (mulher que fala).
+92 - Se mimbira yupirungawa kwaá.
 92 - Se raíra yupirungawa kwaá. (Hartt, 325, adap.) - Este é meu filho primogênito.
 92 - este é meu filho primogênito.
 
 93 - yauára oyusuú.
-93 - yawara umuusuú.
+93 - Yawara umuusuú.
 93 - o cachorro se mordeu.
 
 p. 326
 
 94 - ixé intí xauasem ramé auá omusak kuáu seraña, ixé teñé kurí xamusak.
+94 - Ixé intí xawasemu ramé awá umusaka-kwáu se ranha, ixé tenhẽ kurí xamusaka.
 94 - Ixé ti awasemu ramé awá umusaka-kwáu se ranha, ixé tẽ kurí amusaka (Hartt, 326, adap.) - Se eu não achar ninguém que possa arrancar meu dente, eu mesmo hei de arrancá-lo.
 94 - se não achar ninguém para arrancar mea dente, eu mesmo hei de tirá-lo.
 
 95 - xaxiár sekysé itapéua árpe.
+95 - Xaxari se kisé itapewa árupi.
 95 - Axari se kisé itapewa árupi. (Hartt, 326, adap.) - Deixei minha faca sobre a laje.
 95 - deixei minha faca sobre a pedra.
 
 96 - xapirún murumurú yú árpe opén sepy opé.
+96 - Xapirú murumurú yú árupi, upena se pí upé.
 96 - Apirú murumurú yú árupi, upena se pí upé. (Hartt, 326, adap.) - Pisei sobre o espinho do murumuru, ele quebrou no meu pé.
 96 - pisei na espinha de murumurú que quebrou no meu pé.
 
 97 - aé intí oxiár xaikí sóka opé.
+97 - Aé intí uxari xawiké suka upé.
 97 - Aé ti uxari awiké suka upé. (Hartt, 326, adap.) - Ele não me deixou entrar na casa dele.
 97 - ele não me deixou entrar na casa dele.
 
@@ -429,7 +438,7 @@ p. 326
 98 - o negro me cortou com sua faca.
 
 99 - maé taé nemymyra?
-99 -
+99 - Maã taá ne mimbira?
 99 - de que sexo é tua criança?
 
 100 - apyáua.
@@ -446,7 +455,8 @@ p. 326
 102 - o porco ficou entre os dois paus.
 
 103 - emukaterún oí tenáua otikan pupé.
-103 - 1. Remukaturú uí tenawa utikã pupé.
+103 - Emukaturú uí tenawa utikã pupé.
+103 - Remukaturú uí tenawa utikã pupé.
 103 - arruma a farinha num lugar seco.
 
 104 - maá rerekó patauá mirí pupé?
@@ -458,20 +468,24 @@ p. 326
 105 - vais entrar na igreja?
 
 106 - xayasúk putár neygarupá pupé.
-106 - 1. Ayasuka-putari ne igarupawa pupé.
+106 - Xayasuka-putari ne igarupawa pupé.
+106 - Ayasuka-putari ne igarupawa pupé.
 106 - eu quero me banhar no teu porto.
 
 p. 327
 
 107 - aé ikyrymáua setá ouatá aráma kauarú árpe.
+107 - Aé i kirimawa setá uwatá arama kawarú árupi. 
 107 - Aé i kirimbawa setá uwatá arama kawarú árupi. (Hartt, 327, adap.) - Ele está bastante forte para andar a cavalo.
 107 - ele está bastantemente forte para andar a cavalo.
 
 108 - euapyg apyká árpe.
-108 - 1. Rewapika apikawa árupi.
+108 - Ewapika apikawa árupi.
+108 - Rewapika apikawa árupi.
 108 - assenta-se no banco.
 
 108 - iposéi aete maé xarasó uaé seatiyua árpe.
+108 - I pusé aité maã xarasú waá se atiiwa árupi.
 108 - I pusé aité maã arasú waá se atiiwa árupi. (Hartt, 327, adap.) - Isto que eu levo sobre meu ombro é pesado.
 108 - o que levo no ombro é muito pesado.
 
