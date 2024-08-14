@@ -2371,6 +2371,7 @@ p. 358
 545 - a lua nova traz chuva.
 
 546 - yasy suuyk uán.
+546 - Yasí sumika wã.
 546 - Yasí sumbika wã. (Hartt, 358, adap.) - A Lua já está escura.
 546 - a lua já está escura.
 
@@ -2516,15 +2517,15 @@ p. 361
 579 - estou muqueando o tatú.
 
 580 - sepanéra seakuén.
-580 - Se panera sakwena. *
+580 - Se panera sakwena.
 580 - minha panela cheira.
 
 581 - intí xaputár kuaá auatií oyar, koromó tú okái.
-581 - Inti xaputari kwaá awatií uií ara, kurumú taá ukái. *
+581 - Intí xaputari kwaá awatií uyari, kurumú - ukái. *
 581 - não quero encostar aquêle arroz perto do fogo, pode se queimar.
 
 582 - okái ramé inti. katú, ipixé.
-582 - Ukái ramé inti. Katú, i pixé. *
+582 - Ukái ramé inti. Katú, pixé.
 582 - quando está queimado não está bom. tem mau cheiro.
 
 583 - ikatú uán oikó ñaá neremimúña?
@@ -2532,7 +2533,7 @@ p. 361
 583 - já está boa tua cozida?
 
 584 - yg opopór oikó.
-584 - Ií upupuri uikú. *
+584 - Ií upupuri uikú.
 584 - a água está fervendo.
 
 585 - sepanéra opopór putár oikó teapú uán.
@@ -2540,15 +2541,15 @@ p. 361
 585 - minha panela quer ferver, está fazendo bulha.
 
 586 - kuaá rimiú intí osy yaú aráma.
-586 - Kwaá rimiú inti usika yaú arama. *
+586 - Kwaá rimiú intí usika yaú arama. *
 586 - esta comida não chega para nós.
 
 587 - yasó yamimúin soó rukuéra osy aráma yanéu.
-587 - Yasú yamemúi suú rikwera usika arama yané. *
+587 - Yasú yamemúi suú rikwera usika arama yanéu.
 587 - vamos cozinhar carne de caça bastante para nós.
 
 588 - xasó xamaú, seyumasy xaikó.
-588 - Asú umbaú, se yumasí aikú. *
+588 - Xasú umaú, se yumasí xaikú.
 588 - vou comer, estou com fome.
 
 589 - yasó yasosók auatií!
@@ -2558,27 +2559,28 @@ p. 361
 p. 362
 
 590 - yg ikatú reté.
-590 - Ií i katú reté. *
+590 - Ií i katú reté.
 590 - a água está muito boa.
 
 591 - xamuyasúk putár seruá.
+591 - Xamuyasuka-putari se ruá. # forma adaptada para anotar e incluir no treebank
 591 - Amuyasuka-putari se ruá. (Hartt, 362, adap.) - Quero lavar meu rosto.
 591 - quero lavar meu rosto.
 
 592 - yasó yayasúk.
-592 - Yasú yayasuka. *
+592 - Yasú yayasuka.
 592 - vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
-593 - Kurasí sakú reté xasakú irusã xapituú mirĩ arama. *
+593 - Kurasí sakú reté xasakú irusanga xapituú mirĩ arama.
 593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
-594 - Aikú wã kurasí usemu. *
+594 - Aikú wã kurasí usemu.
 594 - o sol vem saindo.
 
 595 - uarasy sakó reté.
-595 - Warasí sakú reté. *
+595 - Warasí sakú reté.
 595 - o sol está muito quente.
 
 596 - uarasy oseny uán.
@@ -2590,33 +2592,37 @@ p. 362
 597 - o sol está alto, quero ir trabalhar.
 
 598 - pytúna uasú ramé intí yaxipiak kuáu maé.
+598 - Pitunawasú ramé intí yaxipiaka-kwáu maã. # forma adaptada para anotar e incluir no treebank
 598 - Pitunawasú ramé ti yaxipiaka-kwáu maã. (Hartt, 362, adap.) - Quando está escuro nada podemos ver.
 598 - quando está escuro nada podemos ver.
 
 599 - xayuruyár neresé.
+599 - Xayuruyari ne resé. # forma adaptada para anotar e incluir no treebank
 599 - Ayuruyari ne resé. (Hartt, 362, adap.) - Tenho confiança em ti.
 599 - tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
-600 - Ixé inti aruyari sesé. *
+600 - Ixé inti aruyari sesé.
 600 - não acredito nisso.
 
 601 - intí semanuár.
-601 - Inti se manduári. *
+601 - Intí se manduári.
 601 - Ti se manduári. (Hartt, 362, adap.) - Não me lembro.
 601 - não me lembro.
 
 602 - semanuár teñé neresé.
+602 - Se manduári tenhẽ ne resé. # forma adaptada para anotar e incluir no treebank
 602 - Se manduári tẽ ne resé. (Hartt, 363, adap.) - Sempre me lembro de ti.
 602 - sempre me lembro de ti.
 
 p. 363
 
 603 - amú irané xaikó uán kurí mairipe.
-603 - Amú-wirané aikú wã kurí mairí-pe . *
+603 - Amú-wirané xaikú wã kurí mairí-pe.
 603 - depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
+604 - Intí usika ara ixéu xamunhã arama murakí. # forma adaptada para anotar e incluir no treebank
 604 - Ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
 604 - não tenho tempo para fazer o serviço.
 
