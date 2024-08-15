@@ -2647,31 +2647,33 @@ p. 363
 605 - vou amanhã se não chover.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
-606 - Se manha se mundú i garapá-pe ayuíri arama. *
+606 - Se manha se munú igarupawa-pe xayuíri arama. # forma adaptada para anotar e incluir no treebank
+606 - Se manha se mundú garapá-pe ayuíri arama. (Hartt, 354, adap.) - Minha mãe me mandou ao porto para eu voltar.
 606 - minha mãe me mandou no pôrto para voltar.
 
 607 - kuaá óka rimaán oikó.
-607 - Kwaá uka rimaã uikú. * # Rimaã é variação de Erimbaé
+607 - Kwaá uka rimaã uikú.
 607 - esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
+608 - Reú será pitima? Eẽ, xaú pitima. # forma adaptada para anotar e incluir no treebank
 608 - Reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
 608 - fumas? sim! fumo.
 
 609 - máme oikó pé?
-609 - Mamé uikú pé? *
+609 - Mamé uikú pé?
 609 - onde é o caminho?
 
 610 - máa kyty resó?
-610 - Makití resú? *
+610 - Makití resú?
 610 - para onde vás?
 
 611 - oké rupí xasó.
-611 - Ukena rupí asú. *
+611 - - rupí xasú. *
 611 - vou por aqui.
 
 612 - iné resó serakykuéra rupí.
-612 - Indé resú se rakakwera rupí. *
+612 - Iné resú se rakakwera rupí.
 612 - tu vais atrás de mim.
 
 613 - osyg serakykuéra.
@@ -2679,7 +2681,7 @@ p. 363
 613 - êle chegou depois de mim.
 
 614 - xaxiár seygára ygárupápe.
-614 - Axari se igara garapá-pé. *
+614 - Xaxari se igara igarupawa-pe.
 614 - deixei a canoa no pôrto.
 
 615 - kuñán oyuráu putár ygára.
@@ -2693,10 +2695,11 @@ p. 363
 p. 364
 
 617 - intí osyg ygára semaitá rirú aráma.
-617 - Ti usika igara se maãitá rirú arama. *
+617 - Intí usika igara se maãitá rirú arama.
 617 - a canoa não chega para a minha carga.
 
 618 - xayururéu ñaan apyáua ygára.
+618 - Xayururéu nhaã apigawa igára. # forma adaptada para anotar e incluir no treebank
 618 - Ayururéu nhaã apigawa igára. (Hartt, 364, adap.) - Eu pedi a canoa daquele homem.
 618 - eu pedi a canoa daquêle homem.
 
@@ -2709,11 +2712,11 @@ p. 364
 620 - não está quebrada a canoa?
 
 621 - auá supé kuaá ygára?
-621 - Awá supé kwaá igára? *
+621 - Awá supé kwaá igára?
 621 - para quem é esta canoa?
 
 622 - auá taá orekó seygára?
-622 - Awá taá urikú se igára? *
+622 - Awá taá urikú se igára?
 622 - quem tem minha canoa?
 
 623 - ygára iké kauarú nunára.
@@ -2721,36 +2724,38 @@ p. 364
 623 - a canoa é o cavalo daqui.
 
 624 - xasó putár uán marakatin kyty.
-624 - Asú putari wã marakatĩ kití. *
+624 - Xasú putari wã marakatĩ kití.
 624 - quero ir a bordo no navio.
 
 625 - paraná ur pan será?
-625 - Paraná uri panhẽ será? *
+625 - Paraná uri pá será?
 625 - o rio já enche?
 
 626 - semaniya intí sapó.
-626 - Se maniáka ti rapú. *
+626 - Se maniáka intí sapú.
 626 - minha mandióca não tem raiz.
 
 627 - kuaá "estilada" sasy reté, umixír se kuruká.
-627 - Kwaá "estilada" sasí reté, umixiri se kuruká. *
+627 - Kwaá "estilada" sasí reté, umixiri se kuruká.
 627 - esta estilada é muito forte, queimou minha garganta.
 
 628 - xasó uán kupixápe asuí uán xayór.
-628 - Asú wã kupixawa asuí wã ayuíri. *
+628 - Xasú wã kupixá-pe asuí wã xayuíri.
 628 - já fui na roça e voltei.
 
 629 - kuñán itá osó ouatá kaapíua rupé.
-629 - Kunhã itá usú uwatá kapiítiwa rupí. *
+629 - Kunhã-itá usú uwatá kampina rupí.
 629 - as mulheres foram passear no campo.
 
 630 - xamuí saka, xamukatirún putár.
+630 - Xamuí saka, xamukaturú-putari. # forma adaptada para anotar e incluir no treebank
 630 - Ambuí saka, amukaturú-putari. (Hartt, 364, adap.) - Rasguei o saco, quero consertá-lo.
 630 - rasgue o saco, quero concertá-lo.
 
 p. 365
 
 631 - xasó xamumáu (xamumbá) semurauky oií.
+631 - Xasú xamumbawa se murakí uií. # forma adaptada para anotar e incluir no treebank
 631 - Asú amumbawa se murakí uií. (Hartt, 365, adap.) - Vou acabar meu serviço hoje.
 631 - vou acabar hoje meu serviço.
 
@@ -2759,51 +2764,52 @@ p. 365
 632 - um branco chegou aqui com pano para vender.
 
 633 - xasó tenuné.
-633 - Asú tenundé. *
+633 - Xasú tenuné.
 633 - vou adiante.
 
 634 - osyk serenuné.
-634 - Usika se renundé. *
+634 - Usika se renuné.
 634 - êle chegou antes de mim.
 
 635 - xasó rañé amú óka opé.
-635 - Asú ranhẽ amú uka upé. *
+635 - Xasú ranhẽ amú uka upé.
 635 - deixa-me ir a uma outra casa.
 
 636 - xasó xayumutym semaníya.
-636 - Asú yayutima se maniiwa. *
+636 - Xasú xayutima se maniiwa.
 636 - vou plantar minha maniva.
 
 637 - intí será remuméu semú resé uára.
-637 - Inti será remumbeú semu resewara. *
+637 - Intí será remumeú semu resewara.
 637 - não pódes me dar noticia do meu irmão.
 
 638 - se kamarára itá oyatimán intá oikó ymyra ruaké.
+638 - Se kamarara-itá uyatimana aintá uikú imirá ruakí. # forma adaptada para anotar e incluir no treebank
 638 - Se kamarara-itá uyatimana aintá uikú mirá ruakí. (Hartt, 365, adap.) - Meus camaradas estão dispostos em torno do pau.
 638 - meus camaradas deitaram-se ao lado do páu.
 
 639 - mosapyr xasó táuape.
-639 - Musapiri asú tawa upé. *
+639 - Musapiri xasú tawa-pe.
 639 - fui três vezes na vila.
 
 640 - teñé ipokokpokok kuaá marita resé.
-640 - Tenhẽ i pukuka-pukuka kwaá maãitá resé. *
+640 - Tenhẽ i pukuka-pukuka kwaá maãitá resé.
 640 - não mexa com as cousas.
 
 641 - maé katú rerekó?
-641 - Maã katú rerikú? *
+641 - Maã katú rerikú?
 641 - tens alguma cousa boa?
 
 642 - peróka okái.
-642 - Upé ruka ukái. *
+642 - Pe ruka ukái.
 642 - vossa casa queimou-se.
 
 643 - emuí mosapyr y, remeén oaráma ixéu.
-643 - Remunuka musapiri i, remeẽ arama ixéu. * # o único que encontrei de cortar no imperativo que encontrei fora "Remunuka"
+643 - Emuí musapiri í, remeẽ warama ixéu.
 643 - corta três vezes para me dar.
 
 644 - maé ókaópe reikú?
-644 - Maã uka upé reikú? *
+644 - Maã uka upé reikú?
 644 - em qual casa estás?
 
 p. 366
@@ -2813,7 +2819,7 @@ p. 366
 645 - Antônio é muito falso.
 
 646 - taña asy.
-646 - Tanha así. *
+646 - Tanha así.
 646 - dor de dentes.
 
 647 - seráña sasy.
@@ -2821,115 +2827,122 @@ p. 366
 647 - tenho dor de dentes.
 
 648 - sekuruká sasy reté, inté xamokón kuáu serimiú.
-648 - Se kuruká sasí reté, ti xamukuna-kwáu se rimiú. *
+648 - Se kuruká sasí reté, intí xamukuna-kwáu se rimiú.
 648 - Se kuruká sasí reté, ti amukuna-kwáu se rimbiú. (Hartt, 366, adap.) - Dói-me muito a garganta, não consigo engolir minha comida.
 648 - dói-me a garganta, não posso engulir minha comida.
 
 649 - reú será kauín? xaú.
-649 - Reú será kawĩ? Aú. *
+649 - Reú será kawĩ? Xaú.
 649 - bebes vinho (cachaça)? bebo.
 
 650 - eneén santán rupí seirúm.
+650 - Enheẽ santá rupí se irũ. # forma adaptada para incluir no treebank
 650 - Renheẽ santá rupí se irumu. (Hartt, 366, adap.) - Fala alto comigo.
 650 - fala alto comigo.
 
 651 - yasó yañeén apyáua irúm.
-651 - Yasú yanheẽ apigawa irumu. *
+651 - Yasú yanheẽ apigawa irũ.
 651 - vamos falar com o homem.
 
 652 - kuaá apyáua oñeén tayna yaué.
-652 - Kwaá apigawa unheẽ taína yawé. *
+652 - Kwaá apigawa unheẽ taína yawé.
 652 - êste homem fala como uma criança.
 
 653 - tayna oñeén uán, ayú ayú kuyr.
-653 - Taína unheẽ wã, aíwa aíwa kuíri. *
+653 - Taína unheẽ wã, aíwa kuíri.
 653 - a criança já fala, agora mal mal.
 
 654 - maá kuité reñéen?
-654 - Maã kuité renheẽ? *
+654 - Maã kuité renheẽ?
 654 - o que disseste?
 
 655 - maeresé taé kuité reñeén yaué?
-655 - Maã resé taá kuité renheẽ yawé? *
+655 - Maã resé taá kuité renheẽ yawé?
 655 - porque falas assim?
 
 656 - xañeén irúm mokóin y.
-656 - Xanheẽ i irumu mukũi í. (Hartt, 366, adap.) - Falei com ele duas vezes.
+656 - Xanheẽ i irũ mukũi í.
+656 - Anheẽ i irumu mukũi í. (Hartt, 366, adap.) - Falei com ele duas vezes.;
 656 - falei com êle duas vezes.
 
 657 - xañeén putár nerúm.
-657 - Xanheẽ putari ne irũ. *
+657 - Xanheẽ putari ne irũ.
 657 - eu quero falar contigo.
 
 658 - xayumué kár putár asuí yayamusarái aráma yapurasai aráma.
-658 - Xayumbué kari putari yayumusarái arama yapurasí arama. *
+658 - Xayumué kari putari asuí yayumusarái arama yapurasái arama.
 658 - eu quero mandar rezar para depois brincarmos e dançarmos.
 
 p. 367
 
 659 - xapetyk kár án semaitá.
-659 - Xapeteka kari ã se maãitá. *
+659 - Xapeteka kari ã se maãitá.
 659 - já mandei lavar minha roupa.
 
 660 - ikatú ipó yasó yaseróg kár, koromó teé omanó kurutén uára serayma.
-660 - I katú i pura yasú yaseruka kari, kurumú taá umanú kurutẽiwara se eraíma. *
+660 - I katú ipú yasú yaseruka kari, kurumú taá umanú kurutẽiwara se raíma.
 660 - é bom de mandar batizar (a criança), pode morrer de repente sem nome.
 
 661 - xasó xaserúk kár semymyra.
-661 - Asú xaseruka kari se mimbira. *
+661 - Xasú xaseruka kari se mimbira.
 661 - vou mandar batizar meu filho.
 
 662 - xamopeték án seamaniú xapomán aráma.
+662 - Xamupeteka ã se amaniú xapumana arama.
 662 - Amupeteka ana se amaniú apumana arama. (Hartt, 367, adap.) - Já bati meu algodão para fiar.
 662 - já bati meu algodão para falar.
 
 663 - intí áua oñéen.
-663 - Inti awa unheẽ. *
+663 - Inti awa unheẽ.
 663 - ninguém falou.
 
 664 - seruryu xaikó.
+664 - se rurí xaikú.
 664 - se rurí aikú. (Hartt, 367, adap.) - Eu estou alegre.
 664 - estou alegre.
 
 665 - yané pan kurí yamanó.
-665 - yandé panhẽ kurí yamanú. *
+665 - Yané pá kurí yamanú.
 665 - nós todos havemos de morrer.
 
 666 - apyáua kurí omanó.
-666 - apigawa kurí umanú. *
+666 - Apigawa kurí umanú.
 666 - o homem hã-de morrer.
 
 667 - iné reyuyuká putár.
-667 - Indé reyuyuká-putari. *
+667 - Iné reyuyuká-putari.
 667 - tu queres te matar.
 
 668 - aé oyuyuká putár.
 668 - Aé uyuyuká-putari. (Hartt, 367, adap.) - Ele quer se matar.
 668 - êle quer se matar.
 
-669 - apyáua oyuyuká uán ikyoé irúm.
-669 - Apigawa uyuyuká wã i kisé irumu. *
+669 - apyáua oyuyuká uán ikyoé irúm. # erro Hartt
+669 - Apigawa uyuyuká wã i kisé irũ.
 669 - o homem matou-se com sua faca.
 
 670 - aintá oyuyuká putár.
-670 - Aintá uyuyuká-putari. *
+670 - Aintá uyuyuká-putari.
 670 - êles querem se matar.
 
 671 - tapañúma oyuyapé mukáua mirí irúm.
+671 - Tapayuna uyuyapí mukawa-mirĩ irũ.
 671 - Tapayuna uyuyapí mukawa-mirĩ irumu. (Hartt, 367, adap.) - O preto atirou em si mesmo com a pistola.
 671 - o negro matou-se com pistola.
 
 672 - anirá okér ára ramé (Mundurucú).
-672 - Anirá ukiri ara ramé. *
+672 - Anirá ukiri ara ramé.
 672 - o morcego dorme de dia.
 
 p. 368
 
-673 - yané yasaisú yané yára, tupána yané moñanára.
+673 - yané yasaisú yané yára, tupána yané moñanára. # moñaŋára
+673 - Yané yasaisú yané yara Tupana, yané munhangara.
 673 - Yandé yasaisú yané yara Tupana, yané munhangara. (Hartt, 368, adap.) - Nós amamos nosso senhor Deus, nosso criador.
 673 - amamos Deus nosso senhor, nosso criador.
 
 674 - xasó xamoxyrik se uí yakym resé.
+674 - Xasú xamuxirika se uí i yakima resé. 
 674 - Asú amuxirika se uí i yakima resé. (Hartt, 368, adap.) - Vou torrar minha farinha porque está molhada.
 674 - vou torrar minha farinha porque está molhada.
 
