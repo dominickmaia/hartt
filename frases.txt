@@ -221,7 +221,7 @@ p. 322
 49 - onde está minha faca? lá está em cima da pedra.
 
 50 - sesá pirera rôa.
-50 - Sesá-pirera-rawa.
+50 - Sesá-pirera-rawa. # ver issue 13 deste repositório
 50 - Pestana.
 
 51 - neresapóra néana.
