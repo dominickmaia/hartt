@@ -282,7 +282,7 @@ p. 323
 63 - a mãe beijou seu filho.
 
 64 - ixé xapytér kuae kuñántain yurú.
-64 - Ixé xapitera kwaá kunhatãi yurú.
+64 - Ixé xapitera kwaá kunhataĩ yurú.
 64 - Ixé apitera kwaá kunhatãi yurú. (Hartt, 323, adap.) - Eu beijei a boca dessa menina.
 64 - dei um beijo à menina.
 
@@ -1017,7 +1017,7 @@ p. 336
 231 - vamos brincar!
 
 232 - ixé yuyr xasó.
-232 - Ixé yuiri xasú.
+232 - Ixé yuíri xasú.
 232 - eu tambêm vou.
 
 233 - yiáma (liamba) semukaú.
@@ -2947,31 +2947,34 @@ p. 368
 674 - vou torrar minha farinha porque está molhada.
 
 675 - maéramé reputár yaneñeénga?
-675 - Mairamé reputari yané nheenga? *
+675 - Mairamé reputari yané nheenga?
 675 - para o que queres nossa língua?
 
 676 - ixé xambue putár sekamaráraitá.
+676 - Ixé xamué-putari se kamarara-itá.
 676 - Ixé ambué-putari se kamarara-itá. (Hartt, 368, adap.) - Eu quero ensinar meus camaradas.
 676 - quero ensinar meus camaradas.
 
 677 - rimaé intí xañeén tapuya ñeéna, sesé seresarái.
+677 - Erimbaé intí xanheẽ tapuya-nheenga, sesé se resarái.
 677 - Erimbaé ti anheẽ tapuya-nheenga, sesé se resarái. (Hartt, 368, adap.) - Há muito que não falo a língua geral, por isso tenho esquecido.
 677 - há muito que não falo a língua geral, por isso tenho esquecido.
 
 678 - yuasú reté xakuáu.
-678 - Iwasú reté xakwáu. *
+678 - Iwasú reté xakwáu.
 678 - custa-me muito aprender.
 
 679 - iné kuruten reté rekuáu.
-679 - Indé kurutẽi reté rekwáu. *
+679 - Iné kurutẽi reté rekwáu.
 679 - tu aprendes depressa.
 
 680 - intí xakuáu katú maé oñeén.
+680 - Inti xakwáu katú maã unheẽ.
 680 - Ti akwáu katú maã unheẽ. (Hartt, 368, adap.) - não entendo bem o que ele disse.
 680 - não entendo o que êle disse.
 
 681 - intí xakuáu katú maá apyáua oñeén ixéu, ñaá.
-681 - Inti xakwáu katú maã apigawa unheẽ ixéu, nhaã. *
+681 - Inti xakwáu katú maã apigawa unheẽ ixéu, nhaã.
 681 - não entendo bem o que aquêle homem me diz.
 
 682 - kuaá apyáua intí iñeéna omosém katú.
@@ -2979,7 +2982,7 @@ p. 368
 682 - êste homem é gago.
 
 683 - Joáun omosém reté kuruten uára iñeéna, ñaé resé intí xakuáu maá oñeén.
-683 - João umusemu reté kurutẽiwara i nheenga, nhaã resé inti xakwáu maã unheẽ. *
+683 - João umusemu reté kurutẽiwara i nheenga, nhaã resé intí xakwáu maã unheẽ.
 683 - João fala tão ràpidamente, que não entendo o que diz.
 
 684 - ñeénga katú rupí intí iuasú mayué Mundurukú itá ñeénga rupí.
@@ -2987,17 +2990,17 @@ p. 368
 684 - a língua geral não é tão difícil como a gíria dos Mandarucús.
 
 685 - iuasú katú yañeén ñeéna katusár rupí.
-685 - Iwasú katú yanheẽ nheenga-katúsara rupí. *
+685 - Iwasú katú yanheẽ nheenga-katú rupí.
 685 - é difícil de falar a língua geral.
 
 p. 369
 
 686 - xeñeén será tapuya ñeéna rupí?
-686 - Renheẽ será tapuya-nheenga rupí? *
+686 - Renheẽ será tapuya-nheenga rupí?
 686 - falas a língua geral?
 
 687 - reñeén será tapya ñeéna?
-687 - Renheẽ será tapuya-nheenga? *
+687 - Renheẽ será tapuya-nheenga?
 687 - falas a língua geral?
 
 688 - koromó teé aintá oñeén seresé!
@@ -3013,18 +3016,20 @@ p. 369
 690 - êste homem é malicioso, êle fala mal dos outros.
 
 691 - teñé inti eñeén puxí ne kamarára resé, intí katú.
-691 - Tenhẽ inti renheẽ puxí ne kamarara resé, inti katú. *
+691 - Tenhẽ intí enheẽ puxí ne kamarara resé, intí katú.
 691 - não fala mal de teus companheiros, não é bom.
 
 692 - iné nekyrymáua pyry amuitá suí.
+692 - Iné kirimawa piri amú-itá suí.
 692 - Indé kirimbawa piri amú-itá suí. (Hartt, 369, adap.) - Tu és mais forte que os outros.
 692 - tu és mais forte que os outros.
 
 693 - kuaá kuñán mukú orikó paiu mira ruy.
-693 - Kwaá kunhamukú urikú paĩ mira ruy . *
+693 - Kwaá kunhamukú urikú paĩ mira ruwí.
 693 - esta moça é mestiça.
 
 694 - xamusatatin karapaná supé xamapú aráma uetépe reté karapaná.
+694 - Xamutatatinga karapanã supé, xamupú arama wetepe reté karapanã.
 694 - Amutatatinga karapanã supé, amupú arama wetepe reté karapanã. (Hartt, 369, adap.) - Estou fazendo fumaça para os carapanãs, para enxotar carapanãs em grandes quantidades.
 694 - estou fazendo fumaça para espantar as carapanás são muitas.
 
@@ -3033,15 +3038,15 @@ p. 369
 695 - a criança está engatinhando.
 
 696 - auá tamonó(taá omonó) kuñán mukú iké?
-696 - Awa ta umundú kunhamukú iké? *
+696 - Awa taá umunú kunhamukú iké? *
 696 - quem mandou a moça aqui?
 
 697 - kaápiín jakym oikó.
-697 - Kapiĩ yakima uikú. *
+697 - Kapiĩ yakima uikú. (Hartt, 325, adap.) - O capim está molhado.
 697 - o capim está molhado.
 
 698 - xamuarpakuár putár se tauarí xaú aráma.
-698 - xamuapiri putari se tawarí aú arama. *
+698 - Xamuapiri putari se tawarí xaú arama.
 698 - quero rolar meu tauari para fumar.
 
 699 - kurutén uára yuytú oyeréu.
@@ -3051,35 +3056,37 @@ p. 369
 p. 370
 
 700 - xamumáu putár an semurauky.
-700 - Xamumbawa putari ã se murakí. *
+700 - Xamumbawa putari ã se murakí.
 700 - tenho quasi acabado meu trabalho.
 
 701 - peñé intí peapukúi kuáu.
-701 - Penhẽ inti peyapukúi kwáu. *
+701 - Penhẽ intí peyapukúi kwáu.
 701 - vós não sabeis remar.
 
 702 - inti resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
+702 - Intí resé xayupukwáu xayapukúi, nhaã resé se maraari.
 702 - Ti ayupukwáu ayapukúi, nhaã resé se maraari. (Hartt, 370, adap.) - não estou acostumado a remar, por isso estou cansado.
 702 - não estou acostumado a remar e por isso fico cansado.
 
 703 - maeramé reputár tatápyña?
-703 - Mairamé reputari tatapunha? *
+703 - Mairamé reputari tatapunha?
 703 - para que queres a brasa?
 
 704 - ekóin tatápyña ixéu.
-704 - Ekũi tatapunha ixéu. *
+704 - Ekũi tatapunha ixéu.
 704 - vai tirar aquela brasa para mim.
 
 705 - searasy reté intí resé xasó kuáu.
+705 - Se arasi reté ti resé xasú-kwáu.
 705 - Se arasi reté ti resé asú-kwáu. (Hartt, 370, adap.) - sinto muito por não poder ir.
 705 - sinto muito que não posso ir.
 
 706 - Manú intí maé omeén ixéu, intí resé seraisú.
-706 - Manuel inti maã umeẽ ixéu, inti resé se raisú. *
+706 - Manuel intí maã umeẽ ixéu, intí resé se raisú.
 706 - Manuel não me deu nada, porque não me quer bem.
 
 707 - ixé neraisú.
-707 - Ixé ne raisú. *
+707 - Ixé ne raisú.
 707 - eu te amo.
 
 708 - ixé peraisú.
@@ -3087,11 +3094,11 @@ p. 370
 708 - eu vos amo.
 
 709 - ñaá apyáua ñún teñe oyasaysú.
-709 - Nhaã apigawa nhũ tenhẽ uyasaisú. *
+709 - Nhaã apigawa nhũ tenhẽ uyasaisú.
 709 - aquêle homem não ama senão a si mesmo.
 
 710 - xaryry irusán irúm.
-710 - Xarirí irusã irũ. #
+710 - Xarirí irusã irũ.
 710 - Arirí aikú irusanga irumu. (Hartt, 370, adap.) - estou tremendo de frio.
 710 - tremo de frio.
 
@@ -3104,25 +3111,25 @@ p. 370
 712 - porque não lavas a roupa suja?
 
 713 - ikyá ikó, maeresé intí remuyasúk?
-713 - I kiá ikú , maã resé inti remuyasuka? *
+713 - I kiá ikú, maã resé intí remuyasuka?
 713 - está sujo, porque não lavas?
 
 p. 371
 
 714 - emeén emú yuyr neñeéna.
-714 - Remeẽ emú yuíri nheengara.
+714 - Emeẽ emú yuíri nheengara.
 714 - repita o que disse.
 
 715 - epurunitá meuerupí.
-715 - Epurungitá mewé rupí. *
+715 - Epurungitá mewé rupí.
 715 - conversa devagar.
 
 716 - repurunitá kurutén.
-716 - Repurungitá kurutẽi. *
+716 - Repurungitá kurutẽi.
 716 - tu falas depressa (ligeiro).
 
 717 - xasó xaneénar se <viola> irúm.
-717 - Xasú xanheengari se <viola> irumu. *
+717 - Xasú xanheengari se <viola> irũ. *
 717 - vou cantar com a minha viola.
 
 718 - amú kuri okuáu, amú kurí intí okuáu putár.
@@ -3130,14 +3137,16 @@ p. 371
 718 - alguns hão de saber, outros não hão de querer saber.
 
 719 - paí ramána ykyra reté oikó intí yanaiuára.
+719 - Paí rimawa i kirá reté uikú, intí i yangaiwara.
 719 - Paí rimbawa i kirá reté uikú, ti i yangaiwara. (Hartt, 371, adap.) - A criação do padre está bem gorda, não está magra.
 719 - o xerimbabo (galinha) do padre está bem gordo, não está magro.
 
 720 - intí rarekó, xarekó uirá purána sekamarára ramáua.
-720 -
+720 - Intí xarikú, xarikú wirá puranga se kamarara rimawa.
 720 - não tenho, tenho o bonito pássaro o xerimbabo de meu camarada.
 
 721 - intí xayumusarái nerúm.
+721 - Intí xayumusarái ne irũ.
 721 - Ti ayumusarái ne irumu. (Hartt, 371, adap.) - não estou brincando contigo.
 721 - não estou brincando contigo.
 
@@ -3146,18 +3155,22 @@ p. 371
 722 - o preto matou a cobra.
 
 723 - xasó xamapó tapyira.
+723 - Xasú xamupú tapiira.
 723 - Asú amupú tapiira. (Hartt, 371, adap.) - Vou tocar o gado.
 723 - vou tocar o gado.
 
 724 - xarekó oyepé kyuíra sekouecé uaé.
-724 - Arikú yepé se kiwira sikwé waá.(Hartt, 371, adap.) - Tenho um irmão que está vivo.
+724 - Xarikú yepé se kiwira sikwé waá.
+724 - Arikú yepé se kiwira sikwé waá. (Hartt, 371, adap.) - Tenho um irmão que está vivo.
 724 - tenho um irmão vivo.
 
 725 - ixé xapumán seamaniú.
+725 - Ixé xapumana se amaniú.
 725 - Ixé apumana se amaniú. (Hartt, 371, adap.) - Eu estou fiando meu algodão.
 725 - estou fiando meu algodão.
 
 726 - xamueté putár kuaá tupána.
+726 - Xamueté-putari kwá tupana.
 726 - Amueté-putari kwá tupana. (Hartt, 371, adap.) - Quero festejar este santo.
 726 - quero festejar êste santo.
 
@@ -3168,11 +3181,12 @@ p. 372
 727 - tua cara está cheia de pregas.
 
 728 - xasó uán xayumumeú.
+728 - Xasú wã xayumumeú.
 728 - Asú wã ayumumbeú. (Hartt, 372, adap.) - fui confessar-me.
 728 - fui confessar.
 
 729 - eparauák an mokóin ymyra (Mauhé).
-729 - Parawaka ã mukũi i mirá. *
+729 - Eparawaka ã mukũi imirá.
 729 - escolha dois paus.
 
 730 - pykasú ikáua reté oikó.
@@ -3180,34 +3194,37 @@ p. 372
 730 - a pomba está muito gorda.
 
 731 - kuñán ipuruá ikó.
-731 - Kunhã i puruã uikú. *
+731 - Kunhã i puruã uikú.
 731 - a mulher está prenha.
 
 732 - xaé xarakó ramé auá xamonó serekuyára aráma intí xasó.
-732 - Aé xarikú ramé awa xamunú se rikuyara arama inti asú. *
+732 - Aé xarikú ramé awa xamunú se rikuyara arama intí xasú.
 732 - se tivesse quem mandar no meu lugar não ia.
 
 733 - sapukáia omonór an mosapyr supiá.
-733 - Sapukaya umumburi ã musapiri supiá. *
+733 - Sapukaya umumuri ã musapiri supiá.
 733 - a galinha já pôs três ovos.
 
 734 - ixé xasarún apyáua xaikó.
-734 - Ixé xasarú apigawa aikú. *
+734 - Ixé xasarú apigawa xaikú.
 734 - estou esperando o homem.
 
 735 - xasó xayuók itá póso suí.
+735 - Xasú xayuuka itá pusu suí.
 735 - Asú ayuuka itá pusu suí. (Hartt, 372, adap.) - Vou tirar a pedra do poço.
 735 - vou tirar a pedra do poço.
 
 736 - kurumí mirí osyririk ikó, inti raén ouatá kuáu.
+736 - Kurumĩ mirĩ usiririka uikú, intí ranhẽ uwatá-kwáu.
 736 - Kurumĩ mirĩ usiririka uikú, ti rẽ uwatá-kwáu. (Hartt, 372, adap.) - O menino está engatinhando, ainda não sabe andar.
 736 - o menino está engatinhando, ainda não sabe andar.
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
-737 - Ixé inti xamuruyari apigawa uri kurutẽiwara. *
+737 - Ixé intí xamuruyari apigawa uri kurutẽiwara.
 737 - eu não acreditava que o homem viesse cêdo.
 
 738 - amaniú opororóg oikó.
+738 - Xamaniú upururuka uikú.
 738 - Amaniú upururuka uikú. (Hartt, 372, adap.) - O algodão está abrindo.
 738 - o algodão está abrindo.
 
@@ -3224,10 +3241,11 @@ p. 373
 740 - já matei gente.
 
 741 - Pedero maé uaé oyuká Yoáun.
-741 - Pedero maã waá uyuká Yoáun. *
+741 - Pedero maã waá uyuká Yoáun.
 741 - Pedro que matou João.
 
 742 - xasó xayuyuká.
+742 - Xasú xayuyuká.
 742 - Asú ayuyuká. (Hartt, 373, adap.) - vou me matar.
 742 - vou me matar.
 
@@ -3237,15 +3255,15 @@ p. 373
 743 - nós outros vos matamos.
 
 744 - tupána resé, teñe ine seyuká!
-744 - Tupana resé, tenhẽ indé se yuká! *
+744 - Tupana resé, tenhẽ iné se yuká!
 744 - por Deus, não me mate.
 
 745 - intí xaputár reyuká seména.
-745 - Inti xaputari reyuká se mena. *
+745 - Inti xaputari reyuká se mena.
 745 - não quero que tu mates meu marido.
 
 746 - ikatú yayuká kuaá yauára.
-746 - I katú yuká kwaá yawara. *
+746 - I katú yayuká kwaá yawara.
 746 - é bom de matar este cachorro.
 
 747 - peñé oyuyuká putár(pe?).
@@ -3253,19 +3271,21 @@ p. 373
 747 - quereis vos matar.
 
 748 - yané mokóin yayuyuká putár.
-748 - Yandé mukũi i ayuyuká putari. *
+748 - Yané mukũi yayuyuká-putari.
 748 - nós dois queremos nos matar.
 
 749 - xasó xayutím omanó uaé.
+749 - Xasú xayutima umanú waá.
 749 - Asú ayutima umanú waá. (Hartt, 373, adap.) - vou enterrar o que morreu.
 749 - vou enterrar o defunto.
 
 750 - ixé amanó uán xaikó.
-750 - Ixé amanú wã aikú. *
+750 - Ixé amanú wã xaikú.
 750 - estou morto.
 
 751 - ixé menasára yma uán seremirikó omanó uá.
-751 - Ixé mendesaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
+751 - Ixé menasaraíma wã, se rimirikú umanú wã. 
+751 - Ixé mendasaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
 751 - sou viuvo, minha mulher está morta.
 
 752 - omanó pán aintá, néan oyepé opytá.
@@ -3287,7 +3307,7 @@ p. 374
 755 - o homem caiu na agua, faltou-lhe o folego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
-756 - Mayawé taá ne turina i pinimasawa? *
+756 - Mayawé taá ne turina i pinimasá?
 756 - qual é a côr das tuas calças?
 
 757 - poité remuñán.
@@ -3295,39 +3315,41 @@ p. 374
 757 - tu falas mentiras.
 
 758 - iné supí reñeén.
-758 - Indé supí renheẽ. *
+758 - Iné supí renheẽ.
 758 - tu falas a verdade.
 
 759 - aé intí supí oñeén.
-759 - Aé inti supí unheẽ. *
+759 - Aé intí supí unheẽ.
 759 - ele não fala a verdade.
 
 760 - apyáua oñeén:seremirikó omanó uán.
-760 - Apigawa unheẽ: se rimirikú umanú wã. *
+760 - Apigawa unheẽ: se rimirikú umanú wã.
 760 - o homem disse: minha mulher já morreu.
 
 761 - ekóin emosaimé nekysé.
-761 - Ekũi musaimé saimbé ne kisé. *
+761 - Ekũi emusaimé ne kisé.
 761 - vai amolar tua faca.
 
 762 - xamusaimbé sekysé itaky pupé.
+762 - Xamusaimé se kisé itakí pupé.
 762 - Amusaimbé se kisé itakí pupé. (Hartt, 374, adap.) - Amolo minha faca na pedra de amolar.
 762 - estou amolando minha faca na pedra de amolar.
 
 763 - kipé intí saimé.
+763 - Kisé intí saimé.
 763 - Kisé ti saimbé. (Hartt, 374, adap.) - A faca não está amolada.
 763 - a faca não está amolada.
 
 764 - kuaé kúya yuyuká.
-764 - Kwá kuya uyuká. *
+764 - Kwá kuya uyuká.
 764 - essa cúia está quebrada.
 
 765 - xakutiár xaikó serekúya.
-765 - Akwatiári aikú se rekuya. *
+765 - Xakwatiári xaikú se rekuya.
 765 - estou pintando minha cúia.
 
 766 - irusán sepysy.
-766 - Irusã se pisika. *
+766 - Irusã se pisika.
 766 - estou constipado.
 
 767 - sepó ipuná reté.
@@ -3337,7 +3359,7 @@ p. 374
 p. 375
 
 768 - intí yaupaú, turusú reté oikó.
-768 - Inti yaupawa, turusú reté uikú. *
+768 - Intí yapáu, turusú reté uikú.
 768 - não acabamos, é muito.
 
 769 - peupaú será kuaá auatiú.
@@ -3345,15 +3367,15 @@ p. 375
 769 - já acabaste o arroz.
 
 770 - semuká kuí opan.
-770 - Se mukawakuí upawa. *
+770 - Se mukawakuí upaú.
 770 - minha polvora já se acabou.
 
 771 - xaú pan uán.
-771 - Aú panhẽ wã. *
+771 - Xaú panhẽ wã.
 771 - já comi tudo.
 
 772 - auá pesuí, uára taá orekó serekúya?
-772 - Awá pe suí-wara taá urikú se rekuya? *
+772 - Awá pe suí-wara taá urikú se rekuya?
 772 - quem de vós tem minha cúia?
 
 773 - pemeén ixéu.
@@ -3365,19 +3387,19 @@ p. 375
 774 - se tu quebrares o póte, que hei de te dar?
 
 775 - se kamutí ipó teresem oikó uaríua suí.
-775 - Se kamutí i pura teresemu uikú wariwa suí. *
+775 - Se kamutí i pura teresemu uikú wariwa suí.
 775 - meu póte está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
-776 - Se amaniú yupururuka ã ikú i katú ã mira yupuú arama. *
+776 - Se amaniú yupururuka ã ikú i katú ã mira yupuú arama.
 776 - meu algodão já está abrindo, já está bom para ser colhido.
 
 777 - xasó xainunatú soó uirané ára supé uára.
-777 - Asú ainugantú suú wirané ara supé wara. *
+777 - Xasú xainugantú suú wirané ara supé wara.
 777 - vou guardar a caça(carne) para amanhã.
 
 778 - intí será yauá?
-778 - Inti será yawá? *
+778 - Inti será yawá?
 778 - não é assim.
 
 779 - kamotí tyrysém an oikó(Mauhé).
@@ -3389,21 +3411,22 @@ p. 375
 780 - o póte está cheio.
 
 781 - xakér putár ramé, xakér.
-781 - Xakiri putari ramé, xakiri. *
+781 - Xakiri-putari ramé, xakiri.
 781 - quando quero dormir, durmo.
 
 p. 376
 
 782 - kuñán mukú suryu oikó.
-782 - Kunhamukú surí uikú. *
+782 - Kunhamukú surí uikú.
 782 - a menina está alegre.
 
 783 - sekuerái uán xaikó.
-783 - Se kweré wã aikú. *
+783 - Se kweré wã xaikú.
 783 - estou aborrecido.
 
 784 - searasy reté xaikó maeresé seremirikó imaary reté.
-784 - Se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.)
+784 - Se arasí reté xaikú, maãresé se rimirikú i maasí reté.
+784 - Se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.) - Estou muito triste, porque minha mulher está muito doente
 784 - estou muito triste, porque minha mulher está muito doente.
 
 785 - aé pyá uasú reté.
@@ -3411,15 +3434,16 @@ p. 376
 785 - ele tem muita coragem.
 
 786 - se pyá ayú reté ixé(Mauhé).
-786 - Se piaíwa reté ixé. *
+786 - Se piaíwa reté ixé.
 786 - estou muito zangado.
 
 787 - xasykyyí yaureté suí.
+787 - Xasikié yawareté suí.
 787 - Asikié yawareté suí. (Hartt, 376, adap.) - Eu tenho medo de onça.
 787 - tenho medo da onça.
 
 788 - seretymá imaraár reté.
-788 - Se retimã i maraari reté. - Minhas pernas estão muito cansadas. *
+788 - Se retimã i maraari reté. - Minhas pernas estão muito cansadas.
 788 - minhas pernas estão muito cançadas.
 
 789 - semaraár xañén reté resé.
@@ -3427,7 +3451,7 @@ p. 376
 789 - estou cançado de correr tanto.
 
 790 - xaputuú mirí rañé.
-790 - Apituú mirĩ ranhẽ. *
+790 - Xapituú mirĩ ranhẽ.
 790 - deixa-me descançar um bocado.
 
 791 - Joakin imaasy ikó, oár kauarú ára suí, omopén iyuuá kuyr ikatú mirí uán oikó.
@@ -3435,7 +3459,7 @@ p. 376
 791 - Joaquim está doente, ele caiu do cavalo e quebrou seu braço, agora está um pouco melhor.
 
 792 - intí retín?
-792 - Inti retiĩ? *
+792 - Intí retiĩ?
 792 - não tens vergonha?
 
 793 - apyáua intí otín.
@@ -3449,10 +3473,11 @@ p. 376
 p. 377
 
 795 - serupuséi reté xaikó.
-795 - Se ripusí reté aikú. *
+795 - Se ripusí reté xaikú.
 795 - tenho muito sono.
 
 796 - serupuséi xaikó.
+796 - Se ripusí xaikú
 796 - Se ripusí aikú. (Hartt, 377, adap.) - Estou com sono.
 796 - estou com sono.
 
@@ -3469,19 +3494,22 @@ p. 377
 799 - meu corpo está cheio de coceira.
 
 800 - sepó ikuarára oikó, intí xapysig kuáu maé.
+800 - Se pú i karuára uikú, intí xapisika-kwáu maã.
 800 - Se pú i karuára uikú, ti apisika-kwáu maã. (Hartt, 377, adap.) - Eu tenho reumatismo da mão, não posso pegar nada.
 800 - eu tenho reumatismo da mão, não posso pegar nada.
 
 801 - ixé serakú xaikó.
-801 - Ixe se rakú aikú. (Hartt, 377, adap.) - estou com febre.
+801 - Ixé se rakú xaikú.
+801 - Ixé se rakú aikú. (Hartt, 377, adap.) - estou com febre.
 801 - estou com febre.
 
 802 - xakakaá xaikó.
+802 - Xakaá-kaá xaikú.
 802 - Akaá-kaá aikú. (Hartt, 377, adap.) - Estou com diarreia.
 802 - tenho diarréa.
 
 803 - esém, ekóin kyty.
-803 - Resemu, ekũi kití. *
+803 - Esemu, ekũi kití.
 803 - sae, vae-te embora! (ao cachorro).
 
 804 - yané kupixáua apykatú óka suí.
@@ -3489,19 +3517,21 @@ p. 377
 804 - nossa roça é longe de casa.
 
 805 - semaraár reté xauatá.
+805 - Se maraari reté xawatá.
 805 - Se maraari reté awatá. (Hartt, 376, adap.) - estou cansado de andar.
 805 - estou cançado de andar.
 
 806 - maé resé intí remenar putár serúm?
+806 - Maã resé intí remenari-putari se irũ? 
 806 - Maã resé ti remendari-putari se irumu? (Hartt, 377, adap.) - Porque não queres te casar comigo?
 806 - porque não queres te casar comigo?
 
 807 - nepatráum osapukái neresé oikó.
-807 - Ne patrãu usapukaya ne resé uikú. *
+807 - Ne patrãu usapukaya ne resé uikú.
 807 - teu patrão está te chamando.
 
 808 - kuaá yuytyra suí, yamaán kuán táua resé.
-808 - Kwaá iwitira suí, yamaã kwáu tawa resé. *
+808 - Kwaá iwitira suí, yamaã kwáu tawa resé.
 808 - deste morro podemos ver a vila.
 
 p. 378
@@ -3512,43 +3542,45 @@ p. 378
 809 - amanhã tu hás de ir para lá.
 
 810 - muratú áua open-open.
-810 - Muratú awa upena-upena. *
+810 - Muratú awa upena-upena.
 810 - os cabelos do mulato são anélados.
 
 811 - satamyk ñaé karía áua.
-811 - Satamika nhaã kariwa awa. *
+811 - Satamika nhaã kariwa awa.
 811 - os cabelos daquêle branco são direitos.
 
 812 - kuaá itá santán reté, intí xamapog kuáu.
+812 - Kwá itá santá reté, intí xamapuka-kwáu.
 812 - Kwá itá santá reté, ti amapuka-kwáu[aé]. (Hartt, 378, adap.)
 812 - esta pedra é muito dura, não posso despedaçá-la.
 
 813 - tapañúna iakána santan kupií yaué.
-813 - Tapayuna i akanga santá kupií yawé. *
+813 - Tapayuna i akanga santá kupií yawé.
 813 - a cabeça do negro é dura como o cupim.
 
 814 - kuaá kurumí asú ikyrymáua osú.
+814 - Kwaá kurumiwasú i kirimawa usú.
 814 - Kwaá kurumiwasú i kirimbawasú. (Hartt, 378, adap.) - Este moço é valente.
 814 - este moço é valeroso.
 
 815 - itá iposéi reté.
-815 - Itá i pusé reté. *
+815 - Itá i pusé reté.
 815 - a pedra pesa muito.
 
 816 - iya uasú reté kuaá ymyrá (Mauhé).
-816 - Iyá wasú reté kwá imirá. *
+816 - Iwa wasú reté kwá imirá.
 816 - este páu é muito grosso.
 
 817 - nerytymá ipoí reté.
-817 - Ne retimã puí reté. *
+817 - Ne ritimã i puí reté.
 817 - tuas pernas são muito finas.
 
 818 - erúr sekyuáua poí.
-818 - Rurí sikí kiwawa-puí.*
+818 - Erurí se kiwawa-puí.
 818 - traz meu pente fino.
 
 819 - sesá uasú reté kuaá uí(Mauhé).
-819 - Sesáwasú reté kwá uí.*
+819 - Sesawasú reté kwaá uí. (Hartt, 320, adap.) - Essa farinha é muito grossa.
 819 - essa farinha é muito grosso.
 
 820 - kuaá mamáun tearún uán, itauá uán oikó.
@@ -3556,7 +3588,7 @@ p. 378
 820 - este mamão já está maduro, está amarelo.
 
 821 - murutín teñé sapé.
-821 - Murutĩ tenhẽ sapé. *
+821 - Murutĩ tenhẽ sapé.
 821 - o rasto dêle é branco.
 
 822 - ymyrá yatúk.
@@ -3571,19 +3603,19 @@ p. 379
 823 - o espinho do murumurú é muito comprido.
 
 824 - yasó yaxipiak auá iána ipokú.
-824 - Yasú yaxipiaka awá i anga i pukú. *
+824 - Yasú yaxipiaka awá i anga i pukú.
 824 - vamos a ver quem tem o folego mais comprido.
 
 825 - ymyrá ipokú reté.
-825 - Mirá-pukú reté. *
+825 - Imirá i pukú reté.
 825 - o páu é alto (comprido).
 
 826 - kaué ymyrá ipokú.
-826 - Kwá imirá i pukú. *
+826 - Kwá imirá i pukú.
 826 - este páu é comprido.
 
 827 - oií seryái reté.
-827 - Uií se riái reté. *
+827 - Uií se riái reté.
 827 - hoje suei muito.
 
 828 - maeráma kuité renupán yauára?
@@ -3591,31 +3623,32 @@ p. 379
 828 - porque bates no cachorro?
 
 829 - oyeréu yuy rupí.
-829 - Uyeréu iwí rupí. *
+829 - Uyeréu iwí rupí.
 829 - rolou no chão.
 
 830 - ayuéte nepáia senupán xasó teñé nerúm.
-830 - Ayuéte ne paya se nupá asú tenhẽ ne irũ. *
+830 - Ayuéte ne paya se nupá xasú tenhẽ ne irũ.
 830 - ainda que teu pae me bata vou contigo.
 
 831 - xaxipiak iepé kuñán mukú oyar kinára resé.
-831 - Xaxipiaka yepé kunhamukú uií ara kinara resé. *
+831 - Xaxipiaka yepé kunhamukú uyari kinara resé.
 831 - vejo uma moça encostada no quintal.
 
 832 - ixé xayumutár pyrí kuaá kuñán mukú resé sury reté resé.
+832 - Ixé xayumutari piri kwaá kunhamukú resé, surí reté resé. 
 832 - Ixé ayumutari piri kwaá kunhamukú resé, surí reté resé. (Hartt, 379, adap.) - Eu gosto mais desta moça, por ela ser muito alegre.
 832 - gosto mais desta moça por ser muito alegre.
 
 833 - serayra menasára oikó.
-833 - Se raíra mendasara uikú. *
+833 - Se raíra menasara uikú.
 833 - meu filho está casado.
 
 834 - semenasára yma yuyr.
-834 - Se mendesaraíma yuíri. *
+834 - Se menasaraíma yuíri. *
 834 - sou viuvo(ou viuva).
 
 835 - maé taé ñaé apyáua rera kuesé yayuaintin irúm?
-835 - Maã taá nhaã apigawa rera kwesé ayuyuantí irumu? *
+835 - Maã taá nhaã apigawa rera kwesé yayuantí irũ?
 835 - qual é o nome do homem que encontrámos hontem?
 
 p. 380
@@ -3625,16 +3658,15 @@ p. 380
 836 - vamos fazer uma canoa no mato, de itaúba.
 
 837 - karíua, yuruparí, omuñán marakatiu.
-837 - TODO
 837 - Kariwa yuruparí, umunhã marakatĩ. (Hartt, 380, adap.) - O branco é o diabo, ele faz navios.
 837 - o branco é o diabo, êle faz navios.
 
 838 - xamoñán kuaú.
-838 - Amunhã kwáu. - sei fazer. *
+838 - Xamunhã kwáu.
 838 - sei fazer.
 
 839 - nerakykuéra kurí xasó.
-839 - Ne rakakwera kurí asú. *
+839 - Ne rakakwera kurí xasú.
 839 - hei de ir atraz de ti.
 
 840 - maá ymyrá suí resó remuñán neygára?
@@ -3652,12 +3684,11 @@ p. 380
 842 - vou cortar o pau de modo a cair sobre o caminho que ninguém possa passar.
 
 843 - emú iputerá rupí reméen oaráma ixéu.
-843 - Emú i pitera rupí remeẽ arama ixéu. *
+843 - Emú i pitera rupí remeẽ arama ixéu.
 843 - corta no meio para me dar.
 
 844 - ixé xayumunók kysé irúm.
-844 - Ixé xayumunuka kisé irũ. - eu me cortei com a faca. *
-844 -
+844 - Ixé xayumunuka kisé irũ.
 844 - eu me cortei com a faca.
 
 845 - maá taá remuñán kuaá tupasáma irúm?
@@ -3665,7 +3696,8 @@ p. 380
 845 - que é que estás fazendo com aquele laço? # este é um exemplo de comentário (depois de #)
 
 846 - xauasém iepé uirá reanuéra kaápe.
-846 - 1. Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato. # [Leonel: por que o número 1?]
+846 - Xawasemu yepé wirá riãwera kaá-pe.
+846 - Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
 846 - achei um passaro morto no mato.
 
 847 - rerekó será urusakána purána né «vizinho» suí? # urusakanga [hist.] (var. rusakã [hist.]; urasukanga [hist.]; urusakã [hist.]) (s.)  URUÇACANGA, cesto cilíndrico feito de cipó trançado, carregado às costas e suspenso por alça em torno da cabeça (Avila 2021)
@@ -3674,12 +3706,12 @@ p. 380
 847 - tens o bonito paneiro do teu vizinho? # este é um exemplo de comentário (depois de #)
 
 848 - ixé xamuñán xaikó iepé papéra, xamonono aráma seremirikó supé.
+848 - Ixé xamunhã xaikú yepé papera, xamunú arama se rimirikú supé.
 848 - Amunhã aikú yepé papera, amundú arama se rimirikú supé. (Hartt, 380, adap.) - Estou escrevendo uma carta, para mandar a minha esposa.
 848 - estou escrevendo (fazendo) uma carta (papel) para mandar à minha mulher.
 
 849 - ikatú remuñán nekysáua.
 849 - I katú remunhã ne kisawa.
-849 - NA
 849 - tu deves fazer tua rede.
 
 850 - epurú nekysáua ixéu.
@@ -3691,9 +3723,9 @@ p. 380
 851 - êle não queria emprestá-la.
 
 852 - emaén mikyty (Mundurucú)!
-852 - Remaẽ mikití! - Olha para lá!
+852 - Emaẽ mikití! - Olha para lá!
 852 - olha para ali.
 
 853 - esém okára kyty!
-853 - Resemu ukara kití! - Saia para fora!
+853 - Esemu ukara kití! - Saia para fora!
 853 - sáe para fóra!
