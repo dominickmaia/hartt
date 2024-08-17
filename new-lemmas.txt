@@ -1,8 +1,12 @@
-# imirá (s.) - pau, árvore
-# imirá (s.) - var. mirá OK
-yãdirawa (s.) - andiroba
-yãdirowa (s.) - var. yãdirawa
-yãdí (s.) - óleo
+#imirá (s.) - pau, árvore
+imirá (s.) - var. mirá OK
+#yãdirawa (s.) - andiroba
+#yãdirowa (s.) - var. yãdirawa
+yandirawa (s.)  - andiroba OK
+andirawa (s.)  - var. yandirawa OK
+#yãdí (s.) - óleo
+yandí (s.) - óleo, azeite (especialmente de origem vegetal) [...] [Avila 2021] OK
+yaní (s.) - var. yandí OK
 mantega (s.) - manteiga OK
 mupiririka (v.) - frigir, fritar OK
 mumarandúa (v.) - convidar OK
@@ -17,7 +21,7 @@ muapisí (v.) - var. muapisika OK
 mukwatiári (v.) - pintar, tingir OK
 isima (adj.) - liso OK
 # ikú (s.) - modo de ser, conduta, moda
-tikú (rikú, sikú) (s.) - costume
+tikú (rikú, sikú) (s.) - costume OK
 #
 # vou abrir issue a respeito
 # esá-pirera (r, s) (lit., pele do olho) (s.)  pálpebra (Avila 2021)
