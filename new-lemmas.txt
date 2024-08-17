@@ -11,17 +11,26 @@ kiwawa (s.) - pente Ok
 muisika (v.) - brear OK
 # amu-itá (s.) - outros
 # amú1 (pron. indef. (s. e adj.))  1) outro (Avila 2021)
-mangarataya (s.) - gengibre
-muapisika (v.) - satisfazer, fartar, saciar
-muapisí (v.) - var. muapisika
-mukwatiári (v.) - pintar, tingir
-isima (adj.) - liso
-ikú (s.) - modo de ser, conduta, moda
-esá-pirera-rawa (s.) - pestana
-mukweré (v.) - aborrecer, enfadar
-maẽ (v.) - ver, enxergar
-ekũi (v.) - var. rekũi
-kawasú (s.) - balde
-yumbuí (v.) - rachar-se, fender-se, partir-se
-yumuĩ (v.) - var. yumbuí
+mangarataya (s.) - gengibre OK
+muapisika (v.) - satisfazer, fartar, saciar OK
+muapisí (v.) - var. muapisika OK
+mukwatiári (v.) - pintar, tingir OK
+isima (adj.) - liso OK
+# ikú (s.) - modo de ser, conduta, moda
+tikú (rikú, sikú) (s.) - costume
+# esá-pirera (r, s) (lit., pele do olho) (s.)  pálpebra (Avila 2021)
+# esá-pirera-rawa (r, s) (lit., pelo da pálpebra) (s.)  pestana (Avila 2021)
+# esá-pirera-rawa (s.) - pestana
+mukweré (v.) - aborrecer, enfadar OK
+# maẽ (v.) - ver, enxergar
+maẽ (v.) -var. maã OK
+#
+# veja issue #500
+# ekũi (v.) - var. rekũi
+#
+kawasú (s.) - balde OK
+#
+# veja issue #293
+yumbuí (v.) - rachar-se, fender-se, partir-se OK
+yumuĩ (v.) - var. yumbuí OK
 
