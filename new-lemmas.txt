@@ -18,9 +18,12 @@ mukwatiári (v.) - pintar, tingir OK
 isima (adj.) - liso OK
 # ikú (s.) - modo de ser, conduta, moda
 tikú (rikú, sikú) (s.) - costume
+#
+# vou abrir issue a respeito
 # esá-pirera (r, s) (lit., pele do olho) (s.)  pálpebra (Avila 2021)
 # esá-pirera-rawa (r, s) (lit., pelo da pálpebra) (s.)  pestana (Avila 2021)
 # esá-pirera-rawa (s.) - pestana
+#
 mukweré (v.) - aborrecer, enfadar OK
 # maẽ (v.) - ver, enxergar
 maẽ (v.) -var. maã OK
@@ -33,6 +36,7 @@ kawasú (s.) - balde OK
 # veja issue #293
 yumbuí (v.) - rachar-se, fender-se, partir-se OK
 yumuĩ (v.) - var. yumbuí OK
-mukweré (v.) - aborrecer, enfadar
-kunhatãi (s.) - menina, garota
-kunhataĩ (s.) - var. kunhatãi
+#
+mukweré (v.) - aborrecer, enfadar OK
+kunhatãi (s.) - menina, garota OK
+kunhataĩ (s.) - var. kunhatãi OK
