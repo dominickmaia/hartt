@@ -1143,7 +1143,6 @@
 # text_source = p. 325, No. 85
 # text_orig = irané kuri kaué ramé, xaiko kurí Tupiaope.
 # text_annotator = Dominick Maia Alexandre
-# wirané poderia ser obl:tmod?
 1	Wirané	wirané	ADV	ADVT	AdvType=Tim	6	advmod	_	TokenRange=0:6
 2	kurí	kurí	PART	FUT	Tense=Fut	6	advmod	_	TokenRange=7:11
 3	kwá	kwá	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	6	advmod	_	TokenRange=12:15
