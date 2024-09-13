@@ -3286,7 +3286,7 @@ p. 373
 751 - ixé menasára yma uán seremirikó omanó uá.
 751 - Ixé menasaraíma wã, se rimirikú umanú wã. 
 751 - Ixé mendasaraíma wã, se rimirikú umanú wã. (Hartt, 373, adap.) - Eu já sou viúvo, minha esposa já faleceu.
-751 - sou viuvo, minha mulher está morta.
+751 - sou viúvo, minha mulher está morta.
 
 752 - omanó pán aintá, néan oyepé opytá.
 752 - Umanú pawa aintá, nẽ wã yepé upitá. (Hartt, 373, adap.) - Morreram todos eles, não restou nenhum.
@@ -3304,11 +3304,11 @@ p. 374
 
 755 - apyáua oár yg pype, oatár iána, omanó.
 755 - Apigawa uwari ipí-pe, uwatari i anga, umanú. (Hartt, 374, adap.) - o homem caiu na água, faltou-lhe o fôlego e ele morreu.
-755 - o homem caiu na agua, faltou-lhe o folego e morreu.
+755 - o homem caiu na água, faltou-lhe o fôlego e morreu.
 
 756 - maiyaué taé neturin ipinínínsa?
 756 - Mayawé taá ne turina i pinimasá?
-756 - qual é a côr das tuas calças?
+756 - qual é a cor das tuas calças?
 
 757 - poité remuñán.
 757 - Puité remunhã. (Hartt, 374, adap.) - Tu falas mentiras.
@@ -3342,11 +3342,11 @@ p. 374
 
 764 - kuaé kúya yuyuká.
 764 - Kwá kuya uyuká.
-764 - essa cúia está quebrada.
+764 - essa cuia está quebrada.
 
 765 - xakutiár xaikó serekúya.
 765 - Xakwatiári xaikú se rekuya.
-765 - estou pintando minha cúia.
+765 - estou pintando minha cuia.
 
 766 - irusán sepysy.
 766 - Irusã se pisika.
@@ -3368,7 +3368,7 @@ p. 375
 
 770 - semuká kuí opan.
 770 - Se mukawakuí upaú.
-770 - minha polvora já se acabou.
+770 - minha pólvora já se acabou.
 
 771 - xaú pan uán.
 771 - Xaú panhẽ wã.
@@ -3376,7 +3376,7 @@ p. 375
 
 772 - auá pesuí, uára taá orekó serekúya?
 772 - Awá pe suí-wara taá urikú se rekuya?
-772 - quem de vós tem minha cúia?
+772 - quem de vós tem minha cuia?
 
 773 - pemeén ixéu.
 773 - Pe meẽ ixéu.
@@ -3384,11 +3384,11 @@ p. 375
 
 774 - saá kurí remopok ñaá kamutí, ixé kurí nenupán?
 774 - Saã kurí remupuka nhaã kamutí, ixé kurí ne nupá?
-774 - se tu quebrares o póte, que hei de te dar?
+774 - se tu quebrares o pote, que hei de te dar?
 
 775 - se kamutí ipó teresem oikó uaríua suí.
 775 - Se kamutí i pura teresemu uikú wariwa suí.
-775 - meu póte está cheio de guariba(cauim).
+775 - meu pote está cheio de guariba(cauim).
 
 776 - se amaniú opororog an ikó ikatú an mira opoóg aráma.
 776 - Se amaniú yupururuka ã ikú i katú ã mira yupuú arama.
@@ -3404,11 +3404,11 @@ p. 375
 
 779 - kamotí tyrysém an oikó(Mauhé).
 779 - Kamutí teresemu ã uikú. (Hartt, 375, adap.) - o pote está cheio.
-779 - o póte está cheio.
+779 - o pote está cheio.
 
 780 - kamutí ipóra.
 780 - Kamutí i pura. (Hartt, 375, adap.) - o pote está cheio.
-780 - o póte está cheio.
+780 - o pote está cheio.
 
 781 - xakér putár ramé, xakér.
 781 - Xakiri-putari ramé, xakiri.
@@ -3444,15 +3444,15 @@ p. 376
 
 788 - seretymá imaraár reté.
 788 - Se retimã i maraari reté. - Minhas pernas estão muito cansadas.
-788 - minhas pernas estão muito cançadas.
+788 - minhas pernas estão muito cansadas.
 
 789 - semaraár xañén reté resé.
 789 - Se maraari ayana reté resé. (Hartt, 376, adap.) - Estou cansado porque corri muito.
-789 - estou cançado de correr tanto.
+789 - estou cansado de correr tanto.
 
 790 - xaputuú mirí rañé.
 790 - Xapituú mirĩ ranhẽ.
-790 - deixa-me descançar um bocado.
+790 - deixa-me descansar um bocado.
 
 791 - Joakin imaasy ikó, oár kauarú ára suí, omopén iyuuá kuyr ikatú mirí uán oikó.
 791 - Joakin i maasí uikú, uwari kawarú ara suí, umupena i yuwá, kuíri i katú mirĩ wana uikú. (Hartt, 376, adap.)
@@ -3506,11 +3506,11 @@ p. 377
 802 - xakakaá xaikó.
 802 - Xakaá-kaá xaikú.
 802 - Akaá-kaá aikú. (Hartt, 377, adap.) - Estou com diarreia.
-802 - tenho diarréa.
+802 - tenho diarreia.
 
 803 - esém, ekóin kyty.
 803 - Esemu, ekũi kití.
-803 - sae, vae-te embora! (ao cachorro).
+803 - sai, vai-te embora! (ao cachorro).
 
 804 - yané kupixáua apykatú óka suí.
 804 - Yané kupixawa apekatú uka suí. (Hartt, 377, adap.) - nossa roça é longe de casa.
@@ -3519,7 +3519,7 @@ p. 377
 805 - semaraár reté xauatá.
 805 - Se maraari reté xawatá.
 805 - Se maraari reté awatá. (Hartt, 376, adap.) - estou cansado de andar.
-805 - estou cançado de andar.
+805 - estou cansado de andar.
 
 806 - maé resé intí remenar putár serúm?
 806 - Maã resé intí remenari-putari se irũ? 
@@ -3543,11 +3543,11 @@ p. 378
 
 810 - muratú áua open-open.
 810 - Muratú awa upena-upena.
-810 - os cabelos do mulato são anélados.
+810 - os cabelos do mulato são anelados.
 
 811 - satamyk ñaé karía áua.
 811 - Satamika nhaã kariwa awa.
-811 - os cabelos daquêle branco são direitos.
+811 - os cabelos daquele branco são direitos.
 
 812 - kuaá itá santán reté, intí xamapog kuáu.
 812 - Kwá itá santá reté, intí xamapuka-kwáu.
@@ -3561,7 +3561,7 @@ p. 378
 814 - kuaá kurumí asú ikyrymáua osú.
 814 - Kwaá kurumiwasú i kirimawa usú.
 814 - Kwaá kurumiwasú i kirimbawasú. (Hartt, 378, adap.) - Este moço é valente.
-814 - este moço é valeroso.
+814 - este moço é valente.
 
 815 - itá iposéi reté.
 815 - Itá i pusé reté.
@@ -3569,7 +3569,7 @@ p. 378
 
 816 - iya uasú reté kuaá ymyrá (Mauhé).
 816 - Iwa wasú reté kwá imirá.
-816 - este páu é muito grosso.
+816 - este pau é muito grosso.
 
 817 - nerytymá ipoí reté.
 817 - Ne ritimã i puí reté.
@@ -3589,12 +3589,12 @@ p. 378
 
 821 - murutín teñé sapé.
 821 - Murutĩ tenhẽ sapé.
-821 - o rasto dêle é branco.
+821 - o rasto dele é branco.
 
 822 - ymyrá yatúk.
 822 - Imirá i atuka. # forma adaptada para incluir no treebank
 822 - Mirá i atuka. (Hartt, 378, adap.) - o pau é baixo.
-822 - o páu é baixo.
+822 - o pau é baixo.
 
 p. 379
 
@@ -3604,15 +3604,15 @@ p. 379
 
 824 - yasó yaxipiak auá iána ipokú.
 824 - Yasú yaxipiaka awá i anga i pukú.
-824 - vamos a ver quem tem o folego mais comprido.
+824 - vamos a ver quem tem o fôlego mais comprido.
 
 825 - ymyrá ipokú reté.
 825 - Imirá i pukú reté.
-825 - o páu é alto (comprido).
+825 - o pau é alto (comprido).
 
 826 - kaué ymyrá ipokú.
 826 - Kwá imirá i pukú.
-826 - este páu é comprido.
+826 - este pau é comprido.
 
 827 - oií seryái reté.
 827 - Uií se riái reté.
@@ -3628,7 +3628,7 @@ p. 379
 
 830 - ayuéte nepáia senupán xasó teñé nerúm.
 830 - Ayuéte ne paya se nupá xasú tenhẽ ne irũ.
-830 - ainda que teu pae me bata vou contigo.
+830 - ainda que teu pai me bata vou contigo.
 
 831 - xaxipiak iepé kuñán mukú oyar kinára resé.
 831 - Xaxipiaka yepé kunhamukú uyari kinara resé.
@@ -3645,21 +3645,21 @@ p. 379
 
 834 - semenasára yma yuyr.
 834 - Se menasaraíma yuíri. *
-834 - sou viuvo(ou viuva).
+834 - sou viúvo (ou viúva).
 
 835 - maé taé ñaé apyáua rera kuesé yayuaintin irúm?
 835 - Maã taá nhaã apigawa rera kwesé yayuantí irũ?
-835 - qual é o nome do homem que encontrámos hontem?
+835 - qual é o nome do homem que encontramos ontem?
 
 p. 380
 
 836 - yasó yamuñán ygára, kaápe, itaya suí.
 836 - Yasú yamunhã igara, kaá-pe, itaíwa suí.
-836 - vamos fazer uma canoa no mato, de itaúba.
+836 - vamos fazer uma canoa no mato de itaúba.
 
 837 - karíua, yuruparí, omuñán marakatiu.
 837 - Kariwa yuruparí, umunhã marakatĩ. (Hartt, 380, adap.) - O branco é o diabo, ele faz navios.
-837 - o branco é o diabo, êle faz navios.
+837 - o branco é o diabo, ele faz navios.
 
 838 - xamoñán kuaú.
 838 - Xamunhã kwáu.
@@ -3667,16 +3667,16 @@ p. 380
 
 839 - nerakykuéra kurí xasó.
 839 - Ne rakakwera kurí xasú.
-839 - hei de ir atraz de ti.
+839 - hei de ir atrás de ti.
 
 840 - maá ymyrá suí resó remuñán neygára?
 840 - Maã imirá suí resú remunhã ne igára? # forma adaptada para incluir no treebank
 840 - Maã mirá suí resú remunhã ne igára? (Hartt, 380, adap.) - de que árvore vai ser feita sua canoa?
-840 - de que madeira vaes construir tua canôa?
+840 - de que madeira vais construir tua canoa?
 
 841 - ymyrá oyamuñán reté.
 841 - Imirá uyumunhã reté. - A árvore cresce bastante.
-841 - o páu cresce muito.
+841 - o pau cresce muito.
 
 842 - xasó xamonóg ñaé ymyrá oar aráma pé árpe intí aráma auá osasáu kuau aerupí.
 842 - Xasú xamunuka nhaã imirá uwari pé árupi, intí arama awá usasá-kwáu árupi. # forma adaptada para incluir no treebank
@@ -3698,7 +3698,7 @@ p. 380
 846 - xauasém iepé uirá reanuéra kaápe.
 846 - Xawasemu yepé wirá riãwera kaá-pe.
 846 - Awasemu yepé wirá riãwera kaá-pe. (Hartt, 380, adap.) - Achei um pássaro morto no mato.
-846 - achei um passaro morto no mato.
+846 - achei um pássaro morto no mato.
 
 847 - rerekó será urusakána purána né «vizinho» suí? # urusakanga [hist.] (var. rusakã [hist.]; urasukanga [hist.]; urusakã [hist.]) (s.)  URUÇACANGA, cesto cilíndrico feito de cipó trançado, carregado às costas e suspenso por alça em torno da cabeça (Avila 2021)
 847 - Rerikú será urusakã purã ne "vizinho" suí? # * uakiwara? [Leonel: Não entendi isso esse "* #uakiwara?". Pode explicar em issue do repositório principal?]
@@ -3716,11 +3716,11 @@ p. 380
 
 850 - epurú nekysáua ixéu.
 850 - Epurú ne kisawa ixéu. - Empresta-me tua rede!
-850 - empresta-me tua rêde.
+850 - empresta-me tua rede!
 
 851 - aé intí opurú putár ixéu.
 851 - Aé intí upurú-putari ixéu. - Ele não queria emprestá-la para mim.
-851 - êle não queria emprestá-la.
+851 - ele não queria emprestá-la.
 
 852 - emaén mikyty (Mundurucú)!
 852 - Emaẽ mikití! - Olha para lá!
@@ -3728,4 +3728,4 @@ p. 380
 
 853 - esém okára kyty!
 853 - Esemu ukara kití! - Saia para fora!
-853 - sáe para fóra!
+853 - saia para fora!
