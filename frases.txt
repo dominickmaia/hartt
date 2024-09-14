@@ -2972,19 +2972,19 @@ p. 368
 680 - intí xakuáu katú maé oñeén.
 680 - Inti xakwáu katú maã unheẽ.
 680 - Ti akwáu katú maã unheẽ. (Hartt, 368, adap.) - não entendo bem o que ele disse.
-680 - não entendo o que êle disse.
+680 - não entendo o que ele disse.
 
 681 - intí xakuáu katú maá apyáua oñeén ixéu, ñaá.
 681 - Inti xakwáu katú maã apigawa unheẽ ixéu, nhaã.
-681 - não entendo bem o que aquêle homem me diz.
+681 - não entendo bem o que aquele homem me diz.
 
 682 - kuaá apyáua intí iñeéna omosém katú.
 682 - Kwá apigawa ti i nheenga umusemu katú. (Hartt, 368, adap.) - Este homem é gago.
-682 - êste homem é gago.
+682 - este homem é gago.
 
 683 - Joáun omosém reté kuruten uára iñeéna, ñaé resé intí xakuáu maá oñeén.
 683 - João umusemu reté kurutẽiwara i nheenga, nhaã resé intí xakwáu maã unheẽ.
-683 - João fala tão ràpidamente, que não entendo o que diz.
+683 - João fala tão rapidamente, que não entendo o que diz.
 
 684 - ñeénga katú rupí intí iuasú mayué Mundurukú itá ñeénga rupí.
 684 - Nheenga-katú rupí ti iwasú mayé mundurucú-itá nheenga rupí. (Hartt, 368, adap.) - Em língua geral não é tão difícil como na língua dos mundurucus.
@@ -3006,15 +3006,15 @@ p. 369
 
 688 - koromó teé aintá oñeén seresé!
 688 - Kurumú taá aintá unheẽ se resé! (Hartt, 369, adap.) - Pode ser que eles tenham falado contra mim!
-688 - pode ser que êles falaram contra mim.
+688 - pode ser que eles falaram contra mim.
 
 689 - koromó tée aintá seakáu ygára resé.
 689 - Kurumú taá aintá se yakáu igara resé. *
-689 - pode ser que êles me ralharam por causa da canoa.
+689 - pode ser que eles me ralharam por causa da canoa.
 
 690 - suyrúm kuá apyáua, oñeén teé teé amuitá resé.
 690 - Suirũ kwá apigawa, unheẽ teé-teé amú-itá resé. (Hartt, 369, adap.) - Este homem é malicioso, ele fala mal dos outros.
-690 - êste homem é malicioso, êle fala mal dos outros.
+690 - este homem é malicioso, ele fala mal dos outros.
 
 691 - teñé inti eñeén puxí ne kamarára resé, intí katú.
 691 - Tenhẽ intí enheẽ puxí ne kamarara resé, intí katú.
@@ -3096,7 +3096,7 @@ p. 370
 
 709 - ñaá apyáua ñún teñe oyasaysú.
 709 - Nhaã apigawa nhũ tenhẽ uyasaisú.
-709 - aquêle homem não ama senão a si mesmo.
+709 - aquele homem não ama senão a si mesmo.
 
 710 - xaryry irusán irúm.
 710 - Xarirí irusã irũ.
@@ -3105,7 +3105,7 @@ p. 370
 
 711 - kuaá apyáua ára yaué okaú oikó.
 711 - Kwá apigawa ara yawé ukaú uikú. (Hartt, 370, adap.) - este homem está se embebedando todos os dias.
-711 - êste homem está bêbedo todos os dias.
+711 - este homem está bêbedo todos os dias.
 
 712 - maeresé intí remuyasúk kuaé maeitá ikyá uaé?
 712 - Maã resé ti remuyasuka kwaá maãitá i kiá waá? (Hartt, 370, adap.) - Por que não lavas a roupa suja?
@@ -3173,7 +3173,7 @@ p. 371
 726 - xamueté putár kuaá tupána.
 726 - Xamueté-putari kwá tupana.
 726 - Amueté-putari kwá tupana. (Hartt, 371, adap.) - Quero festejar este santo.
-726 - quero festejar êste santo.
+726 - quero festejar este santo.
 
 p. 372
 
@@ -3222,7 +3222,7 @@ p. 372
 
 737 - ixé intí xamuyuruyar apyáua ur kurutén uára.
 737 - Ixé intí xamuruyari apigawa uri kurutẽiwara.
-737 - eu não acreditava que o homem viesse cêdo.
+737 - eu não acreditava que o homem viesse cedo.
 
 738 - amaniú opororóg oikó.
 738 - Xamaniú upururuka uikú.
