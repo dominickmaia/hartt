@@ -1855,7 +1855,7 @@ p. 350
 
 424 - ikatú ñúnte.
 424 - I katú nhunte.
-424 - bom sómente.
+424 - bom somente.
 
 425 - peñeén petitúa.
 425 - Penhẽ pe pitúa. (Hartt, 350, adap.) - Vós estais com preguiça.
@@ -1883,7 +1883,7 @@ p. 350
 
 431 - maá pyry remuñán reikó kuaé karúg ate kuyr?
 431 - Maã piri remunhã reikú kwaá karuka até kuíri?
-431 - o que estás fazendo até esta hora da tarde.
+431 - o que estás fazendo até esta hora da tarde?
 
 432 - xatumuñeén xaikó.
 432 - Xatumunheẽ xaikú. # forma adaptada para anotar e incluir no treebank
@@ -1923,7 +1923,7 @@ p. 351
 
 440 - aé yguisé oikó.
 440 - Aé i yusé uikú.
-440 - êle está com sêde.
+440 - ele está com sede.
 
 441 - yukeuá oikó setyn.
 441 - Uyukindawa uikú se tĩ. (Hartt, 351, adap.) - Meu nariz está tapado.
@@ -1931,7 +1931,7 @@ p. 351
 
 442 - se akánga sasy.
 442 - Se akanga sasí. (Hartt, 351, adap.). Dói-me a cabeça.
-442 - dóe-me a cabeça.
+442 - doi-me a cabeça.
 
 443 - xasó raén xak sepusána.
 443 - Xasú ranhẽ - se pusanga. *
@@ -1943,7 +1943,7 @@ p. 351
 
 445 - maá taá ne maasy sáua?
 445 - Maã taá ne maasisawa? (Hartt, 351, adap.) - O que é a tua moléstia?
-445 - o que é tua moléstia?
+445 - o que é a tua moléstia?
 
 446 - kurumí intí yapumó kuaú.
 446 - Kurumĩ intí yapumi kwáu.
@@ -1978,7 +1978,7 @@ p. 352
 
 453 - yasó mené rupí.
 453 - Yasú mewé rupí! (Hartt, 352, adap.) - Vamos devagar!
-453 - vamos de vagar!
+453 - vamos devagar!
 
 454 - xasó ygapyra kyty.
 454 - Xasú igapira kití.
@@ -2006,12 +2006,12 @@ p. 352
 
 460 - kuaá ymyrá oikó pokú muyr akaiú-póra.
 460 - Kwaá imirá uikupukú muíri akayú pura. (Hartt, 352, adap.) - Este pau dura muitos anos completos.
-460 - êste pau dura muitos anos.
+460 - este pau dura muitos anos.
 
 461 - intí oyuyasú oikó, aramé eyasuí.
 461 - Intí uyuyasuí uikú, aramé eyasuí. # forma adaptada para anotar e incluir no treebank
 461 - Ti uyuyasuí uikú, aramé reyasuí. (Hartt, 352, adap.) - Não está coberto, então cobre.
-461 - não está coberto, então cobre-o.
+461 - não está coberto, então cubra-o.
 
 462 - kuaá kuñán yumyrum oikó, ipyá aiyú resé.
 462 - Kwaá kunhã uyumirú uikú i piaíwa resé. (Hartt, 352, adap.) - Esta mulher está desconfiada por estar irritada.
@@ -2019,7 +2019,7 @@ p. 352
 
 463 - áre, arekó pokú reté án teñé.
 463 - Aé, arikú pukú reté ã tenhẽ.
-463 - êle está se demorando muito.
+463 - ele está demorando muito.
 
 464 - kuaá ymyrá intí katú.
 464 - Kwaá imirá intí katú.
@@ -2039,7 +2039,7 @@ p. 353
 467 - sapukáia omomor iepé supiá.
 467 - Sapukaya umumuri yepé supiá.
 467 - Sapukaya umumburi yepé supiá. (Hartt, 353, adap.) - A galinha botou um ovo.
-467 - a galinha poz um ovo.
+467 - a galinha pôs um ovo.
 
 468 - ygára osy ramé xasó sepatráun kyty.
 468 - Igara usika ramé xasú se patrãu kití.
@@ -2074,7 +2074,7 @@ canoa].
 475 - Xasú xakapiri se kupixawa, yaitiwa reté uikú. # forma adaptada para anotar e incluir no treebank
 475 - Asú akapiri se kupixawa, yaitiwa reté uikú. (Hartt, 353, adap.) - Vou capinar minha
 roça, está muito cerrada.
-475 - vou capinar minha roça, está muito serrada.
+475 - vou capinar minha roça, está muito cerrada.
 
 476 - xayuyr putár takykuéra kyty.
 476 - Xayuíri putari takakwera kití.
@@ -2086,7 +2086,7 @@ roça, está muito cerrada.
 
 478 - xamukayem serekúya.
 478 - Xamukanhemu se rekuya.
-478 - tenho perdido minha cúia.
+478 - tenho perdido minha cuia.
 
 p. 354
 
