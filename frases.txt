@@ -2150,7 +2150,7 @@ p. 354
 
 491 - tuyaé intí uán orekó iaña, yopiróg uán iakána.
 491 - Tuyué ti wã urikú i awa, uyupiruka wã i akanga. (Hartt, 354, adap.) - O velho não tem mais cabelos, sua cabeça já está pelada.
-491 - o velho já não tem cabelos, a cabeça dêle está calva.
+491 - o velho já não tem cabelos, a cabeça dele está calva.
 
 492 - ituyaé uán.
 492 - I tuyué wã.
@@ -2160,12 +2160,12 @@ p. 355
 
 493 - xasapy sepy, or yg opupôr ipupé.
 493 - 
-493 - queimei meu pé, água quente caiu nele.
+493 - queimei meu pé, a água quente caiu nele.
 
 494 - kuaá ymyrá setá reté iké.
 494 - Kwaá imirá setá reté iké. # forma adaptada para anotar e incluir no treebank
 494 - Kwaá mirá setá reté iké. (Hartt, 355, adap.) - Este pau é muito abundante aqui.
-494 - êste pau é muito abundante aqui.
+494 - este pau é muito abundante aqui.
 
 495 - ixé intí neyaué.
 495 - Ixé intí ne yawé.
@@ -2185,7 +2185,7 @@ p. 355
 
 499 - xauasém iepé kúia ygarupápe.
 499 - Xawasemu yepé kuya igarupawa.
-499 - achei uma cuia no pôrto.
+499 - achei uma cuia no porto.
 
 500 - káua opí tayna.
 500 - Kawa upií taína. (Hartt, 335, adap.) - A caba ferrou a criança.
@@ -2193,7 +2193,7 @@ p. 355
 
 501 - kuaá apyáua intí maé aráma.
 501 - Kwaá apigawa intí maã arama.
-501 - êste homem não vale de nada.
+501 - este homem não vale de nada.
 
 502 - kuaá kuñán mukú intí rañé okuáu maé resé uára.
 502 - Kwaá kunhamukú intí ranhẽ ukwáu maã resewara. # forma adaptada para anotar e incluir no treebank
@@ -2207,7 +2207,7 @@ p. 355
 
 504 - xapoóg uán iyá suí.
 504 - Xapuú wã iyá suí.
-504 - já o apanhei da arvore.
+504 - já o apanhei da árvore.
 
 505 - ixé xakuáu auá orekó.
 505 - Ixé xakwáu awa urikú.
@@ -2215,13 +2215,13 @@ p. 355
 
 506 - reyupir kuáu uasai yá rupí?
 506 - Reyupiri kwáu wasaí ya rupí?
-506 - podes trepar no assahizeiro?
+506 - podes trepar no açaizeiro?
 
 p. 356
 
 507 - ñaá apyáua intí omuñán kuáu i arapáun yá.
 507 - Nhaã apigawa intí umunhã kwáu i arapáun ya. *
-507 - aquêle homem não sabe fazer sua hóstia.
+507 - aquele homem não sabe fazer sua hóstia.
 
 508 - uaraná oxirik reté an.
 508 - Waraná uxirika retana. (Hartt, 356, adap.) - O guaraná está bastante torrado.
@@ -2229,11 +2229,11 @@ p. 356
 
 509 - paué osó oposanun kaápe.
 509 - Payé usú upusanú kaá-pe. (Hartt, 356, adap.) - O pajé foi curar no mato.
-509 - o pagé foi curar no mato.
+509 - o pajé foi curar no mato.
 
 510 - kuaá tenáua intí imaasy orekó.
 510 - Kwaá tenawa intí i maasí urikú.
-510 - êste lugar é sadio.
+510 - este lugar é sadio.
 
 511 - kuyr katú ig irusán oikó.
 511 - Kuíri katú ií irusã uikú.
@@ -2245,7 +2245,7 @@ p. 356
 
 513 - yasó yapysy yané pyá.
 513 - Yasú yapisika yané piá.
-513 - vamos pegar nossos estomagos.
+513 - vamos pegar nossos estômagos.
 
 514 - xasó xayupír yuytíra árpe.
 514 - Xasú xayupiri iwitera árupi.
@@ -2254,16 +2254,16 @@ p. 356
 515 - hombó sexapéa seakána aápe (Ereré).
 515 - Amumuri se xapewa se akanga árupi. # forma adaptada para anotar e incluir no treebank
 515 - Amumburi se xapewa se akanga árupi. (Hartt, 356, adap.) - Ponho meu chapéu sobre a cabeça.
-515 - mete meu chapeu na cabeça.
+515 - mete meu chapéu na cabeça.
 
 516 - xainú sexapéa se akána árpe.
 516 - Xainú se xapewa se akanga árupi. # forma adaptada para anotar e incluir no treebank
 516 - Ainú se xapewa se akanga árupi. (Hartt, 356, adap.) - Ponho meu chapéu sobre a minha cabeça
-516 - ponho o chapeu de palha da mulher?
+516 - ponho o chapéu de palha da mulher?
 
 517 - rerekó será kuñán xapéua pináua suí uára?
 517 - Rerikú será kunhã xapewa pinawa suiwara?
-517 - tens o chapeu de palha da mulher?
+517 - tens o chapéu de palha da mulher?
 
 518 - ixé intí menasára.
 518 - Ixé intí menasara.
@@ -2282,7 +2282,7 @@ p. 357
 
 521 - kuaá xerína kamyg yaiyún án.
 521 - Kwaá siringa kambí - ã. *
-521 - êste leite de seringa já coalhou.
+521 - este leite de seringa já coalhou.
 
 522 - itá senypó.
 522 - Itá sinipuka. (Hartt, 357, adap.) - A pedra luze.
@@ -2302,7 +2302,7 @@ p. 357
 
 526 - óka ayúa okukúi pan.
 526 - Uka aíwa ukukúi pá wã. (Hartt, 357, adap.) - A casa antiga já caiu toda.
-526 - a casa antiga já caiu tôda.
+526 - a casa antiga já caiu toda.
 
 527 - se peyú iné!
 527 - Se peyú iné!
@@ -2314,7 +2314,7 @@ p. 357
 
 529 - pirayauára osekyi yuytú ikó.
 529 - Pirayawara usikí iwitú ikú.
-529 - o bôto está tomando respiração.
+529 - o boto está tomando respiração.
 
 530 - hasó sayn sekamutí hapurakár.
 530 - Asú sanhẽ se kamutí apurakari.
@@ -2323,11 +2323,11 @@ p. 357
 531 - ekoin epurakár yg kamutí opé.
 531 - Ekũi epurakari ií kamutí upé. # forma adaptada para anotar e incluir no treebank
 531 - Resú repurakari ií kamutí upé. (Hartt, 357, adap.) - Vá encher o pote de água.
-531 - vá encher a agua no póte.
+531 - vá encher a água no pote.
 
 532 - emunéu sekysé senáua opé.
 532 - Emunéu se kisé senawa upé.
-532 - metí minha faca na bainha.
+532 - meti minha faca na bainha.
 
 533 - emeén suaxára ixéu.
 533 - Emeẽ suaxara ixéu. # forma adaptada para anotar e incluir no treebank
@@ -2352,7 +2352,7 @@ p. 358
 
 537 - kuyéra ymyrá suiuára.
 537 - Kuyera imirá suiwara.
-537 - colher de páu.
+537 - colher de pau.
 
 538 - emukameén ixéu pé.
 538 - Emukameẽ ixéu pé.
@@ -2392,7 +2392,7 @@ p. 358
 546 - a lua já está escura.
 
 547 - a lua está mingoando.
-547 - a lua está mingoando.
+547 - a lua está minguando.
 
 548 - yasy suá uasú oikó.
 548 - Yasí suawasú uikú.
@@ -2402,7 +2402,7 @@ p. 359
 
 549 - karúk ramé án osyk.
 549 - Karuka ramé ã usika.
-549 - êle chegou de tarde.
+549 - ele chegou de tarde.
 
 550 - putún uasú án kuyr.
 550 - Putuna wasú ã kuíri.
@@ -2443,11 +2443,11 @@ p. 359
 
 559 - rerikó será se asukerí katú?
 559 - Rerikú será se asukirí katú?
-559 - tens o meu bom açucar?
+559 - tens o meu bom açúcar?
 
 560 - aé riré apyrypan yukyra omukaén putár ipirá.
 560 - Aé riré apiripana yukira umukaẽ putari i pirá.
-560 - depois de comprar sal êle quer muquear seu peixe.
+560 - depois de comprar sal ele quer moquear seu peixe.
 
 561 - kyyña tái reté.
 561 - Kiinha tái reté. (Hartt, 359, adap.) - A pimenta é muito ardida.
@@ -2473,7 +2473,7 @@ p. 360
 
 566 - se pakóa iyúg án (Santarem).
 566 - Se pakúa i yuka ã. (Hartt, 360, adap.) - Minhas bananas já apodreceram.
-566 - minhas pacóvas estão podres.
+566 - minhas pacovás estão podres.
 
 567 - opáin maé oatár ixéu.
 567 - Panhẽ maã uwatari ixéu.
