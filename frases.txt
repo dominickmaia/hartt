@@ -1267,8 +1267,8 @@ p. 340
 287 - A vaca está ruminando.
 
 288 - ekóin esupúr semiára ixupé.
-288 - Ekũi esupiri semiára ixupé.
-288 - Vai levar minha caça a ele.
+288 - Ekũi esupiri semiára i xupé.
+288 - Vá levar minha caça para ele.
 
 289 - ekóin epysyk ñaá parauá, xamonóg putár sepepó.
 289 - Ekũi episika nhaã parawá, xamunuka-putari se pepú.
