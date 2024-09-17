@@ -1235,6 +1235,32 @@
 2	uyusuú	suú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	SpaceAfter=No|TokenRange=7:13
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:14
 
+# sent_id = Hartt1938:0:0:244
+# text = Maã taá reruri yanéu?
+# text_por = O que você trouxe para nós?
+# text_source = p. 337, No. 244
+# text_orig = maá taá rerúr yanéu?
+# text_annotator = Dominick Maia Alexandre
+1	Maã	maã	PRON	INT	PronType=Int	3	obj	_	TokenRange=0:3
+2	taá	taá	PART	CQ	PartType=Int	3	advmod	_	TokenRange=4:7
+3	reruri	ruri	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=8:14
+4	yanéu	yanéu	PRON	PROND	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	_	SpaceAfter=No|TokenRange=15:21
+5	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=21:22
+
+# sent_id = Hartt1938:0:0:288
+# text = Ekũi esupiri semiára i xupé.
+# text_por = Vá levar minha caça para ele.
+# text_source = p. 340, No. 288
+# text_orig = ekóin esupúr semiára ixupé.
+# text_annotator = Dominick Maia Alexandre
+# inputline = Ekũi esupiri semiára i xupé.
+1	Ekũi	sú	AUX	AUXFR	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	aux	_	TokenRange=0:4
+2	esupiri	supiri	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:12
+3	semiára	semiára	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	2	obj	_	TokenRange=13:20
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	iobj	_	TokenRange=21:22
+5	xupé	xupé	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=23:27
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=27:28
+
 # sent_id = Hartt1938:0:0:847
 # text = Rerikú será urusakã purã ne "vizinho" suí?
 # text_eng = Do you have your neighbor's beautiful pannier?
