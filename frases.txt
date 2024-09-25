@@ -1412,7 +1412,7 @@ p. 342
 
 322 - oyatítí reté pirá.
 322 - Uyatití reté pirá. (Hartt, 342, adap.) - Matou muito peixe.
-322 - matou (arrazou) muito peixe.
+322 - matou (arrasou) muito peixe.
 
 323 - yasó yasykyí pirá miri.
 323 - Yasú yasikí pirá mirĩ.
@@ -1425,7 +1425,7 @@ p. 342
 325 - xasó xapirakér.
 325 - Xasú xapirakera. # forma adaptada para anotar e incluir no treebank
 325 - Asú apirakera. (Hartt, 342, adap.) - Vou fachear.
-325 - vou faxinar(faxiar).
+325 - vou fachear.
 
 326 - resasáu aiyú kuaé pytúna?
 326 - Resasá aíwa kwaá pituna? (Hartt, 342, adap.) - Passaste mal a noite?
@@ -1435,7 +1435,7 @@ p. 343
 
 327 - iné intí rekér katú, repiralér ipó resé.
 327 - Iné intí rekiri katú, ... i pura resé. *
-327 - tu não dormiste bem, porque parece que estavas faxinando.
+327 - tu não dormiste bem, porque parece que estavas facheando.
 
 328 - yasó yapinaityk.
 328 - Yasú yapinaitika.
