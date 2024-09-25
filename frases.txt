@@ -1472,7 +1472,7 @@ p. 343
 
 336 - intí neresarái sesuí, remanuár teñe seresé.
 336 - Intí ne resarái se suí, remanduári tenhẽ se resé.
-336 - não te esqueças de mim, tu sempre has de te lembrar de mim.
+336 - não te esqueças de mim, tu sempre há de te lembrar de mim.
 
 337 - neresarái uán.
 337 - Ne resarái wã.
@@ -1485,7 +1485,7 @@ p. 343
 339 - kuaé yauára mirí intí será nerimáua?
 339 - Kwá yawara mirĩ intí será ne rimawa? # forma adaptada para anotar e incluir no treebank
 339 - Kwá yawara mirĩ ti será ne rimbawa? (Hartt, 343, adap.) - Esse cachorrinho não é teu [animal de estimação]?
-339 - êsse cachorrinho, não é teu?
+339 - esse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
 340 - Inti xakwáu awa rimawa.
@@ -1503,12 +1503,12 @@ p. 344
 
 343 - tatatína intí katú ikó, ipixé asú ikó.
 343 - Tatatinga inti katú ikú, i pixé asú ikú.
-343 - a fumaça não está bôa, cheira mal.
+343 - a fumaça não está boa, cheira mal.
 
 344 - santán reté ymyrá, intí opén.
 344 - Santá reté imirá, intí upena. # forma adaptada para anotar e incluir no treebank
 344 - Santá reté mirá, ti upena. (Hartt, 344, adap.) - O pau é muito duro, não quebra.
-344 - o pau é muito duro, não québra.
+344 - o pau é muito duro, não quebra.
 
 345 - tatatína sasy reté seresápe.
 345 - Tatatinga sasí reté se resá-pe.
@@ -1528,11 +1528,11 @@ p. 344
 
 349 - apykatú reté será ygarupáua?
 349 - Apekatú reté será igarupawa?
-349 - é muito longe o pôrto?
+349 - é muito longe o porto?
 
 350 - resó uán será ygarupápe?
 350 - Resú wã será igarupawa?
-350 - já foste no pôrto?
+350 - já foste no porto?
 
 351 - intí rañé.
 351 - Intí ranhẽ.
@@ -1549,7 +1549,7 @@ p. 344
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
 354 - Xamunú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
-354 - mando minha canôa á vila para voltar depois de amánhã.
+354 - mando minha canoa à vila para voltar depois de amanhã.
 
 p. 345
 
@@ -1568,7 +1568,7 @@ p. 345
 358 - xasó xamupuám sekysáua setiára resé.
 358 - Xasú xamupuãmu se kisawa se tiãnha resé. # forma adaptada para anotar e incluir no treebank
 358 - Asú amupuãmu se kisawa se tiãnha resé. (Hartt, 345, adap.) - Vou suspender minha rede aos meus esteios.
-358 - vou suspender minha rêde aos esteios.
+358 - vou suspender minha rede aos esteios.
 
 359 - máme taá yasó yaker?
 359 - Mamé taá yasú yakiri?
@@ -1593,11 +1593,11 @@ p. 345
 364 - amána okyr ramé intí xasó.
 364 - Amana ukiri ramé, intí xasú. # forma adaptada para anotar e incluir no treebank
 364 - Amana ukiri ramé, ti asú. (Hartt, 345, adap.) - Se chover, eu não vou.
-364 - se chuver não vou.
+364 - se chover não vou.
 
 365 - kurí mirí amána okyr.
 365 - Kurí mirĩ amana ukiri.
-365 - ha de chuver logo.
+365 - há de chover logo.
 
 366 - oií pytun sekér aiyú xaikó seretáma pupe.
 366 - Uií pituna se kiriaíwa xaikú se retama pupé. # forma adaptada para anotar e incluir no treebank
@@ -1629,7 +1629,7 @@ p. 346
 
 371 - xaár semáiña marika suí mytuú uasú áraopé.
 371 - Xawari se maĩ marika suí mituuwasú ara upé.
-371 - nascí no domingo da Páscoa.
+371 - nasci no domingo da Páscoa.
 
 372 - ixé kurumí asú reté.
 372 - Ixé kurumĩ asú reté.
@@ -1646,11 +1646,11 @@ p. 346
 375 - sekumutí oyaryg án, intí án teresém.
 375 - Se kamutí uyaruka ã, intí ã teresemu. # forma adaptada para anotar e incluir no treebank
 375 - Se kamutí uyaruka ã, ti ã teresemu. (Hartt, 346, adap.) - Meu pote teve seu conteúdo diminuído, não está mais cheio.
-375 - meu pote está vasio.
+375 - meu pote está vazio.
 
 376 - emoakú yg!
 376 - Emuakú ií!
-376 - aguenta a agua!
+376 - aguenta a água!
 
 377 - ixé xakuáu iné remanuár seresé.
 377 - Ixé xakwáu iné remanduári se resé.
@@ -1680,7 +1680,7 @@ p. 347
 
 383 - semaníya rapó tiarún oikó ikatú yayurá aráma.
 383 - Se maniiwa rapú tinharú uikú, i katú yayurá arama. (Hartt, 347, adap.) - A raiz da mandioca já está madura, está boa para desmancharmos [em farinha]
-383 - a mandioca já está madura e boa para se desmanchár em farinha.
+383 - a mandioca já está madura e boa para se desmanchar em farinha.
 
 384 - akutí oú reté semaniók.
 384 - Akutí uú reté se maniáka.
@@ -1704,7 +1704,7 @@ p. 347
 
 389 - oyuir án será paraná?
 389 - Uyuíri ã será paraná? (Hartt, 347, adap.) - Já vazou o rio?
-389 - já vasou o rio? (maré).
+389 - já vazou o rio? (maré).
 
 390 - maá taá xañeén kuesé inéu, rekuáu será?
 390 - Maã taá xanheẽ kwesé inéu, rekwáu será?
@@ -1768,7 +1768,7 @@ p. 348
 
 404 - moyr akayú án taá orekó!
 404 - Muíri akaiú ã taá urikú!
-404 - quantos anos já tem êle?
+404 - quantos anos já tem ele?
 
 405 - ixé hakéri yuype(Ereré).
 405 - Ixé akiri iwí-pe.
@@ -1780,7 +1780,7 @@ p. 348
 
 407 - aé omuyasúk paratú.
 407 - Aé umuyasuka paratú.
-407 - êle lava o prato.
+407 - ele lava o prato.
 
 408 - Maria omuyasúk ñaé karía mirí.
 408 - Maria umuyasuka nhaã kariwa mirĩ.
@@ -1788,7 +1788,7 @@ p. 348
 
 409 - okayára intí oikó aápe xaikó ramé.
 409 - Uka yara intí uikú aape xaikú ramé.
-409 - o dono da casa não estava lá quando eu estava em casa dêle.
+409 - o dono da casa não estava lá quando eu estava na casa dele.
 
 p. 349
 
@@ -1819,7 +1819,7 @@ p. 349
 
 416 - kuekatú kurí Kurupatuguára itá.
 416 - Kwekatú kurí Kurupatiwara-itá.
-416 - lembranças aos habitantes de Monte-Alegre.
+416 - lembranças aos habitantes de Monte Alegre.
 
 417 - xasó rañé, ate irané, tupána putár ramé.
 417 - Xasú ranhẽ, até wirané, tupana putari ramé. # forma adaptada para anotar e incluir no treebank [Leonel: veja no treebank como anotar formas sem prefixo pessoal, procure por Style=]
