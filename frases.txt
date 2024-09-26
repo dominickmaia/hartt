@@ -2344,330 +2344,330 @@ p. 358
 535 - ixé xamuñán kár seuaráia yaxitára suí.
 535 - Ixé xamunhã-kari se waraya yasitara suí. # forma adaptada para anotar e incluir no treebank
 535 - Ixé amunhã-kari se waraya yasitara suí. (Hartt, 358, adap.) - Eu mandei fazer meu balaio de jacitara.
-535 - eu mandei fazer meu balaio de jacitara.
+535 - Eu mandei fazer meu balaio de jacitara.
 
 536 - xarekó mokoin apyká, muyepé itaya suiuára, amú yakaiaká sui uára.
 536 - Xarikú mukũi apikawa, yepé itaíwa suiwara, amú yakayaká suiwara.
-536 - tenho dois bancos, um de itaúba, outro de cedro.
+536 - Tenho dois bancos, um de itaúba, outro de cedro.
 
 537 - kuyéra ymyrá suiuára.
 537 - Kuyera imirá suiwara.
-537 - colher de pau.
+537 - Colher de pau.
 
 538 - emukameén ixéu pé.
 538 - Emukameẽ ixéu pé.
-538 - mostra-me o caminho.
+538 - Mostra-me o caminho.
 
 539 - xasó suaináua kyty.
 539 - Xasú suainawa kití.
-539 - vou para a outra banda.
+539 - Vou para a outra banda.
 
 540 - maá rupí taá nerapé?
 540 - Marupí taá ne rapé? (Hartt, 358, adap.) - Por onde é o teu caminho?
-540 - para onde está teu caminho?
+540 - Para onde está teu caminho?
 
 541 - maé ára taé kuaé?
 541 - Maã ara taá kwaá?
-541 - que dia é hoje?
+541 - Que dia é hoje?
 
 542 - mytuú.
 542 - Mituú. 
-542 - domingo.
+542 - Domingo.
 
 543 - seróka ikó ygapyra kyty uaiasy okaimáua kyty.
 543 - Se ruka ikú igapira kití warasí uka i mawa kití.
-543 - minha casa está para cima para onde assenta o sol.
+543 - Minha casa está para cima para onde assenta o sol.
 
 544 - seróka oikó marupí uarasy osém.
 544 - Se ruka uikú marupí warasí usemu.
-544 - minha casa está onde o sol nasce.
+544 - Minha casa está onde o sol nasce.
 
 545 - yasy pysasú oerúr amána.
 545 - Yasí-pisasú ururi amana.
-545 - a lua nova traz chuva.
+545 - A lua nova traz chuva.
 
 546 - yasy suuyk uán.
 546 - Yasí sumika wã.
 546 - Yasí sumbika wã. (Hartt, 358, adap.) - A Lua já está escura.
-546 - a lua já está escura.
+546 - A lua já está escura.
 
 547 - a lua está mingoando.
-547 - a lua está minguando.
+547 - A lua está minguando.
 
 548 - yasy suá uasú oikó.
 548 - Yasí suawasú uikú.
-548 - a lua está cheia.
+548 - A lua está cheia.
 
 p. 359
 
 549 - karúk ramé án osyk.
 549 - Karuka ramé ã usika.
-549 - ele chegou de tarde.
+549 - Ele chegou de tarde.
 
 550 - putún uasú án kuyr.
 550 - Putuna wasú ã kuíri.
-550 - já é noite.
+550 - Já é noite.
 
 551 - yuatí mirí raén oikó uarasy.
 551 - Iwaté mirĩ ranhẽ uikú warasí.
-551 - o sol ainda está um bocado alto.
+551 - O sol ainda está um bocado alto.
 
 552 - yané pytúna.
 552 - Yané pituna.
-552 - boa noite.
+552 - Boa noite.
 
 553 - adéu okayára!
 553 - Adéu uka yara! (Hartt, 359, adap.) - Ó de casa!
-553 - oh! da casa!
+553 - Oh! da casa!
 
 554 - mayaué taé oikó nemíraitá?
 554 - Mayawé taá uikú ne mira-itá?
-554 - como está tua família?
+554 - Como está tua família?
 
 555 - ikatú ñúnte ikó, intí auá imasy.
 555 - I katú nhunte ikú, intí awa i maasí.
-555 - assim, assim, ninguém está doente.
+555 - Assim, assim, ninguém está doente.
 
 556 - indaué, yané pytúna.
 556 - Inawé, yané pituna.
-556 - até o mesmo, boa noite.
+556 - Até o mesmo, boa noite.
 
 557 - xayusyú putár sepó yg irúm, xamutikan putár toáia irúm.
 557 - Xayusí-putari se pú ií irũ, xamutikanga-putari tuáya irũ. # forma adaptada para anotar e incluir no treebank
 557 - Ayusí-putari se pú ií irumu, amutikanga-putari tuáya irumu. (Hartt, 359, adap.) – Quero limpar minhas mãos com água e enxugá-las com uma toalha.
-557 - quero limpar minhas mãos com água e enxugá-las numa toalha.
+557 - Quero limpar minhas mãos com água e enxugá-las numa toalha.
 
 558 - xaú rañé kafé.
 558 - Xaú ranhẽ kafé.
-558 - deixe-me primeiro beber café.
+558 - Deixe-me primeiro beber café.
 
 559 - rerikó será se asukerí katú?
 559 - Rerikú será se asukirí katú?
-559 - tens o meu bom açúcar?
+559 - Tens o meu bom açúcar?
 
 560 - aé riré apyrypan yukyra omukaén putár ipirá.
 560 - Aé riré apiripana yukira umukaẽ putari i pirá.
-560 - depois de comprar sal ele quer moquear seu peixe.
+560 - Depois de comprar sal ele quer moquear seu peixe.
 
 561 - kyyña tái reté.
 561 - Kiinha tái reté. (Hartt, 359, adap.) - A pimenta é muito ardida.
-561 - a pimenta arde muito.
+561 - A pimenta arde muito.
 
 p. 360
 
 562 - kyyña ikatú reté oyiók aráma yatyymsá.
 562 - Kiinha i katú reté ayuuka arama atiima. *
-562 - pimenta é boa para tirar preguiça.
+562 - Pimenta é boa para tirar preguiça.
 
 563 - kurutén eú ñaá pakúa.
 563 - Kurutẽi reú nhaã pakúa. * 
-563 - come depressa aquela banana.
+563 - Come depressa aquela banana.
 
 564 - itauá oikó sepakúa.
 564 - I tawã uikú se pakúa.
-564 - come depressa aquela banana.
+564 - Come depressa aquela banana.
 
 565 - yakyr oikó sepakúa.
 565 - Yakira uikú se pakúa. (Hartt, 360, adap.) - Minhas bananas estão verdes.
-565 - minhas bananas estão verdes.
+565 - Minhas bananas estão verdes.
 
 566 - se pakóa iyúg án (Santarem).
 566 - Se pakúa i yuka ã. (Hartt, 360, adap.) - Minhas bananas já apodreceram.
-566 - minhas pacovás estão podres.
+566 - Minhas pacovás estão podres.
 
 567 - opáin maé oatár ixéu.
 567 - Panhẽ maã uwatari ixéu.
-567 - falta-me tudo.
+567 - Falta-me tudo.
 
 568 - intí maá xarekó xaú aráma.
 568 - Inti maã xarikú xaú arama.
-568 - não tenho nada que beber.
+568 - Não tenho nada que beber.
 
 569 - xaú kauin manaratáia.
 569 - Xaú kawĩ mangarataya.
-569 - bebi cachaça com gengibre.
+569 - Bebi cachaça com gengibre.
 
 570 - xasó rañé seróka opé uaría piám yáu aráma.
 570 - Xasú ranhẽ se ruka upé wariwa piamu yaú arama.
-570 - deixe-me ir à minha casa buscar guariba para nós bebermos.
+570 - Deixe-me ir à minha casa buscar guariba para nós bebermos.
 
 571 - xamuñán uán seuariua.
 571 - Xamunhã wã se wariwa. # forma adaptada para anotar e incluir no treebank
 571 - Amunhã wã se wariwa. (Hartt, 360, adap.) - Já preparei minha guariba.
-571 - já preparei minha guariba.
+571 - Já preparei minha guariba.
 
 572 - xaú putár meiú xika.
 572 - Xaú putari meyuxika.
-572 - quero comer beijú sika.
+572 - Quero comer beiju sica.
 
 573 - maá pirá taá kuaá?
 573 - Maã pirá taá kwaá?
-573 - que qualidade de peixe é essa?
+573 - Que qualidade de peixe é essa?
 
 574 - santí reté kuaá pirá.
 574 - Saintí reté kuaá pirá. (Hartt, 360, adap.) - Esse peixe é muito espinhoso.
-574 - este peixe é muito espinhoso.
+574 - Este peixe é muito espinhoso.
 
 575 - pirá symyg reté oikó(sembyg, Ereré).
 575 - Pirá sembika reté uikú. (Hartt, 360, adap.) - O peixe está muito salgado.
-575 - o peixe está muito salgado.
+575 - O peixe está muito salgado.
 
 p. 361
 
 576 - symyg reté kuaá pirá.
 576 - Sembika reté kwaá pirá.
-576 - este peixe está muito salgado.
+576 - Este peixe está muito salgado.
 
 577 - ekóin emímóin yanerimiú.
 577 - Ekũi ememúi yané rimiú.
-577 - vai cozinhar nossa comida.
+577 - Vai cozinhar nossa comida.
 
 578 - xamixir xaikó serimiú.
 578 - Xamixiri xaikú se rimiú. # forma adaptada para anotar e incluir no treebank
 578 - Amixiri aikú se rimbiú. (Hartt, 361, adap.) - Estou assando minha comida.
-578 - estou assando minha comida.
+578 - Estou assando minha comida.
 
 579 - xamukaén xaikó tatú.
 579 - Xamukaẽ xaikú tatú. # forma adaptada para anotar e incluir no treebank
 579 - Amukaẽ aikú tatú. (Hartt, 361, adap.) - Estou moqueando o tatú.
-579 - estou moqueando o tatú.
+579 - Estou moqueando o tatú.
 
 580 - sepanéra seakuén.
 580 - Se panera sakwena.
-580 - minha panela cheira.
+580 - Minha panela cheira.
 
 581 - intí xaputár kuaá auatií oyar, koromó tú okái.
 581 - Intí xaputari kwaá awatií uyari, kurumú - ukái. *
-581 - não quero encostar aquele arroz perto do fogo, pode se queimar.
+581 - Não quero encostar aquele arroz perto do fogo, pode se queimar.
 
 582 - okái ramé inti. katú, ipixé.
 582 - Ukái ramé inti. Katú, pixé.
-582 - quando está queimado não está bom. tem mau cheiro.
+582 - Quando está queimado não está bom. tem mau cheiro.
 
 583 - ikatú uán oikó ñaá neremimúña?
 583 - I katú wã uikú nhaã ne remimunha? (Hartt, 361, adap.) - Já está bom o seu cozido?
-583 - já está bom teu cozido?
+583 - Já está bom teu cozido?
 
 584 - yg opopór oikó.
 584 - Ií upupuri uikú.
-584 - a água está fervendo.
+584 - A água está fervendo.
 
 585 - sepanéra opopór putár oikó teapú uán.
 585 - Se panera upupuri-putari uikú, tiapú wã. (Hartt, 361, adap.) - Minha panela está quase fervendo, já está zoando.
-585 - minha panela quer ferver, está fazendo bulha.
+585 - Minha panela quer ferver, está fazendo bulha.
 
 586 - kuaá rimiú intí osy yaú aráma.
 586 - Kwaá rimiú intí usika yaú arama. *
-586 - esta comida não chega para nós.
+586 - Esta comida não chega para nós.
 
 587 - yasó yamimúin soó rukuéra osy aráma yanéu.
 587 - Yasú yamemúi suú rikwera usika arama yanéu.
-587 - vamos cozinhar bastante carne de caça para nós.
+587 - Vamos cozinhar bastante carne de caça para nós.
 
 588 - xasó xamaú, seyumasy xaikó.
 588 - Xasú umaú, se yumasí xaikú.
-588 - vou comer, estou com fome.
+588 - Vou comer, estou com fome.
 
 589 - yasó yasosók auatií!
 589 - Yasú yasusuka awatií. (Hartt, 361, adap.) - Vamos pilar arroz!
-589 - vamos pilar arroz!
+589 - Vamos pilar arroz!
 
 p. 362
 
 590 - yg ikatú reté.
 590 - Ií i katú reté.
-590 - a água está muito boa.
+590 - A água está muito boa.
 
 591 - xamuyasúk putár seruá.
 591 - Xamuyasuka-putari se ruá. # forma adaptada para anotar e incluir no treebank
 591 - Amuyasuka-putari se ruá. (Hartt, 362, adap.) - Quero lavar meu rosto.
-591 - quero lavar meu rosto.
+591 - Quero lavar meu rosto.
 
 592 - yasó yayasúk.
 592 - Yasú yayasuka.
-592 - vamos nos banhar.
+592 - Vamos nos banhar.
 
 593 - korasy sakó reté xasekár irusána xapytuú mirí aráma.
 593 - Kurasí sakú reté xasakú irusanga xapituú mirĩ arama.
-593 - quando o sol está quente procuro um lugar frio para me descansar um bocado.
+593 - Quando o sol está quente procuro um lugar frio para me descansar um bocado.
 
 594 - aikó uán korasy osém.
 594 - Aikú wã kurasí usemu.
-594 - o sol vem saindo.
+594 - O sol vem saindo.
 
 595 - uarasy sakó reté.
 595 - Warasí sakú reté.
-595 - o sol está muito quente.
+595 - O sol está muito quente.
 
 596 - uarasy oseny uán.
 596 - Warasí sendí wã. (Hartt, 362, adap.) - O sol está clareando.
-596 - o sol está clareando.
+596 - O sol está clareando.
 
 597 - korasy oaté án hasó putár hapuraky.
 597 - Kurasí iwaté ã, asú-putari apurakí. (Hartt, 362, adap.) - O sol já está alto, quero ir trabalhar.
-597 - o sol está alto, quero ir trabalhar.
+597 - O sol está alto, quero ir trabalhar.
 
 598 - pytúna uasú ramé intí yaxipiak kuáu maé.
 598 - Pitunawasú ramé intí yaxipiaka-kwáu maã. # forma adaptada para anotar e incluir no treebank
 598 - Pitunawasú ramé ti yaxipiaka-kwáu maã. (Hartt, 362, adap.) - Quando está escuro nada podemos ver.
-598 - quando está escuro nada podemos ver.
+598 - Quando está escuro nada podemos ver.
 
 599 - xayuruyár neresé.
 599 - Xayuruyari ne resé. # forma adaptada para anotar e incluir no treebank
 599 - Ayuruyari ne resé. (Hartt, 362, adap.) - Tenho confiança em ti.
-599 - tenho confiança (fio) em ti.
+599 - Tenho confiança (fio) em ti.
 
 600 - ixé intí haroyar sesé.
 600 - Ixé inti aruyari sesé.
-600 - não acredito nisso.
+600 - Não acredito nisso.
 
 601 - intí semanuár.
 601 - Intí se manduári.
 601 - Ti se manduári. (Hartt, 362, adap.) - Não me lembro.
-601 - não me lembro.
+601 - Não me lembro.
 
 602 - semanuár teñé neresé.
 602 - Se manduári tenhẽ ne resé. # forma adaptada para anotar e incluir no treebank
 602 - Se manduári tẽ ne resé. (Hartt, 363, adap.) - Sempre me lembro de ti.
-602 - sempre me lembro de ti.
+602 - Sempre me lembro de ti.
 
 p. 363
 
 603 - amú irané xaikó uán kurí mairipe.
 603 - Amú-wirané xaikú wã kurí mairí-pe.
-603 - depois de amanhã estarei na cidade.
+603 - Depois de amanhã estarei na cidade.
 
 604 - intí osy ára ixéu xamuñau aráma muraiky.
 604 - Intí usika ara ixéu xamunhã arama murakí. # forma adaptada para anotar e incluir no treebank
 604 - Ti usika ara ixé arama amunhã arama murakí. (Hartt, 363, modif.) - O tempo não é suficiente para fazer o serviço.
-604 - não tenho tempo para fazer o serviço.
+604 - Não tenho tempo para fazer o serviço.
 
 605 - irané xasó intí ramé okyr.
 605 - Wirané xasú, intí ramé ukiri. # forma adaptada para anotar e incluir no treebank
 605 - Wirandé asú, ti ramé ukiri. (Hartt, 363, adap.) - Amanhã eu vou, se não chover.
-605 - vou amanhã se não chover.
+605 - Vou amanhã se não chover.
 
 606 - semaiña semonó ygarupápe xayuyra aráma.
 606 - Se manha se munú igarupawa-pe xayuíri arama. # forma adaptada para anotar e incluir no treebank
 606 - Se manha se mundú garapá-pe ayuíri arama. (Hartt, 354, adap.) - Minha mãe me mandou ao porto para eu voltar.
-606 - minha mãe me mandou no porto para voltar.
+606 - Minha mãe me mandou no porto para voltar.
 
 607 - kuaá óka rimaán oikó.
 607 - Kwaá uka rimaã uikú.
-607 - esta casa é antiga.
+607 - Esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
 608 - Reú será pitima? Eẽ, xaú pitima. # forma adaptada para anotar e incluir no treebank
 608 - Reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
-608 - fumas? sim! fumo.
+608 - Fumas? Sim! Fumo.
 
 609 - máme oikó pé?
 609 - Mamé uikú pé?
-609 - onde é o caminho?
+609 - Onde é o caminho?
 
 610 - máa kyty resó?
 610 - Makití resú?
-610 - para onde vás?
+610 - Para onde vais?
 
 611 - oké rupí xasó.
 611 - Iké rupí xasú.
@@ -2679,19 +2679,19 @@ p. 363
 
 613 - osyg serakykuéra.
 613 - Usika se rakakwera. (Hartt, 363, adap.) - Ele chegou depois de mim.
-613 - ele chegou depois de mim.
+613 - Ele chegou depois de mim.
 
 614 - xaxiár seygára ygárupápe.
 614 - Xaxari se igara igarupawa-pe.
-614 - deixei a canoa no porto.
+614 - Deixei a canoa no porto.
 
 615 - kuñán oyuráu putár ygára.
 615 - Kunhã uyuráu-putari igara. (Hartt, 363, adap.) - A mulher quer desatar a canoa.
-615 - a mulher quer desatar a canoa.
+615 - A mulher quer desatar a canoa.
 
 616 - yasó yaporakár ygárapóra.
 616 - Yasú yapurakari igarapura. (Hartt, 363, adap.) - Vamos embarcar a carga.
-616 - vamos carregar a canoa.
+616 - Vamos carregar a canoa.
 
 p. 364
 
