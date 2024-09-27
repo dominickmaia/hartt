@@ -1408,209 +1408,209 @@ p. 342
 
 321 - intí reté oputar aúna yatukar timbó (timó) aépe.
 321 - Intí reté uputari aúna yatuká timbó ape.
-321 - não querem que batamos timbó lá.
+321 - Não querem que batamos timbó lá.
 
 322 - oyatítí reté pirá.
 322 - Uyatití reté pirá. (Hartt, 342, adap.) - Matou muito peixe.
-322 - matou (arrasou) muito peixe.
+322 - Matou (arrasou) muito peixe.
 
 323 - yasó yasykyí pirá miri.
 323 - Yasú yasikí pirá mirĩ.
-323 - vamos apanhar peixinhos.
+323 - Vamos apanhar peixinhos.
 
 324 - yakuáu reté kuae pirá.
 324 - Yakwáu reté kwá pirá. (Hartt, 342, adap.) - Este peixe é muito ladino.
-324 - este peixe é muito ladino.
+324 - Este peixe é muito ladino.
 
 325 - xasó xapirakér.
 325 - Xasú xapirakera. # forma adaptada para anotar e incluir no treebank
 325 - Asú apirakera. (Hartt, 342, adap.) - Vou fachear.
-325 - vou fachear.
+325 - Vou fachear.
 
 326 - resasáu aiyú kuaé pytúna?
 326 - Resasá aíwa kwaá pituna? (Hartt, 342, adap.) - Passaste mal a noite?
-326 - passaste mal a noite?
+326 - Passaste mal a noite?
 
 p. 343
 
 327 - iné intí rekér katú, repiralér ipó resé.
 327 - Iné intí rekiri katú, ... i pura resé. *
-327 - tu não dormiste bem, porque parece que estavas facheando.
+327 - Tu não dormiste bem, porque parece que estavas facheando.
 
 328 - yasó yapinaityk.
 328 - Yasú yapinaitika.
-328 - vamos pescar(com anzol).
+328 - Vamos pescar(com anzol).
 
 329 - setá reté pirá paranáme.
 329 - Setá reté pirá paraname.
-329 - há muito peixe no rio.
+329 - Há muito peixe no rio.
 
 330 - seruya rantin opéu ikó.
 330 - Se ruíwa rantĩ upewa uikú.
-330 - a ponta da flecha está quebrada.
+330 - A ponta da flecha está quebrada.
 
 331 - xayumú pirá, oasertár sioya sesé.
 331 - Xayumú pirá, ... suíwa sesé. *
-331 - flechei um peixe e minha flecha acertou nele.
+331 - Flechei um peixe e minha flecha acertou nele.
 
 332 - masekói neuirapára.
 332 - Maxukúi ne wirapara.
-332 - aqui está teu arco.
+332 - Aqui está teu arco.
 
 333 - ixé xapaném reté.
 333 - Ixé panema reté. (Hartt, 343, adap.) - Estou muito infeliz.
-333 - estou muito infeliz.
+333 - Estou muito infeliz.
 
 334 - seraén xaikó.
 334 - Se ranhẽ xaikú. # forma adaptada para anotar e incluir no treebank
 334 - Se ranhẽ aikú. (Costa, 186, adap.; Hartt, 343, adap.) - Estou com pressa.
-334 - estou com pressa.
+334 - Estou com pressa.
 
 335 - teñe kurí neresarái sesuí.
 335 - Tenhẽ kurí ne resarái se suí.
-335 - não te esqueças de mim!
+335 - Não te esqueças de mim!
 
 336 - intí neresarái sesuí, remanuár teñe seresé.
 336 - Intí ne resarái se suí, remanduári tenhẽ se resé.
-336 - não te esqueças de mim, tu sempre há de te lembrar de mim.
+336 - Não te esqueças de mim, tu sempre há de te lembrar de mim.
 
 337 - neresarái uán.
 337 - Ne resarái wã.
-337 - já te esqueceste.
+337 - Já te esqueceste.
 
 338 - xamonóg kuaé apyáua sesápe.
 338 - Xamunuka kwá apigawa sesá-pe.
-338 - dei um golpe ao homem no olho.
+338 - Dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
 339 - Kwá yawara mirĩ intí será ne rimawa? # forma adaptada para anotar e incluir no treebank
 339 - Kwá yawara mirĩ ti será ne rimbawa? (Hartt, 343, adap.) - Esse cachorrinho não é teu [animal de estimação]?
-339 - esse cachorrinho, não é teu?
+339 - Esse cachorrinho, não é teu?
 
 340 - intí xakuáu áua rimáua.
 340 - Inti xakwáu awa rimawa.
-340 - não sei de quem é.
+340 - Não sei de quem é.
 
 p. 344
 
 341 - seygantínya okaó reté oikó.
 341 - Se igantiwa ukaú reté uikú.
-341 - meu proeiro está muito bebido.
+341 - Meu proeiro está muito bebido.
 
 342 - emué mirí(Ereré).
 342 - Emuwéu mirĩ.
-342 - apaga um bocado.
+342 - Apaga um bocado.
 
 343 - tatatína intí katú ikó, ipixé asú ikó.
 343 - Tatatinga inti katú ikú, i pixé asú ikú.
-343 - a fumaça não está boa, cheira mal.
+343 - A fumaça não está boa, cheira mal.
 
 344 - santán reté ymyrá, intí opén.
 344 - Santá reté imirá, intí upena. # forma adaptada para anotar e incluir no treebank
 344 - Santá reté mirá, ti upena. (Hartt, 344, adap.) - O pau é muito duro, não quebra.
-344 - o pau é muito duro, não quebra.
+344 - O pau é muito duro, não quebra.
 
 345 - tatatína sasy reté seresápe.
 345 - Tatatinga sasí reté se resá-pe.
-345 - a fumaça dói muito aos meus olhos.
+345 - A fumaça dói muito aos meus olhos.
 
 346 - okér oé será tayna?
 346 - Ukiri wé será taína? (Hartt, 344, adap.) - Ainda dorme a criança?
-346 - ainda dorme a criança?
+346 - Ainda dorme a criança?
 
 347 - yauára okér oikó.
 347 - Yawara ukiri uikú.
-347 - o cachorro está dormindo.
+347 - O cachorro está dormindo.
 
 348 - apykatú reté será reuatá?
 348 - Apekatú reté será rewatá?
-348 - andaste muito longe?
+348 - Andaste muito longe?
 
 349 - apykatú reté será ygarupáua?
 349 - Apekatú reté será igarupawa?
-349 - é muito longe o porto?
+349 - É muito longe o porto?
 
 350 - resó uán será ygarupápe?
 350 - Resú wã será igarupawa?
-350 - já foste no porto?
+350 - Já foste no porto?
 
 351 - intí rañé.
 351 - Intí ranhẽ.
-351 - ainda não.
+351 - Ainda não.
 
 352 - yasó aépe.
 352 - Yasú ape.
-352 - vamos lá.
+352 - Vamos lá.
 
 353 - xasó sepy irúm.
 353 - Xasú se pí irũ.
-353 - vou a pé.
+353 - Vou a pé.
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
 354 - Xamunú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
-354 - mando minha canoa à vila para voltar depois de amanhã.
+354 - Mando minha canoa à vila para voltar depois de amanhã.
 
 p. 345
 
 355 - resó putár uán será?
 355 - Resú putari wã será?
-355 - já está de viagem?
+355 - Já está de viagem?
 
 356 - muyepé akayú uán intí xasenú misa.
 356 - Yepé akayú wã intí xasenú misa.
-356 - faz um ano que não ouvi missa.
+356 - Faz um ano que não ouvi missa.
 
 357 - eumbór(ou emumór) ñaá tupé yuuype.
 357 - Emumuri nhaã tupé iwí-pe.
-357 - estende aquela esteira no chão.
+357 - Estende aquela esteira no chão.
 
 358 - xasó xamupuám sekysáua setiára resé.
 358 - Xasú xamupuãmu se kisawa se tiãnha resé. # forma adaptada para anotar e incluir no treebank
 358 - Asú amupuãmu se kisawa se tiãnha resé. (Hartt, 345, adap.) - Vou suspender minha rede aos meus esteios.
-358 - vou suspender minha rede aos esteios.
+358 - Vou suspender minha rede aos esteios.
 
 359 - máme taá yasó yaker?
 359 - Mamé taá yasú yakiri?
-359 - para onde iremos dormir?
+359 - Para onde iremos dormir?
 
 360 - amána osasaú uán.
 360 - Amana usasá wã.
-360 - a chuva já passou.
+360 - A chuva já passou.
 
 361 - yuytú rusán purán.
 361 - Iwitú rusã purã.
-361 - o vento é fresco e agradável.
+361 - O vento é fresco e agradável.
 
 362 - korasy (uarasy) intí rañé oiké.
 362 - Kurasí intí ranhẽ uwiké.
-362 - o sol ainda não entrou.
+362 - O sol ainda não entrou.
 
 363 - amána okyr oikó.
 363 - Amana ukiri uikú. (Tastevin, 625; Hartt, 345, adap.) - A chuva está caindo.
-363 - a chuva está pingando.
+363 - A chuva está pingando.
 
 364 - amána okyr ramé intí xasó.
 364 - Amana ukiri ramé, intí xasú. # forma adaptada para anotar e incluir no treebank
 364 - Amana ukiri ramé, ti asú. (Hartt, 345, adap.) - Se chover, eu não vou.
-364 - se chover não vou.
+364 - Se chover, não vou.
 
 365 - kurí mirí amána okyr.
 365 - Kurí mirĩ amana ukiri.
-365 - há de chover logo.
+365 - Há de chover logo.
 
 366 - oií pytun sekér aiyú xaikó seretáma pupe.
 366 - Uií pituna se kiriaíwa xaikú se retama pupé. # forma adaptada para anotar e incluir no treebank
 366 - Uií pituna se kiriaíwa aikú se retama pupé. (Hartt, 345, adap.) - Esta noite sonhei que estava na minha terra.
-366 - esta noite sonhei que estava na minha terra.
+366 - Esta noite sonhei que estava na minha terra.
 
 366a - ixé sekér aiyú.
 366a - Ixé se kiriaíwa.
-366a - sonhei.
+366a - Sonhei.
 
 367 - kuñántáin opág uán.
 367 - Kunhatãi upaka wã.
-367 - a menina já acordou.
+367 - A menina já acordou.
 
 p. 346
 
