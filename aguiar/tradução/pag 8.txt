@@ -1,0 +1,13 @@
+# title_orig = IANÊ PAIA
+
+title_por = PADRE-NOSSO )
+#text_orig Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu«muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké iilhipe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-jperdnari -te ianê ualari, mahi ianê ia perduarí amúitá uatari; tehen re-xiari ianê iáari cecúpuxi kití; re-picirú ianê upãin mahãpuxi çui.
+#title_por Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal.
+#text_orig Iauê.
+#title_por Amém.
+#text_orig Ave-Maria, ipura graça çui, ianê làra ne iruma; iu-mumehun-catú inó upãin cnnhan pitérape, iu-mumehun-catú iuhá nê maricá çui, Jesus.
+#title_por Ave-Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus.
+#text_orig Santa Maria Tupana Manha reiururé ianérecê pecadori rupi, cuhiri, ianê manú ramé iuiri.
+#title_por Santa Maria, Mãe de Deus, roga por nós pecadores, agora e na hora da nossa morte.
+#text_orig Iauê.
+#title_por Amém.

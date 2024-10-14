@@ -1,0 +1,15 @@
+# title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
+
+title_por = COMO JESUS CHRISTO NOS REMIU )
+#text_orig Mamé-tahà Jesu-Christu umanú?
+#title_por Onde Jesus Christo morreu?
+#text_orig Curuçà upé.
+#title_por Na cruz.
+#text_orig Auà rupi?
+#title_por Por quem?
+#text_orig Ianê rupi.
+#title_por Por nós.
+#text_orig Mah'arama tahà?
+#title_por Para que?
+#text_orig Ianê picirú, salvari arama.
+#title_por Para nos remir e salvar.

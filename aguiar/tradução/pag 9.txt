@@ -1,0 +1,19 @@
+# title_orig = XA-RUIARI TUPANA RECÊ
+
+title_por = CREIO EM DEUS )
+#text_orig Xa-ruiari Tupana Paia recê, turuçúreté, munhangara iuaca, iuhi.
+#title_por Creio em Deus, Pai todo poderoso, Criador do Céu e da terra.
+#text_orig Xa-ruiari Jesu-Christu recê, iepénhun aé-Ralrira, Ianê Iara; mahiuahá iu acema Espirilu-Santu çui;
+#title_por Creio em Jesus Cristo, seu único Filho, Nosso Senhor, o qual foi concebido do Espírito Santo, nasceu de Maria Virgem;
+#text_orig u-cenia Maria Virgem çui; u-purará uirpe tuixâua Poncio Pilatos; iumúitapúa curuçà recê; u-manu; aitá u-iulimaaé; ufuhiéinfernukiti;
+#title_por padeceu sob o poder de Poncio Pilatos; foi crucificado, morto e sepultado; desceu aos infernos;
+#text_orig iuhiriana cequé, muçapiri ara riri, umanúaítá pitéraçui; u-iupiri iuáca kíti;
+#title_por ressuscitou dentre os mortos ao terceiro dia; subiu aos Céus; está assentado à direita de Deus Pai todo poderoso, de onde há de vir a julgar os vivos e os mortos.
+#text_orig u-apika u-icú Tupana-Paiapucatú ruaki, mahâçui curi u-uri jurigari arama cequéaitá, umanúaitá.
+#title_por Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos Santos; na remissão dos pecados; na ressurreição da nossa carne; na vida eterna.
+#text_orig Xa-ruiari Espiritu-Santu recê; Santa Igreja Catorica reco, Santuilâ iepéuaçúçáua recê; ianê pecaduitá remiçam recê;
+#text_por Creio no "Espirito-Santo; na Santa Igreja Catholiea; na communhão
+dos Santos; na remissão dos peccados na resurreição da nossa
+carne ; na vida eterna. 
+#text_org lauê
+#text_por Amém.

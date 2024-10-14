@@ -1,0 +1,15 @@
+ # title_orig = TUPANA RAHIRA IANÉ RUQUÈRA IRUMO
+
+title_por = INCARNAÇÃO DO FILHO DE DEUS
+#text_orig Arame, iepénhun Tupana reté, muçapiri pessoa aitá recê?
+#title_por Então, é um só Deus verdadeiro, em três pessoas distintas?
+#text_orig Iaué-ten. Iepénhun Tupana reté, muçapiri pessoa aitá recê.
+#title_por Assim mesmo. Um só Deus verdadeiro, em três pessoas distintas.
+#text_orig Mahá tahá quá mysteriu rêra?
+#title_por Qual é o nome deste mistério?
+#text_orig Santíssima Trindadi - mysteriu.
+#title_por Mistério da Santíssima Trindade.
+#text_orig Mahi-uahá muçapiri pessoa pitéra çui iu-munhan apgaua?
+#title_por Qual das três pessoas se fez homem?
+#text_orig Tupana Rahira.
+#title_por O Filho de Deus.

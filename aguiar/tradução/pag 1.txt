@@ -1,0 +1,36 @@
+# title_orig = CHRISTÜ MÜHENÇAÜÀ
+
+title_por = DOUTRINA CHRISTÃ DE DEUS CREADOR
+
+# text_orig = "— Auá tahá u-munhã upãin"  
+# text_por = "— Quem creou todas as cousas?"  
+
+# text_orig = "— Tupana Ianè Iara."  
+# text_por = "— Deus Nosso Senhor."  
+
+# text_orig = "— Auá taha u-munhã ianè?"  
+# text_por = "— Quem nos creou a nós?"  
+
+# text_orig = "— Tupana Ianê Iara."  
+# text_por = "— Deus Nosso Senhor."  
+
+# text_orig = "— Ahiqué cera amú Tupana, quáçui?"  
+# text_por = "— Poderá haver outro Deus, que não seja esse?"  
+
+# text_orig = "— Intiana! Iepónhun Tupana reté."  
+# text_por = "— De maneira alguma! Há um só Deus verdadeiro."  
+
+# text_orig = "— Mame tahá u-icú Tupana?"  
+# text_por = "— Onde está Deus?"  
+
+# text_orig = "— luàca upé, iuhipe, upãin rupi."  
+# text_por = "— No Céu, na terra, e em todo o lugar."  
+
+# text_orig = "— Auá tahá aé Tupana?"  
+# text_por = "— Quem é esse Deus?"  
+
+# text_orig = "— Iepé anga-reté, turuçú-reté,"  
+# text_por = "— Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor."  
+
+# text_orig = "— ianê munhangara, ianê Iara."  
+# text_por = "— Deus Nosso Senhor."  

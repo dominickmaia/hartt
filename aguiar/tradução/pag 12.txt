@@ -1,0 +1,66 @@
+text_orig:
+MUPÍÀCATÜCÀUA NE RAPIXÁRA RUPI
+
+text_por:
+OBRAS DE MISERICÓRDIA A FAVOR DO PRÓXIMO
+
+text_orig:
+IANÈ RECÊ RUPI :
+
+text_por:
+AS CORPORAIS :
+
+text_orig:
+1 • _ Rê-iupúi curi iumaciiiaitá.
+
+text_por:
+
+— Darás de comer a quem tem fome.
+text_orig:
+2. — Rê-mehen curi iihicê uahà aitá çupé.
+
+text_por:
+2. — Darás de beber a quem tem sede.
+
+text_orig:
+3. _ Rê-muámámunê curi camixaima uahá aitá.
+
+text_por:
+3. — Vestirás os que estiverem nús.
+
+text_orig:
+4. — Rê-cicari curi, i-piltiinú arama, maáciuêraita, u-icú camirica uahá iuiri.
+
+text_por:
+4. — Visitarás, para os aliviar, os enfermos e os que jazem oprimidos.
+
+text_orig:
+5. — Rê-mehen curi renáua ne ruça upé. u-çaçau aitá çupé.
+
+text_por:
+5. — Darás pousada em tua casa aos peregrinos.
+
+text_orig:
+6. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
+
+text_por:
+6. — Remirás os teus semelhantes do cativeiro.
+
+text_orig:
+7. _ Re-iütima curi u-manuaità.
+
+text_por:
+7. — Darás sepultura aos mortos.
+
+text_orig:
+IANÊ ANGA RÜP1
+
+text_por:
+AS ESPIRITUAIS:
+
+text_orig:
+
+— Re-munguelá cim c a t ú arama.
+text_por:
+
+— Darás bom conselho.

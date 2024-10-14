@@ -1,0 +1,53 @@
+text_orig:
+latucaçaua rupi:
+
+text_por:
+Em resumo:
+
+text_orig:
+_Re-cahiçú curi Tupana ne piá çui, upãin mahã çui.
+
+text_por:
+— Amarás a Deus de todo o teu coração, sobre todas as cousas.
+
+text_orig:
+-Re-çahiçú curi ne rapixára, mahi ne iaué-tén.
+
+text_por:
+— Amarás o próximo, como a ti mesmo.
+
+text_orig:
+SANTA IGREJA MUNUÇAUAITÁ
+
+text_por:
+MANDAMENTOS DA SANTA IGREJA
+
+text_orig:
+V — Re-cenü cyri missa téipauçape mituú, ara santu ramé.
+
+text_por:
+
+— Ouvirás missa íntegra aos domingos e dias santos.
+text_orig:
+2 o , __ Re-iumumehun curi, nhúnpu, iepé hi acaiü iaué iaué.
+
+text_por:
+2. — Te confessarás, ao menos, uma vez cada ano.
+
+text_orig:
+3 o . _ Re-iuúca-Tupana curi Paschoa rupi.
+
+text_por:
+3. — Commungarás pela Páscoa.
+
+text_orig:
+V. — Be-iucuacú curi, Santa Igreja umunü ramé.
+
+text_por:
+4. — Jejuarás, quando manda a Santa Igreja.
+
+text_orig:
+5 o . — Re-mehen curi Tupana putáua.
+
+text_por:
+5. — Pagarás os dízimos de Deus.

@@ -1,0 +1,17 @@
+# title_orig = UATARl RETÉ CFXUCATÚ ÇUI, AUÁ IU-SALVARI ARAMA.
+
+title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE. )
+#text_orig Iepé mira iu-salvari quau, tiramé u-ruiari, tiramé iu muceruca?
+#title_por Uma pessoa pode salvar-se sem crer, nem baptizar-se?
+#text_orig ?Tiana! Uatarireté u-ruiari rain, u-ceruca rain.
+#title_por Absolutamente não! É necessário crer e baptizar-se.
+#text_orig Mahi-tahá iá-quau ia-ulíikí iuáca ii.pé?
+#title_por Como podemos alcançar o Céu?
+#text_orig Jesu-Christu rulü recuiúra, iá-munhãn Tupana u-munu ualiá, ianê çui.
+#title_por Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda.
+#text_orig Santa Curuçcá rangáua rupi, ianè picírú Tupana, ianê Iara, ianê ruianhana.
+#title_por Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos.
+#text_orig Paia rêra upé, Tahira luiri Espíritu-Santuiuiri.
+#title_por Em nome do Pai, e do Filho, e do Espírito-Santo.
+#text_orig lauê.
+#title_por Amém.

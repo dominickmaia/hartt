@@ -1,0 +1,19 @@
+# title_orig = MVHARAMA TUPANA U-MUNHÃN IANÉ
+
+title_por = DO FIM PARA QUE NOS CREOU DEUS )
+#text_orig Mah"araraa tahà Tupana Ianè Iara u-munhan ianê?
+#title_por Para que Deus Nosso Senhor nos criou?
+#text_orig Là-quau arama aé, ià-çahiçú arama aé, ià-munhan arama ce mutára ikè inhipe, ara íauè curi.
+#title_por Para o conhecermos, para amá-lo, para fazer sua vontade n'este mundo, enquanto vivermos.
+#text_orig Là-manú ri ri?
+#title_por E depois que morrermos?
+#text_orig Là-pilihú-relô arama, ianê ruri arama upàin ara iuaca upé, Tupana Ianê Iara ruaki.
+#title_por Para descansarmos de todo, para gozarmos eternamente no Céu, junto a Deus Nosso Senhor.
+#text_orig Arame, ianê requè ikè, iámanú riri ianê requè cera?
+#title_por Então aqui temos uma vida, e depois da nossa morte teremos outra?
+#text_orig Lauè-ten. Ianê requé iuhipe; ianê requé ia-manú riri.
+#title_por É verdade. Temos uma vida na terra, e outra depois da morte.
+#text_orig Là mauú ramé, mahá-kiti iáçú?
+#title_por Quando morrermos, para onde vamos?
+#text_orig Mira catú iuaca klti, mira puxi iurupartratá kiti.
+#title_por Os bons vão para o Céu, e os maus para o inferno.
