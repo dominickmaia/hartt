@@ -42,18 +42,12 @@
 # text_source = p. 23
 # text_por = Há um só Deus verdadeiro.
 
-
-
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
-# text_orig = SANTA IGRÊJA MUNUÇAUAITÁ
+# title_orig = SANTA IGRÊJA MUNUÇAUAITÁ
+# title_por =  MANDAMENTOS DA SANTA IGREJA
 # text_source = p. 43
-# text_por = Mandamentos da Santa Igreja 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
 # text_orig = Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
-# text_source = p. 43
 # text_por = Ouvirás missa inteira aos domingos e dias santos.
 
 # sent_id = Aguiar1898:x:x:x:
@@ -614,9 +608,159 @@
 
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
+# text_orig = ARA MUCÚIN
+# text_source = p. 65
+# text_por = SEGUNDO DIA
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-hinhin ïuïri:
+# text_source = p. 65
+# text_por = Deus disse também:
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = - Iu-munhan çantáçaua ïaitá pïtérape; u-muhìn ïaitá ikïtï a-múitá çui.
+# text_source = p. 65
+# text_por = - Faça-se o firmamento no meio das águas, e devida as aguas das aguas.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Quá iaué iu-munhan.
+# text_source = p. 65
+# text_por = Assim se fez.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-mucêra çantaçáua çupè iuaça, puranga çukira ia xipiá uahá.
+# text_source = p. 65
+# text_por = Deus chamou o firmamento céu,  o belo azul que nós vemos.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Caruca coema ïuïri çui iu-munhan ara mucûin.
+# text_source = p. 65
+# text_por = Da tarde e da manhã se fez o segundo dia.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = ARA MUÇAPIRI
+# text_source = p. 65
+# text_por = TERCEIRO DIA
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-hinhin. 
+# text_source = p. 65
+# text_por = Deus disse:
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = - Iu-matïri iepènhun tenana upé ïaitá u-icú uahá iuáca iurpe;
+# text_source = p. 65
+# text_por = - Reunam-se em um só lugar que estão debaixo do céu;
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = u-cema ucára kïtï ïuhï ticanga.
+# text_source = p. 65
+# text_por = saia fora a terra enxuta.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Quá iaué iu-munhan.
+# text_source = p. 65
+# text_por = Assim se fez.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-xipiá mahã catù ua-há.
+# text_source = p. 65
+# text_por = Deus viu que era bom.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-hinhin ïuhï çupé: 
+# text_source = p. 65
+# text_por = Deus disse a terra:
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = - Re-mucïnhin rïmïtёma rakïra, u-mehen uahá çanha, muïráitá u mehen uahá ïuhá.
+# text_source = p. 65
+# text_por = - Germina plantas verdes, que dêem sementes, e arvores que dêem fructos.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Quá iaué iu-munhan.
+# text_source = p. 67
+# text_por = Assim se fez.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-xipiá mahã catú uahá.
+# text_source = p. 67
+# text_por = Deus viu que era bom:
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Caruca coema ïuïri çui iu-munhan ara muçapïri.
+# text_source = p. 67
+# text_por = Da tarde e da manhã se fez o terceiro dia.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = ARA IRUNDI
+# text_source = p. 63
+# text_por = QUARTO DIA
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = Tupana u-hinhin:
+# text_source = p. 63
+# text_por = Deus disse:
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = - Iu-munhan iuáca cantaçáua upè uёráitá, u-muhin arama ára pïtuna çui;
+# text_source = p. 63
+# text_por = - Façam-se no firmamento do céu luzeiros, para dividirem o dia da noite, para sinal dos dias e dos anos, para brilharem no firmamento do céu, e para alumiarem a terra.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
 # text_orig = 
 # text_source = p. 63
-# text_por = 
+# text_por = Assim se fez.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = 
+# text_source = p. 63
+# text_por = Deus fez dois grandes luzeiros;
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = 
+# text_source = p. 63
+# text_por = o maior, o sol, para o correr do dia, e o menor, a lua, para quando for noite.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = 
+# text_source = p. 63
+# text_por = Fez também estrelas, para luzirem sobre a terra.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = 
+# text_source = p. 63
+# text_por = Deus viu que era bom.
+
+# sent_id = Aguiar1898:x:x:x:
+# text = TODO
+# text_orig = 
+# text_source = p. 63
+# text_por = Da tarde e da manhã se fez o quarto dia.
 
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
@@ -642,116 +786,4 @@
 # text_source = p. 63
 # text_por = 
 
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
 
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 63
-# text_por = 
