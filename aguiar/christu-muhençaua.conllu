@@ -44,105 +44,529 @@
 
 # sent_id = Aguiar1898:1:8:8  
 # text = TODO  
-# text_orig = — Mame tahá u-icú Tupana? 
+# text_orig = "— Mame tahá u-icú Tupana?"  
 # text_source = p. 23  
-# text_por = — Onde está Deus? 
+# text_por = "— Onde está Deus?"  
 
 # sent_id = Aguiar1898:1:9:9  
 # text = TODO  
-# text_orig = — luàca upé, iuhipe, upãin rupi. 
+# text_orig = "— luàca upé, iuhipe, upãin rupi."  
 # text_source = p. 23  
-# text_por = — No Céu, na terra, e em todo o lugar. 
+# text_por = "— No Céu, na terra, e em todo o lugar."  
 
 # sent_id = Aguiar1898:1:10:10  
 # text = TODO  
-# text_orig = — Auá tahá aé Tupana? 
+# text_orig = "— Auá tahá aé Tupana?"  
 # text_source = p. 23  
-# text_por = — Quem é esse Deus? 
+# text_por = "— Quem é esse Deus?"  
 
 # sent_id = Aguiar1898:1:11:11  
 # text = TODO  
-# text_orig = — Iepé anga-reté, turuçú-reté,   
+# text_orig = "— Iepé anga-reté, turuçú-reté,"  
 # text_source = p. 23  
-# text_por = — Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor.  
+# text_por = "— Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor."  
 
 # sent_id = Aguiar1898:1:12:12  
 # text = TODO  
-# text_orig = — ianê munhangara, ianê Iara.  
+# text_orig = "— ianê munhangara, ianê Iara."  
 # text_source = p. 23  
-# text_por = — Deus Nosso Senhor.  
+# text_por = "— Deus Nosso Senhor."  
 
-# sent_id = Aguiar1898:1:13:13  
 # text = TODO  
 # title_orig = TUPANA IEPÉÇÁUA MUÇAPÍRÍÇAUA RECÊ
+# title_por = "DEUS UNO E TRINO" 
 # text_source = p. 24  
-# title_por = "DEUS UNO E TRINO"  
 
-# sent_id = Aguiar1898:1:14:14  
+# sent_id = Aguiar1898:2:1:13  
 # text = TODO  
 # text_orig = Munhire pessoa tahá ahiqué Tupana recê?" 
 # text_source = p. 24  
 # text_por = "Quantas pessoas há em Deus?"  
 
-# sent_id = Aguiar1898:1:15:15  
+# sent_id = Aguiar1898:2:1:14  
 # text = TODO  
 # text_orig = "Muçapiri."  
 # text_source = p. 24  
 # text_por = "Três."  
 
-# sent_id = Aguiar1898:1:16:16  
+# sent_id = Aguiar1898:2:1:15  
 # text = TODO  
 # text_orig = Mahiuhá tahá aitá?  
 # text_source = p. 24  
 # text_por = "Quais são elas?"  
 
-# sent_id = Aguiar1898:1:17:17  
+# sent_id = Aguiar1898:2:1:16  
 # text = TODO  
 # text_orig = Paia, Tahira, Espiritu-Santu.  
 # text_source = p. 24  
 # text_por = O Pae é Deus?"  
 
-# sent_id = Aguiar1898:1:18:18  
+# sent_id = Aguiar1898:2:1:17  
 # text = TODO  
 # text_orig = Aé; Paia Tupana.  
 # text_source = p. 24  
 # text_por = Sim; o Pae é Deus. 
 
-# sent_id = Aguiar1898:1:19:19  
+# sent_id = Aguiar1898:2:1:18  
 # text = TODO  
 # text_orig = Tahira Tupana?  
 # text_source = p. 24  
 # text_por = O Filho é Deus?
 
-# sent_id = Aguiar1898:1:20:20  
+# sent_id = Aguiar1898:2:1:19  
 # text = TODO  
 # text_orig = Aé; Tahira Tupana.  
 # text_source = p. 24  
 # text_por = Sim; o Filho é Deus.  
 
-# sent_id = Aguiar1898:1:21:21  
+# sent_id = Aguiar1898:2:1:20  
 # text = TODO  
 # text_orig = Espiritu-Santu Tupana?  
 # text_source = p. 24  
 # text_por = O Espírito-Santo é Deus?  
 
-# sent_id = Aguiar1898:1:22:22  
+# sent_id = Aguiar1898:2:1:21  
 # text = TODO  
 # text_orig = Aé. Espiritu-Santu Tupana.  
 # text_source = p. 24  
 # text_por = Sim. O Espírito-Santo é Deus.  
 
-# sent_id = Aguiar1898:1:23:23  
+# sent_id = Aguiar1898:2:1:22  
 # text = TODO  
 # text_orig = Arame muçapiri tupanaitá?  
 # text_source = p. 24  
 # text_por = Então são três deuses?  
 
-# sent_id = Aguiar1898:1:24:24  
+# sent_id = Aguiar1898:2:1:23  
 # text = TODO  
 # text_orig = 'Tiana! Muçapiri pessoa aitá, iepénhun Tupana-reté.  
 # text_source = p. 24  
 # text_por = Não! São três pessoas distintas, e um só Deus verdadeiro.  
+
+# text = TODO  
+# title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
+# title_por = INCARNAÇÃO DO FILHO DE DEUS  
+# text_source = p. 25    
+
+# sent_id = Aguiar1898:3:1:24  
+# text = TODO  
+# text_orig = "Arame, iepénhun Tupana reté, muçapiri pessoa aitá recê?"  
+# text_source = p. 25  
+# text_por = "Então, é um só Deus verdadeiro, em três pessoas distintas?"  
+
+# sent_id = Aguiar1898:3:2:25  
+# text = TODO  
+# text_orig = "Iaué-ten. Iepénhun Tupana reté, muçapiri pessoa aitá recê."  
+# text_source = p. 25  
+# text_por = "Assim mesmo. Um só Deus verdadeiro, em três pessoas distintas."  
+
+# sent_id = Aguiar1898:3:3:26  
+# text = TODO  
+# text_orig = "Mahá tahá quá mysteriu rêra?"  
+# text_source = p. 25  
+# text_por = "Qual é o nome deste mistério?"  
+
+# sent_id = Aguiar1898:3:4:27  
+# text = TODO  
+# text_orig = "Santíssima Trindadi - mysteriu."  
+# text_source = p. 25  
+# text_por = "Mistério da Santíssima Trindade."  
+
+# sent_id = Aguiar1898:3:5:28  
+# text = TODO  
+# text_orig = "Mahi-uahá muçapiri pessoa pitéra çui iu-munhan apgaua?"  
+# text_source = p. 25  
+# text_por = "Qual das três pessoas se fez homem?"  
+
+# sent_id = Aguiar1898:3:6:29  
+# text = TODO  
+# text_orig = "Tupana Rahïra."  
+# text_source = p. 25  
+# text_por = "O Filho de Deus."  
+
+# text = TODO  
+# title_orig = TUPANA-RAHIRA IANÉ RUQUÈRA IRUMO
+# title_por = INCARNAÇÃO DO FILHO DE DEUS 
+# text_source = p. 26  
+ 
+
+# sent_id = Aguiar1898:4:1:30  
+# text = TODO  
+# text_orig = "Mahi-tahá Tupana Rahira iumunhã apgáua?"  
+# text_source = p. 26  
+# text_por = "Como o Filho de Deus se fez homem?"  
+
+# sent_id = Aguiar1898:4:2:31  
+# text = TODO  
+# text_orig = "Espiritu-Santu u-munhan."  
+# text_source = p. 26  
+# text_por = "Por obra do Espírito-Santo."  
+
+# sent_id = Aguiar1898:4:3:32  
+# text = TODO  
+# text_orig = "Mamé-tahá?"  
+# text_source = p. 26  
+# text_por = "Onde?"  
+
+# sent_id = Aguiar1898:4:4:33  
+# text = TODO  
+# text_orig = "Maria Virgem maricá upé."  
+# text_source = p. 26  
+# text_por = "No ventre de Maria Virgem."  
+
+# sent_id = Aguiar1898:4:5:34  
+# text = TODO  
+# text_orig = "Tupana-Manha u-pitá upãin ara upé Virgem?"  
+# text_source = p. 26  
+# text_por = "A Mãe de Deus ficou sempre virgem?"  
+
+# sent_id = Aguiar1898:4:6:35  
+# text = TODO  
+# text_orig = "U-pitá."  
+# text_source = p. 26  
+# text_por = "Ficou."  
+
+# sent_id = Aguiar1898:4:7:36  
+# text = TODO  
+# text_orig = "Mahi-tahá?"  
+# text_source = p. 26  
+# text_por = "Como?"  
+
+# sent_id = Aguiar1898:4:8:37  
+# text = TODO  
+# text_orig = "Mòmürarí renunè virgem, mumürari ramé virgem; memürari riri virgem."  
+# text_source = p. 26  
+# text_por = "Virgem antes do parto, virgem no parto, virgem depois do parto."  
+
+# sent_id = Aguiar1898:4:9:38  
+# text = TODO  
+# text_orig = "Mahá-tahá rêra Tupana-Rahira iumunhan uahá Apgaua?"  
+# text_source = p. 26  
+# text_por = "Qual é o nome do Filho de Deus feito homem?"  
+
+# sent_id = Aguiar1898:4:10:39  
+# text = TODO  
+# text_orig = "Jesú-Christu."  
+# text_source = p. 26  
+# text_por = "Jesus-Christo."  
+
+# sent_id = Aguiar1898:4:11:40  
+# text = TODO  
+# text_orig = "Jesú-Christu Tupana reté, Apgáua reté?"  
+# text_source = p. 26  
+# text_por = "Jesus-Christo é verdadeiro Deus e verdadeiro Homem?"  
+
+# sent_id = Aguiar1898:4:12:41  
+# text = TODO  
+# text_orig = "Aé. Jesú-Christu Tupana reté, Apgaua reté."  
+# text_source = p. 26  
+# text_por = "Sim, Jesus-Christo é verdadeiro Deus e verdadeiro Homem."  
+
+# sent_id = Aguiar1898:4:13:42  
+# text = TODO  
+# text_orig = "Maha-tahá rêra quá mysteriu?"  
+# text_source = p. 26  
+# text_por = "Qual é o nome deste mistério?"  
+
+# sent_id = Aguiar1898:4:14:43  
+# text = TODO  
+# text_orig = "Incarnaçam, mysteriu; amú rupi, Tupana-Rahira ianê ruquéra irumo."  
+# text_source = p. 26  
+# text_por = "Mistério da Incarnação; n'outros termos, o Filho de Deus com a nossa carne."  
+
+# text = TODO  
+# title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
+# title_por = COMO JESUS CHRISTO NOS REMIU
+# text_source = p. 27   
+  
+
+# sent_id = Aguiar1898:5:1:43  
+# text = TODO  
+# text_orig = "Mamé-tahà Jesu-Christu umanú?"  
+# text_source = p. 27  
+# text_por = "Onde Jesus Christo morreu?"  
+
+# sent_id = Aguiar1898:5:2:44  
+# text = TODO  
+# text_orig = "Curuçà upé."  
+# text_source = p. 27  
+# text_por = "Na cruz."  
+
+# sent_id = Aguiar1898:5:3:45  
+# text = TODO  
+# text_orig = "Auà rupi?"  
+# text_source = p. 27  
+# text_por = "Por quem?"  
+
+# sent_id = Aguiar1898:5:4:46  
+# text = TODO  
+# text_orig = "Ianê rupi."  
+# text_source = p. 27  
+# text_por = "Por nós."  
+
+# sent_id = Aguiar1898:5:5:47  
+# text = TODO  
+# text_orig = "Mah'arama tahà?"  
+# text_source = p. 27  
+# text_por = "Para que?"  
+
+# sent_id = Aguiar1898:5:6:48  
+# text = TODO  
+# text_orig = "Ianê picirú, salvari arama."  
+# text_source = p. 27  
+# text_por = "Para nos remir e salvar."  
+
+# text = TODO  
+# title_orig = MVHARAMA TUPANA U-MUNHÃN IANÉ
+# title_por = DO FIM PARA QUE NOS CREOU DEUS
+# text_source = p. 28  
+  
+
+# sent_id = Aguiar1898:6:1:49  
+# text = TODO  
+# text_orig = "Mah'araraa tahà Tupana Ianè Iara u-munhan ianê?"  
+# text_source = p. 28  
+# text_por = "Para que Deus Nosso Senhor nos criou?"  
+
+# sent_id = Aguiar1898:6:2:50  
+# text = TODO  
+# text_orig = "Là-quau arama aé, ià-çahiçú arama aé, ià-munhan arama ce mutára ikè inhipe, ara íauè curi."  
+# text_source = p. 28  
+# text_por = "Para o conhecermos, para amá-lo, para fazer sua vontade n'este mundo, enquanto vivermos."  
+
+# sent_id = Aguiar1898:6:3:51  
+# text = TODO  
+# text_orig = "Là-manú ri ri?"  
+# text_source = p. 28  
+# text_por = "E depois que morrermos?"  
+
+# sent_id = Aguiar1898:6:4:52  
+# text = TODO  
+# text_orig = "Là-pilihú-relô arama, ianê ruri arama upàin ara iuaca upé, Tupana Ianê Iara ruaki."  
+# text_source = p. 28  
+# text_por = "Para descansarmos de todo, para gozarmos eternamente no Céu, junto a Deus Nosso Senhor."  
+
+# sent_id = Aguiar1898:6:5:53  
+# text = TODO  
+# text_orig = "Arame, ianê requè ikè, iámanú riri ianê requè cera?"  
+# text_source = p. 28  
+# text_por = "Então aqui temos uma vida, e depois da nossa morte teremos outra?"  
+
+# sent_id = Aguiar1898:6:6:54  
+# text = TODO  
+# text_orig = "Lauè-ten. Ianê requé iuhipe; ianê requé ia-manú riri."  
+# text_source = p. 28  
+# text_por = "É verdade. Temos uma vida na terra, e outra depois da morte."  
+
+# sent_id = Aguiar1898:6:7:55  
+# text = TODO  
+# text_orig = "Là mauú ramé, mahá-kiti iáçú?"  
+# text_source = p. 28  
+# text_por = "Quando morrermos, para onde vamos?"  
+
+# sent_id = Aguiar1898:6:8:56  
+# text = TODO  
+# text_orig = "Mira catú iuaca klti, mira puxi iurupartratá kiti."  
+# text_source = p. 28  
+# text_por = "Os bons vão para o Céu, e os maus para o inferno."  
+
+# text = TODO  
+# title_orig = UATARl RETÉ CFXUCATÚ ÇUI, AUÁ IU-SALVARI ARAMA.
+# title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE
+# text_source = p. 29    
+  
+
+# sent_id = Aguiar1898:7:1:56  
+# text = TODO  
+# text_orig = "Iepé mira iu-salvari quau, tiramé u-ruiari, tiramé iu muceruca?"  
+# text_source = p. 29  
+# text_por = "Uma pessoa pode salvar-se sem crer, nem baptizar-se?"  
+
+# sent_id = Aguiar1898:7:2:57  
+# text = TODO  
+# text_orig = "?Tiana! Uatarireté u-ruiari rain, u-ceruca rain."  
+# text_source = p. 29  
+# text_por = "Absolutamente não! É necessário crer e baptizar-se."  
+
+# sent_id = Aguiar1898:7:3:58  
+# text = TODO  
+# text_orig = "Mahi-tahá iá-quau ia-ulíikí iuáca ii.pé?"  
+# text_source = p. 29  
+# text_por = "Como podemos alcançar o Céu?"  
+
+# sent_id = Aguiar1898:7:4:59  
+# text = TODO  
+# text_orig = "Jesu-Christu rulü recuiúra, iá-munhãn Tupana u-munu ualiá, ianê çui."  
+# text_source = p. 29  
+# text_por = "Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda."  
+
+# sent_id = Aguiar1898:7:5:60  
+# text = TODO  
+# text_orig = "Santa Curuçcá rangáua rupi, ianè picírú Tupana, ianê Iara, ianê ruianhana."  
+# text_source = p. 29  
+# text_por = "Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos."  
+
+# sent_id = Aguiar1898:7:6:61  
+# text = TODO  
+# text_orig = "Paia rêra upé, Tahira luiri Espíritu-Santuiuiri."  
+# text_source = p. 29  
+# text_por = "Em nome do Pai, e do Filho, e do Espírito-Santo."  
+
+# sent_id = Aguiar1898:7:7:62  
+# text = TODO  
+# text_orig = "lauê."  
+# text_source = p. 29  
+# text_por = "Amém."  
+
+# text = TODO  
+# title_orig = IANÊ PAIA
+# title_por = PADRE-NOSSO 
+# text_source = p. 30 
+  
+
+# sent_id = Aguiar1898:8:1:63  
+# text = TODO  
+# text_orig = "Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu«muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké iilhipe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-jperdnari -te ianê ualari, mahi ianê ia perduarí amúitá uatari; tehen re-xiari ianê iáari cecúpuxi kití; re-picirú ianê upãin mahãpuxi çui."  
+# text_source = p. 30  
+# text_por = "Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal."  
+
+# sent_id = Aguiar1898:8:2:64  
+# text = TODO  
+# text_orig = "Iauê."  
+# text_source = p. 30  
+# text_por = "Amém."  
+
+# sent_id = Aguiar1898:8:3:65  
+# text = TODO  
+# text_orig = "Ave-Maria, ipura graça çui, ianê làra ne iruma; iu-mumehun-catú inó upãin cnnhan pitérape, iu-mumehun-catú iuhá nê maricá çui, Jesus."  
+# text_source = p. 30  
+# text_por = "Ave-Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus."  
+
+# sent_id = Aguiar1898:8:4:66  
+# text = TODO  
+# text_orig = "Santa Maria Tupana Manha reiururé ianérecê pecadori rupi, cuhiri, ianê manú ramé iuiri."  
+# text_source = p. 30  
+# text_por = "Santa Maria, Mãe de Deus, roga por nós pecadores, agora e na hora da nossa morte."  
+
+# sent_id = Aguiar1898:8:5:67  
+# text = TODO  
+# text_orig = "Iauê."  
+# text_source = p. 30  
+# text_por = "Amém."  
+
+# text = TODO  
+# title_orig = XA-RUIARI TUPANA RECÊ
+# title_por = CREIO EM DEUS
+# text_source = p. 31   
+  
+
+# sent_id = Aguiar1898:9:1:68  
+# text = TODO  
+# text_orig = "Xa-ruiari Tupana Paia recê, turuçúreté, munhangara iuaca, iuhi."  
+# text_source = p. 31  
+# text_por = "Creio em Deus, Pai todo poderoso, Criador do Céu e da terra."  
+
+# sent_id = Aguiar1898:9:2:69  
+# text = TODO  
+# text_orig = "Xa-ruiari Jesu-Christu recê, iepénhun aé-Ralrira, Ianê Iara; mahiuahá iu acema Espirilu-Santu çui;"  
+# text_source = p. 31  
+# text_por = "Creio em Jesus Cristo, seu único Filho, Nosso Senhor, o qual foi concebido do Espírito Santo, nasceu de Maria Virgem;"  
+
+# sent_id = Aguiar1898:9:3:70  
+# text = TODO  
+# text_orig = "u-cenia Maria Virgem çui; u-purará uirpe tuixâua Poncio Pilatos; iumúitapúa curuçà recê; u-manu; aitá u-iulimaaé; ufuhiéinfernukiti;"  
+# text_source = p. 31  
+# text_por = "padeceu sob o poder de Poncio Pilatos; foi crucificado, morto e sepultado; desceu aos infernos;"  
+
+# sent_id = Aguiar1898:9:4:71  
+# text = TODO  
+# text_orig = "iuhiriana cequé, muçapiri ara riri, umanúaítá pitéraçui; u-iupiri iuáca kíti;"  
+# text_source = p. 31  
+# text_por = "ressuscitou dentre os mortos ao terceiro dia; subiu aos Céus; está assentado à direita de Deus Pai todo poderoso, de onde há de vir a julgar os vivos e os mortos."  
+
+# sent_id = Aguiar1898:9:5:72  
+# text = TODO  
+# text_orig = "u-apika u-icú Tupana-Paiapucatú ruaki, mahâçui curi u-uri jurigari arama cequéaitá, umanúaitá."  
+# text_source = p. 31  
+# text_por = "Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos Santos; na remissão dos pecados; na ressurreição da nossa carne; na vida eterna."  
+
+# sent_id = Aguiar1898:9:6:73  
+# text = TODO  
+# text_orig = "Xa-ruiari Espiritu-Santu recê; Santa Igreja Catorica reco, Santuilâ iepéuaçúçáua recê; ianê pecaduitá remiçam recê;"  
+# text_source = p. 31  
+# text_por = "Creio no Espírito-Santo; na Santa Igreja Catholiea; na communhão dos Santos; na remissão dos peccados; na ressurreição da nossa carne; na vida eterna."  
+
+# sent_id = Aguiar1898:9:7:74  
+# text = TODO  
+# text_orig = "lauê"  
+# text_source = p. 31  
+# text_por = "Amém."  
+
+# text = TODO  
+# title_orig = TUPANA MUNUÇÁUMTÁ
+# title_por = MANDAMENTOS DE DEUS
+# text_source = p. 32  
+  
+
+# sent_id = Aguiar1898:10:1:75  
+# text = TODO  
+# text_orig = "1°. — Re-çahiçú curi Tupana ne piá çui, upãjn mahã çui."  
+# text_source = p. 32  
+# text_por = "1. — Amarás a Deus de todo o teu coração, sobre todas as cousas."  
+
+# sent_id = Aguiar1898:10:2:76  
+# text = TODO  
+# text_orig = "2°. — Tehen re-cenôi Tupana rêra tenente."  
+# text_source = p. 32  
+# text_por = "2. — Não jurarás o nome de Deus em vão."  
+
+# sent_id = Aguiar1898:10:3:77  
+# text = TODO  
+# text_orig = "3°. — Re-nungaturú curi mituú, ara san^uitá."  
+# text_source = p. 32  
+# text_por = "3. — Guardarás domingos e dias santos."  
+
+# sent_id = Aguiar1898:10:4:78  
+# text = TODO  
+# text_orig = "4°. — Re-puçú curi ne paia, ne."  
+# text_source = p. 32  
+# text_por = "4. — Honrarás teu pae e tua mãe."  
+
+# sent_id = Aguiar1898:10:5:79  
+# text = TODO  
+# text_orig = "5°. — Tehen re-iucá."  
+# text_source = p. 32  
+# text_por = "5. — Não matarás."  
+
+# sent_id = Aguiar1898:10:6:80  
+# text = TODO  
+# text_orig = "6°. — Tehen re-munhã cecúpuxiçaua."  
+# text_source = p. 32  
+# text_por = "6. — Não commetterás deshonestidades."  
+
+# sent_id = Aguiar1898:10:7:81  
+# text = TODO  
+# text_orig = "7°. — Tehen re-munan."  
+# text_source = p. 32  
+# text_por = "7. — Não furtarás."  
+
+# sent_id = Aguiar1898:10:8:82  
+# text = TODO  
+# text_orig = "8°. — Tehen re-hinhin temente ne rapixára recê, inti púité iuri."  
+# text_source = p. 32  
+# text_por = "8. — Não levantarás falso contra o teu próximo, nem também mentiras."  
+
+# sent_id = Aguiar1898:10:9:83  
+# text = TODO  
+# text_orig = "9°. — Tehen re-Íucê ne rapixap, rimiricú."  
+# text_source = p. 32  
+# text_por = "9. — Não desejarás a mulher do teu próximo."  
+
+# sent_id = Aguiar1898:10:10:84  
+# text = TODO  
+# text_orig = "10°. — Tehen re-Íucê a m ú i tá mahã."  
+# text_source = p. 32  
+# text_por = "10. — Não cubiçarás os bens alheios."  
 
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
