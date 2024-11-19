@@ -3,38 +3,38 @@
 # title_orig = CHRISTU MUHENÇÁUA TUPANA-MUNHANGÁRA
 # title_por = DOUTRINA CRISTÃ DE DEUS CRIADOR
 # text_source = p. 23
-# text_orig = — Auá tahá u-munhã upãin mahã?
-# text_por = — Quem criou todas as cousas?
+# text_orig = Auá tahá u-munhã upãin mahã?
+# text_por = Quem criou todas as cousas?
 
 # sent_id = Aguiar1898:1:2:2
 # text = TODO
-# text_orig = — Tupana Ianè Iara.
+# text_orig = Tupana Ianè Iara.
 # text_source = p. 23
-# text_por = — Deus Nosso Senhor.
+# text_por = Deus Nosso Senhor.
 
 # sent_id = Aguiar1898:1:3:3
 # text = TODO
-# text_orig = — Auá taha u-munhã ianê?
+# text_orig = Auá taha u-munhã ianê?
 # text_source = p. 23
-# text_por = — Quem nos criou a nós?
+# text_por = Quem nos criou a nós?
 
 # sent_id = Aguiar1898:1:4:4
 # text = TODO
-# text_orig = — Tupana Ianê Iara.
+# text_orig = Tupana Ianè Iara.
 # text_source = p. 23
-# text_por = — Deus Nosso Senhor.
+# text_por = Deus Nosso Senhor.
 
 # sent_id = Aguiar1898:1:5:5
 # text = TODO
-# text_orig = — Ahiqué cerá amú Tupana, quá çui?
+# text_orig = Ahiqué cerá amú Tupana, quá çui?
 # text_source = p. 23
-# text_por = — Poderá haver outro Deus, que não seja esse?
+# text_por = Poderá haver outro Deus, que não seja esse?
 
 # sent_id = Aguiar1898:1:6:6
 # text = TODO
-# text_orig = — Intiana!
+# text_orig = Intiana!
 # text_source = p. 23
-# text_por = — De maneira alguma!
+# text_por = De maneira alguma!
 
 # sent_id = Aguiar1898:1:7:7
 # text = TODO
@@ -44,109 +44,110 @@
 
 # sent_id = Aguiar1898:1:8:8  
 # text = TODO  
-# text_orig = "— Mame tahá u-icú Tupana?"  
+# text_orig = Mamé tahá u-icú Tupana?
 # text_source = p. 23  
-# text_por = "— Onde está Deus?"  
+# text_por = Onde está Deus?
 
 # sent_id = Aguiar1898:1:9:9  
 # text = TODO  
-# text_orig = "— luàca upé, iuhipe, upãin rupi."  
+# text_orig = Iuàca upé, ïuhïpe, upãin rupi.
 # text_source = p. 23  
-# text_por = "— No Céu, na terra, e em todo o lugar."  
+# text_por = No Céu, na terra, e em todo o lugar.
 
 # sent_id = Aguiar1898:1:10:10  
 # text = TODO  
-# text_orig = "— Auá tahá aé Tupana?"  
+# text_orig = Auá tahá aé Tupana?
 # text_source = p. 23  
-# text_por = "— Quem é esse Deus?"  
+# text_por = Quem é esse Deus? 
 
 # sent_id = Aguiar1898:1:11:11  
 # text = TODO  
-# text_orig = "— Iepé anga-reté, turuçú-reté,"  
+# text_orig = Iepé anga-reté, turuçú-reté, ianê munhangara, ianê Iara.
 # text_source = p. 23  
-# text_por = "— Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor."  
+# text_por = Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor.
 
-# sent_id = Aguiar1898:1:12:12  
+# sent_id = Aguiar1898:2:1:12  
 # text = TODO  
-# text_orig = "— ianê munhangara, ianê Iara."  
-# text_source = p. 23  
-# text_por = "— Deus Nosso Senhor."  
-
-# text = TODO  
-# title_orig = TUPANA IEPÉÇÁUA MUÇAPÍRÍÇAUA RECÊ
-# title_por = "DEUS UNO E TRINO" 
-# text_source = p. 24  
+# title_orig = TUPANA IEPÉÇÁUA MUÇAPÏRÍÇAUA RECÊ
+# title_por = DEUS UNO E TRINO
+# text_source = p. 25
 
 # sent_id = Aguiar1898:2:1:13  
 # text = TODO  
-# text_orig = Munhire pessoa tahá ahiqué Tupana recê?" 
-# text_source = p. 24  
-# text_por = "Quantas pessoas há em Deus?"  
+# text_orig = Munhïre pessôa tahá ahiqué Tupana recê?" 
+# text_source = p. 25  
+# text_por = Quantas pessoas há em Deus?  
 
 # sent_id = Aguiar1898:2:1:14  
 # text = TODO  
-# text_orig = "Muçapiri."  
-# text_source = p. 24  
-# text_por = "Três."  
+# text_orig = Muçapïri.  
+# text_source = p. 25  
+# text_por = Três.
 
 # sent_id = Aguiar1898:2:1:15  
 # text = TODO  
 # text_orig = Mahiuhá tahá aitá?  
-# text_source = p. 24  
-# text_por = "Quais são elas?"  
+# text_source = p. 25  
+# text_por = Quais são elas? 
 
 # sent_id = Aguiar1898:2:1:16  
-# text = TODO  
-# text_orig = Paia, Tahira, Espiritu-Santu.  
-# text_source = p. 24  
-# text_por = O Pae é Deus?"  
+# #text = TODO  
+# text_orig = Paia, Tahïra, Espiritu-Santu.  
+# text_source = p. 25  
+# text_por = Pai, Filho Espírito Santo.
+
+# sent_id = Aguiar1898:2:1:16  
+# #text = TODO  
+# text_orig = Paia Tupana? 
+# text_source = p. 25  
+# text_por = O Pai é Deus?
 
 # sent_id = Aguiar1898:2:1:17  
 # text = TODO  
 # text_orig = Aé; Paia Tupana.  
-# text_source = p. 24  
-# text_por = Sim; o Pae é Deus. 
+# text_source = p. 25  
+# text_por = Sim; o Pai é Deus. 
 
 # sent_id = Aguiar1898:2:1:18  
 # text = TODO  
-# text_orig = Tahira Tupana?  
-# text_source = p. 24  
+# text_orig = Tahïra Tupana?  
+# text_source = p. 25  
 # text_por = O Filho é Deus?
 
 # sent_id = Aguiar1898:2:1:19  
 # text = TODO  
-# text_orig = Aé; Tahira Tupana.  
-# text_source = p. 24  
+# text_orig = Aé; Tahïra Tupana.  
+# text_source = p. 25  
 # text_por = Sim; o Filho é Deus.  
 
 # sent_id = Aguiar1898:2:1:20  
 # text = TODO  
 # text_orig = Espiritu-Santu Tupana?  
-# text_source = p. 24  
-# text_por = O Espírito-Santo é Deus?  
+# text_source = p. 25  
+# text_por = O Espírito Santo é Deus?  
 
 # sent_id = Aguiar1898:2:1:21  
 # text = TODO  
 # text_orig = Aé. Espiritu-Santu Tupana.  
-# text_source = p. 24  
-# text_por = Sim. O Espírito-Santo é Deus.  
+# text_source = p. 25  
+# text_por = Sim. O Espírito Santo é Deus.  
 
 # sent_id = Aguiar1898:2:1:22  
 # text = TODO  
-# text_orig = Arame muçapiri tupanaitá?  
-# text_source = p. 24  
+# text_orig = Aramé muçapïri tupanaitá?  
+# text_source = p. 25  
 # text_por = Então são três deuses?  
 
 # sent_id = Aguiar1898:2:1:23  
 # text = TODO  
-# text_orig = 'Tiana! Muçapiri pessoa aitá, iepénhun Tupana-reté.  
-# text_source = p. 24  
+# text_orig = 'Tiana! Muçapïri pessôa aitá, iepénhun Tupana-reté.  
+# text_source = p. 25  
 # text_por = Não! São três pessoas distintas, e um só Deus verdadeiro.  
 
 # text = TODO  
 # title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
 # title_por = INCARNAÇÃO DO FILHO DE DEUS  
-# text_source = p. 25    
+# text_source = p. 27    
 
 # sent_id = Aguiar1898:3:1:24  
 # text = TODO  
