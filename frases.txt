@@ -1904,7 +1904,7 @@ p. 350
 
 436 - tupána resé, emeén maé xaú aráma, seyumuasy reté.
 436 - Tupana resé, emeẽ maã xaú arama, se yumasí reté. # forma adaptada para anotar e incluir no treebank
-436 - Tupana resé, remeẽ maã aú arama, se yumasí reté. (Hartt, 320, adap.) - Por deus, dá-me algo para comer, estou com muita fome.
+436 - Tupana resé, remeẽ maã aú arama, se yumasí reté. (Hartt, 320, adap.) - Por deus, dá-me algo para comer, estou com muita fome. # cross_reference = Avila2021:0:0:448
 436 - por amor de Deus, dá-me alguma cousa que comer, tenho muita fome.
 
 p. 351
