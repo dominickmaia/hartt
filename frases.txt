@@ -537,8 +537,8 @@ p. 327
 p. 328
 
 120 - paraná yumuñan oiko.
+120 - Paraná yumunhã uikú. # adaptação de Leonel
 120 - Paraná uyumunhã uikú. (Hartt, 328, adap.) - O rio está enchendo.
-120 - Paraná yumunhã uikú.
 120 - O rio está enchendo.
 
 121 - kurutén mirí kurí eyuyr!
@@ -702,7 +702,8 @@ p. 330
 158 - Sou filho de baixo.
 
 159 - se renáua Tupiópe.
-159 - Se renawa Tupayú.
+159 - Se renawa Tupayú-pe. # ver Ixé awari Tupayú-pe. (Hartt, 346, adap.) -  Eu nasci em 
+Santarém.
 159 - Meu lugar é Santarém.
 
 160 - ixé Tupaió uára.
@@ -839,6 +840,7 @@ p. 333
 190 - Ele deixou a moça sozinha na casa.
 
 191 - aé seriyár ixé ñún.
+191 - Aé se xari ixé nhũ. # adaptação de Leonel
 191 - Aé uxari ixé nhũ. (Hartt, 333, adap.) - Ele me deixou sozinho.
 191 - Ele me deixou sozinho.
 
@@ -905,12 +907,13 @@ p. 334
 205 - Vou furar as orelhas de minha filha para meter seus brincos.
 
 206 - xasó xayakapy seáua.
-206 - Xasú xayakapika se awa. # forma adaptada para anotar e incluir no treebank
+206 - Xasú xayakapi se awa. # forma adaptada para anotar e incluir no treebank
 206 - Asú ayakapika se awa. (Hartt, 334, adap.) - Vou pentear meus cabelos.
 206 - Vou pentear meus cabelos.
 
 207 - saiá kapy ranhé seáua.
-207 - Axari kapika ranhẽ se áwa. *
+207 - Xari kapi ranhẽ se áwa. # adaptação de Leonel, ver https://github.com/CompLin/nheengatu/issues/657 e Avila (2021): ■ Reg. hist.: [Costa [xari], 213; Stradelli [xiare, xiári] 199, [xare] 521; Dias, [chari] 557, [echiare] 562, [xiare] 574; Coudreau, [oxari] 469; Tastevin [xiári], 676; Rondon [chari], 118; Hartt, [xiár] 324, 326, 363, [ruyar [reyar]] 388; Magalhães [xári], 125, 178, 181, 193, 198, 203, 208, 213, 273, 274; Rodrigues, [chare] 63, 90, 101, 110, 283, 319, 320, 321, [chiare] 89, 124, 167, 196, 239, 247, 248, [chiara] 233; [ceare] 304, [ceiara] 308, [chara] 316, 333; Amorim, [xare] 26, [seare] 28, 33, 34, 213, 341, [xeare] 30, 31, 34, 248] ● (do tupi seîar [s- + eîar (s)])
+207 - NA
 207 - Deixa-me pentear meus cabelos.
 
 208 - aé oyuóg putár isapatú.
