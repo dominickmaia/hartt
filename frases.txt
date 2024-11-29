@@ -922,12 +922,12 @@ p. 334
 208 - Ele quer tirar seus sapatos.
 
 209 - xasó xayumumunéu.
-209 - Xasú xayumuamundéu. # forma adaptada para anotar e incluir no treebank
+209 - Xasú xayumumunéu/=typo:c|xayumuamunéu:n|mid. # forma adaptada para anotar e incluir no treebank
 209 - Asú ayumuamundéu. (Hartt, 334, adap.) - Vou me vestir.
 209 - Vou me vestir.
 
 210 - xasó xamanéu se kamixá.
-210 - Xasú xayumunéu se kamixá.
+210 - Xasú xamanéu/=typo:c|xamunéu se kamixá.
 210 - Vou vestir minha camisa.
 
 211 - emuné uán neturína.
