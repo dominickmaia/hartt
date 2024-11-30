@@ -841,7 +841,7 @@ p. 333
 190 - Ele deixou a moça sozinha na casa.
 
 191 - aé seriyár ixé ñún.
-191 - Aé se xari ixé nhũ. # adaptação de Leonel
+191 - Aé xari ixé nhũ. # adaptação de Leonel
 191 - Aé uxari ixé nhũ. (Hartt, 333, adap.) - Ele me deixou sozinho.
 191 - Ele me deixou sozinho.
 
