@@ -1794,3 +1794,4 @@
 4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
 5	awa	awa	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=19:22
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=22:23
+
