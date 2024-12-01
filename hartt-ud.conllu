@@ -1789,7 +1789,7 @@
 # inputline = Xari/=mf:m|exari:r|Standard kapi/=typo:c|ayakapika ranhẽ/impf se awa.
 # text_annotator = Dominick Maia Alexandre
 1	Xari	xari	VERB	V	Style=Rare|VerbForm=Inf	0	root	_	StandardForm=exari|StandardMood=Imp|StandardNumber=Sing|StandardPerson=2|StandardVerbform=Fin|TokenRange=0:4
-2	kapi	yakapika	VERB	V	Mood=Ind|Number=Sing|Person=1|Typo=Yes|VerbForm=Fin	1	xcomp	_	CorrectForm=ayakapika|TokenRange=5:9
+2	kapi	yakapika	VERB	V	Mood=Ind|Number=Sing|Person=1|Typo=Yes|VerbForm=Fin	1	parataxis	_	CorrectForm=ayakapika|TokenRange=5:9
 3	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	2	advmod	_	TokenRange=10:15
 4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
 5	awa	awa	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=19:22
