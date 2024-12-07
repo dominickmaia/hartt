@@ -73,6 +73,7 @@ p. 320
 
 16 - ekoin esykená ñaá kauasú yurú.
 16 - Ekũi esikináu nhaã kawasú yurú.
+16 - NA
 16 - Vai tampar a boca do balde.
 
 17 - ixé intí nerasó kuáu.
@@ -3379,7 +3380,7 @@ p. 375
 771 - Já comi tudo.
 
 772 - auá pesuí, uára taá orekó serekúya?
-772 - Awá pe suí-wara taá urikú se rekuya?
+772 - Awá pe suiwara taá urikú se rekuya? # suiwara (var. xiiwara [hist.]) (posp.)  1) desde, apartir de (no tempo, no espaço) [...] (Avila 2021)
 772 - Quem de vós tem minha cuia?
 
 773 - pemeén ixéu.
