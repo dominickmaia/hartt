@@ -1912,12 +1912,12 @@
 # text_por_sec = [...] depois [a pessoa] volta para casa, vai buscar seu pessoal para trabalhar.;
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
-# inputline = Mira usú usikari siringatiwa; uwasemu sitá/indq ramé/sconj, umunhã i/pron2 tuyupara, asuí/cconj uyuíri suka/n kití, usú i/pron2 mira-itá piamu/adp upurakí arama/adp.
+# inputline = Mira usú usikari siringatiwa/=col; uwasemu sitá/indq ramé/sconj, umunhã i/pron2 tuyupara, asuí/cconj uyuíri suka/n kití, usú i/pron2 mira-itá piamu/adp upurakí arama/adp.
 # text_annotator = Dominick Maia Alexandre
 1	Mira	mira	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=0:4
 2	usú	sú	AUX	AUXFR	Mood=Ind|Person=3|VerbForm=Fin	3	aux	_	TokenRange=5:8
 3	usikari	sikari	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=9:16
-4	siringatiwa	siringatiwa	NOUN	N	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=17:28
+4	siringatiwa	siringa	NOUN	N	Derivation=Coll|Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=17:28
 5	;	;	PUNCT	PUNCT	_	6	punct	_	TokenRange=28:29
 6	uwasemu	wasemu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	3	parataxis	_	TokenRange=30:37
 7	sitá	sitá	PRON	INDQ	PronType=Ind	6	obj	_	TokenRange=38:42
