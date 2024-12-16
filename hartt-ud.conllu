@@ -1979,3 +1979,38 @@
 23	kití	kití	ADP	ADP	AdpType=Post	22	case	_	SpaceAfter=No|TokenRange=137:141
 24	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=141:142
 
+# sent_id = Hartt1938:0:0:15
+# text = Xasikináu ukena.
+# text_por = Eu fecho a janela.
+# text_source = p. 320, No. 15
+# text_orig = xasykená okéna.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Asikindá ukena.
+# text_por_sec = Eu fecho a janela.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xasikináu ukena.
+# text_annotator = Dominick Maia Alexandre
+1	Xasikináu	sikináu	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asikináu|TokenRange=0:9
+2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=10:15
+3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
+
+# sent_id = Hartt1938:0:0:16
+# text = Ekũi esikináu nhaã kawasú yurú.
+# text_por = Vai tampar a boca do balde.
+# text_source = p. 320, No. 16
+# text_orig = ekoin esykená ñaá kauasú yurú.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Ekũi esikináu nhaã kawasú yurú.
+# text_annotator = Dominick Maia Alexandre
+1	Ekũi	sú	AUX	AUXFR	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	aux	_	TokenRange=0:4
+2	esikináu	sikináu	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:13
+3	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	4	det	_	TokenRange=14:18
+4	kawasú	kawasú	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=19:25
+5	yurú	yurú	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=26:30
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
+
