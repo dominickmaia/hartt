@@ -32,7 +32,8 @@ p. 319
 6 - Tens ovos de galinha?
 
 7 - intí xasenú katú.
-7 - Intí xasendú katú.
+7 - Intí xasenú katú.
+7 - NA
 7 - Não ouço bem.
 
 8 - epurú né kyuáua ixéu.
@@ -72,7 +73,7 @@ p. 320
 15 - Eu fecho a janela.
 
 16 - ekoin esykená ñaá kauasú yurú.
-16 - Ekũi esikináu nhaã kawasú yurú.
+16 - Ekũi esikiná nhaã kawasú yurú.
 16 - NA
 16 - Vai tampar a boca do balde.
 
@@ -3542,7 +3543,7 @@ p. 377
 p. 378
 
 809 - uirané kurí resó mín kyty.
-809 - Wirané kurí resú mikití. # forma adaptada para anotar e incluir no treebank
+809 - Wirané kurí resú mi kití. # forma adaptada para anotar e incluir no treebank
 809 - Wirandé kurí resú mikití. (Hartt, 378, adap.) - Amanhã tu hás de ir para lá.
 809 - Amanhã tu hás de ir para lá.
 
