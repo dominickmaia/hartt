@@ -778,7 +778,7 @@ p. 331
 
 p. 332
 
-176 - kupiin oú paú semaitá(mbaáitá-Ereré).
+176 - kupiin oú paú semaitá (mbaáitá-Ereré).
 176 - Kupĩ uú páu se maãitá.
 176 - O cupim comeu toda a minha roupa.
 
@@ -856,12 +856,13 @@ p. 333
 193 - Estou sozinho.
 
 194 - maeresé kuite, intí remenár putár surúm?
-194 - Maã resé kuité intí remenari-putari se irũ? # forma adaptada para anotar e incluir no treebank
+194 - Maã resé kuité, intí remenari-putari se irũ? # forma adaptada para anotar e incluir no treebank
 194 - Maã resé ti remendari-putari se irumu? (Hartt, 377, adap.) - Por que não queres te casar comigo?
 194 - Por que não queres te casar comigo?
 
 195 - iné intí sepyé suí.
 195 - Iné intí se piá suí.
+195 - NA
 195 - Porque tu não és de meu coração.
 
 196 - remenár putár será serúm?
@@ -3114,11 +3115,12 @@ p. 370
 
 712 - maeresé intí remuyasúk kuaé maeitá ikyá uaé?
 712 - Maã resé ti remuyasuka kwaá maãitá i kiá waá? (Hartt, 370, adap.) - Por que não lavas a roupa suja?
-712 - Porque não lavas a roupa suja?
+712 - Por que não lavas a roupa suja?
 
 713 - ikyá ikó, maeresé intí remuyasúk?
 713 - I kiá ikú, maã resé intí remuyasuka?
-713 - Está sujo, porque não lavas?
+713 - NA
+713 - Está sujo, por que não lavas?
 
 p. 371
 
@@ -3431,7 +3433,7 @@ p. 376
 783 - Estou aborrecido.
 
 784 - searasy reté xaikó maeresé seremirikó imaary reté.
-784 - Se arasí reté xaikú, maãresé se rimirikú i maasí reté.
+784 - Se arasí reté xaikú maãresé se rimirikú i maasí reté.
 784 - Se arasí reté aikú, maãresé se rimirikú i maasí reté. (Hartt, 376, adap.) - Estou muito triste, porque minha mulher está muito doente
 784 - Estou muito triste, porque minha mulher está muito doente.
 
@@ -3529,8 +3531,8 @@ p. 377
 
 806 - maé resé intí remenar putár serúm?
 806 - Maã resé intí remenari-putari se irũ? 
-806 - Maã resé ti remendari-putari se irumu? (Hartt, 377, adap.) - Porque não queres te casar comigo?
-806 - Porque não queres te casar comigo?
+806 - Maã resé ti remendari-putari se irumu? (Hartt, 377, adap.) - Por que não queres te casar comigo?
+806 - Por que não queres te casar comigo?
 
 807 - nepatráum osapukái neresé oikó.
 807 - Ne patrãu usapukaya ne resé uikú.
