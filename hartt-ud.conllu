@@ -2155,16 +2155,16 @@
 # sent_id = Hartt1938:0:0:713
 # text = I kiá ikú, maã resé intí remuyasuka?
 # text_por = Está sujo, por que não lavas?
-# text_source = p. 370, No. 713
+# text_source = p. 334, No. 713
 # text_orig = ikyá ikó, maeresé intí remuyasúk?
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = I/pron2 kiá ikú/v, maã/int resé/adp intí remuyasuka?
+# inputline = I/pron2 kiá ikú/=mf:m|uikú:x|v, maã/int resé/adp intí remuyasuka?
 # text_annotator = Dominick Maia Alexandre
 1	I	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:1
 2	kiá	kiá	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=2:5
-3	ikú	ikú	AUX	AUXFS	VerbForm=Inf	2	aux	_	SpaceAfter=No|TokenRange=6:9
+3	ikú	ikú	AUX	AUXFS	Style=Arch|VerbForm=Inf	2	aux	_	ModernForm=uikú|ModernMood=Ind|ModernPerson=3|ModernVerbform=Fin|SpaceAfter=No|TokenRange=6:9
 4	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=9:10
 5	maã	maã	PRON	INT	PronType=Int	8	obl	_	TokenRange=11:14
 6	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	5	case	_	TokenRange=15:19
