@@ -2472,14 +2472,14 @@
 7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
 # sent_id = Hartt1938:0:78:78
-# text = Kwaá se membira i atiima, i xirĩ usú yuíri.
+# text = Kwaá se membira i atiima, i xirĩwasú yuíri.
 # text_por = Meu filho é preguiçoso e mentiroso também.
 # text_source = p. 324, No. 78
 # text_orig = kuaá semymyra iatyyma, ixirín osú yuír.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Kwaá/demx se membira i/pron2 atiima/v2, i/pron2 xirĩ/v2 usú yuíri/cconj.
+# inputline = Kwaá/demx se membira i/pron2 atiima/v2, i/pron2 xirĩwasú/=ev:x|v2 yuíri/cconj.
 # text_annotator = Dominick Maia Alexandre
 1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	TokenRange=0:4
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=5:7
@@ -2488,10 +2488,9 @@
 5	atiima	atiima	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=18:24
 6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=24:25
 7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	TokenRange=26:27
-8	xirĩ	xirĩ	VERB	V2	Mood=Ind|VerbForm=Fin	5	conj	_	TokenRange=28:32
-9	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	8	parataxis	_	TokenRange=33:36
-10	yuíri	yuíri	CCONJ	CCONJ	_	8	cc	_	SpaceAfter=No|TokenRange=37:42
-11	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=42:43
+8	xirĩwasú	xirĩ	VERB	V2	Degree=Aug|Mood=Ind|VerbForm=Fin	5	conj	_	TokenRange=28:36
+9	yuíri	yuíri	CCONJ	CCONJ	_	8	cc	_	SpaceAfter=No|TokenRange=37:42
+10	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=42:43
 
 # sent_id = Hartt1938:0:281:281
 # text = Kwaá apigawa i xirĩ reté.
