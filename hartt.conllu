@@ -66,3 +66,20 @@
 3	reté	reté	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=11:15
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
 
+# sent_id = Hartt1938:0:0:816
+# text = Iwawasú reté kwá imirá.
+# text_por = Este pau é muito grosso.
+# text_source = p. 378, No. 816
+# text_orig = iya uasú reté kuaá ymyrá (Mauhé).
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# ethnicity_orig = Mauhé
+# inputline = Iwawasú/=aug reté/advs kwá/demx imirá.
+# text_annotator = Dominick Maia Alexandre
+1	Iwawasú	iwa	NOUN	N	Degree=Aug|Number=Sing	0	root	_	TokenRange=0:7
+2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=8:12
+3	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	TokenRange=13:16
+4	imirá	imirá	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=17:22
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=22:23
+
