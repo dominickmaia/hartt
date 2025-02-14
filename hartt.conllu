@@ -83,3 +83,24 @@
 4	imirá	imirá	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=17:22
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=22:23
 
+# sent_id = Hartt1938:0:0:819
+# text = Sesawasú reté kwaá uí.
+# text_por = Essa farinha é muito grossa.
+# text_source = p. 378, No. 819
+# text_orig = sesá uasú reté kuaá uí (Mauhé).
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Sesawasú reté kwaá uí.
+# text_por_sec = Essa farinha é muito grossa.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# ethnicity_orig = Mauhé
+# inputline = Sesawasú/=aug reté/advs kwaá/demx uí.
+# text_annotator = Dominick Maia Alexandre
+1	Sesawasú	sesá	NOUN	N	Degree=Aug|Number=Sing|Rel=Abs	0	root	_	TokenRange=0:8
+2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=9:13
+3	kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	TokenRange=14:18
+4	uí	uí	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=19:21
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=21:22
+
