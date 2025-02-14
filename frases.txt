@@ -2663,7 +2663,7 @@ p. 363
 607 - Esta casa é antiga.
 
 608 - reú ser pytyma? en-en! xaú pytyma.
-608 - Reú será pitima? Eẽ, xaú pitima. # forma adaptada para anotar e incluir no treebank
+608 - Reú será pitima? Eẽ! xaú pitima. # forma adaptada para anotar e incluir no treebank
 608 - Reú será pitima? Eẽ, aú pitima. (Hartt, 363, adap.) - Você fuma tabaco? Sim, eu fumo tabaco.
 608 - Fumas? Sim! Fumo.
 
