@@ -1,18 +1,3 @@
-# sent_id = Hartt1938:0:0:1
-# text = Asú amupiririka se mantega.
-# text_eng = I'm going to fry my butter.
-# text_por = Vou frigir minha manteiga.
-# text_source = p. 319, No. 1
-# text_orig = hasó hompyryrik se mantéga (Ereré).
-# place = Ereré
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
-2	amupiririka	mupiririka	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:15
-3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=16:18
-4	mantega	mantega	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=19:26
-5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=26:27
-
 # sent_id = Hart1938:0:0:1
 # text = Xasú xamupiririka se mantega.
 # text_eng = I'm going to fry my butter.
@@ -26,21 +11,6 @@
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=18:20
 4	mantega	mantega	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=21:28
 5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
-
-# sent_id = Hartt1938:0:0:2
-# text = Asú amuí imirá jí irũ.
-# text_eng = I'm going to split the log with an axe.
-# text_por = Vou rachar o pau com machado.
-# text_source = p. 319, No. 2
-# text_orig = xasó xamuí ymyrá yí irúm.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
-2	amuí	muí	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:8
-3	imirá	imirá	NOUN	N	Number=Sing	2	obj	_	TokenRange=9:14
-4	jí	jí	NOUN	N	Number=Sing	2	obl	_	TokenRange=15:17
-5	irũ	irũ	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=18:21
-6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=21:22
 
 # sent_id = Hartt1938:0:0:2
 # text = Xasú xamuí imirá jí irũ.
@@ -101,19 +71,6 @@
 5	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
 
 # sent_id = Hartt1938:0:0:7
-# text = Intí asendú katú.
-# text_eng = I can't hear well.
-# text_por = Não ouço bem.
-# text_source = p. 319, No. 7
-# text_orig = intí xasenú katú.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
-2	asendú	sendú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=5:11
-3	katú	katú	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=12:16
-4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
-
-# sent_id = Hartt1938:0:0:7
 # text = Intí xasendú katú.
 # text_eng = I can't hear well.
 # text_por = Não ouço bem.
@@ -170,29 +127,6 @@
 6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=25:26
 
 # sent_id = Hartt1938:0:0:11
-# text = Asú amuisika ne resá sikantá irũ, ti arama remaã se resé.
-# text_eng = I will block your eyes with sicantá, so that you will not look at me.
-# text_por = Vou brear teus olhos com sicantá, para que tu não olhes para mim.
-# text_source = p. 320, No. 11
-# text_orig = xasó xamuisyk neresá sykantan irúm intí aráma remaen seresé.
-# text_annotator = DMA
-# reviewer = LFdeA
-# comment = A vírgula é dependente da oração subordinada (ver documentação de UD)
-1	Asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
-2	amuisika	muisika	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:12
-3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=13:15
-4	resá	sesá	NOUN	N	Number=Sing|Rel=Cont	2	obj	_	TokenRange=16:20
-5	sikantá	sikantá	NOUN	N	Number=Sing	2	obl	_	TokenRange=21:28
-6	irũ	irũ	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=29:32
-7	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=32:33
-8	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	10	advmod	_	TokenRange=34:36
-9	arama	arama	SCONJ	SCONJ	_	10	mark	_	TokenRange=37:42
-10	remaã	maã	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	advcl	_	TokenRange=43:48
-11	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	obl	_	TokenRange=49:51
-12	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	11	case	_	SpaceAfter=No|TokenRange=52:56
-13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=56:57
-
-# sent_id = Hartt1938:0:0:11
 # text = Xasú xamuisika ne resá sikantá irũ, intí arama remaẽ se resé.
 # text_eng = I will block your eyes with sicantá, so that you will not look at me.
 # text_por = Vou brear teus olhos com sicantá, para que tu não olhes para mim.
@@ -242,18 +176,6 @@
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=29:30
 
 # sent_id = Hartt1938:0:0:14
-# text = Intí asendú.
-# text_eng = I don't listen.
-# text_por = Não ouço.
-# text_source = p. 320, No. 14
-# text_orig = intí xasenú.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
-2	asendú	sendú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:11
-3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=11:12
-
-# sent_id = Hartt1938:0:0:14
 # text = Intí xasenú.
 # text_eng = I don't listen.
 # text_por = Não ouço.
@@ -265,18 +187,6 @@
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=11:12
 
 # sent_id = Hartt1938:0:0:15
-# text = Asikindá ukena.
-# text_eng = I close the window.
-# text_por = Eu fecho a janela.
-# text_source = p. 320, No. 15
-# text_orig = xasykená okéna.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Asikindá	sikindá	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:8
-2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=9:14
-3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=14:15
-
-# sent_id = Hartt1938:0:0:15
 # text = Xasikindá ukena.
 # text_eng = I close the window.
 # text_por = Eu fecho a janela.
@@ -286,20 +196,6 @@
 1	Xasikindá	sikindá	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asikindá|TokenRange=0:9
 2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=10:15
 3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
-
-# sent_id = Hartt1938:0:0:16
-# text = Ekũi esikináu nhaã kawasú yurú.
-# text_eng = Go cover the mouth of the bucket.
-# text_por = Vá tampar a boca do balde.
-# text_source = p. 320, No. 16
-# text_orig = ekoin esykená ñaá kauasú yurú.
-# text_annotator = DMA
-1	Ekũi	ekũi	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:4
-2	esikináu	sikináu	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	xcomp	_	TokenRange=5:13
-3	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	5	det	_	TokenRange=14:18
-4	kawasú	kawasú	NOUN	N	Number=Sing	5	nmod	_	TokenRange=19:25
-5	yurú	yurú	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=26:30
-6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=30:31
 
 # sent_id = Hartt1938:0:0:17
 # text = Ixé intí ne rasú-kwáu.
@@ -356,24 +252,6 @@
 1	Mundawasú	mundawasú	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:9
 2	uyawáu	yawáu	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=10:16
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
-
-# sent_id = Hartt1938:0:0:21
-# text = Asetuna reté, i katú reté se tĩ.
-# text_eng = I smell good, my nose is very good.
-# text_por = Eu cheiro bem, meu nariz é muito bom.
-# text_source = p. 320, No. 21
-# text_orig = xasetún reté, ikatú reté setíu.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Asetuna	setuna	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:7
-2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	SpaceAfter=No|TokenRange=8:12
-3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=12:13
-4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	expl	_	TokenRange=14:15
-5	katú	katú	VERB	A2	_	1	parataxis	_	TokenRange=16:20
-6	reté	reté	ADV	ADVS	AdvType=Deg	5	advmod	_	TokenRange=21:25
-7	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=26:28
-8	tĩ	tĩ	NOUN	N	Number=Sing	5	nsubj	_	SpaceAfter=No|TokenRange=29:31
-9	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=31:32
 
 # sent_id = Hartt1938:0:0:21
 # text = Xasetuna reté, i katú reté se tĩ.
@@ -519,23 +397,6 @@
 3	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	TokenRange=13:16
 4	putira	putira	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=17:23
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=23:24
-
-# sent_id = Hartt1938:0:0:30
-# text = Ixé se apisá katú arikú asenú katú.
-# text_eng = I have good ears, I hear well.
-# text_por = Tenho bons ouvidos, ouço bem.
-# text_source = p. 321, No. 30
-# text_orig = ixé seapysá katú xareko xasenú katú.
-# text_annotator = DMA
-# reviewer = LFdeA
-1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=0:3
-2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
-3	apisá	apisá	NOUN	N	Number=Sing	5	obj	_	TokenRange=7:12
-4	katú	katú	ADJ	A	_	3	amod	_	TokenRange=13:17
-5	arikú	rikú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=arikú|TokenRange=18:24
-6	asenú	senú	VERB	V	Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	parataxis	_	ModernForm=asenú|TokenRange=25:31
-7	katú	katú	ADV	ADVS	AdvType=Deg	6	advmod	_	SpaceAfter=No|TokenRange=32:36
-8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=36:37
 
 # sent_id = Hartt1938:0:0:30
 # text = Ixé se apisá katú xarikú xasendú katú.
@@ -1056,24 +917,6 @@
 6	membira-itá	membira	NOUN	N	Number=Plur	4	obl	_	TokenRange=25:36
 7	irũ	irũ	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=37:40
 8	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=40:41
-
-# sent_id = Hartt1938:0:0:78
-# text = Kwá se membira i atiima, i xirĩ usú yuíri.
-# text_por = Meu filho é preguiçoso e mentiroso também.
-# text_source = p. 324, No. 78
-# text_orig = kuaá semymyra iatyyma, ixirín osú yuír.
-# text_annotator = Dominick Maia Alexandre
-1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	TokenRange=0:3
-2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
-3	membira	membira	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=7:14
-4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	expl	_	TokenRange=15:16
-5	atiima	atiima	VERB	V2	_	0	root	_	SpaceAfter=No|TokenRange=17:23
-6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=23:24
-7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	expl	_	TokenRange=25:26
-8	xirĩ	xirĩ	VERB	V2	_	5	conj	_	TokenRange=27:31
-9	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	8	ccomp	_	TokenRange=32:35
-10	yuíri	yuíri	ADV	ADV	_	8	advmod	_	SpaceAfter=No|TokenRange=36:41
-11	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=41:42
 
 # sent_id = Hartt1938:0:0:79
 # text = Ne renira taá muíri?
@@ -1900,7 +1743,7 @@
 15	kambí	kambí	NOUN	N	Number=Sing	12	obj	_	SpaceAfter=No|TokenRange=85:90
 16	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=90:91
 
-# sent_id = Hartt1938:0:0:35
+# sent_id = Hartt1938:3:35:888
 # text = Mira usú usikari siringatiwa; uwasemu sitá ramé, umunhã i tuyupara, asuí uyuíri suka kití, usú i mira-itá piamu upurakí arama.
 # text_por = Vai-se (primeiro) procurar o seringal; quando se acha bastantes paus, faz-se uma barraca, então voltam para a casa buscar gente para trabalhar.
 # text_source = p. 386, No. 35
@@ -1940,7 +1783,7 @@
 24	arama	arama	ADP	ADP	AdpType=Post	23	case	_	SpaceAfter=No|TokenRange=120:125
 25	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=125:126
 
-# sent_id = Hartt1938:0:0:37
+# sent_id = Hartt1938:3:37:890
 # text = Asuí umuyari páu riré uyuíri aúna sakakwera kití, usú kuyambuka piamu usanhana arama imirá kambí até umuteresemu kuyambuka, usú tuyupara kití.
 # text_por = Depois de pregar tôdas voltam por atrás; vão buscar cabaços para juntar leite até o cabaço estar cheio, quando voltám para a barraca.
 # text_source = p. 387, No. 37
@@ -1979,24 +1822,6 @@
 23	kití	kití	ADP	ADP	AdpType=Post	22	case	_	SpaceAfter=No|TokenRange=137:141
 24	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=141:142
 
-# sent_id = Hartt1938:0:0:15
-# text = Xasikináu ukena.
-# text_por = Eu fecho a janela.
-# text_source = p. 320, No. 15
-# text_orig = xasykená okéna.
-# text_eng = TODO
-# text_orig_transcriber = Antônio Levy Melo Nogueira
-# text_por_modernizer = Antônio Levy Melo Nogueira
-# text_sec = Asikindá ukena.
-# text_por_sec = Eu fecho a janela.
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
-# inputline = Xasikináu ukena.
-# text_annotator = Dominick Maia Alexandre
-1	Xasikináu	sikináu	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asikináu|TokenRange=0:9
-2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	SpaceAfter=No|TokenRange=10:15
-3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
-
 # sent_id = Hartt1938:0:0:16
 # text = Ekũi esikináu nhaã kawasú yurú.
 # text_por = Vai tampar a boca do balde.
@@ -2013,7 +1838,6 @@
 4	kawasú	kawasú	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=19:25
 5	yurú	yurú	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=26:30
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
-
 
 # sent_id = Avila2021:0:0:729
 # text = mirití: [...] yapuú panakú upé u waturá yamuyapumi arama paraname, i membeka arama [...].
@@ -2041,26 +1865,6 @@
 16	arama	arama	SCONJ	SCONJ	_	15	mark	_	SpaceAfter=No|TokenRange=77:82
 17	[...]	[...]	PUNCT	ELIP	PunctType=Elip	15	punct	_	SpaceAfter=No|TokenRange=82:87
 18	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=87:88
-
-# sent_id = Hartt1938:0:0:44
-# text = Iwá i memeka reté.
-# text_por = A fruta é muito mole.
-# text_source = p. 322, No. 44
-# text_orig = yuá imembék reté.
-# text_eng = TODO
-# text_orig_transcriber = Antônio Levy Melo Nogueira
-# text_por_modernizer = Antônio Levy Melo Nogueira
-# text_sec = Iwá i membeka reté.
-# text_por_sec = A fruta é muito mole.
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
-# inputline = Iwá i/pron2 memeka/=mf:m|membeka:r|Standard reté/advs.
-# text_annotator = Dominick Maia Alexandre
-1	Iwá	iwá	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=0:3
-2	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	expl	_	TokenRange=4:5
-3	memeka	memeka	VERB	V2	Mood=Ind|Style=Rare|VerbForm=Fin	0	root	_	StandardForm=membeka|TokenRange=6:12
-4	reté	reté	ADV	ADVS	AdvType=Deg	3	advmod	_	SpaceAfter=No|TokenRange=13:17
-5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=17:18
 
 # sent_id = Hartt1938:0:0:712
 # text = Maã resé intí remuyasuka kwaá maã-itá i kiá waá?
@@ -2242,7 +2046,7 @@
 3	reté	reté	ADV	ADVS	AdvType=Deg	2	advmod	_	SpaceAfter=No|TokenRange=11:15
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
 
-# sent_id = Hartt1938:0:170:170
+# sent_id = Hartt1938:0:0:170
 # text = Aé kurutẽiwara i maasí.
 # text_por = De repente caiu doente.
 # text_source = p. 331, No. 170
@@ -2262,7 +2066,7 @@
 4	maasí	maasí	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=17:22
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=22:23
 
-# sent_id = Hartt1938:0:435:435
+# sent_id = Hartt1938:0:0:435
 # text = Se yumasí xaikú.
 # text_por = Estou com fome.
 # text_source = p. 350, No. 435
@@ -2277,7 +2081,7 @@
 3	xaikú	ikú	AUX	AUXFS	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=aikú|SpaceAfter=No|TokenRange=10:15
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
 
-# sent_id = Hartt1938:0:437:437
+# sent_id = Hartt1938:0:0:437
 # text = Ne ymaasy será?
 # text_por = Tens fome?
 # text_source = p. 351, No. 437
@@ -2296,7 +2100,7 @@
 3	será	será	PART	PQ	PartType=Int	2	advmod	_	SpaceAfter=No|TokenRange=10:14
 4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=14:15
 
-# sent_id = Hartt1938:0:438:438
+# sent_id = Hartt1938:0:0:438
 # text = Ixé intí se yumasí.
 # text_por = Não tenho fome.
 # text_source = p. 351, No. 438
@@ -2312,7 +2116,7 @@
 4	yumasí	yumasí	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=12:18
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=18:19
 
-# sent_id = Hartt1938:0:444:444
+# sent_id = Hartt1938:0:0:444
 # text = Reú ramé nhaã naranha ne maasí kurí.
 # text_por = Se tu comeres aquela laranja estarás doente.
 # text_source = p. 351, No. 444
@@ -2331,7 +2135,7 @@
 7	kurí	kurí	PART	FUT	Tense=Fut	6	advmod	_	SpaceAfter=No|TokenRange=31:35
 8	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=35:36
 
-# sent_id = Hartt1938:0:445:445
+# sent_id = Hartt1938:0:0:445
 # text = Maã taá ne maasisawa?
 # text_por = O que é a tua moléstia?
 # text_source = p. 351, No. 445
@@ -2351,7 +2155,7 @@
 4	maasisawa	maasisawa	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=11:20
 5	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
-# sent_id = Hartt1938:0:510:510
+# sent_id = Hartt1938:0:0:510
 # text = Kwaá tenawa intí i maasí urikú.
 # text_por = Este lugar é sadio.
 # text_source = p. 356, No. 510
@@ -2369,7 +2173,7 @@
 6	urikú	rikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	parataxis	_	SpaceAfter=No|TokenRange=25:30
 7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=30:31
 
-# sent_id = Hartt1938:0:791:791
+# sent_id = Hartt1938:0:0:791
 # text = Joakin i maasí ikú, uwari kawarú ara suí, umupena i yuwá, kuíri i katú mirĩ wã uikú.
 # text_por = Joaquim está doente, ele caiu do cavalo e quebrou seu braço, agora está um pouco melhor.
 # text_source = p. 376, No. 791
@@ -2405,7 +2209,7 @@
 20	uikú	ikú	AUX	AUXFS	Mood=Ind|Person=3|VerbForm=Fin	17	aux	_	SpaceAfter=No|TokenRange=79:83
 21	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=83:84
 
-# sent_id = Hartt1938:0:555:555
+# sent_id = Hartt1938:0:0:555
 # text = I katú nhunte ikú, intí awá i maasí.
 # text_por = Assim, assim, ninguém está doente.
 # text_source = p. 359, No. 555
@@ -2426,7 +2230,7 @@
 9	maasí	maasí	VERB	V2	Mood=Ind|VerbForm=Fin	2	parataxis	_	SpaceAfter=No|TokenRange=30:35
 10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=35:36
 
-# sent_id = Hartt1938:0:436:436
+# sent_id = Hartt1938:0:0:436
 # text = Tupana resé, emeẽ maã xaú arama, se yumuasy reté.
 # text_por = Por amor de Deus, dá-me alguma cousa que comer, tenho muita fome.
 # text_source = p. 350, No. 436
@@ -2453,7 +2257,7 @@
 11	reté	reté	ADV	ADVS	AdvType=Deg	10	advmod	_	SpaceAfter=No|TokenRange=44:48
 12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=48:49
 
-# sent_id = Hartt1938:0:588:588
+# sent_id = Hartt1938:0:0:588
 # text = Xasú xambaú, se yumasí xaikú.
 # text_por = Vou comer, estou com fome.
 # text_source = p. 361, No. 588
@@ -2471,7 +2275,7 @@
 6	xaikú	ikú	AUX	AUXFS	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	aux	_	ModernForm=aikú|SpaceAfter=No|TokenRange=23:28
 7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
-# sent_id = Hartt1938:0:78:78
+# sent_id = Hartt1938:0:0:78
 # text = Kwaá se membira i atiima, i xirĩwasú yuíri.
 # text_por = Meu filho é preguiçoso e mentiroso também.
 # text_source = p. 324, No. 78
@@ -2492,7 +2296,7 @@
 9	yuíri	yuíri	CCONJ	CCONJ	_	8	cc	_	SpaceAfter=No|TokenRange=37:42
 10	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=42:43
 
-# sent_id = Hartt1938:0:281:281
+# sent_id = Hartt1938:0:0:281
 # text = Kwaá apigawa i xirĩ reté.
 # text_por = Este homem é muito mentiroso.
 # text_source = p. 339, No. 281
@@ -2509,7 +2313,7 @@
 5	reté	reté	ADV	ADVS	AdvType=Deg	4	advmod	_	SpaceAfter=No|TokenRange=20:24
 6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=24:25
 
-# sent_id = Hartt1938:0:645:645
+# sent_id = Hartt1938:0:0:645
 # text = Antonio i xirixirĩ.
 # text_por = Antônio é muito falso.
 # text_source = p. 366, No. 645
@@ -2528,7 +2332,7 @@
 3	xirixirĩ	xirĩ	VERB	V2	Mood=Ind|Red=Yes|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=10:18
 4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
 
-# sent_id = Hartt1938:0:346:346
+# sent_id = Hartt1938:0:0:346
 # text = Ukiri wé será taína?
 # text_por = Ainda dorme a criança?
 # text_source = p. 344, No. 346
@@ -2548,7 +2352,7 @@
 4	taína	taína	NOUN	N	Number=Sing	1	nsubj	_	SpaceAfter=No|TokenRange=14:19
 5	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=19:20
 
-# sent_id = Hartt1938:0:724:724
+# sent_id = Hartt1938:0:0:724
 # text = Xarikú yepé se kiwíra sikwé wé waá.
 # text_por = Tenho um irmão vivo.
 # text_source = p. 371, No. 724
@@ -2571,7 +2375,7 @@
 7	waá	waá	PRON	REL	Number=Sing|PronType=Rel	5	nsubj	_	SpaceAfter=No|TokenRange=31:34
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=34:35
 
-# sent_id = Hartt1938:0:814:814
+# sent_id = Hartt1938:0:0:814
 # text = Kwaá kurumiwasú i kirimawawasú.
 # text_por = Este moço é valente.
 # text_source = p. 378, No. 814
@@ -2591,7 +2395,7 @@
 4	kirimawawasú	kirimawa	VERB	V2	Degree=Aug|Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=18:30
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=30:31
 
-# sent_id = Hartt1938:0:238:238
+# sent_id = Hartt1938:0:0:238
 # text = Se paya se nupá tupasamawasú irũ.
 # text_por = Meu pai me bateu com chicote.
 # text_source = p. 336, No. 238
