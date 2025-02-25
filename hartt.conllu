@@ -310,3 +310,18 @@
 4	yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=13:19
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=19:20
 
+# sent_id = Hartt1938:0:0:829
+# text = Uyeréu iwí rupí.
+# text_por = Rolou no chão.
+# text_source = p. 380, No. 829
+# text_orig = oyeréu yuy rupí.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Uyeréu iwí rupí.
+# text_annotator = Dominick Maia Alexandre
+1	Uyeréu	yeréu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	iwí	iwí	NOUN	N	Number=Sing	1	obl	_	TokenRange=7:10
+3	rupí	rupí	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=11:15
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
+
