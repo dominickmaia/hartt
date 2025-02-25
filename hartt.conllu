@@ -240,3 +240,73 @@
 5	suí	suí	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=22:25
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=25:26
 
+# sent_id = Hartt1938:0:0:452
+# text = Xasú paraná igapira kití.
+# text_por = Vou subir o rio.
+# text_source = p. 352, No. 452
+# text_orig = xasó paraná ygapyra kyty.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xasú paraná igapira kití.
+# text_annotator = André Luiz Rosa Teixeira
+# reviewer1 = Dominick Maia Alexandre
+1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
+2	paraná	paraná	NOUN	N	Number=Sing	3	nmod:poss	_	TokenRange=5:11
+3	igapira	igapira	NOUN	N	Number=Sing	1	obl	_	TokenRange=12:19
+4	kití	kití	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=20:24
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=24:25
+
+# sent_id = Hartt1938:0:0:468
+# text = Igara usika ramé xasú se patrãu kití.
+# text_por = Logo que a canoa chegou fui ter com o patrão.
+# text_source = p. 353, No. 468
+# text_orig = ygára osy ramé xasó sepatráun kyty.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Igara usika ramé/sconj xasú se patrãu/=n:o|pt:s|patrão kití.
+# text_annotator = André Luiz Rosa Teixeira
+# reviewer1 = Dominick Maia Alexandre
+1	Igara	igara	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
+2	usika	sika	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	advcl	_	TokenRange=6:11
+3	ramé	ramé	SCONJ	SCONJ	_	2	mark	_	TokenRange=12:16
+4	xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=asú|TokenRange=17:21
+5	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=22:24
+6	patrãu	patrãu	NOUN	N	Number=Sing	4	obl	_	Orig=patrão|OrigLang=por|TokenRange=25:31
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=32:36
+8	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=36:37
+
+# sent_id = Hartt1938:0:0:454
+# text = Xasú igapira kití.
+# text_por = Vou para cima!
+# text_source = p. 352, No. 454
+# text_orig = xasó ygapyra kyty.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xasú igapira kití.
+# text_annotator = André Luiz Rosa Teixeira
+# reviewer1 = Dominick Maia Alexandre
+1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
+2	igapira	igapira	NOUN	N	Number=Sing	1	obl	_	TokenRange=5:12
+3	kití	kití	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=13:17
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=17:18
+
+# sent_id = Hartt1938:0:0:665
+# text = Yané pá kurí yamanú.
+# text_por = Nós todos havemos de morrer.
+# text_source = p. 367, No. 665
+# text_orig = yané pan kurí yamanó.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Yané/pron pá/total kurí yamanú.
+# text_annotator = André Luiz Rosa Teixeira
+# reviewer1 = Dominick Maia Alexandre
+1	Yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	4	nsubj	_	ModernForm=Yandé|ModernLemma=yandé|TokenRange=0:4
+2	pá	pá	PART	TOTAL	Aspect=Compl	4	advmod	_	TokenRange=5:7
+3	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=8:12
+4	yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=13:19
+5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=19:20
+
