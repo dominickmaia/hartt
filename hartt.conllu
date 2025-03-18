@@ -325,3 +325,56 @@
 3	rupí	rupí	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=11:15
 4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=15:16
 
+# sent_id = Hartt1938:0:0:766
+# text = Irusã se pisika.
+# text_por = Estou constipado.
+# text_source = p. 374, No. 766
+# text_orig = irusán sepysy.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Irusã/n se pisika.
+# text_annotator = Antônio Levy Melo Nogueira
+# reviewer1 = Dominick Maia Alexandre
+1	Irusã	irusã	NOUN	N	Number=Sing	3	obj	_	TokenRange=0:5
+2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=6:8
+3	pisika	pisika	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=9:15
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16
+
+# sent_id = Hartt1938:0:0:723
+# text = Xasú xamupú tapiira.
+# text_por = Vou tocar o gado.
+# text_source = p. 371, No. 723
+# text_orig = xasó xamapó tapyira.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Asú amupú tapiira.
+# text_por_sec = Vou tocar o gado.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xasú xamupú tapiira.
+# text_annotator = Antônio Levy Melo Nogueira
+# reviewer1 = Dominick Maia Alexandre
+1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
+2	xamupú	mupú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=amupú|TokenRange=5:11
+3	tapiira	tapiira	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=12:19
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=19:20
+
+# sent_id = Hartt1938:0:0:833
+# text = Se raíra menasara uikú.
+# text_por = Meu filho está casado.
+# text_source = p. 379, No. 833
+# text_orig = serayra menasára oikó.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Se raíra menasara/a uikú.
+# text_annotator = Antônio Levy Melo Nogueira
+# reviewer1 = Dominick Maia Alexandre
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	3	nsubj	_	TokenRange=3:8
+3	menasara	menasara	ADJ	A	_	0	root	_	TokenRange=9:17
+4	uikú	ikú	AUX	COP	Mood=Ind|Person=3|VerbForm=Fin	3	cop	_	SpaceAfter=No|TokenRange=18:22
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=22:23
+
