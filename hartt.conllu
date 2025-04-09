@@ -465,6 +465,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Kwaá/demx iwitera suí, yamaã-kwáu tawa resé/adp.
 # text_annotator = Letícia Farias Nunes
+# reviewer1 = Dominick Maia Alexandre
 1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
 2	iwitera	iwitera	NOUN	N	Number=Sing	5	obl	_	TokenRange=5:12
 3	suí	suí	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=13:16
