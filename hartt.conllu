@@ -477,3 +477,28 @@
 8	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	7	case	_	SpaceAfter=No|TokenRange=34:38
 9	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=38:39
 
+# sent_id = Hartt1938:0:0:694
+# text = Xamutatatinga karapanã supé, xamapú arama wetepe reté karapanã.
+# text_por = Estou fazendo fumaça para espantar as carapanás são muitas.
+# text_source = p. 369, No. 694
+# text_orig = xamusatatin karapaná supé xamapú aráma uetépe reté karapaná.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Amutatatinga karapanã supé, amupú arama wetepe reté karapanã.
+# text_por_sec = Estou fazendo fumaça para os carapanãs, para enxotar carapanãs em grandes quantidades.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xamutatatinga karapanã supé, xamapú arama/sconj wetepe reté/advs karapanã.
+# text_annotator = Dominick Maia Alexandre
+1	Xamutatatinga	mutatatinga	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Amutatatinga|TokenRange=0:13
+2	karapanã	karapanã	NOUN	N	Number=Sing	1	obl	_	TokenRange=14:22
+3	supé	supé	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=23:27
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=27:28
+5	xamapú	mapú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	1	advcl	_	ModernForm=amapú|TokenRange=29:35
+6	arama	arama	SCONJ	SCONJ	_	5	mark	_	TokenRange=36:41
+7	wetepe	wetepe	ADV	ADVS	AdvType=Deg	5	advmod	_	TokenRange=42:48
+8	reté	reté	ADV	ADVS	AdvType=Deg	5	advmod	_	TokenRange=49:53
+9	karapanã	karapanã	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=54:62
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=62:63
+
