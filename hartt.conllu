@@ -992,3 +992,220 @@
 10	nupá	nupá	VERB	V	Style=Arch|VerbForm=Inf	0	root	_	ModernForm=unupá|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|SpaceAfter=No|TokenRange=42:46
 11	?	?	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No|TokenRange=46:47
 
+# sent_id = Hartt1938:0:0:212
+# text = Tenupá raẽ se maã-itá utikanga.
+# text_por = Deixa minha roupa enxugar.
+# text_source = p. 334, No. 212
+# text_orig = tenupá raén semaitá otikán.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Tenupá/prec raẽ se maã-itá utikanga.
+# text_annotator = Dominick Maia Alexandre
+1	Tenupá	tenupá	PART	PREC	PartType=Mod	5	advmod	_	TokenRange=0:6
+2	raẽ	raẽ	PART	IMPF	Aspect=Imp	5	advmod	_	TokenRange=7:10
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=11:13
+4	maã-itá	maã	NOUN	N	Number=Plur	5	obj	_	TokenRange=14:21
+5	utikanga	tikanga	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=22:30
+6	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=30:31
+
+# sent_id = Hartt1938:0:0:351
+# text = Intí ranhẽ.
+# text_por = Ainda não.
+# text_source = p. 344, No. 351
+# text_orig = intí rañé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Intí ranhẽ/impf.
+# text_annotator = Dominick Maia Alexandre
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	0	root	_	TokenRange=0:4
+2	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	1	advmod	_	SpaceAfter=No|TokenRange=5:10
+3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=10:11
+
+# sent_id = Hartt1938:0:0:362
+# text = Kurasí intí ranhẽ uwiké.
+# text_por = O sol ainda não entrou.
+# text_source = p. 345, No. 362
+# text_orig = korasy (uarasy) intí rañé oiké.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Kurasí intí ranhẽ/impf uwiké.
+# text_annotator = Dominick Maia Alexandre
+1	Kurasí	kurasí	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=0:6
+2	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	4	advmod	_	TokenRange=7:11
+3	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	4	advmod	_	TokenRange=12:17
+4	uwiké	wiké	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=18:23
+5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=23:24
+
+# sent_id = Hartt1938:0:0:417
+# text = Xasú ranhẽ, até wirané, tupana putari ramé.
+# text_por = Já vou, até amanhã, se Deus quiser.
+# text_source = p. 349, No. 417
+# text_orig = xasó rañé, ate irané, tupána putár ramé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Asú rẽ, até wirandé, tupana uputari ramé.
+# text_por_sec = Já me vou, até amanhã, se Deus quiser.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xasú ranhẽ/impf, até/prep wirané, tupana putari/=mf:m|uputari ramé/sconj.
+# text_annotator = Dominick Maia Alexandre
+1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
+2	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	1	advmod	_	SpaceAfter=No|TokenRange=5:10
+3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=10:11
+4	até	até	ADP	PREP	AdpType=Post	5	case	_	TokenRange=12:15
+5	wirané	wirané	ADV	ADVT	AdvType=Tim	1	parataxis	_	SpaceAfter=No|TokenRange=16:22
+6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=22:23
+7	tupana	tupana	NOUN	N	Number=Sing	8	nsubj	_	TokenRange=24:30
+8	putari	putari	VERB	V	Style=Arch|VerbForm=Inf	5	advcl	_	ModernForm=uputari|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|TokenRange=31:37
+9	ramé	ramé	SCONJ	SCONJ	_	8	mark	_	SpaceAfter=No|TokenRange=38:42
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=42:43
+
+# sent_id = Hartt1938:0:0:502
+# text = Kwaá kunhãmukú intí ranhẽ ukwáu maã resewara.
+# text_por = Esta moça não sabe de nada.
+# text_source = p. 355, No. 502
+# text_orig = kuaá kuñán mukú intí rañé okuáu maé resé uára.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Kwaá kunhamukú ti rẽ ukwáu maã resewara.
+# text_por_sec = Esta moça ainda não sabe de nada.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Kwaá/demx kunhãmukú/n intí ranhẽ/impf ukwáu maã/ind resewara/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
+2	kunhãmukú	kunhãmukú	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=5:14
+3	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	5	advmod	_	TokenRange=15:19
+4	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	5	advmod	_	TokenRange=20:25
+5	ukwáu	kwáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=26:31
+6	maã	maã	PRON	IND	PronType=Ind	5	obl	_	TokenRange=32:35
+7	resewara	resewara	ADP	ADP	AdpType=Post|Rel=Cont	6	case	_	SpaceAfter=No|TokenRange=36:44
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=44:45
+
+# sent_id = Hartt1938:0:0:503
+# text = Kunhãmukú intí ranhẽ mundu pura.
+# text_por = Menina inocente e virgem.
+# text_source = p. 355, No. 503
+# text_orig = kuñán mukú intí rañé múndo póra.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Kunhamukú ti rẽ mundupura.
+# text_por_sec = A moça é inocente e virgem [lit., "a moça ainda não é do mundo"]
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Kunhãmukú/n intí ranhẽ/impf mundu pura/n.
+# text_annotator = Dominick Maia Alexandre
+1	Kunhãmukú	kunhãmukú	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:9
+2	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	5	advmod	_	TokenRange=10:14
+3	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	5	advmod	_	TokenRange=15:20
+4	mundu	mundu	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=21:26
+5	pura	pura	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=27:31
+6	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=31:32
+
+# sent_id = Hartt1938:0:0:558
+# text = Xaú ranhẽ kafé.
+# text_por = Deixe-me primeiro beber café.
+# text_source = p. 359, No. 558
+# text_orig = xaú rañé kafé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xaú ranhẽ/impf kafé.
+# text_annotator = Dominick Maia Alexandre
+1	Xaú	ú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Aú|TokenRange=0:3
+2	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	1	advmod	_	TokenRange=4:9
+3	kafé	kafé	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=10:14
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=14:15
+
+# sent_id = Hartt1938:0:0:635
+# text = Xasú ranhẽ amú uka upé.
+# text_por = Deixa-me ir a uma outra casa.
+# text_source = p. 365, No. 635
+# text_orig = xasó rañé amú óka opé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xasú ranhẽ/impf amú/ind uka upé/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
+2	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	1	advmod	_	TokenRange=5:10
+3	amú	amú	DET	IND	Number=Sing|PronType=Ind	4	det	_	TokenRange=11:14
+4	uka	uka	NOUN	N	Number=Sing|Rel=Abs	1	obl	_	TokenRange=15:18
+5	upé	upé	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=19:22
+6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=22:23
+
+# sent_id = Hartt1938:0:0:790
+# text = Xapituú mirĩ ranhẽ.
+# text_por = Deixa-me descansar um bocado.
+# text_source = p. 376, No. 790
+# text_orig = xaputuú mirí rañé.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xapituú mirĩ/advs ranhẽ/impf.
+# text_annotator = Dominick Maia Alexandre
+1	Xapituú	pituú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Apituú|TokenRange=0:7
+2	mirĩ	mirĩ	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=8:12
+3	ranhẽ	ranhẽ	PART	IMPF	Aspect=Imp	1	advmod	_	SpaceAfter=No|TokenRange=13:18
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=18:19
+
+# sent_id = Hartt1938:3:64:917
+# text = Intí xaputari, intí raẽ usika akayú, intí xamunhã-kwáu maã se rimirikú supé, intí xamunhã-kwáu urupema, nẽ tipití nẽ urusakanga, aresé ra paá intí xamenari-putari, kurumú taá se raixú se yakáu.
+# text_por = Não quero, ainda não bastantes anos, não sei fazer nada para minha mulher, não sei fazer nem urupemas nem orasacangas nem tipitís, por isso parece-me que não quero casar, minha sogra podia me ralhar.
+# text_source = p. 389, No. 64
+# text_orig = intí xaputár, intí raén osyk akayú, intí xamañan kuáu maé seremirikó supe, intí xamuñan kuáu oropema, nen tipití nen orosakana, aresé rapaa intí xamenar putar, koromo teé seraixú seakáua.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Intí xaputari, intí raẽ usika akayú, intí xamunhã-kwáu maã/ind se rimirikú supé, intí xamunhã-kwáu urupema, nẽ/cconj tipití nẽ/cconj urusakanga, aresé ra paá intí xamenari-putari, kurumú/advj taá se raixú se/=mf:m|ixé yakáu/=mf:m|uyakáu.
+# text_annotator = Dominick Maia Alexandre
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
+2	xaputari	putari	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=aputari|SpaceAfter=No|TokenRange=5:13
+3	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=13:14
+4	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	6	advmod	_	TokenRange=15:19
+5	raẽ	raẽ	PART	IMPF	Aspect=Imp	6	advmod	_	TokenRange=20:23
+6	usika	sika	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=24:29
+7	akayú	akayú	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=30:35
+8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=35:36
+9	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	10	advmod	_	TokenRange=37:41
+10-11	xamunhã-kwáu	_	_	_	_	_	_	_	TokenRange=42:54
+10	xamunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	6	parataxis	_	ModernForm=amunhã
+11	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	10	aux	_	_
+12	maã	maã	PRON	IND	PronType=Ind	10	obj	_	TokenRange=55:58
+13	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=59:61
+14	rimirikú	simirikú	NOUN	N	Number=Sing|Rel=Cont	10	obl	_	TokenRange=62:70
+15	supé	supé	ADP	ADP	AdpType=Post	14	case	_	SpaceAfter=No|TokenRange=71:75
+16	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=75:76
+17	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	18	advmod	_	TokenRange=77:81
+18-19	xamunhã-kwáu	_	_	_	_	_	_	_	TokenRange=82:94
+18	xamunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	10	parataxis	_	ModernForm=amunhã
+19	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	18	aux	_	_
+20	urupema	urupema	NOUN	N	Number=Sing	18	obj	_	SpaceAfter=No|TokenRange=95:102
+21	,	,	PUNCT	PUNCT	_	23	punct	_	TokenRange=102:103
+22	nẽ	nẽ	CCONJ	CCONJ	_	23	cc	_	TokenRange=104:106
+23	tipití	tipití	NOUN	N	Number=Sing	20	conj	_	TokenRange=107:113
+24	nẽ	nẽ	CCONJ	CCONJ	_	25	cc	_	TokenRange=114:116
+25	urusakanga	urusakanga	NOUN	N	Number=Sing	23	conj	_	SpaceAfter=No|TokenRange=117:127
+26	,	,	PUNCT	PUNCT	_	31	punct	_	TokenRange=127:128
+27	aresé	aresé	ADV	ADVJ	AdvType=Cau	31	advmod	_	TokenRange=129:134
+28	ra	ra	PART	FOC	Foc=Yes|PartType=Emp	31	advmod	_	TokenRange=135:137
+29	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	31	advmod	_	TokenRange=138:141
+30	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	31	advmod	_	TokenRange=142:146
+31-32	xamenari-putari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=147:162
+31	xamenari	menari	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	18	parataxis	_	ModernForm=amenari
+32	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	31	aux	_	_
+33	,	,	PUNCT	PUNCT	_	39	punct	_	TokenRange=162:163
+34	kurumú	kurumú	ADV	ADVJ	AdvType=Cau	39	advmod	_	TokenRange=164:170
+35	taá	taá	PART	CQ	PartType=Int	39	advmod	_	TokenRange=171:174
+36	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	37	nmod:poss	_	TokenRange=175:177
+37	raixú	taixú	NOUN	N	Number=Sing|Rel=Cont	39	nsubj	_	TokenRange=178:183
+38	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs|Style=Arch	39	obj	_	ModernCase=Acc,Nom|ModernForm=ixé|ModernLemma=ixé|TokenRange=184:186
+39	yakáu	yakáu	VERB	V	Style=Arch|VerbForm=Inf	31	parataxis	_	ModernForm=uyakáu|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|SpaceAfter=No|TokenRange=187:192
+40	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=192:193
+
