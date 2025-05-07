@@ -2865,7 +2865,7 @@ p. 366
 
 655 - maeresé taé kuité reñeén yaué?
 655 - Maã resé taá kuité renheẽ yawé?
-655 - Porque falas assim?
+655 - Por que falas assim?
 
 656 - xañeén irúm mokóin y.
 656 - Xanheẽ i irũ mukũi í.
@@ -3627,8 +3627,8 @@ p. 379
 827 - Hoje suei muito.
 
 828 - maeráma kuité renupán yauára?
-828 - Marama kuité renupá yawara? (Hartt, 379, adap.) - Mas porque bates no cachorro?
-828 - Porque bates no cachorro?
+828 - Marama kuité renupá yawara? (Hartt, 379, adap.) - Mas por que bates no cachorro?
+828 - Por que bates no cachorro?
 
 829 - oyeréu yuy rupí.
 829 - Uyeréu iwí rupí.
