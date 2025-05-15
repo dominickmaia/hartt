@@ -2742,39 +2742,40 @@
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=27:28
 
 # sent_id = Hartt1938:3:32:885
-# text = Siringa-iwa turusú, puasú, i pukú, imirá wasú, uikú igapú rupí, igarapé rimbiwa rupí, iwaíka rupí yuíri uikú.
+# text = Siringa iwa turusú, puasú, i pukú, imirá wasú, uikú igapú rupí, igarapé rimbiwa rupí, iwaíka rupí yuíri uikú.
 # text_por = A seringueira é grande, grossa, alta, é um pau grande, há no igapó, na margem do igarapé e também na várzea.
 # text_source = p. 386, No. 32
 # text_orig = serína yua turusú, ipuasú, ipoku, ymyrá uasú, oikó yguapó rupí, ygarapé rymyua rupí, yuaíka rupí yuir oikó.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Siringa-iwa turusú/a, puasú, i/pron2 pukú/v2, imirá wasú, uikú/v igapú rupí, igarapé rimbiwa rupí, iwaíka rupí yuíri/cconj uikú/v.
+# inputline = Siringa iwa turusú/a, puasú, i/pron2 pukú/v2, imirá wasú, uikú/v igapú rupí, igarapé rimbiwa rupí, iwaíka rupí yuíri/cconj uikú/v.
 # text_annotator = Dominick Maia Alexandre
-1	Siringa-iwa	siringa-iwa	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	2	nsubj	_	TokenRange=0:11
-2	turusú	turusú	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=12:18
-3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=18:19
-4	puasú	puasú	ADJ	A	_	2	conj	_	SpaceAfter=No|TokenRange=20:25
-5	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=25:26
-6	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=27:28
-7	pukú	pukú	VERB	V2	Mood=Ind|VerbForm=Fin	4	conj	_	SpaceAfter=No|TokenRange=29:33
-8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=33:34
-9	imirá	imirá	NOUN	N	Number=Sing	7	conj	_	TokenRange=35:40
-10	wasú	wasú	ADJ	A	_	9	amod	_	SpaceAfter=No|TokenRange=41:45
-11	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=45:46
-12	uikú	ikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=47:51
-13	igapú	igapú	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	12	obl	_	TokenRange=52:57
-14	rupí	rupí	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=58:62
-15	,	,	PUNCT	PUNCT	_	17	punct	_	TokenRange=62:63
-16	igarapé	igarapé	NOUN	N	Number=Sing	17	nmod:poss	_	TokenRange=64:71
-17	rimbiwa	timbiwa	NOUN	N	Number=Sing|Rel=Cont	13	conj	_	TokenRange=72:79
-18	rupí	rupí	ADP	ADP	AdpType=Post	17	case	_	SpaceAfter=No|TokenRange=80:84
-19	,	,	PUNCT	PUNCT	_	23	punct	_	TokenRange=84:85
-20	iwaíka	iwaíka	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	23	obl	_	TokenRange=86:92
-21	rupí	rupí	ADP	ADP	AdpType=Post	20	case	_	TokenRange=93:97
-22	yuíri	yuíri	CCONJ	CCONJ	_	23	cc	_	TokenRange=98:103
-23	uikú	ikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	12	conj	_	SpaceAfter=No|TokenRange=104:108
-24	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=108:109
+1	Siringa	siringa	NOUN	N	Number=Sing	2	nmod:poss	_	TokenRange=0:7
+2	iwa	iwa	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=8:11
+3	turusú	turusú	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=12:18
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=18:19
+5	puasú	puasú	ADJ	A	_	3	conj	_	SpaceAfter=No|TokenRange=20:25
+6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=25:26
+7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	TokenRange=27:28
+8	pukú	pukú	VERB	V2	Mood=Ind|VerbForm=Fin	5	conj	_	SpaceAfter=No|TokenRange=29:33
+9	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=33:34
+10	imirá	imirá	NOUN	N	Number=Sing	8	conj	_	TokenRange=35:40
+11	wasú	wasú	ADJ	A	_	10	amod	_	SpaceAfter=No|TokenRange=41:45
+12	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=45:46
+13	uikú	ikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	3	parataxis	_	TokenRange=47:51
+14	igapú	igapú	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	13	obl	_	TokenRange=52:57
+15	rupí	rupí	ADP	ADP	AdpType=Post	14	case	_	SpaceAfter=No|TokenRange=58:62
+16	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=62:63
+17	igarapé	igarapé	NOUN	N	Number=Sing	18	nmod:poss	_	TokenRange=64:71
+18	rimbiwa	timbiwa	NOUN	N	Number=Sing|Rel=Cont	14	conj	_	TokenRange=72:79
+19	rupí	rupí	ADP	ADP	AdpType=Post	18	case	_	SpaceAfter=No|TokenRange=80:84
+20	,	,	PUNCT	PUNCT	_	24	punct	_	TokenRange=84:85
+21	iwaíka	iwaíka	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	24	obl	_	TokenRange=86:92
+22	rupí	rupí	ADP	ADP	AdpType=Post	21	case	_	TokenRange=93:97
+23	yuíri	yuíri	CCONJ	CCONJ	_	24	cc	_	TokenRange=98:103
+24	uikú	ikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	13	conj	_	SpaceAfter=No|TokenRange=104:108
+25	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=108:109
 
 # sent_id = Hartt1938:3:65:918
 # text = Uikú yepé maã, intí urikú i yuwá, intí urikú setimã, aé uyana ramé usú uikú, usemu ximiú i kupé rupí: plaina.
