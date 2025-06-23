@@ -1559,7 +1559,7 @@ p. 344
 353 - Vou a pé.
 
 354 - xamonó seygára táua kyty amú irané oyuyr aráma.
-354 - Xamunú se igara tawa kití, amú-wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
+354 - Xamunú se igara tawa kití amú wirané uyuíri arama. # forma adaptada para anotar e incluir no treebank
 354 - Amundú se igara tawa kití, amú-wirandé uyuíri arama. (Hartt, 344, adap.) - Mando minha canoa à vila, para voltar depois de amanhã.
 354 - Mando minha canoa à vila para voltar depois de amanhã.
 
