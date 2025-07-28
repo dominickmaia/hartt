@@ -951,6 +951,7 @@ p. 334
 213 - Minhas cousas (roupa) não cabem no saco.
 
 214 - yuytú omakaták reté yané róka.
+214 - Iwitú umukataka reté yané ruka.
 214 - Iwitú umukataka reté yané ruka (Hartt, 334, adap.) - O vento sacode muito a nossa casa.
 214 - O vento sacode muito nossa casa.
 
@@ -1012,11 +1013,13 @@ p. 335
 227 - Vamos com pressa.
 
 228 - aé osú uán itáua kyty.
+228 - Aé usú wã i tawa kití.
 228 - Aé usú wã i tawa kití. (Hartt, 335, adap.) - Ele foi para a aldeia dele.
 228 - Ele foi para a aldeia dele.
 
 229 - ekoin nekyuyra senoin orur aráma yg ixéu.
 229 - Ekũi ne kiwira senuí ururi arama ií ixéu.
+229 - NA
 229 - Vai chamar teu irmão para me trazer água.
 
 230 - oñeén: xasó nerúm, xasí kuáu ramé.
