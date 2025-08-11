@@ -3870,10 +3870,10 @@
 # text_annotator = Dominick Maia Alexandre
 1	Xarikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	5	advcl	_	ModernForm=Arikú|TokenRange=0:6
 2	ramé	ramé	SCONJ	SCONJ	_	1	mark	_	TokenRange=7:11
-3	amú	amú	PART	COND	Modality=Cond|Number=Sing|PartType=Mod	1	advmod	_	SpaceAfter=No|TokenRange=12:15
+3	amú	amú	PART	COND	Modality=Cond|PartType=Mod	1	advmod	_	SpaceAfter=No|TokenRange=12:15
 4	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=15:16
 5	xameẽ	meẽ	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=ameẽ|TokenRange=17:22
-6	amú	amú	PART	COND	Modality=Cond|Number=Sing|PartType=Mod	5	advmod	_	TokenRange=23:26
+6	amú	amú	PART	COND	Modality=Cond|PartType=Mod	5	advmod	_	TokenRange=23:26
 7	inéu	inéu	PRON	PROND	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	SpaceAfter=No|TokenRange=27:31
 8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=31:32
 
