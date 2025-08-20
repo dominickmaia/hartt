@@ -11,7 +11,6 @@
 4	puxuwera	puxuwera	ADJ	A	_	3	xcomp	_	SpaceAfter=No|TokenRange=17:25
 5	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=25:26
 
-
 # sent_id = MooreFP1994:0:0:22
 # text = Ixé ti asasá i puxí mayé aintá umbeú.
 # text_eng = I'm not having a bad time like they say.
@@ -29,7 +28,6 @@
 8	umbeú	mbeú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	advcl:relcl	_	SpaceAfter=No|TokenRange=31:36
 9	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=36:37
 
-
 # sent_id = Navarro2016:0:0:150
 # text = Aé uyupirú ana uwatá garapá suí.
 # text_eng = He started walking from the port.
@@ -45,7 +43,6 @@
 6	suí	suí	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=28:31
 7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=31:32
 
-
 # sent_id = Navarro2016:0:0:401
 # text = Ixé aputari amemũi musapiri pirá yambaú arama.
 # text_eng = I want to cook three fish for us to eat.
@@ -59,7 +56,6 @@
 6	yambaú	mbaú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	3	advcl	_	TokenRange=33:39
 7	arama	arama	SCONJ	SCONJ	_	6	mark	_	SpaceAfter=No|TokenRange=40:45
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=45:46
-
 
 # sent_id = Avila2021:2:2:11
 # text = Uyeréu yepé pirantá turusú waá, aité kwá sera Kurukuí.
@@ -79,7 +75,6 @@
 9	sera	sera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	10	nsubj	_	TokenRange=41:45
 10	Kurukuí	kurukuí	PROPN	PROPN	_	1	parataxis	_	SpaceAfter=No|TokenRange=46:53
 11	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=53:54
-
 
 # sent_id = Avila2021:0:0:19
 # text = Asuí yamukwekatú kwá yané rumuara, urikú waá kwá manduarisá usikari arã ukwá aité kwá nheenga resewara, [...].
@@ -108,7 +103,6 @@
 19	[...]	[...]	PUNCT	ELIP	PunctType=Elip	7	punct	_	SpaceAfter=No|TokenRange=104:109
 20	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=109:110
 
-
 # sent_id = Avila2021:0:0:24
 # text = Asuí paá nhaã kunhã i kweré wana umbaú maã i mena umbaú waá.
 # text_eng = Later, that woman was tired of eating what her husband ate.
@@ -132,7 +126,6 @@
 12	umbaú	mbaú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	9	acl:relcl	_	TokenRange=50:55
 13	waá	waá	PRON	REL	Number=Sing|PronType=Rel	12	obj	_	SpaceAfter=No|TokenRange=56:59
 14	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=59:60
-
 
 # sent_id = Avila2021:0:0:36
 # text = Muíri ara paá upurandú suixawa suí umeẽ arã i xupé i pepú arã, uyuíri arã i anama-itá piri.
@@ -163,7 +156,6 @@
 18	anama-itá	anama	NOUN	N	Number=Plur	15	obl	_	TokenRange=76:85
 19	piri	piri	ADP	ADP	AdpType=Post	18	case	_	SpaceAfter=No|TokenRange=86:90
 20	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=90:91
-
 
 # sent_id = Avila2021:0:0:39
 # text = Ape kwá upurungitá waá amú nheenga rupí urikuté upurandú Deus irumu ukwawa arama mayesawa taá kwá umbeú waá aintá supé.
@@ -196,7 +188,6 @@
 20	supé	supé	ADP	ADP	AdpType=Post	19	case	_	SpaceAfter=No|TokenRange=114:118
 21	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=118:119
 
-
 # sent_id = Avila2021:0:0:40
 # text = Asú ana asikari ayapí se rimiára arã.
 # text_eng = I went looking to shoot hunting.
@@ -211,7 +202,6 @@
 6	rimiára	simiára	NOUN	N	Number=Sing|Rel=Cont	4	obj	_	TokenRange=25:32
 7	arã	arã	PART	FUT	Tense=Fut	6	advmod	_	SpaceAfter=No|TokenRange=33:36
 8	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=36:37
-
 
 # sent_id = Avila2021:0:0:45
 # text = Pesendú ana mayé aintá umbeú kuxiíma: amú unupá ramé ne resá upé, rerikuté renupá sesá upé yuíri; amú unupá ramé ne ranha, rerikuté renupá yuíri sanha.
@@ -252,7 +242,6 @@
 30	sanha	sanha	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	28	obj	_	SpaceAfter=No|TokenRange=145:150
 31	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=150:151
 
-
 # sent_id = Avila2021:0:0:73
 # text = Ixé ti arikú mukawa, nẽ akwáu ayapí.
 # text_eng = I don't have a gun, I don't even know how to shoot.
@@ -268,7 +257,6 @@
 7	akwáu	kwáu	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	conj	_	TokenRange=24:29
 8	ayapí	yapí	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	7	xcomp	_	SpaceAfter=No|TokenRange=30:35
 9	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=35:36
-
 
 # sent_id = Avila2021:0:0:95
 # text = Aikwé yepé Isana rakanga sera waá Pirayawara, wirandé asú-putari apinaitika i apira kití.
@@ -294,7 +282,6 @@
 15	kití	kití	ADP	ADP	AdpType=Post	14	case	_	SpaceAfter=No|TokenRange=84:88
 16	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=88:89
 
-
 # sent_id = Avila2021:0:0:97
 # text = Aramé amú usú ana umaã i kupixawa, amú paá upitá uyakáu suasú.
 # text_eng = So one went to look at her plantation and the other stayed scolding the deer.
@@ -315,7 +302,6 @@
 12	uyakáu	yakáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	11	xcomp	_	TokenRange=49:55
 13	suasú	suasú	NOUN	N	Number=Sing	12	obj	_	SpaceAfter=No|TokenRange=56:61
 14	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=61:62
-
 
 # sent_id = Avila2021:0:0:98
 # text = Yawé waá, ta umaramunha pukusá, yakaré usuú tatá, upuri i irumu paraná kití, ape upitá pitunawasú yandé arã iké ara upé, umbaá mayé yamaã arã.
@@ -355,7 +341,6 @@
 30	arã	arã	SCONJ	SCONJ	_	29	mark	_	SpaceAfter=No|TokenRange=138:141
 31	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=141:142
 
-
 # sent_id = Avila2021:0:0:123
 # text = Mukũi yasí riré, Wauí umungitá nhaã kunhã-itá uyawáu arama, yawé aintá umunhã.
 # text_eng = After two moons, Uauhi advised those women to flee, so they did.
@@ -381,7 +366,6 @@
 14	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	9	parataxis	_	SpaceAfter=No|TokenRange=71:77
 15	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=77:78
 
-
 # sent_id = Avila2021:0:0:132
 # text = Mayé yané rikusawa-itá umundú tuixawa rayera umendari kirimbawa piri waá irumu, kuíri ixé nhaã kurumiwasú putawa.
 # text_eng = As our customs command the chief's daughter to marry the bravest, I am now betrothed to this young man.
@@ -406,7 +390,6 @@
 16	kurumiwasú	kurumiwasú	NOUN	N	Number=Sing	17	nmod:poss	_	TokenRange=95:105
 17	putawa	putawa	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=106:112
 18	.	.	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No|TokenRange=112:113
-
 
 # sent_id = Avila2021:0:0:134
 # text = Remunuã ne mira-itá, remuyukwakú aintá, asú ambué indé remundú, rekwáu arama remundú ne mira-itá.
@@ -434,7 +417,6 @@
 17	mira-itá	mira	NOUN	N	Number=Plur	15	obj	_	SpaceAfter=No|TokenRange=88:96
 18	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=96:97
 
-
 # sent_id = Avila2021:0:0:138
 # text = Porominare uwapika i wapiká-pe, Yuruparí tanimbuka ruakí, yepé miraí irumu uyupirú upuíri tanimbuka.
 # text_eng = Porominare sat on his bench, next to Jurupari's ashes, with a stick he began to stir up the ashes.
@@ -459,7 +441,6 @@
 15	upuíri	puíri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	14	xcomp	_	TokenRange=83:89
 16	tanimbuka	tanimbuka	NOUN	N	Number=Sing	15	obj	_	SpaceAfter=No|TokenRange=90:99
 17	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=99:100
-
 
 # sent_id = Avila2021:0:0:140
 # text = Karu, yepé ara, uyumú tukumã rawa, umundú taíra uyupiri tukumã-iwa rupí uyuuka arama suíwa, uyuká arama taíra.
@@ -490,7 +471,6 @@
 21	taíra	taíra	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	19	obj	_	SpaceAfter=No|TokenRange=104:109
 22	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=109:110
 
-
 # sent_id = Avila2021:0:0:141
 # text = Nhaã-itá umanú waá yasí manusawa pituna pukusawa Kukuí umundú umuyatikú mirá-itá rupí, panhẽ umaã arama pitúa rangawa.
 # text_eng = Those who died during the night of the moon's death, Kukuhy had them hang by the sticks, so that everyone could see [in them] the image of the weakling.
@@ -517,7 +497,6 @@
 18	rangawa	sangawa	NOUN	N	Number=Sing|Rel=Cont	15	obj	_	SpaceAfter=No|TokenRange=110:117
 19	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=117:118
 
-
 # sent_id = Avila2021:18:2:176
 # text = Uyeréu amú pirantá, turusú piri, sera Buburi.
 # text_eng = It turned into another waterfall, bigger, called Buburi.
@@ -535,7 +514,6 @@
 8	sera	sera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	9	nsubj	_	TokenRange=33:37
 9	Buburi	buburi	PROPN	PROPN	_	1	parataxis	_	SpaceAfter=No|TokenRange=38:44
 10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=44:45
-
 
 # sent_id = Avila2021:0:0:177
 # text = Panhẽ urikú aintá piá surí, uyapukúi puranga, satambika paranawasú pitera kití, ti umaã sakakwera kití, yandara upituú umbaú arama.
@@ -568,7 +546,6 @@
 23	arama	arama	SCONJ	SCONJ	_	22	mark	_	SpaceAfter=No|TokenRange=125:130
 24	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=130:131
 
-
 # sent_id = Avila2021:19:1:181
 # text = Tamanduá uri, uwasemu yawareté ukarãi-karãi mirá, usika i kupé rupí merupí, uyumana aé, umundéu i puampé.
 # text_eng = The anteater came, found the jaguar scratching a stick, came up behind it slowly, hugged it, stuck its claw into it.
@@ -597,7 +574,6 @@
 20	puampé	puampé	NOUN	N	Number=Sing	18	obj	_	SpaceAfter=No|TokenRange=98:104
 21	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=104:105
 
-
 # sent_id = Avila2021:0:0:183
 # text = Compadre, puxiwera asasá, mirá rumitera uwiké se putiá-pe, reyuri reyuuka ixé kwá suí.
 # text_eng = Compadre, I felt sick, the core of the stick entered my chest, come get me out of here.
@@ -623,7 +599,6 @@
 16	kwá	kwá	ADV	ADVDX	Deixis=Prox|PronType=Dem	14	obl	_	TokenRange=78:81
 17	suí	suí	ADP	ADP	AdpType=Post	16	case	_	SpaceAfter=No|TokenRange=82:85
 18	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=85:86
-
 
 # sent_id = Avila2021:0:0:184
 # text = Usika kupixawa rembií-pe, usendú kunhã uyakáu uikú akutí irumu ti arama uú i maniáka.
@@ -651,7 +626,6 @@
 16	maniáka	maniáka	NOUN	N	Number=Sing	14	obj	_	SpaceAfter=No|TokenRange=77:84
 17	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=84:85
 
-
 # sent_id = Avila2021:0:0:186
 # text = Kuíri, ti arama aintá umusarái ne resé, remutatatinga aintá sikantá-pe uyeréu arama itá.
 # text_eng = Now, lest they mock you, smoke them with resin to turn them to stone.
@@ -677,7 +651,6 @@
 16	itá	itá	NOUN	N	Number=Sing	14	xcomp	_	SpaceAfter=No|TokenRange=84:87
 17	.	.	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No|TokenRange=87:88
 
-
 # sent_id = Avila2021:21:1:200
 # text = Yautí ugananintu uyana, usú uyenú yepé mirá rupitá ruakí.
 # text_eng = The tortoise only pretended to run and lay down near a tree trunk.
@@ -698,7 +671,6 @@
 11	ruakí	ruakí	ADP	ADP	AdpType=Post|Rel=Cont	10	case	_	SpaceAfter=No|TokenRange=51:56
 12	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=56:57
 
-
 # sent_id = Avila2021:0:0:214
 # text = Usú pawa, ti ana umanduári umunhã aintá ruka.
 # text_eng = They all go, they no longer remember to make their houses.
@@ -715,7 +687,6 @@
 8	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=34:39
 9	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	7	obj	_	SpaceAfter=No|TokenRange=40:44
 10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=44:45
-
 
 # sent_id = Avila2021:0:0:220
 # text = Se rimbawa, mira ramé maã indé, indé ti maã rexari ixé amanú, indé resú-kwáu maã reyuuka meyú ambaú arama.
@@ -749,7 +720,6 @@
 23	arama	arama	SCONJ	SCONJ	_	22	mark	_	SpaceAfter=No|TokenRange=100:105
 24	.	.	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=105:106
 
-
 # sent_id = Avila2021:0:0:224
 # text = Ape paá ta uyeréu yawaratewasú-itá, yawé paá ta ukanhemu ta usú kaá kití.
 # text_eng = Then, they say they turned into big jaguars, so, they say, they disappeared towards the forest.
@@ -772,7 +742,6 @@
 13	kaá	kaá	NOUN	N	Number=Sing	12	obl	_	TokenRange=64:67
 14	kití	kití	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=68:72
 15	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=72:73
-
 
 # sent_id = Avila2021:0:0:240
 # text = Asuí yepé-yepé Aziawara-itá, Paulo anama-itá, aintá umundú i xupé kwekatú, aintá upurandú aé ti arama uwiké aintá irumu aintá uyumuatiriwera waá upé.
@@ -811,7 +780,6 @@
 26	upé	upé	ADP	ADP	AdpType=Post	25	case	_	SpaceAfter=No|TokenRange=145:148
 27	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=148:149
 
-
 # sent_id = Avila2021:0:0:254
 # text = Aresé i akanga sawa-ima upitá panhẽ ara upé.
 # text_eng = Therefore his head was featherless forever.
@@ -827,7 +795,6 @@
 7	ara	ara	NOUN	N	Number=Sing	5	obl	_	TokenRange=36:39
 8	upé	upé	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=40:43
 9	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=43:44
-
 
 # sent_id = Avila2021:0:0:271
 # text = Se kweré ana asikari, aé pu usú retana.
@@ -845,7 +812,6 @@
 8	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=28:31
 9	retana	retana	ADV	ADVS	AdvType=Deg	8	advmod	_	SpaceAfter=No|TokenRange=32:38
 10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=38:39
-
 
 # sent_id = Avila2021:0:0:299
 # text = Kuxiima ta useruka kwá nheengatú "kariwa nheenga", ta ukuntari resewara kwá nheenga apekatuwara-itá irumu.
@@ -874,7 +840,6 @@
 17	irumu	irumu	ADP	ADP	AdpType=Post	16	case	_	SpaceAfter=No|TokenRange=100:105
 18	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=105:106
 
-
 # sent_id = Avila2021:0:0:307
 # text = Kurasí iwaté ã, asú-putari apurakí.
 # text_eng = The sun is already up, I want to go to work.
@@ -891,7 +856,6 @@
 7	apurakí	purakí	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	5	xcomp	_	SpaceAfter=No|TokenRange=27:34
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=34:35
 
-
 # sent_id = Avila2021:31:1:356
 # text = Ixé ti akwáu awitá.
 # text_eng = I can not swim.
@@ -903,7 +867,6 @@
 3	akwáu	kwáu	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=7:12
 4	awitá	witá	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	xcomp	_	SpaceAfter=No|TokenRange=13:18
 5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
-
 
 # sent_id = Avila2021:0:0:358
 # text = Mayé Pirá Manha usaã ana awá uyuká-putari aé, yakwáu ana upitá, ti usemu tipí suí.
@@ -932,7 +895,6 @@
 18	suí	suí	ADP	ADP	AdpType=Post	17	case	_	SpaceAfter=No|TokenRange=78:81
 19	.	.	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=81:82
 
-
 # sent_id = Avila2021:0:0:370
 # text = Mairamé uwiké sawa yepé mira supé, yarikuté yamunuka saintisá upitá waá ukara kití.
 # text_eng = When its fur gets into a person, we have to cut the end that sticks out.
@@ -956,7 +918,6 @@
 14	kití	kití	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=78:82
 15	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=82:83
 
-
 # sent_id = Avila2021:32:2:375
 # text = Yawé arã paá yandé, taité, ti yasemu purapuranga.
 # text_eng = That's why we poor things didn't come out very pretty.
@@ -975,7 +936,6 @@
 9	yasemu	semu	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=30:36
 10	purapuranga	puranga	ADJ	A	Red=Yes	9	xcomp	_	SpaceAfter=No|TokenRange=37:48
 11	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=48:49
-
 
 # sent_id = Avila2021:0:0:382
 # text = Sasiára paá apigawa-itá upitá, maãresé aintá usú umusaka maniáka uí arama, aintá ukapiri kupixawa-itá, aintá umungiri taína-itá kunhã yawé.
@@ -1007,7 +967,6 @@
 22	yawé	yawé	ADP	ADP	AdpType=Post	21	case	_	SpaceAfter=No|TokenRange=134:138
 23	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=138:139
 
-
 # sent_id = Avila2021:0:0:385
 # text = Mairamé ara uyupirú uyumupiranga yepé irusangawasú uri, umungiri panhẽ nhaã mira-itá, [...].
 # text_eng = When the day began to turn red, a great cold came, making all these people sleep, [...].
@@ -1030,7 +989,6 @@
 14	[...]	[...]	PUNCT	ELIP	PunctType=Elip	7	punct	_	SpaceAfter=No|TokenRange=86:91
 15	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=91:92
 
-
 # sent_id = Avila2021:0:0:392
 # text = [...] aintá usaã sakusawa sé usika aintá pira resé iwitú yawé, [...].
 # text_eng = [...] they felt a pleasant heat come over their bodies like wind, [...].
@@ -1052,7 +1010,6 @@
 13	[...]	[...]	PUNCT	ELIP	PunctType=Elip	3	punct	_	SpaceAfter=No|TokenRange=63:68
 14	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=68:69
 
-
 # sent_id = Avila2021:0:0:395
 # text = Tuyué-itá kuité usaã ukitika suíwa raintí resé, ukarãi wirarí-iwa ukitika arama.
 # text_eng = The old people then experimented with rubbing [the curare] on the tip of their arrows, scraping the “foot of curare” to rub it.
@@ -1073,7 +1030,6 @@
 12	arama	arama	SCONJ	SCONJ	_	11	mark	_	SpaceAfter=No|TokenRange=74:79
 13	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=79:80
 
-
 # sent_id = Avila2021:0:0:400
 # text = Ariré nhaã kunhamukú upitá i puruã tenhuntu, ti masuí apigawa uyukwáu.
 # text_eng = Then that woman got pregnant for no reason, no man appeared from anywhere.
@@ -1093,7 +1049,6 @@
 11	apigawa	apigawa	NOUN	N	Number=Sing	12	nsubj	_	TokenRange=54:61
 12	uyukwáu	yukwáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No|TokenRange=62:69
 13	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=69:70
-
 
 # sent_id = Avila2021:0:0:419
 # text = Ma kuíri ana ta umbeú, nhaã mira-itá yakaré usuú wana waá-itá, nhaã supí, upitá tẽ supí sakiwara mayé tatá usapí waá yawé.
@@ -1128,7 +1083,6 @@
 25	yawé	yawé	ADP	ADP	AdpType=Post	22	case	_	SpaceAfter=No|TokenRange=117:121
 26	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=121:122
 
-
 # sent_id = Avila2021:0:0:424
 # text = Karuka irumu ana paá upawa Wanana-itá ruíwa, aramé aintá uyupirú umburi iwaté suí itá, miráwasú, iwakawa-iwa.
 # text_eng = In the afternoon, they say, the Uananas' arrows ran out, so they began to shoot from above, stones, big sticks, bacabas.
@@ -1155,7 +1109,6 @@
 18	,	,	PUNCT	PUNCT	_	19	punct	_	TokenRange=95:96
 19	iwakawa-iwa	iwakawa-iwa	NOUN	N	Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=97:108
 20	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=108:109
-
 
 # sent_id = Avila2021:0:0:439
 # text = Mairamé aintá upisika-putari ana warirí, warirí uyeréu andirá murutinga, uwewé ukara kití, upuká uikú sé.
@@ -1184,7 +1137,6 @@
 18	uikú	ikú	AUX	AUXFS	Mood=Ind|Person=3|VerbForm=Fin	17	aux	_	TokenRange=97:101
 19	sé	sé	ADV	ADVA	AdvType=Man	17	advmod	_	SpaceAfter=No|TokenRange=102:104
 20	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=104:105
-
 
 # sent_id = Avila2021:0:0:441
 # text = Panhẽ awá sewara ukuntari aé, yawé waá taseruka aé kariwa nheenga rupí "língua geral", mayé té kwá tukano-itá mira nheenga yawé, sera waá "tukano".
@@ -1227,7 +1179,6 @@
 31	"	"	PUNCT	PUNCT	_	30	punct	_	SpaceAfter=No|TokenRange=145:146
 32	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=146:147
 
-
 # sent_id = Avila2021:0:0:462
 # text = Penhẽ ti ã perikú pe resá, kuíri asú amuyeréu penhẽ makaku.
 # text_eng = You don't have eyes anymore, now I'm going to turn you into monkeys.
@@ -1247,7 +1198,6 @@
 11	penhẽ	penhẽ	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	10	obj	_	TokenRange=46:51
 12	makaku	makaku	NOUN	N	Number=Sing	10	xcomp	_	SpaceAfter=No|TokenRange=52:58
 13	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=58:59
-
 
 # sent_id = Avila2021:0:0:469
 # text = Pituna irumu wana, umaã arapasu unheẽ arara supé: ― Eré, asú rẽ akiri.
@@ -1274,7 +1224,6 @@
 16	akiri	kiri	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	7	ccomp	_	SpaceAfter=No|TokenRange=63:68
 17	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=68:69
 
-
 # sent_id = Avila2021:0:0:485
 # text = Asuí paá surí upitá i mena irumu.
 # text_eng = After that, they say, she was happy with her husband.
@@ -1289,7 +1238,6 @@
 6	mena	mena	NOUN	N	Number=Sing	3	obl	_	TokenRange=22:26
 7	irumu	irumu	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=27:32
 8	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=32:33
-
 
 # sent_id = Avila2021:40:1:486
 # text = Yupirungá upé kwá tetama urikú kwera sera "Bitiro Ponta", nheengatú rupí yepé wirá-mirĩ rera.
@@ -1317,7 +1265,6 @@
 17	rera	sera	NOUN	N	Number=Sing|Rel=Cont	9	appos	_	SpaceAfter=No|TokenRange=88:92
 18	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=92:93
 
-
 # sent_id = Avila2021:40:2:487
 # text = Asuí, mairamé usika urubú mira-itá, ta umusera aé "Carminha".
 # text_eng = Then, when the people of the Urubu ethnicity arrived, they named it "Carminha" [that is, the community was thus named].
@@ -1340,7 +1287,6 @@
 13	"	"	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=59:60
 14	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=60:61
 
-
 # sent_id = Avila2021:0:0:491
 # text = Aiwana aintá usenúi nhaã iwikwara "Caru-Cupy".
 # text_eng = So they named that pit "Caru-Cupy".
@@ -1357,7 +1303,6 @@
 7	Caru-Cupy	caru-cupy	PROPN	PROPN	_	3	xcomp	_	SpaceAfter=No|TokenRange=35:44
 8	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=44:45
 9	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=45:46
-
 
 # sent_id = Avila2021:0:0:503
 # text = — Xukúi, aruri sukwera seẽ waá, yuri rememúi ixé arama.
@@ -1380,7 +1325,6 @@
 11	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	10	obl	_	TokenRange=44:47
 12	arama	arama	ADP	ADP	AdpType=Post	11	case	_	SpaceAfter=No|TokenRange=48:53
 13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=53:54
-
 
 # sent_id = Avila2021:0:0:517
 # text = Mukũi kurumiwasú kirimbá waá-itá ta upitá ta umanhana uikú kwá kunhamukú puranga.
@@ -1406,7 +1350,6 @@
 12	puranga	puranga	ADJ	A	_	11	amod	_	SpaceAfter=No|TokenRange=73:80
 13	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=80:81
 
-
 # sent_id = Avila2021:0:0:532
 # text = Uri iwaka suí usikari uyusupari waá-itá.
 # text_eng = He came from heaven in search of those who were lost.
@@ -1421,7 +1364,6 @@
 5	uyusupari	yusupari	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	acl:relcl	_	TokenRange=22:31
 6	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	4	obj	_	SpaceAfter=No|TokenRange=32:39
 7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40
-
 
 # sent_id = Avila2021:0:0:539
 # text = Mairamé awá umbeú waá uikú useruka kariwa nheenga rupí, kutara yasikari yampinima aé nheengatú rupí.
@@ -1447,7 +1389,6 @@
 16	rupí	rupí	ADP	ADP	AdpType=Post	15	case	_	SpaceAfter=No|TokenRange=95:99
 17	.	.	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=99:100
 
-
 # sent_id = Avila2021:0:0:557
 # text = Aiwana paá upitá arama yawé sawa puxí, i nema nhaã pirá marika rakusawa suí.
 # text_eng = It was then, they say, that its ugly fur became like that, it stinks because of the heat from that fish's belly.
@@ -1470,7 +1411,6 @@
 14	rakusawa	sakusawa	NOUN	N	Number=Sing|Rel=Cont	10	obl	_	TokenRange=63:71
 15	suí	suí	ADP	ADP	AdpType=Post	14	case	_	SpaceAfter=No|TokenRange=72:75
 16	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=75:76
-
 
 # sent_id = Avila2021:0:0:559
 # text = Aé uyana se retama kaxiwera, mamé Iauhixa raíra umanú, asuí Iauhixa upitá arama ana ne ruaxara arama.
@@ -1499,7 +1439,6 @@
 19	arama	arama	SCONJ	SCONJ	_	18	mark	_	SpaceAfter=No|TokenRange=95:100
 20	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=100:101
 
-
 # sent_id = Avila2021:0:0:560
 # text = Asuí yawara upitá yawaraté ruayana arama.
 # text_eng = Hence the dog became the enemy of the jaguar.
@@ -1513,7 +1452,6 @@
 5	ruayana	suayana	NOUN	N	Number=Sing|Rel=Cont	3	xcomp	_	TokenRange=27:34
 6	arama	arama	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=35:40
 7	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=40:41
-
 
 # sent_id = Avila2021:43:2:576
 # text = Apekatú ã paá usaã usú, mairamé paá uyuíri-putari ã.
@@ -1535,7 +1473,6 @@
 10	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	9	aux	_	_
 11	ã	ã	PART	PFV	Aspect=Perf	9	advmod	_	SpaceAfter=No|TokenRange=50:51
 12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=51:52
-
 
 # sent_id = Avila2021:0:0:587
 # text = [...], kuíri kurí ne ramunha uputari yuíri umundéu ixé kunhã-itá maluka kití, [...].
@@ -1560,7 +1497,6 @@
 15	[...]	[...]	PUNCT	ELIP	PunctType=Elip	7	punct	_	SpaceAfter=No|TokenRange=78:83
 16	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=83:84
 
-
 # sent_id = Avila2021:0:0:588
 # text = Ape paá upitá mira yuíri umpú arama nhaã amú-itá.
 # text_eng = Then he became people again to scare those others away.
@@ -1579,7 +1515,6 @@
 8	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	9	det	_	TokenRange=36:40
 9	amú-itá	amú	PRON	IND	Number=Plur|PronType=Ind	6	obj	_	SpaceAfter=No|TokenRange=41:48
 10	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=48:49
-
 
 # sent_id = Avila2021:0:0:602
 # text = Apituú-putari apurakí pituna ramé, kurũ iwasú apaka kuemeté ayumbué arama.
@@ -1602,7 +1537,6 @@
 11	ayumbué	yumbué	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	9	advcl	_	TokenRange=60:67
 12	arama	arama	SCONJ	SCONJ	_	11	mark	_	SpaceAfter=No|TokenRange=68:73
 13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=73:74
-
 
 # sent_id = Avila2021:0:0:605
 # text = Ape ti yané kweré yamunhã puranga waá, nhaãsé sangawa upé kurí yapuú, ti ramé yayuxari.
@@ -1630,7 +1564,6 @@
 17	yayuxari	yuxari	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	13	advcl	_	SpaceAfter=No|TokenRange=78:86
 18	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=86:87
 
-
 # sent_id = Avila2021:0:0:608
 # text = Wirandé yasú yayupirú yamunhã wayoro, i pupé yamunhã kurí ipisarinõ yasarú arama yané ruayana-itá.
 # text_eng = Tomorrow we will start making the trench, inside it we will make the weapons room to wait for our enemies.
@@ -1653,7 +1586,6 @@
 14	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=81:85
 15	ruayana-itá	suayana	NOUN	N	Number=Plur|Rel=Cont	12	obj	_	SpaceAfter=No|TokenRange=86:97
 16	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=97:98
-
 
 # sent_id = Avila2021:0:0:629
 # text = Mairamé tiapú aé "traka… traka… traka…", umbeú uikú awá supé arama usendú waá uikú i xupé arama usú uyusuaxara, u tiramé maã umanduári waá umunhã ti usú usemu puranga, tiramé yuíri aintá umbeú rundé i xupé marandua.
@@ -1709,7 +1641,6 @@
 45	marandua	marandua	NOUN	N	Number=Sing	41	obj	_	SpaceAfter=No|TokenRange=206:214
 46	.	.	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=214:215
 
-
 # sent_id = Avila2021:0:0:636
 # text = Teité amaã indé, yasú se ruka kití, se irumuára indé.
 # text_eng = I feel sorry for you, let's go to my house, you are my companion.
@@ -1730,7 +1661,6 @@
 12	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	SpaceAfter=No|TokenRange=48:52
 13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=52:53
 
-
 # sent_id = Avila2021:48:2:656
 # text = Urikú i pira sawa pawa.
 # text_eng = He has his body covered in fur.
@@ -1743,7 +1673,6 @@
 4	sawa	rawa	VERB	V2	Mood=Ind|Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	1	xcomp	_	TokenRange=13:17
 5	pawa	pawa	PART	TOTAL	Aspect=Compl	4	advmod	_	SpaceAfter=No|TokenRange=18:22
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=22:23
-
 
 # sent_id = Avila2021:0:0:658
 # text = Kwá tukumã urikú i iwa yuú pawa.
@@ -1759,7 +1688,6 @@
 6	yuú	yuú	NOUN	N	Number=Sing	3	xcomp	_	TokenRange=23:26
 7	pawa	pawa	PART	TOTAL	Aspect=Compl	3	advmod	_	SpaceAfter=No|TokenRange=27:31
 8	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=31:32
-
 
 # sent_id = Avila2021:0:0:675
 # text = Panhẽ mira-itá surí uyana i kití, tuyué-itá uri arama umaã sesé.
@@ -1782,7 +1710,6 @@
 12	sesé	resé	ADP	ADP	AdpType=Post|Number[grnd]=Sing|Person[grnd]=3|Rel=NCont	11	obl	_	SpaceAfter=No|TokenRange=59:63
 13	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=63:64
 
-
 # sent_id = Avila2021:52:1:690
 # text = Ixé akwá apinaitika.
 # text_eng = I know how to fish.
@@ -1793,7 +1720,6 @@
 2	akwá	kwá	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=4:8
 3	apinaitika	pinaitika	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	xcomp	_	SpaceAfter=No|TokenRange=9:19
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=19:20
-
 
 # sent_id = Avila2021:52:2:691
 # text = Indé-ta, rekwá repinaitika?
@@ -1809,7 +1735,6 @@
 5	repinaitika	pinaitika	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	4	xcomp	_	SpaceAfter=No|TokenRange=15:26
 6	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=26:27
 
-
 # sent_id = Avila2021:0:0:715
 # text = Mairamé reputari ayuri ne piri?
 # text_eng = When do you want me to come to you?
@@ -1824,7 +1749,6 @@
 4	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obl	_	TokenRange=23:25
 5	piri	piri	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=26:30
 6	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
-
 
 # sent_id = NTLN2019:0:0:4
 # text = Asuí mituú ramé yayumuatiri irumu yapixama arama pão, Paulu umbeú aintá supé nhaãsé uputari usú aintá suí wirandé kití, asuí uikupukú upurungitá aintá irumu até pituna pitérupi.
@@ -1867,5 +1791,4 @@
 29	pitera	pitera	NOUN	N	Number=Sing	24	obl	_	_
 30	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	29	case	_	_
 31	.	.	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No|TokenRange=177:178
-
 
