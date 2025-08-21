@@ -1,0 +1,15 @@
+# sent_id = Navarro2016:0:0:150
+# text = Aé uyupirú ana uwatá garapá suí.
+# text_eng = He started walking from the port.
+# text_por = Ele começou a andar desde o porto.
+# text_source = Lesson 3, p. 24
+# text_annotator = Dominick Maia Alexandre
+# reviewer1 = Leonel Figueiredo de Alencar
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj	TokenRange=0:2
+2	uyupirú	yupirú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	0:root	TokenRange=3:10
+3	ana	ana	PART	PFV	Aspect=Perf	2	advmod	2:advmod	TokenRange=11:14
+4	uwatá	watá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	xcomp	2:xcomp	TokenRange=15:20
+5	garapá	garapá	NOUN	N	Number=Sing	4	obl	4:obl	TokenRange=21:27
+6	suí	suí	ADP	ADP	AdpType=Post	5	case	5:case	SpaceAfter=No|TokenRange=28:31
+7	.	.	PUNCT	PUNCT	_	2	punct	2:punct	SpaceAfter=No|TokenRange=31:32
+
