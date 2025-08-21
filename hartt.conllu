@@ -4476,3 +4476,29 @@
 2	tenhẽ	tenhẽ	PART	FOC	Foc=Yes|PartType=Emp	1	advmod	_	SpaceAfter=No|TokenRange=7:12
 3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=12:13
 
+# sent_id = Hartt1938:0:0:243-1
+# text = Aé uú wã i pusanga umunani meyú kawĩ irũ.
+# text_por = Ele já bebeu o remédio misturado com estilada.
+# text_source = p. 336, No. 243
+# text_orig = aé oú uán ipusána omoanán muiyú kauín irúm (Santarém).
+# place = Santarém
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Aé uú wã i pusanga, umuyesiári meyú kawĩ irumu
+# text_por_sec = Ele já bebeu o remédio, misturou com destilada de beiju.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Aé/pron uú wã i/pron2 pusanga umunani meyú kawĩ irũ/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	uú	ú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:5
+3	wã	wã	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=6:8
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=9:10
+5	pusanga	pusanga	NOUN	N	Number=Sing	2	obj	_	TokenRange=11:18
+6	umunani	munani	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	acl	_	TokenRange=19:26
+7	meyú	meyú	NOUN	N	Number=Sing	8	nmod:poss	_	TokenRange=27:31
+8	kawĩ	kawĩ	NOUN	N	Number=Sing	6	obl	_	TokenRange=32:36
+9	irũ	irũ	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=37:40
+10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=40:41
+
