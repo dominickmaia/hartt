@@ -3507,6 +3507,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Xamunhã xaikú/v se saka/n se uí rurú/a arama/adp.
 # text_annotator = Dominick Maia Alexandre
+# reviewer1 = lfdea
 1	Xamunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Amunhã|TokenRange=0:7
 2	xaikú	ikú	AUX	AUXFS	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	1	aux	_	ModernForm=aikú|TokenRange=8:13
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=14:16

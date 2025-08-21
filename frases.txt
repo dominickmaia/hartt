@@ -1498,7 +1498,7 @@ p. 343
 338 - Dei um golpe ao homem no olho.
 
 339 - kuaé yauára mirí intí será nerimáua?
-339 - Kwá yawara mirĩ intí será ne rimawa? # forma adaptada para anotar e incluir no treebank
+339 - Kwaá yawara mirĩ intí será ne rimawa? # forma adaptada para anotar e incluir no treebank
 339 - Kwá yawara mirĩ ti será ne rimbawa? (Hartt, 343, adap.) - Esse cachorrinho não é teu [animal de estimação]?
 339 - Esse cachorrinho, não é teu?
 
