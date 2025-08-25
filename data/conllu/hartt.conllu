@@ -4962,28 +4962,29 @@
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=39:40
 
 # sent_id = Hartt1938:0:0:304
-# text = Yepé maã-puxí uyukwáu ixéu kaá-pe aasuí akanhemu, intí xakwáu marupí usú.
+# text = Yepé maãpuxí uyukwáu ixéu kaá-pe aasuí akanhemu, intí xakwáu marupí usú.
 # text_por = Um bicho apareceu para mim no mato, então desapareceu, não sei para onde foi.
 # text_source = p. 341, No. 304
 # text_orig = oyepé maapuxi oyukuaú ixéu kaápe aasuí akañem, intí xakuáu maarupí osó.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Yepé/art maã-puxí uyukwáu ixéu kaá-pe/n aasuí/cconj akanhemu/=typo:c|ukanhemu, intí xakwáu marupí/advrc usú.
+# inputline = Yepé/art maãpuxí/=spl:w|puxí:h|n:x|a uyukwáu ixéu kaá-pe/n aasuí/cconj akanhemu/=typo:c|ukanhemu, intí xakwáu marupí/advrc usú.
 # text_annotator = Dominick Maia Alexandre
 1	Yepé	yepé	DET	ART	Definite=Ind|PronType=Art	2	det	_	TokenRange=0:4
-2	maã-puxí	maã-puxí	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=5:13
-3	uyukwáu	yukwáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=14:21
-4	ixéu	ixéu	PRON	PROND	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	TokenRange=22:26
-5-6	kaá-pe	_	_	_	_	_	_	_	TokenRange=27:33
-5	kaá	kaá	NOUN	N	Number=Sing	3	obl	_	_
-6	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	5	case	_	_
-7	aasuí	aasuí	CCONJ	CCONJ	_	8	cc	_	TokenRange=34:39
-8	akanhemu	kanhemu	VERB	V	Mood=Ind|Person=3|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm=ukanhemu|SpaceAfter=No|TokenRange=40:48
-9	,	,	PUNCT	PUNCT	_	11	punct	_	TokenRange=48:49
-10	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	11	advmod	_	TokenRange=50:54
-11	xakwáu	kwáu	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	3	parataxis	_	ModernForm=akwáu|TokenRange=55:61
-12	marupí	marupí	ADV	ADVRC	AdvType=Loc|PronType=Int	13	advmod	_	TokenRange=62:68
-13	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	11	ccomp	_	SpaceAfter=No|TokenRange=69:72
-14	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=72:73
+2	maã	maã	NOUN	N	Number=Sing|Typo=Yes	4	nsubj	_	CorrectSpaceAfter=Yes|SpaceAfter=No|TokenRange=5:8
+3	puxí	puxí	ADJ	A	_	2	amod	_	TokenRange=8:12
+4	uyukwáu	yukwáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=13:20
+5	ixéu	ixéu	PRON	PROND	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	TokenRange=21:25
+6-7	kaá-pe	_	_	_	_	_	_	_	TokenRange=26:32
+6	kaá	kaá	NOUN	N	Number=Sing	4	obl	_	_
+7	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	6	case	_	_
+8	aasuí	aasuí	CCONJ	CCONJ	_	9	cc	_	TokenRange=33:38
+9	akanhemu	kanhemu	VERB	V	Mood=Ind|Person=3|Typo=Yes|VerbForm=Fin	4	conj	_	CorrectForm=ukanhemu|SpaceAfter=No|TokenRange=39:47
+10	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=47:48
+11	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	12	advmod	_	TokenRange=49:53
+12	xakwáu	kwáu	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	9	parataxis	_	ModernForm=akwáu|TokenRange=54:60
+13	marupí	marupí	ADV	ADVRC	AdvType=Loc|PronType=Int	14	advmod	_	TokenRange=61:67
+14	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	12	ccomp	_	SpaceAfter=No|TokenRange=68:71
+15	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=71:72
 
