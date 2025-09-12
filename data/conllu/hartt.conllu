@@ -5338,23 +5338,6 @@
 2	yapinaitika	pinaitika	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:16
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=16:17
 
-# sent_id = Hartt1938:0:0:330
-# text = Se ruíwa rantĩ pewa ikú.
-# text_por = A ponta da flecha está quebrada.
-# text_source = p. 343, No. 330
-# text_orig = seruya rantin opéu ikó.
-# text_eng = TODO
-# text_orig_transcriber = Antônio Levy Melo Nogueira
-# text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Se ruíwa rantĩ/n pewa/v2 ikú/=mf:m|uikú:x|v:h|v.
-# text_annotator = Dominick Maia Alexandre
-1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
-2	ruíwa	uíwa	NOUN	N	Number=Sing|Rel=Cont	3	nmod:poss	_	TokenRange=3:8
-3	rantĩ	rantĩ	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=9:14
-4	pewa	pewa	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=15:19
-5	ikú	ikú	AUX	AUXFS	Style=Arch|VerbForm=Inf	4	aux	_	ModernForm=uikú|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|SpaceAfter=No|TokenRange=20:23
-6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=23:24
-
 # sent_id = Hartt1938:0:0:332
 # text = Maxukúi ne wirapara.
 # text_por = Aqui está teu arco.
@@ -5363,7 +5346,7 @@
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Maxukúi ne wirapara.
+# inputline = Maxukúi/advrc ne wirapara.
 # text_annotator = Dominick Maia Alexandre
 1	Maxukúi	maxukúi	ADV	ADVRC	AdvType=Loc|PronType=Int	0	root	_	TokenRange=0:7
 2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=8:10
@@ -5498,7 +5481,7 @@
 3	katú	katú	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=15:19
 4	ikú	ikú	AUX	AUXFS	Style=Arch|VerbForm=Inf	3	aux	_	ModernForm=uikú|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|SpaceAfter=No|TokenRange=20:23
 5	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=23:24
-6	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	expl	_	TokenRange=25:26
+6	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=25:26
 7	pixé	pixé	ADJ	A	_	3	parataxis	_	TokenRange=27:31
 8	asú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	7	aux	_	ModernForm=usú|ModernPerson=3|TokenRange=32:35
 9	ikú	ikú	AUX	AUXFS	Style=Arch|VerbForm=Inf	7	aux	_	ModernForm=uikú|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|SpaceAfter=No|TokenRange=36:39
