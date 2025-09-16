@@ -6459,3 +6459,46 @@
 7	ramé	ramé	SCONJ	SCONJ	_	6	mark	_	SpaceAfter=No|TokenRange=30:34
 8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=34:35
 
+# sent_id = Hartt1938:0:0:368-1
+# text = Ikuntu!
+# text_por = Fica quieto!
+# text_source = p. 346, No. 368
+# text_orig = ikoñunte!
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Ikuntu!
+# text_annotator = Dominick Maia Alexandre
+1	Ikuntu	ikuntu	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=0:6
+2	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=6:7
+
+# sent_id = Hartt1938:0:0:368-2
+# text = Ekũi repituú!
+# text_por = Vai descansar!
+# text_source = p. 346, No. 368
+# text_orig = ekóin repytuú!
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Ekũi repituú!
+# text_annotator = Dominick Maia Alexandre
+1	Ekũi	sú	AUX	AUXFR	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	aux	_	TokenRange=0:4
+2	repituú	pituú	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:12
+3	!	!	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=12:13
+
+# sent_id = Hartt1938:0:0:368-3
+# text = Remaité ipú xakiri xaikú.
+# text_por = Parece que tu pensas que estou dormindo.
+# text_source = p. 346, No. 368
+# text_orig = remaité ipó xakér xaikó.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Remaité ipú xakiri xaikú/v.
+# text_annotator = Dominick Maia Alexandre
+1	Remaité	maité	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	ipú	ipú	PART	ASSUM	PartType=Mod	1	advmod	_	TokenRange=8:11
+3	xakiri	kiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	1	ccomp	_	ModernForm=akiri|TokenRange=12:18
+4	xaikú	ikú	AUX	AUXFS	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	3	aux	_	ModernForm=aikú|SpaceAfter=No|TokenRange=19:24
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=24:25
+
