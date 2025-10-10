@@ -7740,7 +7740,7 @@
 1-2	Reyupiri-kwáu	_	_	_	_	_	_	_	TokenRange=0:13
 1	Reyupiri	yupiri	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	kwáu	kwáu	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
-3	wasaí	wasaí	NOUN	N	Number=Sing	1	obj	_	TokenRange=14:19
+3	wasaí	wasaí	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=14:19
 4	yá	iwa	NOUN	N	Number=Sing|Typo=Yes	1	obl	_	CorrectForm=iwa|TokenRange=20:22
 5	rupí	rupí	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=23:27
 6	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=27:28
@@ -7769,7 +7769,7 @@
 # text = Payé usú upusanú kaá-pe.
 # text_por = O pajé foi curar no mato.
 # text_source = p. 356, No. 509
-# text_orig = paué osó oposanun kaápe.
+# text_orig = payé osó oposanun kaápe.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
@@ -7786,24 +7786,6 @@
 4	kaá	kaá	NOUN	N	Number=Sing	3	obl	_	_
 5	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	4	case	_	_
 6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=23:24
-
-# sent_id = Hartt1938:0:0:510
-# text = Kwaá tenawa intí i maasí urikú.
-# text_por = Este lugar é sadio.
-# text_source = p. 356, No. 510
-# text_orig = kuaá tenáua intí imaasy orekó.
-# text_eng = TODO
-# text_orig_transcriber = Antônio Levy Melo Nogueira
-# text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Kwaá/demx tenawa intí i/pron2 maasí/v2 urikú.
-# text_annotator = Dominick Maia Alexandre
-1	Kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
-2	tenawa	tenawa	NOUN	N	Number=Sing|Rel=Abs	5	nsubj	_	TokenRange=5:11
-3	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	5	advmod	_	TokenRange=12:16
-4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	expl	_	TokenRange=17:18
-5	maasí	maasí	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=19:24
-6	urikú	rikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	parataxis	_	SpaceAfter=No|TokenRange=25:30
-7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=30:31
 
 # sent_id = Hartt1938:0:0:511
 # text = Kuíri katú ií irusã uikú.
@@ -7832,10 +7814,10 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Oh se paya!
 # text_annotator = Dominick Maia Alexandre
-1	Oh	oh	INTJ	INTJ	_	0	discourse	_	TokenRange=0:2
+1	Oh	oh	INTJ	INTJ	_	3	discourse	_	TokenRange=0:2
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=3:5
-3	paya	paya	NOUN	N	Number=Sing	0	_	_	SpaceAfter=No|TokenRange=6:10
-4	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=10:11
+3	paya	paya	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=6:10
+4	!	!	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=10:11
 
 # sent_id = Hartt1938:0:0:513
 # text = Yasú yapisika yané piá.
@@ -7865,17 +7847,18 @@
 # text_annotator = Dominick Maia Alexandre
 1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
 2	xayupiri	yupiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=ayupiri|TokenRange=5:13
-3	iwitera	iwitera	NOUN	N	Number=Sing	2	obj	_	TokenRange=14:21
+3	iwitera	iwitera	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=14:21
 4-5	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=22:27
 4	ara	ara	NOUN	N	Number=Sing	2	obl	_	_
 5	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	4	case	_	_
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=27:28
 
-# sent_id = Hartt1938:0:0:515
+# sent_id = Hartt1938:0:0:515-1
 # text = Hombó se xapewa se akanga árupi.
 # text_por = Mete meu chapéu na cabeça.
 # text_source = p. 356, No. 515
 # text_orig = hombó sexapéa seakána aápe (Ereré).
+# place = Ereré
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
@@ -7889,11 +7872,36 @@
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=6:8
 3	xapewa	xapewa	NOUN	N	Number=Sing	1	obj	_	TokenRange=9:15
 4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
-5	akanga	akanga	NOUN	N	Number=Sing	1	obj	_	TokenRange=19:25
+5	akanga	akanga	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=19:25
 6-7	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=26:31
 6	ara	ara	NOUN	N	Number=Sing	1	obl	_	_
 7	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	6	case	_	_
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=31:32
+
+# sent_id = Hartt1938:0:0:515-2
+# text = Xamumuri se xapewa se akanga árupi.
+# text_por = Mete meu chapéu na cabeça.
+# text_source = p. 356, No. 515
+# text_orig = xamomór sexapeua seakána árpe (Santarem).
+# place = Santarém
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Amumburi se xapewa se akanga árupi.
+# text_por_sec = Ponho meu chapéu sobre a cabeça.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xamumuri se xapewa se akanga árupi.
+# text_annotator = Dominick Maia Alexandre
+1	Xamumuri	mumuri	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Amumuri|TokenRange=0:8
+2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=9:11
+3	xapewa	xapewa	NOUN	N	Number=Sing	1	obj	_	TokenRange=12:18
+4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=19:21
+5	akanga	akanga	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=22:28
+6-7	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=29:34
+6	ara	ara	NOUN	N	Number=Sing	1	obl	_	_
+7	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	6	case	_	_
+8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=34:35
 
 # sent_id = Hartt1938:0:0:516
 # text = Xainú se xapewa se akanga árupi.
@@ -7913,29 +7921,30 @@
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=6:8
 3	xapewa	xapewa	NOUN	N	Number=Sing	1	obj	_	TokenRange=9:15
 4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
-5	akanga	akanga	NOUN	N	Number=Sing	1	obj	_	TokenRange=19:25
+5	akanga	akanga	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=19:25
 6-7	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=26:31
 6	ara	ara	NOUN	N	Number=Sing	1	obl	_	_
 7	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	6	case	_	_
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=31:32
 
 # sent_id = Hartt1938:0:0:517
-# text = Rerikú será kunhã xapewa pinawa suiwara?
+# text = Rerikú será kunhã xapewa pinawa suí wara?
 # text_por = Tens o chapéu de palha da mulher?
 # text_source = p. 356, No. 517
 # text_orig = rerekó será kuñán xapéua pináua suí uára?
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Rerikú será kunhã xapewa pinawa suiwara/adp?
+# inputline = Rerikú será kunhã xapewa pinawa suí/adp wara/=x?
 # text_annotator = Dominick Maia Alexandre
 1	Rerikú	rikú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
 2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
 3	kunhã	kunhã	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=12:17
-4	xapewa	xapewa	NOUN	N	Number=Sing	1	obj	_	TokenRange=18:24
-5	pinawa	pinawa	NOUN	N	Number=Sing	1	obl	_	TokenRange=25:31
-6	suiwara	suiwara	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=32:39
-7	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40
+4	xapewa	xapewa	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=18:24
+5	pinawa	pinawa	NOUN	N	Number=Sing	1	obj	_	TokenRange=25:31
+6	suí	suí	ADP	ADP	AdpType=Post|Typo=Yes	5	case	_	TokenRange=32:35
+7	wara	_	X	X	_	6	goeswith	_	SpaceAfter=No|TokenRange=36:40
+8	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=40:41
 
 # sent_id = Hartt1938:0:0:518
 # text = Ixé intí menasara.
@@ -7964,10 +7973,10 @@
 # text_por_sec = Vou confessar-me com o padre para receber o sacramento da eucaristia.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
-# inputline = Xasú xayumumeú paí irũ/adp xayari arama/sconj tupana.
+# inputline = Xasú xayumumeú/=mid paí irũ/adp xayari arama/sconj tupana.
 # text_annotator = Dominick Maia Alexandre
 1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
-2	xayumumeú	yumumeú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=ayumumeú|TokenRange=5:14
+2	xayumumeú	mumeú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin|Voice=Mid,Pass	0	root	_	ModernForm=ayumumeú|TokenRange=5:14
 3	paí	paí	NOUN	N	Number=Sing	2	obl	_	TokenRange=15:18
 4	irũ	irũ	ADP	ADP	AdpType=Post	3	case	_	TokenRange=19:22
 5	xayari	yari	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	advcl	_	ModernForm=ayari|TokenRange=23:29
@@ -8026,8 +8035,8 @@
 1	Aikwé	aikwé	PART	EXST	PartType=Exs	2	advmod	_	TokenRange=0:5
 2	uri	yuri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=6:9
 3	muyepé	yepé	DET	ART	Definite=Ind|PronType=Art|Typo=Yes	4	det	_	CorrectForm=yepé|TokenRange=10:16
-4	apigawa	apigawa	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=17:24
-5	ukara	ukara	NOUN	N	Number=Sing|Rel=Abs	2	obj	_	TokenRange=25:30
+4	apigawa	apigawa	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=17:24
+5	ukara	ukara	NOUN	N	Number=Sing|Rel=Abs	6	nmod:poss	_	TokenRange=25:30
 6	pitera	pitera	NOUN	N	Number=Sing	2	obl	_	TokenRange=31:37
 7	rupí	rupí	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=38:42
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=42:43
@@ -8043,10 +8052,10 @@
 # inputline = Yané/pron2 yara/n, tupana!
 # text_annotator = Dominick Maia Alexandre
 1	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
-2	yara	yara	NOUN	N	Number=Sing	4	nmod:poss	_	SpaceAfter=No|TokenRange=5:9
-3	,	,	PUNCT	PUNCT	_	0	punct	_	TokenRange=9:10
-4	tupana	tupana	NOUN	N	Number=Sing	0	_	_	SpaceAfter=No|TokenRange=11:17
-5	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=17:18
+2	yara	yara	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=5:9
+3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=9:10
+4	tupana	tupana	NOUN	N	Number=Sing	2	appos	_	SpaceAfter=No|TokenRange=11:17
+5	!	!	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=17:18
 
 # sent_id = Hartt1938:0:0:526
 # text = Uka aíwa ukukúi pan.
@@ -8163,10 +8172,10 @@
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Apikawa uyumunhã akayaká suí/adp.
+# inputline = Apikawa uyumunhã/=mid akayaká suí/adp.
 # text_annotator = Dominick Maia Alexandre
 1	Apikawa	apikawa	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:7
-2	uyumunhã	yumunhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=8:16
+2	uyumunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	TokenRange=8:16
 3	akayaká	akayaká	NOUN	N	Number=Sing	2	obl	_	TokenRange=17:24
 4	suí	suí	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=25:28
 5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
@@ -8196,27 +8205,28 @@
 8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=39:40
 
 # sent_id = Hartt1938:0:0:536
-# text = Xarikú mukũi apikawa, muyepé itaíwa suiwara, amú yakayaká suiwara.
+# text = Xarikú mukũi apikawa, muyepé itaíwa suiwara, amú yakayaká suí wara.
 # text_por = Tenho dois bancos, um de itaúba, outro de cedro.
 # text_source = p. 358, No. 536
 # text_orig = xarekó mokoin apyká, muyepé itaya suiuára, amú yakaiaká sui uára.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Xarikú mukũi/card apikawa, muyepé/=typo:c|yepé:x|card itaíwa suiwara/adp, amú/ind yakayaká suiwara/adp.
+# inputline = Xarikú mukũi/card apikawa, muyepé/=typo:c|yepé:x|card itaíwa suiwara/adp, amú/ind yakayaká suí/adp wara/=x.
 # text_annotator = Dominick Maia Alexandre
 1	Xarikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Arikú|TokenRange=0:6
 2	mukũi	mukũi	NUM	CARD	NumType=Card	3	nummod	_	TokenRange=7:12
 3	apikawa	apikawa	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=13:20
-4	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=20:21
-5	muyepé	yepé	NUM	CARD	NumType=Card|Typo=Yes	6	nummod	_	CorrectForm=yepé|TokenRange=22:28
-6	itaíwa	itaíwa	NOUN	N	Number=Sing	1	obl	_	TokenRange=29:35
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=20:21
+5	muyepé	yepé	NUM	CARD	NumType=Card|Typo=Yes	3	appos	_	CorrectForm=yepé|TokenRange=22:28
+6	itaíwa	itaíwa	NOUN	N	Number=Sing	5	obl	_	TokenRange=29:35
 7	suiwara	suiwara	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=36:43
-8	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=43:44
-9	amú	amú	DET	IND	Number=Sing|PronType=Ind	10	det	_	TokenRange=45:48
-10	yakayaká	yakayaká	NOUN	N	Number=Sing	1	obl	_	TokenRange=49:57
-11	suiwara	suiwara	ADP	ADP	AdpType=Post	10	case	_	SpaceAfter=No|TokenRange=58:65
-12	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=65:66
+8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=43:44
+9	amú	amú	DET	IND	Number=Sing|PronType=Ind	5	conj	_	TokenRange=45:48
+10	yakayaká	yakayaká	NOUN	N	Number=Sing	9	obl	_	TokenRange=49:57
+11	suí	suí	ADP	ADP	AdpType=Post|Typo=Yes	10	case	_	TokenRange=58:61
+12	wara	_	X	X	_	11	goeswith	_	SpaceAfter=No|TokenRange=62:66
+13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=66:67
 
 # sent_id = Hartt1938:0:0:537
 # text = Kuyera imirá suiwara.
@@ -8228,10 +8238,10 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Kuyera imirá suiwara/adp.
 # text_annotator = Dominick Maia Alexandre
-1	Kuyera	kuyera	NOUN	N	Number=Sing	2	nmod:poss	_	TokenRange=0:6
-2	imirá	imirá	NOUN	N	Number=Sing	0	root	_	TokenRange=7:12
+1	Kuyera	kuyera	NOUN	N	Number=Sing	0	root	_	TokenRange=0:6
+2	imirá	imirá	NOUN	N	Number=Sing	1	obl	_	TokenRange=7:12
 3	suiwara	suiwara	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=13:20
-4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=20:21
+4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
 # sent_id = Hartt1938:0:0:538
 # text = Emukameẽ ixéu pé.
@@ -8256,11 +8266,11 @@
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Xasú suainawa kití.
+# inputline = Xasú suainawa/n+abs kití.
 # text_annotator = Dominick Maia Alexandre
 1	Xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Asú|TokenRange=0:4
-2	suainawa	suainawa	_	_	_	1	_	_	TokenRange=5:13
-3	kití	kití	ADP	ADP	AdpType=Post	1	case	_	SpaceAfter=No|TokenRange=14:18
+2	suainawa	suainawa	NOUN	N	Number=Sing|Rel=Abs	1	obl	_	TokenRange=5:13
+3	kití	kití	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=14:18
 4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=18:19
 
 # sent_id = Hartt1938:0:0:541
@@ -8274,10 +8284,10 @@
 # inputline = Maã/int ara taá kwaá/demx?
 # text_annotator = Dominick Maia Alexandre
 1	Maã	maã	DET	INT	PronType=Int	2	det	_	TokenRange=0:3
-2	ara	ara	NOUN	N	Number=Sing	0	_	_	TokenRange=4:7
-3	taá	taá	PART	CQ	PartType=Int	0	advmod	_	TokenRange=8:11
-4	kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	SpaceAfter=No|TokenRange=12:16
-5	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=16:17
+2	ara	ara	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=4:7
+3	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=8:11
+4	kwaá	kwaá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No|TokenRange=12:16
+5	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=16:17
 
 # sent_id = Hartt1938:0:0:544
 # text = Se ruka uikú marupí warasí usemu.
@@ -8290,12 +8300,12 @@
 # inputline = Se ruka uikú/cop marupí/advrc warasí usemu.
 # text_annotator = Dominick Maia Alexandre
 1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
-2	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	6	nsubj	_	TokenRange=3:7
-3	uikú	ikú	AUX	COP	Mood=Ind|Person=3|VerbForm=Fin	4	cop	_	TokenRange=8:12
-4	marupí	marupí	ADV	ADVRC	AdvType=Loc|PronType=Int	0	root	_	TokenRange=13:19
+2	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=3:7
+3	uikú	ikú	AUX	COP	Mood=Ind|Person=3|VerbForm=Fin	2	cop	_	TokenRange=8:12
+4	marupí	marupí	ADV	ADVRC	AdvType=Loc|PronType=Int	2	advmod	_	TokenRange=13:19
 5	warasí	warasí	NOUN	N	Number=Sing	6	nsubj	_	TokenRange=20:26
-6	usemu	semu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	root	_	SpaceAfter=No|TokenRange=27:32
-7	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=32:33
+6	usemu	semu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	acl	_	SpaceAfter=No|TokenRange=27:32
+7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=32:33
 
 # sent_id = Hartt1938:0:0:545
 # text = Yasí pisasú ururi amana.
@@ -8358,8 +8368,8 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Pitunawasú/=aug ã kuíri.
 # text_annotator = Dominick Maia Alexandre
-1	Pitunawasú	pituna	NOUN	N	Degree=Aug|Number=Sing	0	_	_	TokenRange=0:10
-2	ã	ã	PART	PFV	Aspect=Perf	0	advmod	_	TokenRange=11:12
-3	kuíri	kuíri	ADV	ADVT	AdvType=Tim	0	advmod	_	SpaceAfter=No|TokenRange=13:18
+1	Pitunawasú	pituna	NOUN	N	Degree=Aug|Number=Sing	0	root	_	TokenRange=0:10
+2	ã	ã	PART	PFV	Aspect=Perf	1	advmod	_	TokenRange=11:12
+3	kuíri	kuíri	ADV	ADVT	AdvType=Tim	1	advmod	_	SpaceAfter=No|TokenRange=13:18
 4	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=18:19
 
