@@ -8210,7 +8210,7 @@
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Xarikú mukũi/card apikawa, muyepé/=typo:c|yepé:x|card itaíwa suiwara/adp, amú/ind yakayaká suí/adp wara/=x.
+# inputline = Xarikú mukũi/card apikawa, muyepé/=typo:c|yepé:x|card itaíwa suiwara/adp, amú/ind yakayaká suí/=typo:c|suiwara:x|adp wara/=x.
 # text_annotator = Dominick Maia Alexandre
 1	Xarikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Arikú|TokenRange=0:6
 2	mukũi	mukũi	NUM	CARD	NumType=Card	3	nummod	_	TokenRange=7:12
@@ -8222,7 +8222,7 @@
 8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=43:44
 9	amú	amú	DET	IND	Number=Sing|PronType=Ind	5	conj	_	TokenRange=45:48
 10	yakayaká	yakayaká	NOUN	N	Number=Sing	9	obl	_	TokenRange=49:57
-11	suí	suí	ADP	ADP	AdpType=Post|Typo=Yes	10	case	_	TokenRange=58:61
+11	suí	suiwara	ADP	ADP	AdpType=Post|Typo=Yes	10	case	_	CorrectForm=suiwara|TokenRange=58:61
 12	wara	_	X	X	_	11	goeswith	_	SpaceAfter=No|TokenRange=62:66
 13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=66:67
 
