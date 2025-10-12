@@ -2553,9 +2553,9 @@ p. 361
 581 - Intí xaputari kwaá awatií uyari, kurumú - ukái. *
 581 - Não quero encostar aquele arroz perto do fogo, pode se queimar.
 
-582 - okái ramé inti. katú, ipixé.
-582 - Ukái ramé inti. Katú, pixé.
-582 - Quando está queimado não está bom. tem mau cheiro.
+582 - okái ramé intí, katú ipixé.
+582 - Ukái ramé intí, katú i pixé.
+582 - Quando está queimado não está bom, tem mau cheiro.
 
 583 - ikatú uán oikó ñaá neremimúña?
 583 - I katú wã uikú nhaã ne remimunha? (Hartt, 361, adap.) - Já está bom o seu cozido?
