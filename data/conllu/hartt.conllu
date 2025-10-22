@@ -10097,3 +10097,20 @@
 8	arama	arama	SCONJ	SCONJ	_	7	mark	_	SpaceAfter=No|TokenRange=53:58
 9	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=58:59
 
+# sent_id = Hartt1938:0:0:659
+# text = Xapeteka kari ã se maã-itá.
+# text_por = Já mandei lavar minha roupa.
+# text_source = p. 367, No. 659
+# text_orig = xapetyk kár án semaitá.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xapeteka kari ã se maã-itá.
+# text_annotator = Dominick Maia Alexandre
+1	Xapeteka	peteka	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Apeteka|TokenRange=0:8
+2	kari	kari	AUX	AUXN	VerbForm=Inf	1	aux	_	TokenRange=9:13
+3	ã	ã	PART	PFV	Aspect=Perf	1	advmod	_	TokenRange=14:15
+4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
+5	maã-itá	maã	NOUN	N	Number=Plur	1	obj	_	SpaceAfter=No|TokenRange=19:26
+6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
+
