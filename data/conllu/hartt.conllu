@@ -10114,3 +10114,20 @@
 5	maã-itá	maã	NOUN	N	Number=Plur	1	obj	_	SpaceAfter=No|TokenRange=19:26
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
 
+# sent_id = Hartt1938:0:0:635-2
+# text = Hasú raĩ amú upé.
+# text_por = Deixa-me ir a uma outra casa.
+# text_source = p. 365, No. 635
+# text_orig = hasó raín amú opé (Ereré).
+# place = Ereré
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Hasú raĩ amú/ind upé/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Hasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:4
+2	raĩ	raĩ	PART	IMPF	Aspect=Imp	1	advmod	_	TokenRange=5:8
+3	amú	amú	PRON	IND	Number=Sing|PronType=Ind	1	obl	_	TokenRange=9:12
+4	upé	upé	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=13:16
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=16:17
+
