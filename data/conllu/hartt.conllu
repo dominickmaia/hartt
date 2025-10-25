@@ -10131,3 +10131,203 @@
 4	upé	upé	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=13:16
 5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=16:17
 
+# sent_id = Hartt1938:0:0:661
+# text = Xasú xaseruka kari se mimbira.
+# text_por = Vou mandar batizar meu filho.
+# text_source = p. 367, No. 661
+# text_orig = xasó xaserúk kár semymyra.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Xasú xaseruka kari se mimbira.
+# text_annotator = Dominick Maia Alexandre
+1	Xasú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	aux	_	ModernForm=Asú|TokenRange=0:4
+2	xaseruka	seruka	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=aseruka|TokenRange=5:13
+3	kari	kari	AUX	AUXN	VerbForm=Inf	2	aux	_	TokenRange=14:18
+4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=19:21
+5	mimbira	mimbira	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=22:29
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=29:30
+
+# sent_id = Hartt1938:0:0:662
+# text = Xamupeteka ã se amaniú xapumana arama.
+# text_por = Já bati meu algodão para fiar.
+# text_source = p. 367, No. 662
+# text_orig = xamopeték án seamaniú xapomán aráma.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Amupeteka ana se amaniú apumana arama.
+# text_por_sec = Já bati meu algodão para fiar.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Xamupeteka ã se amaniú xapumana arama/sconj.
+# text_annotator = Dominick Maia Alexandre
+1	Xamupeteka	mupeteka	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Amupeteka|TokenRange=0:10
+2	ã	ã	PART	PFV	Aspect=Perf	1	advmod	_	TokenRange=11:12
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=13:15
+4	amaniú	amaniú	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=16:22
+5	xapumana	pumana	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	1	advcl	_	ModernForm=apumana|TokenRange=23:31
+6	arama	arama	SCONJ	SCONJ	_	5	mark	_	SpaceAfter=No|TokenRange=32:37
+7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=37:38
+
+# sent_id = Hartt1938:0:0:663
+# text = Intí awá unheẽ.
+# text_por = Ninguém falou.
+# text_source = p. 367, No. 663
+# text_orig = intí áua oñéen.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Intí awá/ind unheẽ.
+# text_annotator = Dominick Maia Alexandre
+1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=0:4
+2	awá	awá	PRON	IND	PronType=Ind	3	nsubj	_	TokenRange=5:8
+3	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:14
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=14:15
+
+# sent_id = Hartt1938:0:0:666
+# text = Apigawa kurí umanú.
+# text_por = O homem há de morrer.
+# text_source = p. 367, No. 666
+# text_orig = apyáua kurí omanó.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Apigawa/n kurí umanú.
+# text_annotator = Dominick Maia Alexandre
+1	Apigawa	apigawa	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=0:7
+2	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=8:12
+3	umanú	manú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=13:18
+4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
+
+# sent_id = Hartt1938:0:0:667
+# text = Iné reyuyuká-putari.
+# text_por = Tu queres te matar.
+# text_source = p. 367, No. 667
+# text_orig = iné reyuyuká putár.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Iné reyuyuká-putari/=mid.
+# text_annotator = Dominick Maia Alexandre
+1	Iné	iné	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:3
+2-3	reyuyuká-putari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4:19
+2	reyuyuká	yuká	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid,Pass	0	root	_	_
+3	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	2	aux	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=19:20
+
+# sent_id = Hartt1938:0:0:668
+# text = Aé uyuyuká-putari.
+# text_por = Ele quer se matar.
+# text_source = p. 367, No. 668
+# text_orig = aé oyuyuká putár.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Aé uyuyuká-putari.
+# text_por_sec = Ele quer se matar.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Aé/pron uyuyuká-putari/=mid.
+# text_annotator = Dominick Maia Alexandre
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2-3	uyuyuká-putari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3:17
+2	uyuyuká	yuká	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	_
+3	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	2	aux	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=17:18
+
+# sent_id = Hartt1938:0:0:669
+# text = Apigawa uyuyuká wã i kyué irũ.
+# text_por = O homem matou-se com sua faca.
+# text_source = p. 367, No. 669
+# text_orig = apyáua oyuyuká uán ikyoé irúm.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Apigawa/n uyuyuká/=mid wã i/pron2 kyué/=typo:c|kisé irũ/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Apigawa	apigawa	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:7
+2	uyuyuká	yuká	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	TokenRange=8:15
+3	wã	wã	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=16:18
+4	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=19:20
+5	kyué	kisé	NOUN	N	Number=Sing|Typo=Yes	2	obl	_	CorrectForm=kisé|TokenRange=21:25
+6	irũ	irũ	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=26:29
+7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=29:30
+
+# sent_id = Hartt1938:0:0:670
+# text = Aintá uyuyuká-putari.
+# text_por = Eles querem se matar.
+# text_source = p. 367, No. 670
+# text_orig = aintá oyuyuká putár.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Aintá/pron uyuyuká-putari/=mid.
+# text_annotator = Dominick Maia Alexandre
+1	Aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
+2-3	uyuyuká-putari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6:20
+2	uyuyuká	yuká	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	_
+3	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	2	aux	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=20:21
+
+# sent_id = Hartt1938:0:0:671
+# text = Tapayuna uyuyapí mukawa mirĩ irũ.
+# text_por = O negro matou-se com a pistola.
+# text_source = p. 367, No. 671
+# text_orig = tapañúma oyuyapé mukáua mirí irúm.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Tapayuna uyuyapí mukawa-mirĩ irumu.
+# text_por_sec = O preto atirou em si mesmo com a pistola.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Tapayuna uyuyapí/=mid mukawa mirĩ/a irũ/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Tapayuna	tapayuna	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:8
+2	uyuyapí	yapí	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	0	root	_	TokenRange=9:16
+3	mukawa	mukawa	NOUN	N	Number=Sing	2	obl	_	TokenRange=17:23
+4	mirĩ	mirĩ	ADJ	A	_	3	amod	_	TokenRange=24:28
+5	irũ	irũ	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=29:32
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=32:33
+
+# sent_id = Hartt1938:0:0:672
+# text = Anirá ukiri ara ramé.
+# text_por = O morcego dorme de dia.
+# text_source = p. 367, No. 672
+# text_orig = anirá okér ára ramé (Mundurucú).
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# inputline = Anirá ukiri ara ramé/adp.
+# text_annotator = Dominick Maia Alexandre
+1	Anirá	anirá	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
+2	ukiri	kiri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=6:11
+3	ara	ara	NOUN	N	Number=Sing	2	obl	_	TokenRange=12:15
+4	ramé	ramé	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=16:20
+5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=20:21
+
+# sent_id = Hartt1938:0:0:673
+# text = Yané yasaisú yané yara Tupana, yané munhangara.
+# text_por = Amamos Deus nosso senhor, nosso criador.
+# text_source = p. 368, No. 673
+# text_orig = yané yasaisú yané yára, tupána yané moñanára.
+# text_eng = TODO
+# text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
+# text_sec = Yandé yasaisú yané yara Tupana, yané munhangara.
+# text_por_sec = Nós amamos nosso senhor Deus, nosso criador.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# inputline = Yané/pron yasaisú yané/pron2 yara/n Tupana, yané/pron2 munhangara/n.
+# text_annotator = Dominick Maia Alexandre
+1	Yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	2	nsubj	_	ModernForm=Yandé|ModernLemma=yandé|TokenRange=0:4
+2	yasaisú	saisú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=5:12
+3	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=13:17
+4	yara	yara	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=18:22
+5	Tupana	tupana	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=23:29
+6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=29:30
+7	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=31:35
+8	munhangara	munhangara	NOUN	N	Number=Sing	2	vocative	_	SpaceAfter=No|TokenRange=36:46
+9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=46:47
+
