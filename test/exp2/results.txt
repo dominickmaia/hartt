@@ -1,0 +1,13 @@
+Processing file: gold-tok-tags-1.txt
+Processing file: gold-tok-tags-2.txt
+Processing file: gold-tok-tags-3.txt
+Processing file: gold-tok-tags-4.txt
+Processing file: gold-tok-tags-5.txt
+Processing file: gold-tok-tags-6.txt
+Processing file: gold-tok-tags-7.txt
+Processing file: gold-tok-tags-8.txt
+Processing file: gold-tok-tags-9.txt
+Processing file: gold-tok-tags-10.txt
+LAS Values: [83.32, 86.34, 83.91, 84.25, 84.17, 83.08, 84.34, 83.99, 83.3, 86.21]
+Mean LAS: 84.29%
+Standard Deviation of LAS: 1.13%
