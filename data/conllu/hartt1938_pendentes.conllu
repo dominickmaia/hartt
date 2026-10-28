@@ -110,7 +110,7 @@
 # inputline = Puité remunhã.
 # text_annotator = Dominick Maia Alexandre
 1	Puité	puité	NOUN	N	Number=Sing	2	obj	_	TokenRange=0:5
-2	remunhã	munhã	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=6:13
+2	remunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=6:13
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:14
 
 # sent_id = Hartt1938:0:0:758
@@ -125,7 +125,7 @@
 # text_annotator = Dominick Maia Alexandre
 1	Iné	iné	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TokenRange=0:3
 2	supí	supí	NOUN	N	Number=Sing	3	obj	_	TokenRange=4:8
-3	renheẽ	nheẽ	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:15
+3	renheẽ	nheẽ	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:15
 4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=15:16
 
 # sent_id = Hartt1938:0:0:759
@@ -348,7 +348,7 @@
 # inputline = Awá/int pesuí/=spl:w|suí:c|suiwara:x|adp:h|pron2 wara/=x taá urikú se rekuya?
 # text_annotator = Dominick Maia Alexandre
 1	Awá	awá	PRON	INT	PronType=Int	6	nsubj	_	TokenRange=0:3
-2	pe	pe	PRON	PRON2	Case=Gen|Number=Plur|Person=2|PronType=Prs|Typo=Yes	6	nmod	_	CorrectSpaceAfter=Yes|SpaceAfter=No|TokenRange=4:6
+2	pe	pe	PRON	PRON2	Case=Gen|Number=Plur|Person=2|PronType=Prs|Typo=Yes	1	nmod	_	CorrectSpaceAfter=Yes|SpaceAfter=No|TokenRange=4:6
 3	suí	suiwara	ADP	ADP	AdpType=Post|Typo=Yes	2	case	_	CorrectForm=suiwara|TokenRange=7:10
 4	wara	_	X	X	_	3	goeswith	_	TokenRange=11:15
 5	taá	taá	PART	CQ	PartType=Int	6	advmod	_	TokenRange=16:19
@@ -367,7 +367,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # inputline = Pemeẽ ixéu.
 # text_annotator = Dominick Maia Alexandre
-1	Pemeẽ	meẽ	VERB	V	Mood=Imp,Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:5
+1	Pemeẽ	meẽ	VERB	V	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:5
 2	ixéu	ixéu	PRON	PROND	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	SpaceAfter=No|TokenRange=6:10
 3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=10:11
 
@@ -580,7 +580,7 @@
 # inputline = Intí retĩ?
 # text_annotator = Dominick Maia Alexandre
 1	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:4
-2	retĩ	tĩ	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:9
+2	retĩ	tĩ	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:9
 3	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=9:10
 
 # sent_id = Hartt1938:0:0:793
