@@ -2,7 +2,7 @@
 # text = Intí resé xayupukwáu xayapukúi, nhaã resé se maraari.
 # text_por = Não estou acostumado a remar e por isso fico cansado.
 # text_source = p. 370, No. 702
-# text_orig = inti resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
+# text_orig = intí resé xayupukuáu xayapukúi, ñaá resé semaar (semaraár?)
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
@@ -24,14 +24,14 @@
 10	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=52:53
 
 # sent_id = Hartt1938:0:0:732
-# text = Xaé xarikú ramé awá xamunú se rikuyara arama intí xasú.
+# text = Xaé xarikú ramé awá xamunú se rikuyara aramé intí xasú.
 # text_por = Se tivesse quem mandar no meu lugar não ia.
 # text_source = p. 372, No. 732
-# text_orig = xaé xarakó ramé auá xamonó serekuyára aráma intí xasó.
+# text_orig = xaé xarakó ramé auá xamonó serekuyára aramé intí xasó.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
-# inputline = Xaé/=typo:c|sa:x|sconjr xarikú ramé/sconj awá/ind xamunú se rikuyara/adp arama/sconj intí xasú.
+# inputline = Xaé/=typo:c|sa:x|sconjr xarikú ramé/sconj awá/ind xamunú se rikuyara/adp aramé/advj intí xasú.
 # text_annotator = Dominick Maia Alexandre
 1	Xaé	sa	SCONJ	SCONJR	Typo=Yes	2	mark	_	CorrectForm=sa|TokenRange=0:3
 2	xarikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	10	advcl	_	ModernForm=arikú|TokenRange=4:10
@@ -40,7 +40,7 @@
 5	xamunú	munú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	2	advcl	_	ModernForm=amunú|TokenRange=20:26
 6	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	TokenRange=27:29
 7	rikuyara	rikuyara	ADP	ADP	AdpType=Post|Rel=Cont	6	case	_	TokenRange=30:38
-8	arama	arama	SCONJ	SCONJ	_	5	mark	_	TokenRange=39:44
+8	aramé	aramé	ADV	ADVJ	AdvType=Cau	5	advmod	_	TokenRange=39:44
 9	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	10	advmod	_	TokenRange=45:49
 10	xasú	sú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=asú|SpaceAfter=No|TokenRange=50:54
 11	.	.	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No|TokenRange=54:55
@@ -148,7 +148,7 @@
 # text = Apigawa unheẽ: se rimirikú umanú wã.
 # text_por = O homem disse: minha mulher já morreu.
 # text_source = p. 374, No. 760
-# text_orig = apyáua oñeén:seremirikó omanó uán.
+# text_orig = apyáua oñeén: seremirikó omanó uán.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
@@ -552,7 +552,7 @@
 # text = Se maraari xayana reté resé.
 # text_por = Estou cansado de correr tanto.
 # text_source = p. 376, No. 789
-# text_orig = semaraár xañén reté resé.
+# text_orig = semaraár xañán reté resé.
 # text_eng = TODO
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
